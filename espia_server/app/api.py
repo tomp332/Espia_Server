@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-from app.utils import handle_products_results
+from espia_server.app.utils import handle_products_results
 
 app = FastAPI()
 

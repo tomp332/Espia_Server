@@ -1,6 +1,7 @@
 import json
 import random
 import shutil
+
 from pathlib3x import Path
 
 _MALWARE_CONFIG_BUFFER = 1000
