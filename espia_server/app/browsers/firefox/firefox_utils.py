@@ -1,20 +1,4 @@
 # !/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-# Based on original work from: www.dumpzilla.org
 
 import argparse
 import csv
@@ -30,7 +14,6 @@ import sys
 from base64 import b64decode
 from configparser import ConfigParser
 from getpass import getpass
-from itertools import chain
 from subprocess import run, PIPE, DEVNULL
 from typing import Optional, Iterator, Any
 from urllib.parse import urlparse
@@ -42,17 +25,6 @@ SYS64 = sys.maxsize > 2 ** 32
 DEFAULT_ENCODING = "utf-8"
 
 PWStore = list[dict[str, str]]
-
-
-# NOTE: In 1.0.0-rc1 we tried to use locale information to encode/decode
-# content passed to NSS. This was an attempt to address the encoding issues
-# affecting Windows. However after additional testing Python now also defaults
-# to UTF-8 for encoding.
-# Some of the limitations of Windows have to do with poor support for UTF-8
-# characters in cmd.exe. Terminal - https://github.com/microsoft/terminal or
-# a Bash shell such as Git Bash - https://git-scm.com/downloads are known to
-# provide a better user experience and are therefore recommended
-
 
 def get_version() -> str:
     """Obtain version information from git if available otherwise use
@@ -539,46 +511,6 @@ class MozillaInteraction:
         """
         self.proxy.shutdown()
 
-    # def decrypt_passwords(self, credentials: dict) -> PWStore:
-    #     """Decrypt requested profile using the provided password.
-    #     Returns all passwords in a list of dicts
-    #     """
-    #     credentials: Credentials = self.obtain_credentials()
-    #
-    #     LOG.info("Decrypting credentials")
-    #     outputs: list[dict[str, str]] = []
-    #
-    #     url: str
-    #     user: str
-    #     passw: str
-    #     enctype: int
-    #     for url, user, passw, enctype in credentials:
-    #         # enctype informs if passwords need to be decrypted
-    #         if enctype:
-    #             try:
-    #                 LOG.debug("Decrypting username data '%s'", user)
-    #                 user = 'MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECMJNmiQBk2xDBBgTBfQRqF8GxKrqTAHw3Up+BdsG5Ppk5vQ='
-    #                 user = self.proxy.decrypt(user)
-    #                 LOG.debug("Decrypting password data '%s'", passw)
-    #                 passw = 'MDoEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECMmwt6CR3hbKBBBgLrw+bn0comAe32e8i7Yj'
-    #                 passw = self.proxy.decrypt(passw)
-    #             except (TypeError, ValueError) as e:
-    #                 LOG.warning("Failed to decode username or password for entry from URL %s", url)
-    #                 LOG.exception(e)
-    #                 continue
-    #
-    #         LOG.debug("Decoded username '%s' and password '%s' for website '%s'", user, passw, url)
-    #
-    #         output = {"url": url, "user": user, "password": passw}
-    #         outputs.append(output)
-    #
-    #     if not outputs:
-    #         LOG.warning("No passwords found in selected profile")
-    #
-    #     # Close credential handles (SQL)
-    #     credentials.done()
-    #
-    #     return outputs
     def decrypt_passwords(self, credentials: []) -> dict:
         """Decrypt requested profile using the provided password.
         Returns all passwords in a list of dicts
@@ -1082,3 +1014,10 @@ def handle_firefox_passwords(credentials: dict) -> None:
     # Decode all passwords
     outputs = moz.decrypt_passwords(credentials)
     print(outputs)
+
+def handle_all_firefox_modules(results: dict):
+    firefox_passwords = results.get("Firefox-Passwords")
+
+    handle_firefox_passwords(firefox_passwords.get("logins"))
+
+    firefox_cookies = results.get("Firefox-Cookies")

