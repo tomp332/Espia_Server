@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, File, UploadFile
 
 from espia_server.app.utils import handle_products_results
 
@@ -14,3 +14,7 @@ def root_path() -> dict:
 def upload_results(results: dict) -> dict:
     handle_products_results(results)
     return {}
+
+@app.post("/zn1123n/asnndj/uploadfile")
+async def create_upload_file(file: UploadFile = File(...)):
+    return {"filename": file.filename}
