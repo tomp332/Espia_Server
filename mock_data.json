@@ -341,28 +341,8 @@
         },
         {
             "host": "lastpass.com",
-            "name": "PHPSESSID",
-            "value": "lovu99svjfm58lr27afgruirt9e"
-        },
-        {
-            "host": ".lastpass.com",
-            "name": "ak_bmsc",
-            "value": "721B61DD34530727203991F2B2303A20~000000000000000000000000000000~YAAQs1CMT98aBC59AQAAzq41cA3DM5e7cIANGDqh0ouAa2xGNhnnMewt5sbJr5QzVMIRP4+o831byAxsGHEAhirj2aCsyLTwpTvnEYZ676Dnduhq/4+UPAKochSUMs5jBHQUYUs1Tm7B3XheVWSyeAXE6KimOl7mrvPNALG8E9aEc+rbh/N+WdoNpUMG7C23PcEX1t/V3V9ur46N4zIqg3UsLZE7pA00DdDbu5dYUKOXtqr32bL+wH8q57D+dwj+LF5grd7GvGpGgC2MrD37gvpfuEHifFf+XGnj86VBXw+FEwm9u20vpZMUbeVDZ4dSzg9+cUomeeLb19bktjs5RxHxkVAumyW9RAkTEKOVDS4fthZCTOre0/2JqwvjYDyAiFYEtQqHFEneLhw="
-        },
-        {
-            "host": ".lastpass.com",
-            "name": "lang",
-            "value": "en_US"
-        },
-        {
-            "host": "lastpass.com",
             "name": "lp_anonymousid",
             "value": "69b26037-6000-4e07-bd8b-50d3d7a96235"
-        },
-        {
-            "host": ".lastpass.com",
-            "name": "bm_sv",
-            "value": "B0080A3D2B1759A2897B9465E88A66D2~iGDwoJ+p2HFKvbdALvUtauTSQX68orUsHaIztW+3hVcJOSLIDWBTL0GdFEC23QNbGQiL2zr8/VWos4iRg0ER4dBjytlzyYYANoQL7pxEQFqNbhZs5ejjEW/KUpJXGy4eks/k2uY7WX7KdKennB5P8hOOewQh/ubRd2gZmbumlKo="
         },
         {
             "host": ".stackoverflow.com",
@@ -460,11 +440,6 @@
             "value": "https://docs.microsoft.com/en-us/windows/desktop/api/wincred/nf-wincred-creduipromptforcredentialsa"
         },
         {
-            "host": "forums.codeguru.com",
-            "name": "vb_lastvisit",
-            "value": "1638464653"
-        },
-        {
             "host": "www.oreilly.com",
             "name": "BrowserCookie",
             "value": "b326cdc0-5992-46d4-9560-787afe1776ca"
@@ -473,16 +448,6 @@
             "host": "www.oreilly.com",
             "name": "csrftoken",
             "value": "IZSDcqWF2f5lytdxmhSOHi3ympkLI2chK5Lmj3ZeHBHyG2VjPqbui7kqoKuDI5W1"
-        },
-        {
-            "host": ".google.com",
-            "name": "NID",
-            "value": "511=FHAYPDl-je6z1VwVW1DK2rVe3OX5aNGoPdrDqK3g-YGU4dBCGNAJ8h6MiStsDtlzocv5OboLbLPrCvccIkSpfixMvsmq92ARJKtY25GvjAaVjRmwigeLzyY0kM4rS3t6_XXswI-eO0-L-WmQRXATNWfBjlhu0NcrTUhC4s3HgDKYqwhqpA_R6zsQRkdzAcW1"
-        },
-        {
-            "host": ".codeproject.com",
-            "name": "mguid",
-            "value": "0f3495f1-284a-4d07-b583-74f5163a97ad"
         },
         {
             "host": ".codeproject.com",
@@ -515,11 +480,6 @@
             "value": "1nO7g60Rcx7xajK/4ZC30L|1638464953532|1638464953532"
         },
         {
-            "host": "forums.codeguru.com",
-            "name": "vb_lastactivity",
-            "value": "0"
-        },
-        {
             "host": ".visualstudio.com",
             "name": "mbox",
             "value": "session#866a0366d89a41d7816708b78c2f2024#1638466952"
@@ -538,76 +498,6 @@
             "host": "www.geeksforgeeks.org",
             "name": "guest",
             "value": "yes"
-        },
-        {
-            "host": ".hotexamples.com",
-            "name": "ezopvc_110793",
-            "value": "3"
-        },
-        {
-            "host": ".hotexamples.com",
-            "name": "ezepvv",
-            "value": "559"
-        },
-        {
-            "host": ".hotexamples.com",
-            "name": "ezovid_110793",
-            "value": "718833482"
-        },
-        {
-            "host": ".hotexamples.com",
-            "name": "lp_110793",
-            "value": "https://cpp.hotexamples.com/examples/-/-/GetUserNameA/cpp-getusernamea-function-examples.html"
-        },
-        {
-            "host": ".hotexamples.com",
-            "name": "ezovuuidtime_110793",
-            "value": "1638466431"
-        },
-        {
-            "host": ".hotexamples.com",
-            "name": "ezovuuid_110793",
-            "value": "55f681b2-dd06-4077-4da6-3f0ba5d11864"
-        },
-        {
-            "host": "cpp.hotexamples.com",
-            "name": "ezds",
-            "value": "ffid%3D1%2Cw%3D1920%2Ch%3D1080"
-        },
-        {
-            "host": "cpp.hotexamples.com",
-            "name": "ezohw",
-            "value": "w%3D1920%2Ch%3D927"
-        },
-        {
-            "host": "cpp.hotexamples.com",
-            "name": "ezux_lpl_110793",
-            "value": "1638466436953|9544913b-0663-42ab-5bcc-2f8359677c0b|false"
-        },
-        {
-            "host": ".hotexamples.com",
-            "name": "ezoab_110793",
-            "value": "mod70-c"
-        },
-        {
-            "host": ".hotexamples.com",
-            "name": "ezoadgid_110793",
-            "value": "-1"
-        },
-        {
-            "host": ".hotexamples.com",
-            "name": "ezoref_110793",
-            "value": "google.com"
-        },
-        {
-            "host": ".hotexamples.com",
-            "name": "ezosuigeneris-0",
-            "value": "536a546a0a4884a43825f1b4a5c629ca"
-        },
-        {
-            "host": ".hotexamples.com",
-            "name": "active_template::110793",
-            "value": "pub_site.1638466436"
         },
         {
             "host": "docs.microsoft.com",
@@ -645,21 +535,6 @@
             "value": "https://docs.microsoft.com/en-us/windows/desktop/api/lmwksta/nf-lmwksta-netwkstagetinfo"
         },
         {
-            "host": "docs.microsoft.com",
-            "name": "MicrosoftApplicationsTelemetryDeviceId",
-            "value": "8753c113-dea8-4f41-b1f9-a54bcea3a7ef"
-        },
-        {
-            "host": "docs.microsoft.com",
-            "name": "original_req_url",
-            "value": "https://docs.microsoft.com/en-us/windows/desktop/api/breadcrumb/toc.json"
-        },
-        {
-            "host": "docs.microsoft.com",
-            "name": "ai_session",
-            "value": "YigdgoZLjtR+E2GAxPYswd|1638462990744|1638466900286"
-        },
-        {
             "host": "accounts.google.com",
             "name": "__Host-GAPS",
             "value": "1:OYun2hZItQM2pr-ddLsCzMnsNfL05A:wPHAsytnHjZ1FCdl"
@@ -668,46 +543,6 @@
             "host": "social.msdn.microsoft.com",
             "name": ".ASPXANONYMOUS",
             "value": "m4ZhqHUG2QEkAAAAYTRkYmI4NWItMGE4Zi00Y2VmLWI3MGMtYzg0NjgyYjRkZDc3UcJJgd0XKVmz84etM09PpkpcFhzVd4T2FZi37am5CCQ1"
-        },
-        {
-            "host": "social.msdn.microsoft.com",
-            "name": "MicrosoftApplicationsTelemetryDeviceId",
-            "value": "d245c59a-a911-4cbc-b76b-b0cf6ae8b7a9"
-        },
-        {
-            "host": "pollserver.lastpass.com",
-            "name": "ADRUM_BT",
-            "value": "R%3A0%7Cg%3A5a2a3909-e1e6-4149-bc51-22c9b47529ea3619%7Cn%3Acitrix_c88ca7a6-705e-4cde-9391-83bb80917e45%7Ci%3A307364%7Ce%3A8"
-        },
-        {
-            "host": ".lastpass.com",
-            "name": "_abck",
-            "value": "5868AE2D9A469D7DAF136EADF97BB2A1~-1~YAAQRUwQAkxMUnV9AQAAWquWgwfF3qEKxYgN5RmIDk2p9iz3m/5tjRWLChZgEyT6ENt6HU3IaLtJ4giNJJIzJTj8VCx7JZ0AB7rFR59gZ62Bq4WvfUSoCcBfqFsdouCGb19yTkekMfM/DO4wN89O7Pp38aFa45H/7/HdZFzNq6lf+veRjUwocLTXeHjUtFY+KV39/q6rD20L9ayJB7N8Aey15X7xYSUhpkqHhv6VuQVFfUVYJINt6g13TiE3HMU8a/EACwHNbQva1w4XWHOOEnfl9lugyNltwa89rX+v642F4gS/PvoydHUCYHk2a5axhbSYwyORCuUWsWRAQ4XCio5wCTA1HTQ5UyIXF5tj4/HseAVZGyIfjL9uQH0DSdu85+YDjl0gANE+2u799w==~-1~-1~1638027196"
-        },
-        {
-            "host": ".lastpass.com",
-            "name": "bm_sz",
-            "value": "645CF3D5D1FFE1F5BB84E1BDC5B964AC~YAAQpF5swR33W4F9AQAAUF1dhA4M0T9GFwjuqfPwlhhbcohwnFQMi0enakyXLODjz1yUfDxqaR9h/iSlI3bC4ICQRyieYN+y0VgOrcfUFaDULEQLd6CF/oic/8/fEKmw3/ANTWW2wwJdFNPZ0yCvkkptW/AmqpwtKjnLc7Nxdli4dLPFncWoeb2/QHlOvAblqS0HkXcb2HwucReFMPzv4HNu7SZlXTW4ihy0tJ92jOJI4EC/q+1WDB8DtjBDAOadUpaGu9sKiHgeQYYFZzyOtCD+pVphUxPZyYK7ytPErF4lN30phyMrORYHjsp0tGfqJL4SOftfOaoMLdHkAQ==~4339506~3552066"
-        },
-        {
-            "host": "social.msdn.microsoft.com",
-            "name": "ai_session",
-            "value": "3Vho+vdO7b60NHjy5ps5R5|1638603263036|1638603263036"
-        },
-        {
-            "host": ".google.com",
-            "name": "1P_JAR",
-            "value": "2021-12-04-07"
-        },
-        {
-            "host": "www.google.com",
-            "name": "DV",
-            "value": "k0CuomO3HnMi4I4-5ZYxV2pgT9pF2Fc8_s6Vassk8wAAAAA"
-        },
-        {
-            "host": ".microsoft.com",
-            "name": "MSCC",
-            "value": "NR"
         },
         {
             "host": "5a3318f6fcc34e41bf99d46845944055.svc.dynamics.com",
@@ -733,6 +568,386 @@
             "host": "visualstudio.microsoft.com",
             "name": "ai_session",
             "value": "9mWfSbGG4r9ls01WwXU1wr|1638603275288|1638603359980"
+        },
+        {
+            "host": ".github.com",
+            "name": "_octo",
+            "value": "GH1.1.99586498.1638605263"
+        },
+        {
+            "host": "gitlab.com",
+            "name": "experimentation_subject_id",
+            "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqaGlPRFl6TjJRd0xXVTVaVFF0TkRjNE55MWlaVGM0TFdVeVpUSTVOVE5oTUdFd01pST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--49b402671d82a5b23cf141a8b09147d1769dbe07"
+        },
+        {
+            "host": "gitlab.com",
+            "name": "_gitlab_session",
+            "value": "ed6ba90471e87211dba11cde739031d8"
+        },
+        {
+            "host": ".twitter.com",
+            "name": "guest_id_marketing",
+            "value": "v1%3A163861330538560075"
+        },
+        {
+            "host": ".twitter.com",
+            "name": "guest_id_ads",
+            "value": "v1%3A163861330538560075"
+        },
+        {
+            "host": ".twitter.com",
+            "name": "personalization_id",
+            "value": "'v1_Q4scDFQTRBdlZtqFubfrcw=='"
+        },
+        {
+            "host": ".twitter.com",
+            "name": "guest_id",
+            "value": "v1%3A163861330538560075"
+        },
+        {
+            "host": ".twitter.com",
+            "name": "ct0",
+            "value": "2bf0856dac3a2e126138845cfaff64b0"
+        },
+        {
+            "host": ".twitter.com",
+            "name": "gt",
+            "value": "1467076658167525380"
+        },
+        {
+            "host": ".twitter.com",
+            "name": "att",
+            "value": "1-XWUmZ4AImd3PHSwaYboxtWBKnAzlqQVMgktW31Gh"
+        },
+        {
+            "host": ".google.com",
+            "name": "NID",
+            "value": "511=Ni8nFB6ij1o0Nm4Or9f_zVtAOQ0hXcbkHfVQB1CdSIToaCFPVHgjbdIUCeYS7ooIOSrDbn1VlG2ae3daVk0R2HwCY6X0AH1pJjv-5uDs_15u1hdNZ28O1iPY2uGrPmvopHKH7j6NvtNA6A4w_K3x0lPg_E0RCMpfV21SNb2hDxdfGOHTYVHKalCSERV3J624"
+        },
+        {
+            "host": "github.com",
+            "name": "_device_id",
+            "value": "a6b2728623437eee26886453c4fed749"
+        },
+        {
+            "host": "github.com",
+            "name": "user_session",
+            "value": "yT_g75Uhlj7SRPJWirD79YWaZ7Sr1KLQobkeUftZlsTak5Zf"
+        },
+        {
+            "host": "github.com",
+            "name": "__Host-user_session_same_site",
+            "value": "yT_g75Uhlj7SRPJWirD79YWaZ7Sr1KLQobkeUftZlsTak5Zf"
+        },
+        {
+            "host": ".github.com",
+            "name": "logged_in",
+            "value": "yes"
+        },
+        {
+            "host": ".github.com",
+            "name": "dotcom_user",
+            "value": "tomp332"
+        },
+        {
+            "host": ".hotexamples.com",
+            "name": "ezoadgid_110793",
+            "value": "-1"
+        },
+        {
+            "host": ".hotexamples.com",
+            "name": "ezoref_110793",
+            "value": "google.com"
+        },
+        {
+            "host": ".hotexamples.com",
+            "name": "ezosuigeneris-0",
+            "value": "536a546a0a4884a43825f1b4a5c629ca"
+        },
+        {
+            "host": ".hotexamples.com",
+            "name": "ezoab_110793",
+            "value": "mod1"
+        },
+        {
+            "host": ".hotexamples.com",
+            "name": "active_template::110793",
+            "value": "pub_site.1638647460"
+        },
+        {
+            "host": ".hotexamples.com",
+            "name": "ezopvc_110793",
+            "value": "1"
+        },
+        {
+            "host": ".hotexamples.com",
+            "name": "ezepvv",
+            "value": "468"
+        },
+        {
+            "host": ".hotexamples.com",
+            "name": "ezovid_110793",
+            "value": "1234414625"
+        },
+        {
+            "host": ".hotexamples.com",
+            "name": "lp_110793",
+            "value": "https://cpp.hotexamples.com/examples/-/-/PORT_Strdup/cpp-port_strdup-function-examples.html"
+        },
+        {
+            "host": ".hotexamples.com",
+            "name": "ezovuuidtime_110793",
+            "value": "1638647461"
+        },
+        {
+            "host": ".hotexamples.com",
+            "name": "ezovuuid_110793",
+            "value": "ba21758b-7bf6-4e89-6ec6-acbb62bb92ce"
+        },
+        {
+            "host": "cpp.hotexamples.com",
+            "name": "ezds",
+            "value": "ffid%3D1%2Cw%3D1920%2Ch%3D1080"
+        },
+        {
+            "host": "cpp.hotexamples.com",
+            "name": "ezohw",
+            "value": "w%3D1920%2Ch%3D927"
+        },
+        {
+            "host": "cpp.hotexamples.com",
+            "name": "ezux_lpl_110793",
+            "value": "1638647462480|5fad26ef-5fab-40c8-61c0-726baec344f7|true"
+        },
+        {
+            "host": "pollserver.lastpass.com",
+            "name": "ADRUM_BT",
+            "value": "R%3A0%7Cg%3A8ef6ae7a-9d91-4134-b03d-23479151ed1426909%7Cn%3Acitrix_c88ca7a6-705e-4cde-9391-83bb80917e45%7Ci%3A307364%7Ce%3A8"
+        },
+        {
+            "host": "docs.microsoft.com",
+            "name": "original_req_url",
+            "value": "https://docs.microsoft.com/en-us/cpp/build/adding-references-in-visual-cpp-projects"
+        },
+        {
+            "host": "gist.github.com",
+            "name": "gist_user_session",
+            "value": "8ZWEeNyl-DO2yYuCliur7CryMkuajo1tNei-YyK7noTbIDAm"
+        },
+        {
+            "host": "gist.github.com",
+            "name": "__Host-gist_user_session_same_site",
+            "value": "8ZWEeNyl-DO2yYuCliur7CryMkuajo1tNei-YyK7noTbIDAm"
+        },
+        {
+            "host": "gist.github.com",
+            "name": "has_recent_activity",
+            "value": "1"
+        },
+        {
+            "host": ".lastpass.com",
+            "name": "ak_bmsc",
+            "value": "971B7727C9294EDC8B47DA3FDDF10F7A~000000000000000000000000000000~YAAQmF5swWlGBIJ9AQAAw4a+iw6C2zSCTlGkMIT8phEpFxyCGpCEyTlTBmQMvLk9hiw5B/zGxTpPGsHCOVbOaCJYEBV+xE7X/q0Vv3zqmxVXfPUMRF/vzoFP1H0I3Opx9jRSGof67AMEDOOMz1Z72AUPdW0GF2lWcZYB9UfwGvydMnq+EHpNFAIuLBI9CsrmnNj7PhX3N2oDiGG+QotT0mUPUqJ5VzXw+mWMU4TkheRF8v27c7syuKgebXG8KTINRg8Al7owWW2nYqzI4eJfiBaxhMnzdFKLunm2e1QaayTDfemmm+CnnSdNmPV8g+SFVl05MHtmkVK4fUaJ++pF7XVhoFehJ08H39an/HrA4UPIeqMBW3MLOK9dgXBFCehCex3A+UHZE6BBUWc="
+        },
+        {
+            "host": ".lastpass.com",
+            "name": "lang",
+            "value": "en_US"
+        },
+        {
+            "host": "social.msdn.microsoft.com",
+            "name": "MicrosoftApplicationsTelemetryDeviceId",
+            "value": "d245c59a-a911-4cbc-b76b-b0cf6ae8b7a9"
+        },
+        {
+            "host": "social.msdn.microsoft.com",
+            "name": "ai_session",
+            "value": "9wkz9v5Woxnq9x2zKQPeTB|1638730687312|1638730687312"
+        },
+        {
+            "host": "loglogin.lastpass.com",
+            "name": "PHPSESSID",
+            "value": "lovu99svjfm58lr27afgruirt9e"
+        },
+        {
+            "host": ".lastpass.com",
+            "name": "bm_sv",
+            "value": "D6C459EA33B252631A93D9EAEE5CC381~CXSM03GeofsI+yL5XB+GVsc4ljKuYbOMLv6jKuwLWI6qwpa9xbwJv1TY0EVOuo6lmgkh3ix9dIcEpM9XPqvcp50cSWs4Fn4FkcvCrU3uCs7QYqWHuEaeL8R2cU98aXxmapwlT36irILm/4O8RMEI3BzktnAK4ikADtq8F1qcvhQ="
+        },
+        {
+            "host": ".codeproject.com",
+            "name": "lpk",
+            "value": "9rkV1ir5U48bUhcZl15DAWUERih%2bI7%2bfyeWrwjj8zTO7XaMUrKJ8DY3Xr9ydlz0LnYue3TZqcBXmoF7aly155sAjm8vWQJr7F6FlmSTru3E17NfuvrYqgD3gRSE3%2fdme"
+        },
+        {
+            "host": ".codeproject.com",
+            "name": "mguid",
+            "value": "d3ebc9b7-cefd-4934-88c7-242706fc10b8"
+        },
+        {
+            "host": "lastpass.com",
+            "name": "PHPSESSID",
+            "value": "lovu99svjfm58lr27afgruirt9e"
+        },
+        {
+            "host": "forums.codeguru.com",
+            "name": "vb_lastvisit",
+            "value": "1638464653"
+        },
+        {
+            "host": "forums.codeguru.com",
+            "name": "vb_lastactivity",
+            "value": "0"
+        },
+        {
+            "host": "github.com",
+            "name": "has_recent_activity",
+            "value": "1"
+        },
+        {
+            "host": "cboard.cprogramming.com",
+            "name": "bb_lastvisit",
+            "value": "1638731816"
+        },
+        {
+            "host": "cboard.cprogramming.com",
+            "name": "bb_lastactivity",
+            "value": "0"
+        },
+        {
+            "host": ".www.codegrepper.com",
+            "name": "G_ENABLED_IDPS",
+            "value": "google"
+        },
+        {
+            "host": "community.adobe.com",
+            "name": "LithiumCookiesAccepted",
+            "value": "0"
+        },
+        {
+            "host": ".adobe.com",
+            "name": "sat_domain",
+            "value": "A"
+        },
+        {
+            "host": "community.adobe.com",
+            "name": "VISITOR_BEACON",
+            "value": "~2REFoGH968bDSGd89~I62HC6eGFPhGOa_qtNLS93XH2HNh4Q0fdojlgJagopupJ7VuBqZNBnWJxxTf3tLF2nfyi6s3YPsM06eBtM9mdw.."
+        },
+        {
+            "host": ".adobe.com",
+            "name": "sat_domain",
+            "value": "A"
+        },
+        {
+            "host": ".adobe.com",
+            "name": "s_nr",
+            "value": "1638731988487-New"
+        },
+        {
+            "host": "community.adobe.com",
+            "name": "community.language",
+            "value": "en"
+        },
+        {
+            "host": ".adobe.com",
+            "name": "fg",
+            "value": "V77SPBWGFLE5ATECFAQBRHQANM======"
+        },
+        {
+            "host": ".adobe.com",
+            "name": "feds_privacy_consent",
+            "value": "{'hasUserProvidedConsent':true,'userHasCustomConsent':false}"
+        },
+        {
+            "host": ".adobe.com",
+            "name": "OptanonChoice",
+            "value": "1"
+        },
+        {
+            "host": "community.adobe.com",
+            "name": "AWSALB",
+            "value": "6sX4yebdbddSpzlG3vKgrnBLm1buTM7s9BkQkXq20nbXS3vPVvI9SXECBBMB0/vqqVSYpztY77yxKU1ZSV3mEpawXLbkNEKXRk7xW9ULLWWy7ydGUea8JJ+B688/"
+        },
+        {
+            "host": "community.adobe.com",
+            "name": "AWSALBCORS",
+            "value": "6sX4yebdbddSpzlG3vKgrnBLm1buTM7s9BkQkXq20nbXS3vPVvI9SXECBBMB0/vqqVSYpztY77yxKU1ZSV3mEpawXLbkNEKXRk7xW9ULLWWy7ydGUea8JJ+B688/"
+        },
+        {
+            "host": "community.adobe.com",
+            "name": "LithiumVisitor",
+            "value": "~2xYlzegiIXPIZ2UTy~Q_V17vqX3TCSLAOVUetYGZgR9klea4Dl7fyE5G4jgZfd8CcIp-yV1KywXik6FZW2CPGJd9cSdDUp0YQitRdtvQ.."
+        },
+        {
+            "host": ".adobe.com",
+            "name": "gpv",
+            "value": "community.adobe.com:t5:indesign:conversationPage"
+        },
+        {
+            "host": ".adobe.com",
+            "name": "OptanonConsent",
+            "value": "isIABGlobal=false&datestamp=Sun+Dec+05+2021+11%3A20%3A01+GMT-0800+(Pacific+Standard+Time)&version=6.9.0&hosts=&consentId=5f387de0-dac3-4efc-ad5f-79e0c0acb642&interactionCount=1&landingPath=https%3A%2F%2Fcommunity.adobe.com%2Ft5%2Findesign-discussions%2Fconvert-an-image-file-to-base64-or-other-string-value%2Fm-p%2F3769424&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1"
+        },
+        {
+            "host": ".adobe.com",
+            "name": "s_vs",
+            "value": "1"
+        },
+        {
+            "host": ".adobe.com",
+            "name": "s_cpc",
+            "value": "1"
+        },
+        {
+            "host": ".adobe.com",
+            "name": "AMCV_9E1005A551ED61CA0A490D45%40AdobeOrg",
+            "value": "870038026%7CMCMID%7C44678617538589927245338922777180881512%7CMCAID%7CNONE%7CMCOPTOUT-1638739201s%7CNONE%7CvVersion%7C5.0.0"
+        },
+        {
+            "host": ".microsoft.com",
+            "name": "MSCC",
+            "value": "NR"
+        },
+        {
+            "host": "docs.microsoft.com",
+            "name": "original_req_url",
+            "value": "https://docs.microsoft.com/en-us/cpp/error-messages/tool-errors/linker-tools-error-lnk1120"
+        },
+        {
+            "host": "docs.microsoft.com",
+            "name": "MicrosoftApplicationsTelemetryDeviceId",
+            "value": "8753c113-dea8-4f41-b1f9-a54bcea3a7ef"
+        },
+        {
+            "host": "docs.microsoft.com",
+            "name": "original_req_url",
+            "value": "https://docs.microsoft.com/en-us/windows/desktop/api/breadcrumb/toc.json"
+        },
+        {
+            "host": ".lastpass.com",
+            "name": "_abck",
+            "value": "5868AE2D9A469D7DAF136EADF97BB2A1~-1~YAAQNBdlX4FwCjJ9AQAAG+sdmwefi76h+QurCA9/oLPyfGJkGT0KSo63ed6Go6UCBtuDxe2hjBS0BV2D+jHhd6B2X3W78eucy/7+p8+OLMZkiC8fTCOnubqYE/mDBYaeAIFE6gcuKN7TiZt6/6sXec6uFOeSGfZYaZij+AjvM6hy6zKXhzxCgdmGxhhVIxmcwLZK/AEl9AESPAVkfiRDO/R9Jvk3VQL6LGkCQC/dEcx2+h73IaAwr6z9IGNyqQ+HpDXezY7tw0n1IsWcjPUpJIvA5qoHrcC4gCcVDP1eFvhyscGut0Mq1iHb8q6iWOgFxZF1euVeQTtbGCQBk6xDcdgKhO6jclCjJqvRHrAQnJ4s78EcgBzijgCmfcnTLzjpMdqaGDr4CEQu95OlLw==~-1~-1~1638027196"
+        },
+        {
+            "host": ".lastpass.com",
+            "name": "bm_sz",
+            "value": "FE812C1835FD2266CB6A8653946683DF~YAAQNBdlX4JwCjJ9AQAAG+sdmw4mp9nG/HR+A310NvHMFIT/i/AFRZMfidDaayn+rwiHiy5f7pKATifjYBCpC2aO0u3Rpeu2AoYUSpynSfbOacAeHaK5drRLAqKSb1CXeVTJhKNITUX11PhPW9h/VMGdGVKpARI2z4et/n8Nbi8zyjRZyU+RP6hnAlx4dg4LaUmIlBWE9mrNg6Jd6xVICb3454k70Xz/eBk96CL+54t6dXQQ7HZsrkVpw8O1MBiNBMnt6bOfl1zeaK61nYty9Xmp7gXR+p0Yujg/yp2hEMOOLvAdIw==~3293751~3687736"
+        },
+        {
+            "host": "docs.microsoft.com",
+            "name": "ai_session",
+            "value": "q5l8U8Fqg2b6zgGp7Bycjv|1638986419571|1638986419571"
+        },
+        {
+            "host": ".google.com",
+            "name": "1P_JAR",
+            "value": "2021-12-08-18"
+        },
+        {
+            "host": "www.google.com",
+            "name": "DV",
+            "value": "k0CuomO3HnMiEI-_c6XaMsnc_kGz2Zc7-pRbxlypwQEAAAA"
         }
     ],
     "Firefox-Passwords": {
@@ -775,8 +990,5 @@
         "potentiallyVulnerablePasswords": [],
         "version": 3
     },
-    "Login-Credentials": {
-        "password": "VeryLong!@#",
-        "username": "Pako"
-    }
+    "Session-ID": "2642ee96-4c1f-4fd1-bdd5-8b7a7acbc294"
 }

