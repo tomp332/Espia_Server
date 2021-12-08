@@ -10,5 +10,4 @@ if __name__ == '__main__':
                 port=443,
                 reload=True,
                 ssl_keyfile=certs_dir / 'key.pem',
-                ssl_certfile=certs_dir / 'cert.pem'
-                )
+                ssl_certfile=certs_dir / 'cert.pem')
