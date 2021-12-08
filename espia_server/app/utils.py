@@ -52,5 +52,11 @@ def handle_products_results(session_id: str, results: dict) -> None:
 
 
 def write_final_product_to_file(session_id: str, final_product: dict) -> None:
+    """
+    Writes all decrypted data retrieved from client to a file in session directory
+
+    :param session_id: client session id
+    :param final_product: json object of the final decrypted results
+    """
     with open(uploads_path / session_id / 'final_results.json', 'w') as file:
         json.dump(final_product, file)

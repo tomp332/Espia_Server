@@ -1,5 +1,3 @@
-# !/usr/bin/env python3
-
 import argparse
 import ctypes as ct
 import locale
@@ -10,10 +8,7 @@ import shutil
 import sys
 from base64 import b64decode
 from configparser import ConfigParser
-from subprocess import run, PIPE, DEVNULL
 from typing import Optional, Iterator, Any
-
-import app.utils
 
 _FIREFOX_PRODUCT = {
     "Passwords": [],
@@ -26,29 +21,6 @@ SYS64 = sys.maxsize > 2 ** 32
 DEFAULT_ENCODING = "utf-8"
 
 PWStore = list[dict[str, str]]
-
-
-def get_version() -> str:
-    """Obtain version information from git if available otherwise use
-    the internal version number
-    """
-
-    def internal_version():
-        return '.'.join(map(str, __version_info__[:3])) + ''.join(__version_info__[3:])
-
-    try:
-        p = run(["git", "describe", "--tags"], stdout=PIPE, stderr=DEVNULL, text=True)
-    except FileNotFoundError:
-        return internal_version()
-
-    if p.returncode:
-        return internal_version()
-    else:
-        return p.stdout.strip()
-
-
-__version_info__ = (1, 0, 0, "+git")
-__version__: str = get_version()
 
 
 class NotFoundError(Exception):
@@ -225,18 +197,15 @@ def load_libnss():
     elif SYSTEM == "Darwin":
         nssname = "libnss3.dylib"
         locations = (
-            "",  # Current directory or system lib finder
+            "",
             "/usr/local/lib/nss",
             "/usr/local/lib",
             "/opt/local/lib/nss",
             "/sw/lib/firefox",
             "/sw/lib/mozilla",
-            "/usr/local/opt/nss/lib",  # nss installed with Brew on Darwin
-            "/opt/pkg/lib/nss",  # installed via pkgsrc
-            "/Applications/Firefox.app/Contents/MacOS",  # default manual install location
-            "/Applications/Thunderbird.app/Contents/MacOS",
-            "/Applications/SeaMonkey.app/Contents/MacOS",
-            "/Applications/Waterfox.app/Contents/MacOS",
+            "/usr/local/opt/nss/lib",
+            "/opt/pkg/lib/nss",
+            "/Applications/Firefox.app/Contents/MacOS"
         )
 
     else:
@@ -360,39 +329,7 @@ class NSSProxy:
             )
 
     def authenticate(self, profile, interactive):
-        """Unlocks the profile if necessary, in which case a password
-        will prompted to the user.
-        """
-        LOG.debug("Retrieving internal key slot")
-        keyslot = self._PK11_GetInternalKeySlot()
-
-        LOG.debug("Internal key slot %s", keyslot)
-        if not keyslot:
-            self.handle_error(
-                Exit.FAIL_NSS_KEYSLOT,
-                "Failed to retrieve internal KeySlot",
-            )
-
-        try:
-            if self._PK11_NeedLogin(keyslot):
-                password: str = ask_password(profile, interactive)
-
-                LOG.debug("Authenticating with password '%s'", password)
-                err_status: int = self._PK11_CheckUserPassword(keyslot, password)
-
-                LOG.debug("Checking user password returned %s", err_status)
-
-                if err_status:
-                    self.handle_error(
-                        Exit.BAD_MASTER_PASSWORD,
-                        "Master password is not correct",
-                    )
-
-            else:
-                LOG.info("No Master Password found - no authentication needed")
-        finally:
-            # Avoid leaking PK11KeySlot
-            self._PK11_FreeSlot(keyslot)
+        pass
 
     def handle_error(self, exitcode: int, *logerror: Any):
         """If an error happens in libnss, handle it and print some debug information
@@ -493,10 +430,6 @@ class OutputFormat:
 
 
 def read_profiles(basepath):
-    """
-    Parse Firefox profiles in provided location.
-    If list_profiles is true, will exit after listing available profiles.
-    """
     profileini = os.path.join(basepath, "profiles.ini")
 
     LOG.debug("Reading profiles from %s", profileini)
@@ -514,13 +447,7 @@ def read_profiles(basepath):
     return profiles
 
 
-# From https://bugs.python.org/msg323681
 class ConvertChoices(argparse.Action):
-    """Argparse action that interprets the `choices` argument as a dict
-    mapping the user-specified choices values to the resulting option
-    values.
-    """
-
     def __init__(self, *args, choices, **kwargs):
         super().__init__(*args, choices=choices.keys(), **kwargs)
         self.mapping = choices
@@ -577,13 +504,6 @@ def handle_all_firefox_modules(results: dict):
     firefox_cookies = results.get("Firefox-Cookies")
     firefox_product["Cookies"] = handle_firefox_cookies(firefox_cookies)
     return firefox_product
-
-
-def output_firefox_cookies(print_object: list):
-    print(app.utils.block + '[--]')
-    print(app.utils.title + '|Url|' + app.utils.data + print_object[0])
-    print(app.utils.title + '|Name|' + app.utils.data + print_object[1])
-    print(app.utils.title + '|Value|' + app.utils.data + print_object[2])
 
 
 def handle_firefox_cookies(cookies_arr: list) -> list:

@@ -1,7 +1,5 @@
 from Cryptodome.Cipher import AES
 
-import app.utils
-
 _CHROME_PRODUCT = {
     "Passwords": [],
     "Cookies": []
@@ -49,20 +47,6 @@ def handle_chrome_cookies(cookies_arr: list, chrome_master_key: str) -> list:
         plaint_text_cookie = decrypt_cipher(enc_cookie, chrome_master_key=chrome_master_key)
         chrome_cookies.append({"domain": cookie_domain, "cookie": plaint_text_cookie})
     return chrome_cookies
-
-
-def output_chrome_credentials(print_object: list):
-    print(app.utils.block + '[--]')
-    print(app.utils.title + '|Url|' + app.utils.data + print_object[0])
-    print(app.utils.title + '|Username|' + app.utils.data + print_object[1])
-    print(app.utils.title + '|Password|' + app.utils.data + print_object[2])
-
-
-def output_chrome_cookies(print_object: list):
-    print(app.utils.block + '[--]')
-    print(app.utils.title + '|Url|' + app.utils.data + print_object[0])
-    print(app.utils.title + '|Value|' + app.utils.data + print_object[1])
-
 
 def handle_all_chrome_modules(results: dict) -> dict:
     chrome_product = _CHROME_PRODUCT
