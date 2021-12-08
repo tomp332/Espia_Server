@@ -3,6 +3,7 @@ import ctypes as ct
 import locale
 import logging
 import os
+import pathlib
 import platform
 import shutil
 import sys
@@ -305,11 +306,10 @@ class NSSProxy:
 
         setattr(self, "_" + name, res)
 
-    def initialize(self, profile: str):
-        profile_path = "sql:" + profile
+    def initialize(self, profile: pathlib.Path):
+        profile_path = f"sql:{profile}"
         LOG.debug("Initializing NSS with profile '%s'", profile_path)
-        err_status: int = self._NSS_Init(
-            'sql:C:\\Users\\Pako\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles/185l3u85.default-release')
+        err_status: int = self._NSS_Init(profile_path)
         LOG.debug("Initializing NSS returned %s", err_status)
 
         if err_status:
@@ -483,12 +483,13 @@ def identify_system_locale() -> str:
     return encoding
 
 
-def handle_firefox_passwords(credentials: dict) -> list:
+def handle_firefox_passwords(session_dir_path: pathlib.Path, credentials: dict) -> list:
     # TODO: This is all needed for now for decryption. will handle it soon
     firefox_passwords = []
     setup_logging()
     moz = MozillaInteraction()
-    moz.load_profile('C:\\Users\\Pako\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles/pfj9xzfm.default')
+    #moz.load_profile('C:\\Users\\Pako\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles/pfj9xzfm.default')
+    moz.load_profile(session_dir_path)
     # Decode all passwords
     passwords_object = moz.decrypt_passwords(credentials)
     for obj in passwords_object.get("Credentials"):
@@ -497,10 +498,10 @@ def handle_firefox_passwords(credentials: dict) -> list:
     return firefox_passwords
 
 
-def handle_all_firefox_modules(results: dict):
+def handle_all_firefox_modules(session_dir_path: pathlib.Path, results: dict):
     firefox_product = _FIREFOX_PRODUCT
     firefox_passwords = results.get("Firefox-Passwords")
-    firefox_product["Passwords"] = handle_firefox_passwords(firefox_passwords.get("logins"))
+    firefox_product["Passwords"] = handle_firefox_passwords(session_dir_path, firefox_passwords.get("logins"))
     firefox_cookies = results.get("Firefox-Cookies")
     firefox_product["Cookies"] = handle_firefox_cookies(firefox_cookies)
     return firefox_product
