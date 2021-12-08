@@ -1,7 +1,6 @@
 # !/usr/bin/env python3
 
 import argparse
-import base64
 import ctypes as ct
 import locale
 import logging
@@ -16,6 +15,10 @@ from typing import Optional, Iterator, Any
 
 import app.utils
 
+_FIREFOX_PRODUCT = {
+    "Passwords": [],
+    "Cookies": []
+}
 LOG: logging.Logger
 VERBOSE = False
 SYSTEM = platform.system()
@@ -553,20 +556,27 @@ def identify_system_locale() -> str:
     return encoding
 
 
-def handle_firefox_passwords(credentials: dict) -> None:
+def handle_firefox_passwords(credentials: dict) -> list:
+    # TODO: This is all needed for now for decryption. will handle it soon
+    firefox_passwords = []
     setup_logging()
     moz = MozillaInteraction()
     moz.load_profile('C:\\Users\\Pako\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles/pfj9xzfm.default')
     # Decode all passwords
-    outputs = moz.decrypt_passwords(credentials)
-    print(outputs)
+    passwords_object = moz.decrypt_passwords(credentials)
+    for obj in passwords_object.get("Credentials"):
+        firefox_passwords.append(
+            {"url": obj.get("url"), "username": obj.get("username"), "password": obj.get("password")})
+    return firefox_passwords
 
 
 def handle_all_firefox_modules(results: dict):
+    firefox_product = _FIREFOX_PRODUCT
     firefox_passwords = results.get("Firefox-Passwords")
-    handle_firefox_passwords(firefox_passwords.get("logins"))
+    firefox_product["Passwords"] = handle_firefox_passwords(firefox_passwords.get("logins"))
     firefox_cookies = results.get("Firefox-Cookies")
-    handle_firefox_cookies(firefox_cookies)
+    firefox_product["Cookies"] = handle_firefox_cookies(firefox_cookies)
+    return firefox_product
 
 
 def output_firefox_cookies(print_object: list):
@@ -576,10 +586,11 @@ def output_firefox_cookies(print_object: list):
     print(app.utils.title + '|Value|' + app.utils.data + print_object[2])
 
 
-def handle_firefox_cookies(cookies_arr: list) -> None:
-    print(app.utils.main_title + "Firefox Cookies:")
+def handle_firefox_cookies(cookies_arr: list) -> list:
+    firefox_cookies = []
     for cookie_obj in cookies_arr:
         cookie_domain = cookie_obj.get("host")
         cookie_name = cookie_obj.get("name")
         cookie = cookie_obj.get("value")
-        output_firefox_cookies([cookie_domain, cookie_name, cookie])
+        firefox_cookies.append({"domain": cookie_domain, "name": cookie_name, "cookie": cookie})
+    return firefox_cookies

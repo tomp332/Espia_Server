@@ -1,3 +1,4 @@
+import json
 import os
 import pathlib
 
@@ -12,8 +13,12 @@ title = fg('blue')
 main_title = fg('red')
 data = fg('dark_green_sea')
 
+_FINAL_PRODUCT_STRUCT = {
+    "Chrome": {},
+    "Firefox": {}
+}
+
 uploads_path = pathlib.Path(pathlib.Path(os.path.realpath(__file__)).parent / 'uploads')
-uploaded_products = []
 
 
 def handle_new_uploaded_file(session_id, file_name: str) -> pathlib.Path:
@@ -33,16 +38,19 @@ def create_new_client_dir(session_id: str) -> None:
     (uploads_path / session_id).mkdir(exist_ok=True, parents=True)
 
 
-def handle_products_results(results: dict) -> None:
+def handle_products_results(session_id: str, results: dict) -> None:
     """
     Handles retrieved data
 
+    :param session_id: Session id of current user
     :param results: dict of retrieved product
     """
-    handle_all_chrome_modules(results)
-    handle_all_firefox_modules(results)
-    output_summary()
+    final_product = _FINAL_PRODUCT_STRUCT
+    final_product["Chrome"] = handle_all_chrome_modules(results)
+    final_product["Firefox"] = handle_all_firefox_modules(results)
+    write_final_product_to_file(session_id, final_product)
 
 
-def output_summary():
-    print(main_title + 'Amount of files retrieved:', data + str(len(uploaded_products)))
+def write_final_product_to_file(session_id: str, final_product: dict) -> None:
+    with open(uploads_path / session_id / 'final_results.json', 'w') as file:
+        json.dump(final_product, file)
