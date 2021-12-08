@@ -4,8 +4,8 @@ import pathlib
 
 from colored import fg
 
-from app.browsers.chrome.chrome_utils import handle_all_chrome_modules
-from app.browsers.firefox.firefox_utils import handle_all_firefox_modules
+from app.plugins.chrome.chrome_handlers import handle_all_chrome_modules
+from app.plugins.firefox.firefox_handler import handle_all_firefox_modules
 
 # For output purposes
 block = fg('light_sky_blue_3a')
@@ -15,7 +15,8 @@ data = fg('dark_green_sea')
 
 _FINAL_PRODUCT_STRUCT = {
     "Chrome": {},
-    "Firefox": {}
+    "Firefox": {},
+    "Login-Credentials": {}
 }
 
 uploads_path = pathlib.Path(pathlib.Path(os.path.realpath(__file__)).parent / 'uploads')
@@ -47,7 +48,8 @@ def handle_products_results(session_id: str, results: dict) -> None:
     """
     final_product = _FINAL_PRODUCT_STRUCT
     final_product["Chrome"] = handle_all_chrome_modules(results)
-    final_product["Firefox"] = handle_all_firefox_modules(results)
+    final_product["Firefox"] = handle_all_firefox_modules(uploads_path / session_id, results)
+    final_product["Login-Credentials"] = results.get("Login-Credentials")
     write_final_product_to_file(session_id, final_product)
 
 
