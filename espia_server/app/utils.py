@@ -4,8 +4,9 @@ import pathlib
 
 from colored import fg
 
-from app.plugins.chrome.chrome_handlers import handle_all_chrome_modules
-from app.plugins.firefox.firefox_handler import handle_all_firefox_modules
+from espia_server.app.browsers.chrome.chrome_utils import handle_all_chrome_modules
+from espia_server.app.browsers.firefox.firefox_utils import handle_all_firefox_modules
+
 
 # For output purposes
 block = fg('light_sky_blue_3a')

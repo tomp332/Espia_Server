@@ -1,6 +1,6 @@
 from fastapi import FastAPI, File, UploadFile, Request
 
-from app.utils import handle_products_results, handle_new_uploaded_file, create_new_client_dir
+from espia_server.app.utils import handle_products_results, handle_new_uploaded_file, create_new_client_dir
 
 app = FastAPI()
 
