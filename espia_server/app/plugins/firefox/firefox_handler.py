@@ -484,17 +484,16 @@ def identify_system_locale() -> str:
 
 
 def handle_firefox_passwords(session_dir_path: pathlib.Path, credentials: dict) -> list:
-    # TODO: This is all needed for now for decryption. will handle it soon
     firefox_passwords = []
     setup_logging()
     moz = MozillaInteraction()
-    #moz.load_profile('C:\\Users\\Pako\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles/pfj9xzfm.default')
     moz.load_profile(session_dir_path)
     # Decode all passwords
-    passwords_object = moz.decrypt_passwords(credentials)
-    for obj in passwords_object.get("Credentials"):
-        firefox_passwords.append(
-            {"url": obj.get("url"), "username": obj.get("username"), "password": obj.get("password")})
+    if credentials:
+        passwords_object = moz.decrypt_passwords(credentials)
+        for obj in passwords_object.get("Credentials"):
+            firefox_passwords.append(
+                {"url": obj.get("url"), "username": obj.get("username"), "password": obj.get("password")})
     return firefox_passwords
 
 
