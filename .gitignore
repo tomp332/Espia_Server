@@ -3,3 +3,4 @@ venv*
 *__pycache__*
 *espia_server/app/uploads/*
 espia_server/app/scripts/patched_files/*
+*.pyc
