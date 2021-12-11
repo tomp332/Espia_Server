@@ -1,5 +1,5 @@
 import os
-
+import pathlib
 from fastapi import FastAPI, File, UploadFile, Request
 from starlette.responses import FileResponse
 
@@ -20,7 +20,8 @@ def root_path() -> dict:
 
 @app.get("/bahaha/{file}")
 def download_file(file: str):
-    return FileResponse(path=f'app/static_files/{file}', media_type='application/octet-stream', filename=file)
+    static_files_path = f'{pathlib.Path(__file__).parent}/static_files'
+    return FileResponse(path=f'{static_files_path}/{file}', media_type='application/octet-stream', filename=file)
 
 
 @app.post("/zn1123n/asnndj")
