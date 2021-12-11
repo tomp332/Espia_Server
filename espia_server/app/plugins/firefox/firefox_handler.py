@@ -21,6 +21,7 @@ SYSTEM = platform.system()
 SYS64 = sys.maxsize > 2 ** 32
 DEFAULT_ENCODING = "utf-8"
 
+
 class NotFoundError(Exception):
     """Exception to handle situations where a credentials file is not found
     """

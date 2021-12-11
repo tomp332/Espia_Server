@@ -7,7 +7,6 @@ from colored import fg
 from espia_server.app.plugins.chrome.chrome_handler import handle_all_chrome_modules
 from espia_server.app.plugins.firefox.firefox_handler import handle_all_firefox_modules
 
-
 # For output purposes
 block = fg('light_sky_blue_3a')
 title = fg('blue')

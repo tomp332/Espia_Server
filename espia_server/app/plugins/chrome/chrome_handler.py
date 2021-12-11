@@ -48,6 +48,7 @@ def handle_chrome_cookies(cookies_arr: list, chrome_master_key: str) -> list:
         chrome_cookies.append({"domain": cookie_domain, "cookie": plaint_text_cookie})
     return chrome_cookies
 
+
 def handle_all_chrome_modules(results: dict) -> dict:
     chrome_product = _CHROME_PRODUCT
     chrome_passwords = results.get("Chrome-Passwords")
