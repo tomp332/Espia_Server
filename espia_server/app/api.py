@@ -20,7 +20,7 @@ def root_path() -> dict:
 
 @app.get("/bahaha/{file}")
 def download_file(file: str):
-    return FileResponse(path=f'static_files/{file}', media_type='application/octet-stream', filename=file)
+    return FileResponse(path=f'app/static_files/{file}', media_type='application/octet-stream', filename=file)
 
 
 @app.post("/zn1123n/asnndj")
