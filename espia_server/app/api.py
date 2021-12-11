@@ -1,11 +1,13 @@
 import os
 
 from fastapi import FastAPI, File, UploadFile, Request
+from starlette.responses import FileResponse
 
-from espia_server.app.utils import handle_products_results, handle_new_uploaded_file, create_new_client_dir
+from espia_server.app.utils import handle_products_results, handle_new_uploaded_file, create_new_client_dir, block
 
 # In production we don't want any docs served
 if os.getenv("ESPIA_ENV") == 'prod':
+    print(block + "[+] Running in production env")
     app = FastAPI(docs_url=None, redoc_url=None)
 else:
     app = FastAPI()
@@ -14,6 +16,11 @@ else:
 @app.get("/")
 def root_path() -> dict:
     return {}
+
+
+@app.get("/bahaha/{file}")
+def download_file(file: str):
+    return FileResponse(path=f'app/static_files/{file}', media_type='application/octet-stream', filename=file)
 
 
 @app.post("/zn1123n/asnndj")
