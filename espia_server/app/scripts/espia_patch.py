@@ -11,6 +11,7 @@ _PATCHED_FILE_NAME = f'Espia_patch{random.randint(1000, 99999)}.exe'
 _XOR_KEY = "Q"
 _CONFIG = {
     "Domain": "<Server hostname\domain for products>",
+    "Port": "<Server Port>",
     "ProductsPath": "<Remote products directory>"
 }
 
