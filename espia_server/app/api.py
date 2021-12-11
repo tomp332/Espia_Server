@@ -5,7 +5,7 @@ from fastapi import FastAPI, File, UploadFile, Request
 from espia_server.app.utils import handle_products_results, handle_new_uploaded_file, create_new_client_dir
 
 # In production we don't want any docs served
-if os.getenv("ESPIA-MODE") == 'prod':
+if os.getenv("ESPIA_ENV") == 'prod':
     app = FastAPI(docs_url=None, redoc_url=None)
 else:
     app = FastAPI()
