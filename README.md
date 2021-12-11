@@ -7,3 +7,4 @@
 2.2. Linux:  `. <env_dir_path>/bin/activate`
 ### Step 2 - Install required packages
 1. Run `python -m pip install -r requirements.txt`
+2. sudo setcap CAP_NET_BIND_SERVICE=+eip /usr/bin/python3.9 (for letting a user run server on priv port)
