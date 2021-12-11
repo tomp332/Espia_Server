@@ -21,9 +21,6 @@ SYSTEM = platform.system()
 SYS64 = sys.maxsize > 2 ** 32
 DEFAULT_ENCODING = "utf-8"
 
-PWStore = list[dict[str, str]]
-
-
 class NotFoundError(Exception):
     """Exception to handle situations where a credentials file is not found
     """
@@ -418,15 +415,6 @@ class MozillaInteraction:
                     continue
             decrypted.append({"url": domain, "username": username, "password": password})
         return decrypted_obj
-
-
-class OutputFormat:
-    def __init__(self, pwstore: PWStore, cmdargs: argparse.Namespace):
-        self.pwstore = pwstore
-        self.cmdargs = cmdargs
-
-    def output(self):
-        pass
 
 
 def read_profiles(basepath):
