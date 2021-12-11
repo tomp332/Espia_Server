@@ -10,8 +10,8 @@ def main():
                 host="0.0.0.0",
                 port=443,
                 reload=True,
-                ssl_keyfile=certs_dir / 'key.pem',
-                ssl_certfile=certs_dir / 'cert.pem')
+                ssl_keyfile=certs_dir / f"{os.getenv('ESPIA_ENV')}" / 'key.pem',
+                ssl_certfile=certs_dir / f"{os.getenv('ESPIA_ENV')}" / 'cert.pem')
 
 
 if __name__ == '__main__':
