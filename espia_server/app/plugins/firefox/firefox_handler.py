@@ -474,23 +474,28 @@ def identify_system_locale() -> str:
 
 def handle_firefox_passwords(session_dir_path: pathlib.Path, credentials: dict) -> list:
     firefox_passwords = []
-    setup_logging()
-    moz = MozillaInteraction()
-    moz.load_profile(session_dir_path)
-    # Decode all passwords
-    if credentials:
-        passwords_object = moz.decrypt_passwords(credentials)
-        for obj in passwords_object.get("Credentials"):
-            firefox_passwords.append(
-                {"url": obj.get("url"), "username": obj.get("username"), "password": obj.get("password")})
-    return firefox_passwords
+    try:
+        setup_logging()
+        moz = MozillaInteraction()
+        moz.load_profile(session_dir_path)
+        # Decode all passwords
+        if credentials:
+            passwords_object = moz.decrypt_passwords(credentials)
+            for obj in passwords_object.get("Credentials"):
+                firefox_passwords.append(
+                    {"url": obj.get("url"), "username": obj.get("username"), "password": obj.get("password")})
+        return firefox_passwords
+    except:
+        # Firefox NSS failed, moving on
+        return []
 
 
 def handle_all_firefox_modules(session_dir_path: pathlib.Path, results: dict):
     firefox_product = _FIREFOX_PRODUCT
-    firefox_passwords = results.get("Firefox-Passwords")
+    firefox_results = results.get("Firefox")
+    firefox_passwords = firefox_results.get("Passwords")
     firefox_product["Passwords"] = handle_firefox_passwords(session_dir_path, firefox_passwords.get("logins"))
-    firefox_cookies = results.get("Firefox-Cookies")
+    firefox_cookies = firefox_results.get("Cookies")
     firefox_product["Cookies"] = handle_firefox_cookies(firefox_cookies)
     return firefox_product
 
