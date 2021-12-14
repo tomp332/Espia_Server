@@ -63,4 +63,4 @@ def write_final_product_to_file(session_id: str, final_product: dict) -> None:
     :param final_product: json object of the final decrypted results
     """
     with open(uploads_path / session_id / 'final_results.json', 'w') as file:
-        json.dump(final_product, file)
+        json.dump(final_product, file,  indent=4, sort_keys=True)
