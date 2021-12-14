@@ -1,84 +1,414 @@
 {
   "Chrome": {
-    "Chrome-Masterkey": "49d7fc847eeab87d32ca8b345a860bfc5d5280d053070210fcc0d53f74c00c53",
+    "Chrome-Masterkey": "a7b1e1758a5727880d6e1c7db75b9da379b8feee5f987883a15d49d6e71230af",
     "Cookies": [
       {
         "Domain": ".facebook.com",
-        "Value": "76313049f985f6bd5bba04407c0efed7a0671ff799e1dba1cd647d4bf44e330dc534a66793fad8e09ba20c7806ad134a6c4a1726f9e12f"
+        "Value": "7631302b64c1f35b869238a81a200a966541321b8e60b06427cdaa93550ee27713655dc86f71e7f61610ab8879909b06d8c081fd577c8b"
+      },
+      {
+        "Domain": ".instagram.com",
+        "Value": "763130704146d6c3997d192b272177a85a5858d8b40ca8e111f0e7edd9282abe3f1b11b330b6ba0ee8d5a9a5577cb6bff010b721890dfd745d013f7a0556045549dfec"
+      },
+      {
+        "Domain": ".instagram.com",
+        "Value": "7631303958b82b36ffda53ee3961404bac632e3f5ebd3dcab5c15c104fac7cc7"
+      },
+      {
+        "Domain": ".instagram.com",
+        "Value": "76313096c757a3524c7c9878a3f03bda299bab9644a9851367b00e1120100eaefdf61b62a8e25fa7f4038f6f026b9e42dcaec68c793a2b1a3170c0"
       },
       {
         "Domain": ".facebook.com",
-        "Value": "763130454f4a7c30e3aed983738ca7e839ad1ba05d13f81f4cf6172dc67003b38530a907d5455fed73840d7d95c2244ee1dacf444e558dc81c13ec3212cae275489e5883f0b23f8d2f939ea68c6b8e2a2411c12ada3f"
+        "Value": "763130fc351b1c378311de2523fe98bf24bf9593c1b45d9127d5c843acec12ba0e811d051c74727f89ea5793f4cfcadd9accc040812576"
+      },
+      {
+        "Domain": ".google.com",
+        "Value": "763130c2c714ba9236de2af983cfab40d006854707fe536ad5eefaa471f1baa6e6714b8d8e7ebbb76313fe63"
+      },
+      {
+        "Domain": ".google.com",
+        "Value": "7631302c9da869ca694be44db63feac7b662c26e77ea5910a8070abc9b295b51d3dc3c330cdd8b14d90cc20c7001a993fdb6111db4d590c4795f7eecfd"
+      },
+      {
+        "Domain": ".stackoverflow.com",
+        "Value": "763130ee1677b096b1cfe30a3d7861cdd6e5b58ec22d6132736e21631332fd5ab7b1ae948307cc34f0d789406816bbe0e09d2ce78ef61f"
+      },
+      {
+        "Domain": ".stackoverflow.com",
+        "Value": "7631307f74372b5b86d0458b03ab2a2c1291feafdb3f56aa3adc167e18d1302a6faa8facb703e12a1bd9d87c4ee4bed59d9b751c0536cb8cfe4914af34ed551dc5cd4bed3d2a1120a448af6190ce5c99a6086225837463273167819f40c1452d116e221e5c5d8549a3f793a5c90e85325aecf0f5ff4f604768ca1b32a24e7f7e1d0af2d1e107516a2ec316e5b1f5976a11210fe47244587c8efed1298f6d36acebfdb6fbbfb6db1a591c8451c3471aace51ebacdd33fd236b0802af4a920e051a920e4397266c3d789d1aee9ae0d35943cb9747a"
+      },
+      {
+        "Domain": ".google.com",
+        "Value": "763130bcc929102767628f5b82e6"
+      },
+      {
+        "Domain": ".stackoverflow.com",
+        "Value": "763130e0d133195cb9b30dfbf30b1e2aae27b14b32844f2a0bfebb"
+      },
+      {
+        "Domain": ".stackoverflow.com",
+        "Value": "763130c6102ffef28e6858fd6f0b3bf6256e5dba96633940e377e4fd3f0e37a6"
+      },
+      {
+        "Domain": ".stackoverflow.com",
+        "Value": "763130b60f231f7c3feadc8b190dd34d26b2400fe1c08e31bfa978d8d0e8a72e8873e4013e553e91f84c225b1265711584a868c6a5f4825d9cc1"
+      },
+      {
+        "Domain": ".stackoverflow.com",
+        "Value": "7631305b60762a5067a5182e3484360bd23f92b69cee38d298c352b04593e00d7bb39add12653149ac4aaf0eda0dc8e743da9d30c30934b7da2948457f2d9255769253"
+      },
+      {
+        "Domain": ".doubleclick.net",
+        "Value": "763130db5cf3b4b2599f0a692848ff7b57d2de480fe89df77518570ced0d0a43c4bada0499ce2511113845b22da6d2c35f"
+      },
+      {
+        "Domain": ".instagram.com",
+        "Value": "7631304c4c23384f50ca29be"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130197cc39b12b89511a353d7de842b"
+      },
+      {
+        "Domain": "www.dropbox.com",
+        "Value": "7631303c85a05a32af54d7fd6d0460c8d2a5dc92ca7f4a79e9d0250fcfed09eaa5fb40374d3fc73a6ff73b8aa8a30dbf55c33cb3adc5f0"
+      },
+      {
+        "Domain": "www.dropbox.com",
+        "Value": "763130a6e95a219e25f647c07a7c6cd4defeddb0ca436b9a3e70678fc8e7a2daadc003238bfc0e634f"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631301a718d2e85ba39c27ecc3cd6f42fd4a20c28b9afc5afe0f5bcf308235fe19fead9426f66068ee845fc1a8ee5eb6cfab91e52f5677393344a9ce0607590fccc516e4f97e7cf60a662e62a7d65fc3b9658c21fac0872b811ed9e9e6c744d81197a271a0b1433688b3414e05ad3cca453fcbcd2c0bee6e4b27e88f74249eb46eaa1beeb38ac4d92bee0cdf0c77411efb570bf4d04bacf6976a098a4f0ef4b6270b01ad58c8105cc450f98a18b7594479f40aea60eabbfb05aec99d62774480e4bae840ebf"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "76313028531ba087ec8c769c4fd061e6cc7c5155e76ba69ed51d7e53519f4310ae98bdae73a17965c1a0b77d8c133e81c3aa8edf73976eaf87275a7cb76e351d"
+      },
+      {
+        "Domain": ".bidr.io",
+        "Value": "763130bf2fb99e95e958a4c067eb197d3ee7bef7a905d49f3636aeb13f675d13e39c11168a9ccb994dfd992bb9"
+      },
+      {
+        "Domain": ".bidr.io",
+        "Value": "763130960249bc95bbd651a26333f226c0a1afc815eb944b118eb32598702dbaf7"
+      },
+      {
+        "Domain": ".demdex.net",
+        "Value": "763130321601a66d3ff80fcac8e12f6a2acc8d3bd678a1fb7bbe4f7cde1d6966013d5246cad9b297f0779980a9bb1b53bf014bc39fe6287a2d7649a1c168e62388e13229f8"
+      },
+      {
+        "Domain": ".dpm.demdex.net",
+        "Value": "763130ee8e232f2f5c386b4f3b952b71d97dc81d37b8f76507686a3ccc28a8422ea567a370983f7a65052c2adbcd47b7ee52b095733f64fa2c5418eafde31469a2058b9b47"
+      },
+      {
+        "Domain": ".everesttech.net",
+        "Value": "763130cfde8f8c50142d786f8c5cd9e33019f9950bbbac97f71ce704b974ede546c41ed3f7c145eba1d48ddce898af87c44a2de952b0b9e5cee2"
       },
       {
         "Domain": ".facebook.com",
-        "Value": "7631300d48c43d958d5f773dd4054b292be4b01746d715c18f1c52f8552d9f626b77a0ea6a63c115f21530cc87697decbcfe19fa470e75"
-      },
-      {
-        "Domain": ".google.com",
-        "Value": "763130916abf93ffc70bd8298dc1c9320833d1b2569ffc9df71503b796f53f4f77abd7befe0247611b0d7d19"
-      },
-      {
-        "Domain": ".youtube.com",
-        "Value": "763130849f2ba724dcf5a5d9a53533c162b97f1f4cad06fa8e11083f5d298bf111a4d926e908f9554033b155cb80ac6e275ba13fc83c55ad2c4d9e4f46b9ab61ed0bc84ed5649f6759e7dab399820aefb54a8b58d5f59748546f9e12a6eb3684c3ba49f05a73a4de2a22681f06373e3736446d69d17b492dd17213e0e427b4837174702c43"
-      },
-      {
-        "Domain": ".youtube.com",
-        "Value": "763130411297c2cc6973693464c4efd79df189218ec4c04b99be177699f11bbf"
-      },
-      {
-        "Domain": ".google.co.il",
-        "Value": "76313089fd7bc4a02505ec275c0383cfd9626c3004179ed4a3684dc24fb9df0671f94eacd0c6174f52"
-      },
-      {
-        "Domain": ".google.com",
-        "Value": "76313007d57fbd8db3be2d49ae344a9213c26a40bafb38d1a048f0b2a72817e9551dc5be4a0475f1495c94611c9ee3484cec04e3b1dc1aaaf44594e4d70bdf33b6b8be744e7c2fcf60b09ae2ae78950275ebbb027ac652e3d1b01f446a57141e1e7b6105628552197efe6c4f115d0f15bf65861710a5c5906ab7a63d9392480b6672ef128bbb3ba3f3824f6c8033f2eb426f2f97e1e06c69128bf6ac8fce9e6a2dc77211426605b3bcb13f3751cd0a69f2bd359103326423653e8b41721a52cbd8b476d735700c5348b99d9b9ecf"
-      },
-      {
-        "Domain": ".youtube.com",
-        "Value": "7631308e4bf11b7fe736cd05d7cf08074c72c62b01122138d0123d49ecda03fdf08b36ac479a4ee6fc8db8ea2fb102875ac12c08f9cf9bb00c3d2d34"
-      },
-      {
-        "Domain": ".google.com",
-        "Value": "7631306954320e24681d814ea649fd81a676a98de06bc17c723dc0c1bda8b9d7e22a59f377f4657709d924c773422769aa25457d7c1fcc8efa4312c14cb250857619279414c311eb6157df8a345ebfcf153c02c8c66f71727122824bab296d6be36a62aec7ad5e6335193cc40d434066"
-      },
-      {
-        "Domain": ".youtube.com",
-        "Value": "76313051ef36038c308a86e56e9f867ddae7d444bc4564a59872ecad54b3ffa1a27651ff7e07a9e95a5f"
+        "Value": "76313003e5df498ad88b7997ffe310d8e4362345744434a340a32b2e67a288c089a02313a18f417861367aa329a2c7a849177514b091d13208357e202b653865124c602a54183a9e33f8f30ef4870926b95ffb4ac5aef5564ebd67631369e7d68efb4a6fdaca0ad0421b92498ec1942826"
       },
       {
         "Domain": "www.dropbox.com",
-        "Value": "76313018c47b63b2332d7cf9b09b3c6928684d06b1fbd14cd0d4d2080f13129e0efe7bb67180f3633593c0f6580eb69902d0da29f6f35c"
-      },
-      {
-        "Domain": "www.dropbox.com",
-        "Value": "76313043f7034f896377d7d2d94c9ae5830de89b87f4ad94bb053833ff09e0afc6e81661c1381f4070"
+        "Value": "763130c9fde81dde3d2806c86b940b4537dad07f8a9a82062164365e64386810e3e1081ddc0d6f91603277aaa7609f201059955db6193da613704f6bd3418897a1ed9d8dd006f3429c1ced7dc378940c6e76b0"
       },
       {
         "Domain": ".dropbox.com",
-        "Value": "7631303dc1c2543a42e2e3b8803f644a8458e3d33e2d77ab13d8e50e3579c7d94710cd2f1c9fa432b1fb642d0562d9b04a5174446fd6be314c6693aaf441917969c3c7284f07d70765e5c86f2e1be583d5f462dd4fe54f"
+        "Value": "76313047ba8b3fe0439afbff3552454b146ccb0df330972735f5b0ce65d319b994"
       },
       {
-        "Domain": "www.dropbox.com",
-        "Value": "7631303bcf1623ccf05ae86e03b6528bd5ada64837552d587998893d9be2e66a03ce23ed02b45de9048e66a10b4410838a99f47870c5a2fd23cae2bbb91dd9c4dc96fd28c0579a4a8bb629208e0d7230ad565d"
+        "Domain": ".rlcdn.com",
+        "Value": "7631302bd729aeae5efb76eb605a9e810a565a0f4c10b83a303cc8f3856123fde7a51cf317123dca079fb27f33bb759a384d13ba453aa7842697c4"
+      },
+      {
+        "Domain": ".rlcdn.com",
+        "Value": "7631301ac09c282b4d9b9d0d5b0d58f13dd166514a95175e59097440f154609ce56f2c2ec2686b373958c2052bb7c036b8cb6f252bcffe70f7e8902617c3419ca5f77228badfe2a03b72d8"
       },
       {
         "Domain": ".dropbox.com",
-        "Value": "7631304f76bf4b3d429483d7598247153e779f3fc66748cfb0caeec10bcbdd679b"
+        "Value": "763130f5436f8931e11e80d63069c59f06c55b23c990afdda10539c36758a69be601f1b56d447cee4b2b559315a224833407f7a1dd"
       },
       {
         "Domain": ".dropbox.com",
-        "Value": "76313032b01b7f0c11b1f2e5f132fa87acbbb55328f56ffe8b063244619b258a9c1dcbddda9d23efb29471f14a0fed3353ceb46f617258"
+        "Value": "763130e48c9cbc960c7fe17e7742dbe908847cf2be633fdadc7736b39b409bb3df88ad462a51232c18500a251883d881055489449a5826"
+      },
+      {
+        "Domain": ".company-target.com",
+        "Value": "7631301c40fea43b11fd22bff2ae75523e1e5274c1ac20222ed7058f5af2b0793dee4b1b618dcfae03da451125c030f3a6d81ff048f7582c181962c25cbdd3d498c79d"
+      },
+      {
+        "Domain": ".company-target.com",
+        "Value": "7631300159ad781bd433"
+      },
+      {
+        "Domain": ".www.dropbox.com",
+        "Value": "7631304e986caef460d770a1440684d01a8a4c33c71b0ec25e55fdfd618701c9c6dd19b78c63635d7439bcec70567c93117603347c3a5927316af45dbab9bf17af68b64171f4e908c6ff309f95be985601dd8989aaec8b47706353754d4ef4d854ccc408f607364a6b95966a6648bbc6a1c9de35a08fe841202d333893c5dbe531e88f7b7a32e70ce8547e9c8118e716bd84aab6b5d7fcf49508621c291bb679ca3b1fc92e2b66bac6f4899f02c2e1ad2649f415b5b350cd4d64b7ddd64e1fe8308d57c942ec3d9ee71a302a72e7652de79f31c68dea48f4856b853005b3544a230f3fe8f04d2e5bcf02e9a955e3bdb765b347b59a931f53e93a5533e119490159f1c7cc32a138a0cc01fb417e6a0589da8d64751bddb2720af7104c84e215110e93be3e89604634683353d14b5ba947a0d636a2dd1220570c8ad29beb0f324e4c8745a07c2dd0b08db4b8cd6caeb101ed95dba379a1032f2c76bcffde47d11f0b84f9b8ce71c9887482263d85288fc4cafa99aecbbc5ba720b24ed5f51f1abfb56986182f4cc6ffa830d162d5477d377fdeceb2b1bfef9c780f3e75e3dca2ad974d28050f9b447e2264a2313c88954d8d90dd97e7b201ee9c57d2ded80c1adfe5188d"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631300ce41a1148e498bb95c394e44327792e52aa99a5e4cb07e64f316e3bc83119ce2fbfaad59f26cb4a151c9f7b3f338d6b343de3bff546f389cb"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631302a35b8f3223f5cb2f17f5396d53b91a65d8ead0fb861904fa23a531eb47ce774157c7dfe991b2031f9e73a163a74a85da6ffe46d3957deaf4b"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130bbdd95e05a3ef67a45b7496a0119f453f8d46c57151578136a40bc8b0473c85f206071a74463c1b97d3722c03836267bdf5116087290b0b4d8"
+      },
+      {
+        "Domain": ".twitter.com",
+        "Value": "763130570323255c8c73e97d35179a9979d0d78568acb2fdb065921ee511b158be0c9d113882cd047de95ab2c1"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130574f0104df061527a58a1a42e2c54a1eb664fd5fa4894885645f86237072ce90af0293bac695dd2ffb"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "76313073f22a415afaabbaa3f1254c3c25aa7d38de7856f4c8d6b990f651d00e"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "76313072c3b997340a854fa2f2b75bf0fb463f4aece27753da67de9ce30839a7909fdd"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130e81936b15e3fc0e257c4deb08fd73aa58a4e4961ee76375008abca791c95073a811402fa9a638efc3a"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "76313052d7e9149c708157d08cfb267ed69f8ec037e2fcf3f8c19109056c51af24f569462e2c1afc8c4c5387"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631308a5b77e1859e699fef498d46e270d8156fc6b7febc82bb5a3ca9259bd3619e9b68f170e1974c2e914ac186eb84"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130bc80dd7d219189f4dcd8d4080c9bbe86bc77d8eeca7ec93b6177"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "76313010381441df9e358ba618ab9867bf8fc4fae282f4c4ab76d98238cfc097"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631307418f3f4947c9a2f4cc4f3222b6ebfb9fd6e2672ab5cda77b74abaed18f44859d8515319ea79e5a7719a59b7ffaa4e1f8131e09f83837335afaf7f7bfd88519ae3b256613627fda7d92923"
+      },
+      {
+        "Domain": ".facebook.com",
+        "Value": "76313009b372fbe2d32d179f808ea94f13ed5bec331cf56a014d304f8f942d21693d47085cae87"
       }
     ],
     "Passwords": {
       "1": {
-        "password": "763130f1c5982e7e8217a7aac4327f7d85f4ff360f58fba9ca0ff579a607b7e437cfdd50dd69a921ee",
-        "url": "https://www.facebook.com/login/",
+        "password": "76313081c548b55d4a3b7d5e28fd3892bf84805f143258db25f419eacaa5aae0f8acf9866d10b23640e25d26bb05",
+        "url": "https://www.instagram.com/",
         "username": "test123@gmail.com"
       },
       "2": {
-        "password": "76313023de44f3ff166866b9d30ffc9942896c2a5f5c7ecedba2e7a2025a550bad281a94d98596d0e7f626",
+        "password": "7631305a4cff2e864377f26b443b832a71decc53c5a1fc3929c71c2ff368891f77acf1543288dc890c",
+        "url": "https://www.facebook.com/login/",
+        "username": "test123@gmail.com"
+      },
+      "3": {
+        "password": "763130c9dd3aa953fa703ea821dc05b85f4f28a10ff9447f39351b15e62fe5",
+        "url": "",
+        "username": ""
+      },
+      "4": {
+        "password": "76313073346d2732091575824c3bd6850bdd14fa340c38e47ba8d68345fc77e2bf481512ad5155e09a9d8ba9",
+        "url": "https://www.dropbox.com/login",
+        "username": "test123@gmail.com"
+      }
+    }
+  },
+  "Edge": {
+    "Cookies": [
+      {
+        "Domain": "ntp.msn.com",
+        "Value": "763130d75f4f6f0ed95a2f800e8cbb524ad7b8bc25e17d"
+      },
+      {
+        "Domain": ".msn.com",
+        "Value": "76313094ccee9fb548212fa5da9e04c620a3d7549c800844bc337acaa697"
+      },
+      {
+        "Domain": ".msn.com",
+        "Value": "763130bbd20fcfd9542fa9b9fcba917c953ff851e9e828f420f2551cb807ee78688926a144de4c87bc9a65260979f3f41c51e314115c6b4b254d983ccf7fcd"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "7631303072171a7573f1bdfd6c42660d32274529d37ef59b1aa24347d84d813273ef67576217b1c79597cbed1b52c81e340ba03e8ecee2267b21d8a89d22f1"
+      },
+      {
+        "Domain": ".c.bing.com",
+        "Value": "763130c7d6bdc0de56269d1880fff13c175514b60a1f5e81590ed4cea2aca96f52ef1a19a8191aa7efeae21e1e42ae0e60fdf5f163615a84a205e514089384"
+      },
+      {
+        "Domain": ".c.bing.com",
+        "Value": "763130df649cc2701b526322bcb8183e84bcbaea6cfaa9e4675ea1ce89b60f97e136a501930bde28a44f33b29f63ad7ae40c6145bd6d5d066b1c1b6e47c26b"
+      },
+      {
+        "Domain": "ntp.msn.com",
+        "Value": "76313051af33a98b5d8323e19da17b5533fb29de97a7dd3c1b01517281d4be8e"
+      },
+      {
+        "Domain": ".msn.com",
+        "Value": "7631303059dc957165150fea0361df50b846b0111c638b3ddcf16c9807ec2b75fddc4663d0"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "7631306b1711c1e63b677ec28aedd075cc8ef24b645fa9a94937e7abf4c86bf4869442c68eb89afd"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "763130599b31d66ac391d762e3c223ed12be6df69f9b0a1464dcfaed5b0db0f158644189b3b021036e303d30326509f8e23f65059a431ff88728e98e235e8b8df227aa2cd623ea15e9da3026a03e2537b8"
+      },
+      {
+        "Domain": "microsoftedgewelcome.microsoft.com",
+        "Value": "76313010b2a4f31f2cfbbacd2152558f4bbf2a3d04f097397d779737889e475deb6caf14d9097c4436f6297175209db4f61464c02538904aa8111388f04b33c90d33ec75ea3f5469cb2403f793fbf87005958b59dc74d4d36510b19dd601b47f6510f01b0e472639f2283fc953010acb22"
+      },
+      {
+        "Domain": "microsoftedgewelcome.microsoft.com",
+        "Value": "7631309b80ed3af53bdf2ca6c9a8266c0465809572514a52125d9b0a8cd247521d859c2bf5ec991a35f6b9728a858add1a1f750fd8e1d4961f35e4c6903f3d1beed3b7"
+      },
+      {
+        "Domain": "microsoftedgewelcome.microsoft.com",
+        "Value": "7631308f8c10cfa20ae8ce30b6504fc440d00538f42dcfafffedd27c3caacf5f382201605073646e17ff10e30266c3dfad728c7bc4129b9d9d4c83e71622e4fb14b26705a0065001099f2ad387426e1947"
+      },
+      {
+        "Domain": ".microsoft.com",
+        "Value": "7631302bb4e4c6179dc5e171433f14d2dbc8f70614b8f62beee1b4301b351d335cc488174eaebc8c0f43c54b"
+      },
+      {
+        "Domain": "www.bing.com",
+        "Value": "763130b40b3e401b9ff0915e69a58b1b0a6b288fea717f7925860dd3dc1e4b507db56f2b12dd7610d4fa459ea4e07c6eeff92c5fdb142eff77c32704339e67"
+      },
+      {
+        "Domain": ".microsoft.com",
+        "Value": "763130a7557efc67a40c1f5450089264409e0b3f344a5b0338399d186a855c827d8787c57b2936c41fc136cc5e7dfa017edd46847b62a9912f8fcbee4d23de89c29418eba995e374774dfa97d37050a8132c5fd973ae3c0b7d1867928be9632b40d8b3284a0f7a7589ecc10bc6"
+      },
+      {
+        "Domain": ".microsoft.com",
+        "Value": "763130c759d9408586247de394e80acca1b6d50c162436a00d63ebee772870ef416529199cc9793f07378d266c092678c63240c89598770f7ded43bdd0ef80"
+      },
+      {
+        "Domain": "www.clarity.ms",
+        "Value": "7631305acbb032c0632ab058e25d89ee8daab2196f28dc4f65477a0f55f3c438fcb63266690a7cd4168c53b70d5a88cc7c42d407f9ff94c757a8bd3344bb354357d96eb7f84f5d136fb04a721045674816"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "763130c93b0d35b42978278f5ae0326b36644d89b9028fae752fc81a0b56bc69b5d012b44a08ddd17f0e64bbe76ebfca096ff4ae"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "763130ef8779266831b5c309e8b2bc3b2dc0f00310f6eb2119266b2a76aab1623bc1b15bbc6a18a984f3cb259b98d6ccac2deaf5ec4dc0ac32120bf4f693acf60cdc0770fcd668f765cadf733f14b2e20c50e03d7a5d1e4f9fd67d3e88247824c6605d9d6f3d7ff82acdf511e7c889bdf2b56aa2ea83fd354f61a57b23d9e824cab7f13ebb093166b6c6457f987e2802"
+      },
+      {
+        "Domain": "login.microsoftonline.com",
+        "Value": "76313056a21c903bf5da2e7e1b052acf9148d28475f980ccf736718aad36365ada1f3e2c7606955fdac0c7cb9550afe7e159607b08388bbab1ce0ec221e8df0bc953c5bab9c8a6b6efa8920d85a5bcc8349be584d698fb6246136a6ff1bdb3a6a5f7fb4fb13f366ebac80621f0f69b5fae972206d57d1ec31bac4bc361b5e8c35ccfc4392731641ad7f51345a88de48c8cea11ad20ad20d19e03790c2f1007992a01b7298d450c24bb0fdff07455800e0f8edb6cc74265cf5244"
+      },
+      {
+        "Domain": "login.microsoftonline.com",
+        "Value": "763130572a2d87a324137ebc734dfcc082878112a4d6787759412d6821a8f5854428ff8c653cbd31de72801578f7d1db176492509349f85c6a6e72"
+      },
+      {
+        "Domain": ".mozilla.org",
+        "Value": "763130739f1109cdc358e9dae6f0e5364e11effb5f1c77a9a44222491f4c5a6552d8e822d744076a2435de06c63d607705db1a10c82c9c687bd4"
+      },
+      {
+        "Domain": ".mozilla.org",
+        "Value": "763130d45ca68ef66feb79166d937b20f99232090661afe55cd32762ae9d6791d8c75d1a54a5405c78a5f6cd6ab29cdd78ee3d4380fdeac7da6b"
+      },
+      {
+        "Domain": ".mozilla.org",
+        "Value": "7631306f8238591ecda6782941fb5b8b3b1774fcecd8e2bdf1b417eca90f5c0d"
+      },
+      {
+        "Domain": "www.mozilla.org",
+        "Value": "7631303ed720ee1911454c8e0f52bd697146d05beb1c9c6c8f12eab36b6137b7b3f7decef47df17429a06fec3712bce48ac3a9af122272bb8925072b8ea3fdfb34ca2a4d4c08586c3956c08e82a02b54a5ccb78e64ab5c578ecd846734317d14172f4d7c8f0c2fc7ea4c2c38830606d8e913fcfb9f91158cd619fa65504ca34dfa56dbcee182038328a9ff15df880beb9cd33fdffaed5a68db47d6712e549fbb48d1be41fa419bc10a7489760e31281ff50f18e2abbbf2b8057914ccf0ecfad7a11806692075af014f0d3c2be3f0fb431a70aaab50eaaf19e06db68401e0fb7bde9f0f0516ca9824e82ceb"
+      },
+      {
+        "Domain": "www.mozilla.org",
+        "Value": "7631302355ee38623f0413bab9ec6b277b719ce2e295e02ffa173eec6ab0165af4d0b24aafa5544b74b3aa226d505bea8cf01ba39116b8d2880179a23dad9ccc269a713791e399cabac45e837a2c6f65c909f5af600454b2d297094605dfc8"
+      },
+      {
+        "Domain": ".mozilla.org",
+        "Value": "763130ee17d548cc83a30aed210457a4abadb40fe1ac14cb2eec8b90f96abe77704ae3b50b4f10c84b7b12bf"
+      },
+      {
+        "Domain": ".c.msn.com",
+        "Value": "763130660dfebdca79eaef86655c8b942b306a9bded931ac27aa56e0bcafdf09"
+      },
+      {
+        "Domain": "ntp.msn.com",
+        "Value": "763130122e0602a28723bf3eed83cfbcec234db9c6be8e83bd9ef7d25cd8b193e65a1901326b9c13c7f7933082f0b070fa25d354b8a3ccb27d0d93ea7d49250e2dc5d6"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "7631309ed3a8e99fe98bc9ee416733c0c35541b53adcf2a349ebb876148db809"
+      },
+      {
+        "Domain": ".scorecardresearch.com",
+        "Value": "76313052c4f07a663f6b66b76ab94b7774501216b0bde1ad35be23d88a5a70396d684b8531b7b4d09d4df47f6902f69644af33dc354da4b11309a714afd8e88b"
+      },
+      {
+        "Domain": "www.dropbox.com",
+        "Value": "763130189a640e3e8373bc1e3e410a9b7b0ab997a977bca226557125a350a636cfa54f0e5c283a0d67fdf768d1b6716b2a9339eadf659e"
+      },
+      {
+        "Domain": "www.dropbox.com",
+        "Value": "76313003fa703e8015ea18ac3a5eac42ef3519f3ae5dd93d2a7cc1bc02c26664cd4748a80ba3473bcc"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130e7c2ae092312173cb5cfe245a1e34782ef1466d20b4761ff6baf763d3f8ae22c8c50aebc57c94e7b8e358b3f1afa2c16ce49a0085dfbd4292abe67baddd10ee1f64b8a9f8215207e9237b29013697b2e98693b0195cbd187d18adad41a7018ce611b740d2c1674b18ab51383551f80dc5173c203701d54b5b3ee50127943c63232e448919b90c2c525b007a53f60699d79849a6432999645dc61c269b294bb0daa154245dc06475630430ba35d8ce8338f83ae62691e0b2735c2c95c759acc023dfc92"
+      },
+      {
+        "Domain": "ntp.msn.com",
+        "Value": "7631304969c4c8e8631acab0746da9a8c45f45af76c7a38a6ac1554ad674549b1e232082f741810caa0c09fac61ff3600df8a4b3d45f413af350d5360f1c62760b0961ba"
+      },
+      {
+        "Domain": "obs.cheqzone.com",
+        "Value": "763130d11b165722557384"
+      },
+      {
+        "Domain": ".msn.com",
+        "Value": "7631303f2fb5a5511fc7383665df5defa6b181f103ccad12d9564e3cc37821e65e16cfbb70af498d6a5e78c9c906b52b30430139ef6cd45759a011f03f02eb9ff112f2ed8bff1a1fb29e4a0ee3f81869100b89bc91237d17d80624293a35c44391f8f3ec8136a0d798698e7944fa9d6c7cc3fee71ec9f822"
+      },
+      {
+        "Domain": "www.dropbox.com",
+        "Value": "763130a34f93d3f617b9dfa40230b565d4f3911951e0e758ac7ca30274fc1ad403520ca76037055c4e1da183367d6ccdb6e4447dd1f94955ef32f4d4eafbf5b1d8d4432291a58f55f49fd03771737c980aeedd"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631305cb3d2988bc2f1c41840a10deba6829fab2c21afc3388f35eafb226fc13f"
+      },
+      {
+        "Domain": "ntp.msn.com",
+        "Value": "763130df55a0bdd3ca8506285754490e1a1d6813337401ffb76776f5467cb585"
+      },
+      {
+        "Domain": ".msn.com",
+        "Value": "763130a939a7edb4503c64f48e36ac5aff7d6c98fad2fc"
+      },
+      {
+        "Domain": ".msn.com",
+        "Value": "763130708485582c52f46c89d79ba4b730f378fad0bcde4a20e07286929aa762dc6ede"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631304f54dbb411638d728ab43193bef74eadfce833e60c6aa3972f474f5f1268984d057da57f9ff5a523768daac2a2b73737184ea306"
+      }
+    ],
+    "Edge-Masterkey": "f83df9297f8a88ca70d28a5e420a6238d91e29f610ccd574407d2407b26138dd",
+    "Passwords": {
+      "1": {
+        "password": "763130abc60602be1dc0884fce410db4c53ac0ddcfc579eb309d8de48d283b879b690af9a8e09369defb5527",
         "url": "https://www.dropbox.com/login",
         "username": "test123@gmail.com"
       }
@@ -87,359 +417,19 @@
   "Firefox": {
     "Cookies": [
       {
-        "host": "accounts.spotify.com",
-        "name": "__Host-device_id",
-        "value": "AQDuhBqCxPgqR6pCdu3hmIuajOpp6Fpr_HsdngogXkCP2yHUim6LmLjutl0WWF1FuGUL7J6W76iaD-SUkp7k85Ez2Z_K1P54Gk0"
-      },
-      {
-        "host": "accounts.spotify.com",
-        "name": "__bon",
-        "value": "MHwwfC04ODg5MzM2Nzd8LTM3MzM1MjE0NDM0fDF8MXwxfDE="
-      },
-      {
-        "host": ".spotify.com",
-        "name": "sp_dc",
-        "value": "AQAZF1f1wYIhh1929mh8pR7Kg0F4t5temhAvmf7VYZI16PLbrhl7EUgsmbP3yLnC7Ng03eo1LfrQnxSW0zDM7YQWkPl_p2ZgAyq3O8dzwCcAeNSblyo7KVN2jmnR6gzURg7wuUGEjd5xuc4h4u8C77aPmbhNNZrW"
-      },
-      {
-        "host": ".spotify.com",
-        "name": "sp_key",
-        "value": "2ce9f1ac-e6e0-4612-839f-4abfa3d9ef97"
-      },
-      {
-        "host": "accounts.spotify.com",
-        "name": "__Host-sp_csrf_sid",
-        "value": "7840624a92359e1ada213153514794bec7a76668890af6d3eedbff76ffc3d1b8"
-      },
-      {
-        "host": ".spotify.com",
-        "name": "OptanonAlertBoxClosed",
-        "value": "2021-11-27T12:10:20.849Z"
-      },
-      {
-        "host": ".linkedin.com",
-        "name": "bcookie",
-        "value": "'v=2&abb7b14c-5ef1-4dff-8675-77bb29edf5b9'"
-      },
-      {
-        "host": ".www.linkedin.com",
-        "name": "bscookie",
-        "value": "'v=1&2021112712102949c970e2-bf57-4cc8-82ff-2bff727d7ed0AQH0uJcvniAlgw8SFODVOXN12dVLC3h3'"
-      },
-      {
-        "host": ".github.com",
-        "name": "_octo",
-        "value": "GH1.1.84300492.1638015034"
-      },
-      {
-        "host": ".www.linkedin.com",
-        "name": "li_rm",
-        "value": "AQGMQMAISF_3EQAAAX1hTgvPPW6l3mfzWvCXyXeE3eHQpstZPhZJLmQh8NbrCf0OGJEYXFuMUuuEYXaOdYMIx8tqaUGN3ivG_YhFLNwOeZzq7cAXj83MYkZY"
-      },
-      {
-        "host": "www.ynet.co.il",
-        "name": "ab-checking",
-        "value": "95"
-      },
-      {
-        "host": "www.ynet.co.il",
-        "name": "dcsyncundefined",
-        "value": "true"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "VISITOR_INFO1_LIVE",
-        "value": "tjjKAWAEmLk"
-      },
-      {
-        "host": ".stackoverflow.com",
-        "name": "prov",
-        "value": "092bfa5c-de5e-6d7a-9931-7687c7b92213"
-      },
-      {
-        "host": "stackoverflow.com",
-        "name": "notice-ssb",
-        "value": "1%3B1638025614614"
-      },
-      {
-        "host": "github.com",
-        "name": "_device_id",
-        "value": "ad4f70e61cd16af5067022ace0674f7f"
-      },
-      {
-        "host": ".github.com",
-        "name": "logged_in",
-        "value": "yes"
-      },
-      {
-        "host": ".github.com",
-        "name": "dotcom_user",
-        "value": "tomp332"
-      },
-      {
-        "host": ".twitter.com",
-        "name": "guest_id_marketing",
-        "value": "v1%3A163803905104080701"
-      },
-      {
-        "host": ".twitter.com",
-        "name": "guest_id_ads",
-        "value": "v1%3A163803905104080701"
-      },
-      {
-        "host": ".twitter.com",
-        "name": "personalization_id",
-        "value": "'v1_vLTclBtKfmZPkfEWAJlF9w=='"
-      },
-      {
-        "host": ".twitter.com",
-        "name": "guest_id",
-        "value": "v1%3A163803905104080701"
-      },
-      {
-        "host": ".twitter.com",
-        "name": "gt",
-        "value": "1464668063815643146"
-      },
-      {
-        "host": ".twitter.com",
-        "name": "kdt",
-        "value": "ORCJ2bPtL4YoCuyyPoM7jWYFH4RygT8AV8oR9d2q"
-      },
-      {
-        "host": ".twitter.com",
-        "name": "auth_token",
-        "value": "e0af1a994385c2f9b8e2293826772c3426593698"
-      },
-      {
-        "host": ".twitter.com",
-        "name": "ct0",
-        "value": "a46f908b59e8b7be975fed41af8c4482c539f9b89a2c799610def7d9aa87f7a4f58947ad26d7ca970fb3e8acac530659238a6ebf2b7465455b4dc1a89c163d7e6677e7a89bbf47834ee5313ea54838db"
-      },
-      {
-        "host": ".twitter.com",
-        "name": "att",
-        "value": "1-wMsoU8OcJ5xqbeGAcIAevvfmES4WGvqQxWlviFgn"
-      },
-      {
-        "host": "account.protonmail.com",
-        "name": "REFRESH-lpmtbm7jqrpno2r2hlg63ew6yi3rarkz",
-        "value": "%7B%22ResponseType%22%3A%22token%22%2C%22ClientID%22%3A%22WebAccount%22%2C%22GrantType%22%3A%22refresh_token%22%2C%22RefreshToken%22%3A%22t2k6pm7g7qgcbb74u2v2uddvu2rsu2f4%22%2C%22UID%22%3A%22lpmtbm7jqrpno2r2hlg63ew6yi3rarkz%22%2C%22RedirectURI%22%3A%22https%3A%5C%2F%5C%2Fmail.protonmail.com%22%7D"
-      },
-      {
-        "host": "account.protonmail.com",
-        "name": "AUTH-lpmtbm7jqrpno2r2hlg63ew6yi3rarkz",
-        "value": "xpkgbrbbiipbf7twcne5ekpjkdkfo4ez"
-      },
-      {
-        "host": "mail.protonmail.com",
-        "name": "REFRESH-ouhgubzku7rhuvzoka4qh6kuldzfe6jy",
-        "value": "%7B%22ResponseType%22%3A%22token%22%2C%22ClientID%22%3A%22WebMail%22%2C%22GrantType%22%3A%22refresh_token%22%2C%22RefreshToken%22%3A%22qy6mvnmktcsgcsbgbgssfb7midn54uvy%22%2C%22UID%22%3A%22ouhgubzku7rhuvzoka4qh6kuldzfe6jy%22%2C%22RedirectURI%22%3A%22https%3A%5C%2F%5C%2Fmail.protonmail.com%22%7D"
-      },
-      {
-        "host": "mail.protonmail.com",
-        "name": "AUTH-ouhgubzku7rhuvzoka4qh6kuldzfe6jy",
-        "value": "g7qcq65d24czkpw7cmn7gynfaff3ebco"
-      },
-      {
-        "host": "www.google.com",
-        "name": "_GRECAPTCHA",
-        "value": "09ABBMTcOSj-gXEeCp0s4C1nyv1Dr6NciKpchAEzYJVbTFbfo7BLH7wfyVcHrNn67h3JQorzI7NL1T2Q8-biq9M4Q"
-      },
-      {
-        "host": "accounts.youtube.com",
-        "name": "CheckConnectionTempCookie551",
-        "value": "221645"
-      },
-      {
-        "host": "mail.google.com",
-        "name": "COMPASS",
-        "value": "gmail=CooBAAlriVctPxmu6CL9N7Ey5fliqL9g18pnGqNzUG8brKN9mqad_WvUS3tIi2UlIHkwT6YrRNsaTQboMdOwQYzfPsYdUIWvwAP2nQ8AUbx9kFXqhjgfo5PLPmD76gej_m1Uy-qAJ71v24QD-oeITiSJLO0eGmQ_zlw0RkqlieuvfLcRr00FOpVXbfCiEPCOj40GGpwBAAlriVf28VIjA9E36Sm2vAqSm1GXZpZUXyZWNRP1sh4YNK3_FsdjAxfv5ZON-9jThQI19FHzjPQVIDvqorcZcSdofJegN8pTgFieANcg1syK3wkkHUVxTIiKBJWKd5fbURPjUi-v4mqZBaG9BxUj0II_PEhs7ynjSsc_rrxWb_dZQBRGifDhsKvJhbxcQDDzcZ-pXw4kviNoHtLT"
-      },
-      {
-        "host": "accounts.google.com",
-        "name": "SMSV",
-        "value": "ADHTe-Brfy4M7XtSTmhPqtuit7McY7USbEeEllR3bCB85s1ZJibwa6vPvoRRHCkuF1bHCtlsQJhYIet9BnlgVbo-Wa2AinBhdfHoNrqiqUzcRelJZMYL_Kc"
-      },
-      {
-        "host": ".google.com",
-        "name": "SID",
-        "value": "EQh5o9U1ezVFI3Nvf3mgObdkerE-DR5ab6ElJlXaTndkxOXTtpezP4ruo52E4ke3Itw5Xg."
-      },
-      {
-        "host": ".google.com",
-        "name": "__Secure-1PSID",
-        "value": "EQh5o9U1ezVFI3Nvf3mgObdkerE-DR5ab6ElJlXaTndkxOXT5rlPbe2g2ZJkRPC8Mw4KLA."
-      },
-      {
-        "host": ".google.com",
-        "name": "__Secure-3PSID",
-        "value": "EQh5o9U1ezVFI3Nvf3mgObdkerE-DR5ab6ElJlXaTndkxOXTUZRqWfj8nMzRkJ_n3-T_cA."
-      },
-      {
-        "host": ".google.com",
-        "name": "HSID",
-        "value": "AItohgBPX0hLI1H2N"
-      },
-      {
-        "host": ".google.com",
-        "name": "SSID",
-        "value": "A_Ts2w_XYN30EPR_v"
-      },
-      {
-        "host": ".google.com",
-        "name": "APISID",
-        "value": "0KuFHdcPVAZl-dai/ArPvBJ37wSxcVD6UD"
-      },
-      {
-        "host": ".google.com",
-        "name": "SAPISID",
-        "value": "ZlhFcusuyJTGx7_P/AhZ7yzqBUI1o_TVWv"
-      },
-      {
-        "host": ".google.com",
-        "name": "__Secure-1PAPISID",
-        "value": "ZlhFcusuyJTGx7_P/AhZ7yzqBUI1o_TVWv"
-      },
-      {
-        "host": ".google.com",
-        "name": "__Secure-3PAPISID",
-        "value": "ZlhFcusuyJTGx7_P/AhZ7yzqBUI1o_TVWv"
-      },
-      {
-        "host": "accounts.google.com",
-        "name": "ACCOUNT_CHOOSER",
-        "value": "AFx_qI53gNglqIJwY2mtTN5tR735S8OzXn2Cj0jEyB3vEvDiBlwmoh1WW-3JP681YkX624RtY9FExdWhwlztgq3b8I-x_muB4YhOtzbDLJmQc2ejkhM6t9Q"
-      },
-      {
-        "host": "mail.google.com",
-        "name": "OSID",
-        "value": "EQh5o8_mH-zBQlMlBV3f9VOvuqYCGbPA_RawVy2pJmXDlHDXPy__yjvn_gAAjfnDJ_36oQ."
-      },
-      {
-        "host": "mail.google.com",
-        "name": "__Secure-OSID",
-        "value": "EQh5o8_mH-zBQlMlBV3f9VOvuqYCGbPA_RawVy2pJmXDlHDXGLpt2UJWVMHDK-DaA3j40A."
-      },
-      {
-        "host": ".youtube.com",
-        "name": "SID",
-        "value": "EQh5o9U1ezVFI3Nvf3mgObdkerE-DR5ab6ElJlXaTndkxOXTtpezP4ruo52E4ke3Itw5Xg."
-      },
-      {
-        "host": ".youtube.com",
-        "name": "__Secure-1PSID",
-        "value": "EQh5o9U1ezVFI3Nvf3mgObdkerE-DR5ab6ElJlXaTndkxOXT5rlPbe2g2ZJkRPC8Mw4KLA."
-      },
-      {
-        "host": ".youtube.com",
-        "name": "__Secure-3PSID",
-        "value": "EQh5o9U1ezVFI3Nvf3mgObdkerE-DR5ab6ElJlXaTndkxOXTUZRqWfj8nMzRkJ_n3-T_cA."
-      },
-      {
-        "host": ".youtube.com",
-        "name": "HSID",
-        "value": "AtAvrWnE43GU2urlL"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "SSID",
-        "value": "AVOuWFmiQtC1-CYdu"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "APISID",
-        "value": "0KuFHdcPVAZl-dai/ArPvBJ37wSxcVD6UD"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "SAPISID",
-        "value": "ZlhFcusuyJTGx7_P/AhZ7yzqBUI1o_TVWv"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "__Secure-1PAPISID",
-        "value": "ZlhFcusuyJTGx7_P/AhZ7yzqBUI1o_TVWv"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "__Secure-3PAPISID",
-        "value": "ZlhFcusuyJTGx7_P/AhZ7yzqBUI1o_TVWv"
-      },
-      {
-        "host": "mail.google.com",
-        "name": "__Host-GMAIL_SCH_GMN",
-        "value": "1"
-      },
-      {
-        "host": "mail.google.com",
-        "name": "__Host-GMAIL_SCH_GMS",
-        "value": "1"
-      },
-      {
-        "host": "mail.google.com",
-        "name": "__Host-GMAIL_SCH_GML",
-        "value": "1"
-      },
-      {
-        "host": ".google.com",
-        "name": "SEARCH_SAMESITE",
-        "value": "CgQIj5QB"
-      },
-      {
-        "host": "chat.google.com",
-        "name": "OSID",
-        "value": "EQh5o689suqt9TGCy01vU2R2pvNcKo6DMJegk1phQeoX_k1e97k_9Km1gJV9wrRhbk7dzg."
-      },
-      {
-        "host": "chat.google.com",
-        "name": "__Secure-OSID",
-        "value": "EQh5o689suqt9TGCy01vU2R2pvNcKo6DMJegk1phQeoX_k1e7iNf8fWCgl02OHIsxC27oA."
-      },
-      {
-        "host": "ogs.google.com",
-        "name": "OTZ",
-        "value": "6263597_48_48_120960_44_365700"
-      },
-      {
-        "host": "contacts.google.com",
-        "name": "OTZ",
-        "value": "6263597_48_48_120960_44_365700"
-      },
-      {
-        "host": "mail.google.com",
-        "name": "GMAIL_STAT_1500",
-        "value": "/S:v=2&a=u&sv=cv&ev=ti&t=111&i=47&id=61&hc=6&sp=1&ai=mail%3Au.1500.10.1/S:v=2&a=%23&sv=ti&ev=ti&t=166&id=17&hc=6&sp=1&ai=mail%3A%23.1500.11.0/S:v=2&a=%23&sv=ti&ev=ti&t=437&id=21&hc=6&sp=1&ai=mail%3A%23.1500.12.0"
-      },
-      {
-        "host": "mail.google.com",
-        "name": "GMAIL_STAT_894c",
-        "value": "/S:v=2&a=%23&sv=cv&ev=ti&t=155&i=12&id=34&hc=6&sp=1&ai=mail%3A%23.894c.4.2/S:v=2&a=o&sv=ti&ev=cv&t=98&i=54&id=20&hc=6&sp=1&ai=mail%3Ao.894c.5.0/S:v=2&a=u&sv=cv&ev=ti&t=166&i=36&id=13&hc=6&sp=1&ai=mail%3Au.894c.6.1"
-      },
-      {
-        "host": "loglogin.lastpass.com",
-        "name": "PHPSESSID",
-        "value": "g4dav1kpc096abtoof8p3j6l2ht"
-      },
-      {
-        "host": ".stackoverflow.com",
-        "name": "OptanonAlertBoxClosed",
-        "value": "2021-11-30T13:43:02.126Z"
-      },
-      {
-        "host": ".stackoverflow.com",
-        "name": "OptanonConsent",
-        "value": "isIABGlobal=false&datestamp=Tue+Nov+30+2021+15%3A43%3A02+GMT%2B0200+(Israel+Standard+Time)&version=6.10.0&hosts=&landingPath=NotLandingPage&groups=C0003%3A1%2CC0004%3A1%2CC0002%3A1%2CC0001%3A1"
+        "host": ".bing.com",
+        "name": "SUID",
+        "value": "M"
       },
       {
         "host": ".bing.com",
         "name": "MUID",
-        "value": "3B981C4EF1B16B1633420CB1F00A6A18"
+        "value": "1EA82EAC616161661FBB3E5360B36046"
       },
       {
         "host": "www.bing.com",
         "name": "MUIDB",
-        "value": "3B981C4EF1B16B1633420CB1F00A6A18"
+        "value": "1EA82EAC616161661FBB3E5360B36046"
       },
       {
         "host": ".bing.com",
@@ -454,32 +444,367 @@
       {
         "host": ".bing.com",
         "name": "SRCHUID",
-        "value": "V=2&GUID=43CEEED3D17745B4AC93B3B8E8BCA58E&dmnchg=1"
+        "value": "V=2&GUID=818A92EA029D4EC3B19560D5AC026917&dmnchg=1"
+      },
+      {
+        "host": ".bing.com",
+        "name": "SRCHUSR",
+        "value": "DOB=20211130&T=1638262622000"
+      },
+      {
+        "host": "login.microsoftonline.com",
+        "name": "buid",
+        "value": "0.AQsAMe_N-B6jSkuT5F9XHpElWnmtoZ62_ZpPi8MrcPluNMcBAAA.AQABAAEAAAD--DLA3VO7QrddgJg7WevrSMpGYkYHmGFu1vkFfCSQki4t0ldfTCCOZq5m3WMnsgQMwwzw3Mit57OLmij8Dxhv4x0lKYpwDBsHMj5Dn5_6qyIZQ0YmtuzFP9382ZdamBIgAA"
+      },
+      {
+        "host": "login.microsoftonline.com",
+        "name": "fpc",
+        "value": "Amj0AC0-0jxHvysl_KTL_n6CeMQLAQAAAF_eN9kOAAAA"
       },
       {
         "host": "www2.bing.com",
         "name": "MUIDB",
-        "value": "3B981C4EF1B16B1633420CB1F00A6A18"
+        "value": "1EA82EAC616161661FBB3E5360B36046"
+      },
+      {
+        "host": ".stackoverflow.com",
+        "name": "prov",
+        "value": "16b896ad-211f-ea18-a8e8-0de5a7d2011f"
+      },
+      {
+        "host": ".ti.com",
+        "name": "ak_bmsc",
+        "value": "6A123C48402F9AB44976CE0EA21F801F~000000000000000000000000000000~YAAQt7RmUjDNcSx9AQAAfdIccA1L4H8b5lJegkpMejhNTKQhdS3WQiAafFyAzpRmL+mywgn7aAkeAM7z2SwO5Kgcdh/9SZ1BfY/90HNjtyi/tMwuy0le6TG98A4k67G1msiHePNevX2ac6KeL1dvNh7mZNVS1mZmQPyf9CfDSojTtkcvS0B/5xfdQWcDlnWHtGbfqyoi0UuK8Q630VEJ3Hl8NkoRYgany5SbI6oGcS2YNRvc5s8DIzUpFQJ41fPCJchmgzGfcxf2GQS5Hpw0BTkjyjn7L/cn3cmtMFmywlFqK2gvNMQ4+15BwWfHkW05C4oyLx+WY1DwfHeE6FH+ZKLztgjq4UPKV7QT6KSEtITPVSvxcUoeAHT0jg=="
+      },
+      {
+        "host": "e2e.ti.com",
+        "name": "AWSALB",
+        "value": "MXtlJNC1qf+KbTbNqyU6VwM+G5cO9gSMVzCJS/4ygrj1FGHMJAec2vbL9S94bqH4S2SwyciSXNNx1JtrJXRw9UFzWK2w15L9AIZAl6B6yHedZONSMxl5yaKzkrC4"
+      },
+      {
+        "host": "e2e.ti.com",
+        "name": "AWSALBCORS",
+        "value": "MXtlJNC1qf+KbTbNqyU6VwM+G5cO9gSMVzCJS/4ygrj1FGHMJAec2vbL9S94bqH4S2SwyciSXNNx1JtrJXRw9UFzWK2w15L9AIZAl6B6yHedZONSMxl5yaKzkrC4"
+      },
+      {
+        "host": ".ti.com",
+        "name": "bm_sv",
+        "value": "59EF256E61F96E93A19C2F63ABDC5532~pZP6G0CcCY9PUzGB1JZqRnTSqVHY3eUe0JNvi9Bufd5aNk5AKiqT9lJuB4QtP5BFdELP3Fyj6bA45yFIqersCP/2n4Ol+baPE7FiPhUviCXjeQ8hwWsLUJkMDcoVDrK6DdsLe46UtJi9IVlts01a3g=="
+      },
+      {
+        "host": "www.codeguru.com",
+        "name": "advanced_ads_page_impressions",
+        "value": "1"
+      },
+      {
+        "host": "www.codeguru.com",
+        "name": "advanced_ads_browser_width",
+        "value": "1903"
+      },
+      {
+        "host": "lastpass.com",
+        "name": "lp_anonymousid",
+        "value": "69b26037-6000-4e07-bd8b-50d3d7a96235"
+      },
+      {
+        "host": ".stackoverflow.com",
+        "name": "OptanonAlertBoxClosed",
+        "value": "2021-11-30T09:39:20.453Z"
+      },
+      {
+        "host": ".stackoverflow.com",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Tue+Nov+30+2021+01%3A39%3A20+GMT-0800+(Pacific+Standard+Time)&version=6.10.0&hosts=&landingPath=NotLandingPage&groups=C0003%3A1%2CC0004%3A1%2CC0002%3A1%2CC0001%3A1"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "anspress_session",
+        "value": "a549f2fc7088b6088506a70caf7ec36b"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "cookielawinfo-checkbox-necessary",
+        "value": "yes"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "cookielawinfo-checkbox-functional",
+        "value": "no"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "cookielawinfo-checkbox-performance",
+        "value": "no"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "cookielawinfo-checkbox-analytics",
+        "value": "no"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "cookielawinfo-checkbox-advertisement",
+        "value": "no"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "cookielawinfo-checkbox-others",
+        "value": "no"
+      },
+      {
+        "host": "www.google.com",
+        "name": "_GRECAPTCHA",
+        "value": "09ABBMTcO5XeuN5YP55iENqO_shqODhtVcF4EHld7Z9KkOxeVkbGotKr9WYrilHiU8d18Ol3-3OuqOJ2KPqIl0kB8"
+      },
+      {
+        "host": ".ired.team",
+        "name": "amp_fef1e8",
+        "value": "2ff1f860-f09a-4f1a-94ef-47be0c3de9d7R...1flo3h0f2.1flo3h1d8.1.1.2"
+      },
+      {
+        "host": ".memberful.com",
+        "name": "__cf_bm",
+        "value": "qamW50HRKRdlZEazv0ASz0W1fpi42MW0hrybIByZ9KQ-1638265966-0-AXkshTGuVXi4k70DxP2HLzmUDbDwETM/sgjeehK7QzViulrcNdBO9GnwiDxk+4IMnHjhcfz+YToe3X8eA0vmYcY="
+      },
+      {
+        "host": "m.stripe.com",
+        "name": "m",
+        "value": "00174da8-ecef-4c72-ad5e-f504701df008fd9cb4"
+      },
+      {
+        "host": ".marketplace.visualstudio.com",
+        "name": "Gallery-Service-UserIdentifier",
+        "value": "65332362-8dc7-4649-9b71-8d36a1083201"
+      },
+      {
+        "host": ".visualstudio.com",
+        "name": "MSCC",
+        "value": "NR"
+      },
+      {
+        "host": "marketplace.visualstudio.com",
+        "name": "Market_SelectedTab",
+        "value": "vscode"
+      },
+      {
+        "host": ".superuser.com",
+        "name": "prov",
+        "value": "cabf6dc8-fe95-fbd2-2f22-2173297cb6a6"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/wincred/nf-wincred-creduipromptforcredentialsa"
+      },
+      {
+        "host": "www.oreilly.com",
+        "name": "BrowserCookie",
+        "value": "b326cdc0-5992-46d4-9560-787afe1776ca"
+      },
+      {
+        "host": "www.oreilly.com",
+        "name": "csrftoken",
+        "value": "IZSDcqWF2f5lytdxmhSOHi3ympkLI2chK5Lmj3ZeHBHyG2VjPqbui7kqoKuDI5W1"
       },
       {
         "host": ".codeproject.com",
         "name": "vk",
-        "value": "c5b0d9e7-87de-449a-a106-7aae2c2056a7"
+        "value": "fc48922c-d35b-4844-91c1-05517256ba8c"
+      },
+      {
+        "host": "groups.google.com",
+        "name": "OTZ",
+        "value": "6269347_88_88_104280_84_446940"
+      },
+      {
+        "host": "social.technet.microsoft.com",
+        "name": ".ASPXANONYMOUS",
+        "value": "of-HynAG2QEkAAAAZDE1YTZlNDUtODljYy00MDhlLWEzNWQtNzI5Y2E0YmMyYmIxJczjIqABf2hQRYfgQcgPl8EMyf6ODC-kgikTOdcVb8E1"
+      },
+      {
+        "host": "stackoverflow.com",
+        "name": "notice-ssb",
+        "value": "1%3B1638464952006"
+      },
+      {
+        "host": ".visualstudio.com",
+        "name": "mbox",
+        "value": "session#866a0366d89a41d7816708b78c2f2024#1638466952"
+      },
+      {
+        "host": ".geeksforgeeks.org",
+        "name": "gfg_nluid",
+        "value": "59476b1629079951b36f4c91f85852e3"
+      },
+      {
+        "host": "www.experts-exchange.com",
+        "name": "AWSALB",
+        "value": "VIDf2qNWjsiEAwKrKShX9RRnLevNeHU6EaWMzVIHfm4dGD9ZuNdrAzG8EEOgvXNTHyzx7cytEe1JrOW+C1vG5U5xJ0UOXwNxCLlDAZ5VY65OwlTrVfaDUeVrbmDM"
+      },
+      {
+        "host": "www.experts-exchange.com",
+        "name": "AWSALBCORS",
+        "value": "VIDf2qNWjsiEAwKrKShX9RRnLevNeHU6EaWMzVIHfm4dGD9ZuNdrAzG8EEOgvXNTHyzx7cytEe1JrOW+C1vG5U5xJ0UOXwNxCLlDAZ5VY65OwlTrVfaDUeVrbmDM"
+      },
+      {
+        "host": "www.experts-exchange.com",
+        "name": "dd_cookie_test_2ae127bc-e0e3-429f-a69d-558f2838e0be",
+        "value": "test"
+      },
+      {
+        "host": "www.experts-exchange.com",
+        "name": "_dd_s",
+        "value": "rum=0&expire=1638467393510"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/windows/desktop/api/lmwksta/nf-lmwksta-netwkstagetinfo"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/lmwksta/nf-lmwksta-netwkstagetinfo"
+      },
+      {
+        "host": "accounts.google.com",
+        "name": "__Host-GAPS",
+        "value": "1:OYun2hZItQM2pr-ddLsCzMnsNfL05A:wPHAsytnHjZ1FCdl"
       },
       {
         "host": "social.msdn.microsoft.com",
         "name": ".ASPXANONYMOUS",
-        "value": "tWisfsUE2QEkAAAAMGYyNjZhMjctZjg2OC00OGViLTljNzQtYTJhZmFhNzRhODgw6SJoTs_d93pE_vcJxcomm5AbqenHkjrdNBO2s7f9VWE1"
+        "value": "m4ZhqHUG2QEkAAAAYTRkYmI4NWItMGE4Zi00Y2VmLWI3MGMtYzg0NjgyYjRkZDc3UcJJgd0XKVmz84etM09PpkpcFhzVd4T2FZi37am5CCQ1"
+      },
+      {
+        "host": "5a3318f6fcc34e41bf99d46845944055.svc.dynamics.com",
+        "name": "79f08280-5c63-4331-b04d-fb6f39afda51",
+        "value": "B_ViENcsTmXsYvYFn1jTeA0krNpothc3bUKOZmut_K8"
+      },
+      {
+        "host": "visualstudio.microsoft.com",
+        "name": "msd365mkttr",
+        "value": "Me_fPfZ0tFB28Jim44jPiKfUU3dTupmJIfkiJyyR"
+      },
+      {
+        "host": ".github.com",
+        "name": "_octo",
+        "value": "GH1.1.99586498.1638605263"
+      },
+      {
+        "host": "gitlab.com",
+        "name": "experimentation_subject_id",
+        "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqaGlPRFl6TjJRd0xXVTVaVFF0TkRjNE55MWlaVGM0TFdVeVpUSTVOVE5oTUdFd01pST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--49b402671d82a5b23cf141a8b09147d1769dbe07"
+      },
+      {
+        "host": "gitlab.com",
+        "name": "_gitlab_session",
+        "value": "ed6ba90471e87211dba11cde739031d8"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "guest_id_marketing",
+        "value": "v1%3A163861330538560075"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "guest_id_ads",
+        "value": "v1%3A163861330538560075"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "personalization_id",
+        "value": "'v1_Q4scDFQTRBdlZtqFubfrcw=='"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "guest_id",
+        "value": "v1%3A163861330538560075"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "ct0",
+        "value": "2bf0856dac3a2e126138845cfaff64b0"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "gt",
+        "value": "1467076658167525380"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "att",
+        "value": "1-XWUmZ4AImd3PHSwaYboxtWBKnAzlqQVMgktW31Gh"
+      },
+      {
+        "host": "github.com",
+        "name": "_device_id",
+        "value": "a6b2728623437eee26886453c4fed749"
+      },
+      {
+        "host": ".github.com",
+        "name": "logged_in",
+        "value": "yes"
+      },
+      {
+        "host": ".github.com",
+        "name": "dotcom_user",
+        "value": "tomp332"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezosuigeneris-0",
+        "value": "536a546a0a4884a43825f1b4a5c629ca"
+      },
+      {
+        "host": "cpp.hotexamples.com",
+        "name": "ezux_lpl_110793",
+        "value": "1638647462480|5fad26ef-5fab-40c8-61c0-726baec344f7|true"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/cpp/build/adding-references-in-visual-cpp-projects"
+      },
+      {
+        "host": "gist.github.com",
+        "name": "gist_user_session",
+        "value": "8ZWEeNyl-DO2yYuCliur7CryMkuajo1tNei-YyK7noTbIDAm"
+      },
+      {
+        "host": "gist.github.com",
+        "name": "__Host-gist_user_session_same_site",
+        "value": "8ZWEeNyl-DO2yYuCliur7CryMkuajo1tNei-YyK7noTbIDAm"
+      },
+      {
+        "host": "gist.github.com",
+        "name": "has_recent_activity",
+        "value": "1"
       },
       {
         "host": "social.msdn.microsoft.com",
         "name": "MicrosoftApplicationsTelemetryDeviceId",
-        "value": "911d65dd-b173-469b-b152-c4dfd9ea3617"
+        "value": "d245c59a-a911-4cbc-b76b-b0cf6ae8b7a9"
       },
       {
         "host": "social.msdn.microsoft.com",
         "name": "ai_session",
-        "value": "qjy0moR0ngwVnDgso23b4J|1638281430393|1638281430393"
+        "value": "9wkz9v5Woxnq9x2zKQPeTB|1638730687312|1638730687312"
+      },
+      {
+        "host": "loglogin.lastpass.com",
+        "name": "PHPSESSID",
+        "value": "lovu99svjfm58lr27afgruirt9e"
+      },
+      {
+        "host": "cboard.cprogramming.com",
+        "name": "bb_lastvisit",
+        "value": "1638731816"
+      },
+      {
+        "host": "cboard.cprogramming.com",
+        "name": "bb_lastactivity",
+        "value": "0"
       },
       {
         "host": ".www.codegrepper.com",
@@ -487,224 +812,304 @@
         "value": "google"
       },
       {
-        "host": "www.google.com",
-        "name": "OTZ",
-        "value": "6266375_48_48_120960_44_365700"
+        "host": "community.adobe.com",
+        "name": "LithiumCookiesAccepted",
+        "value": "0"
       },
       {
-        "host": ".okteto.com",
-        "name": "mp_92fe782cdffa212d8f03861fbf1ea301_mixpanel",
-        "value": "%7B%22distinct_id%22%3A%20%2217d7263f95c33e-0f45a8b6f9468c-4c3e217e-1fa400-17d7263f95d43c%22%2C%22%24device_id%22%3A%20%2217d7263f95c33e-0f45a8b6f9468c-4c3e217e-1fa400-17d7263f95d43c%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%7D"
+        "host": ".adobe.com",
+        "name": "sat_domain",
+        "value": "A"
       },
       {
-        "host": ".okteto.com",
-        "name": "messagesUtk",
-        "value": "ade902741ab24c7c900534147acb968f"
+        "host": "community.adobe.com",
+        "name": "VISITOR_BEACON",
+        "value": "~2REFoGH968bDSGd89~I62HC6eGFPhGOa_qtNLS93XH2HNh4Q0fdojlgJagopupJ7VuBqZNBnWJxxTf3tLF2nfyi6s3YPsM06eBtM9mdw.."
       },
       {
-        "host": ".fonts.net",
-        "name": "__cf_bm",
-        "value": "jTbXKiFqPH52nMcTBzhfBpaKxHnvYoWHQSoOkg6yqNY-1638304527-0-AYv/mFLdD6MsrTs1i6I2Enys7TlBveGz2O9y7UBtfke2OfMzMEMF9LQQo5Hv5LisnLTXna8Y9+qhfhqexGShpBU="
+        "host": ".adobe.com",
+        "name": "sat_domain",
+        "value": "A"
       },
       {
-        "host": ".kite.com",
-        "name": "mp_fb6b9b336122a8b29c60f4c28dab6d03_mixpanel",
-        "value": "%7B%22distinct_id%22%3A%20%2217d728f350a58-0e1d7588a0008c8-4c3e217e-1fa400-17d728f350b66%22%2C%22%24device_id%22%3A%20%2217d728f350a58-0e1d7588a0008c8-4c3e217e-1fa400-17d728f350b66%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%7D"
+        "host": ".adobe.com",
+        "name": "s_nr",
+        "value": "1638731988487-New"
       },
       {
-        "host": ".kite.com",
-        "name": "_ga",
-        "value": "GA1.2.1591480194.1638304528"
+        "host": "community.adobe.com",
+        "name": "community.language",
+        "value": "en"
       },
       {
-        "host": ".kite.com",
-        "name": "_gid",
-        "value": "GA1.2.1684358349.1638304528"
+        "host": ".adobe.com",
+        "name": "fg",
+        "value": "V77SPBWGFLE5ATECFAQBRHQANM======"
       },
       {
-        "host": "www.programcreek.com",
-        "name": "ezds",
-        "value": "ffid%3D1%2Cw%3D1920%2Ch%3D1080"
+        "host": ".adobe.com",
+        "name": "feds_privacy_consent",
+        "value": "{'hasUserProvidedConsent':true,'userHasCustomConsent':false}"
       },
       {
-        "host": "www.programcreek.com",
-        "name": "ezohw",
-        "value": "w%3D1920%2Ch%3D919"
-      },
-      {
-        "host": ".programcreek.com",
-        "name": "ezoab_55920",
-        "value": "mod96"
-      },
-      {
-        "host": ".programcreek.com",
-        "name": "ezoadgid_55920",
-        "value": "-1"
-      },
-      {
-        "host": ".programcreek.com",
-        "name": "ezoref_55920",
-        "value": "programcreek.com"
-      },
-      {
-        "host": ".programcreek.com",
-        "name": "ezosuigeneris-0",
-        "value": "536a546a0a4884a43825f1b4a5c629ca"
-      },
-      {
-        "host": ".programcreek.com",
-        "name": "ezovid_55920",
-        "value": "1864585268"
-      },
-      {
-        "host": ".programcreek.com",
-        "name": "lp_55920",
-        "value": "https://www.programcreek.com/python/example/103340/colored.fg"
-      },
-      {
-        "host": ".programcreek.com",
-        "name": "ezovuuidtime_55920",
-        "value": "1638305611"
-      },
-      {
-        "host": ".programcreek.com",
-        "name": "ezovuuid_55920",
-        "value": "a9311419-e955-4252-40ea-a0884eb22b62"
-      },
-      {
-        "host": ".programcreek.com",
-        "name": "active_template::55920",
-        "value": "pub_site.1638305611"
-      },
-      {
-        "host": ".programcreek.com",
-        "name": "ezopvc_55920",
+        "host": ".adobe.com",
+        "name": "OptanonChoice",
         "value": "1"
       },
       {
-        "host": ".programcreek.com",
-        "name": "ezepvv",
-        "value": "395"
+        "host": "community.adobe.com",
+        "name": "AWSALB",
+        "value": "6sX4yebdbddSpzlG3vKgrnBLm1buTM7s9BkQkXq20nbXS3vPVvI9SXECBBMB0/vqqVSYpztY77yxKU1ZSV3mEpawXLbkNEKXRk7xW9ULLWWy7ydGUea8JJ+B688/"
       },
       {
-        "host": ".ni.com",
-        "name": "__cf_bm",
-        "value": "q9Rr6gBeuKB.dnoByxUyZ5qJyv.xQauwZ9e.a8w.Iyg-1638305640-0-AYWfRnlRbwmQzmuEdAi1F4lvZI/ByCwaMWO+apzQwfAHNMLqLMAMrdugvtUT1fXm+PDBAJVSyvnqe+LeYV8g7/U="
+        "host": "community.adobe.com",
+        "name": "AWSALBCORS",
+        "value": "6sX4yebdbddSpzlG3vKgrnBLm1buTM7s9BkQkXq20nbXS3vPVvI9SXECBBMB0/vqqVSYpztY77yxKU1ZSV3mEpawXLbkNEKXRk7xW9ULLWWy7ydGUea8JJ+B688/"
       },
       {
-        "host": ".ni.com",
-        "name": "locale",
-        "value": "en-IL"
+        "host": "community.adobe.com",
+        "name": "LithiumVisitor",
+        "value": "~2xYlzegiIXPIZ2UTy~Q_V17vqX3TCSLAOVUetYGZgR9klea4Dl7fyE5G4jgZfd8CcIp-yV1KywXik6FZW2CPGJd9cSdDUp0YQitRdtvQ.."
       },
       {
-        "host": ".ni.com",
-        "name": "s_adserv",
-        "value": "ni-prd"
-      },
-      {
-        "host": ".ni.com",
-        "name": "s_dfa",
-        "value": "ni-prd"
-      },
-      {
-        "host": ".ni.com",
-        "name": "AMCV_B3902DB45388D9620A490D4C%40AdobeOrg",
-        "value": "-2121179033%7CMCIDTS%7C18962%7CMCMID%7C92183625002572120833587382793647612882%7CMCAID%7CNONE%7CMCOPTOUT-1638312867s%7CNONE%7CvVersion%7C5.3.0"
-      },
-      {
-        "host": ".ni.com",
+        "host": ".adobe.com",
         "name": "gpv",
-        "value": "zone.ni.com%2Freference%2Fen-XX%2Fhelp%2F371361R-01%2Flvprop%2Ftabctrl_clrsfg_clr%2F"
+        "value": "community.adobe.com:t5:indesign:conversationPage"
       },
       {
-        "host": ".ni.com",
-        "name": "gpv_dpn",
-        "value": "support%3Adocumentation%3Adetail%3Acolors%3Afg%20color%20property%20-%20labview%202018%20help"
+        "host": ".adobe.com",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Sun+Dec+05+2021+11%3A20%3A01+GMT-0800+(Pacific+Standard+Time)&version=6.9.0&hosts=&consentId=5f387de0-dac3-4efc-ad5f-79e0c0acb642&interactionCount=1&landingPath=https%3A%2F%2Fcommunity.adobe.com%2Ft5%2Findesign-discussions%2Fconvert-an-image-file-to-base64-or-other-string-value%2Fm-p%2F3769424&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1"
       },
       {
-        "host": ".ni.com",
-        "name": "gpv_di",
-        "value": "371361R-01"
-      },
-      {
-        "host": ".ni.com",
+        "host": ".adobe.com",
         "name": "s_vs",
         "value": "1"
       },
       {
-        "host": ".ni.com",
-        "name": "gpv_profile",
-        "value": "not%20logged%20in"
-      },
-      {
-        "host": ".ni.com",
-        "name": "gpv_ps",
-        "value": "no%20value"
-      },
-      {
-        "host": ".geeksforgeeks.org",
-        "name": "gfg_nluid",
-        "value": "8514bc4f5a5029977ada3824578178fa"
-      },
-      {
-        "host": ".geeksforgeeks.org",
-        "name": "gfg_theme",
-        "value": "gfgThemeDark"
-      },
-      {
-        "host": "lastpass.com",
-        "name": "lp_anonymousid",
-        "value": "cda319d3-1f20-49cb-ba6f-c7ea87b5e542"
-      },
-      {
-        "host": ".hotexamples.com",
-        "name": "ezopvc_110793",
+        "host": ".adobe.com",
+        "name": "s_cpc",
         "value": "1"
       },
       {
-        "host": ".hotexamples.com",
-        "name": "ezepvv",
-        "value": "465"
+        "host": ".adobe.com",
+        "name": "AMCV_9E1005A551ED61CA0A490D45%40AdobeOrg",
+        "value": "870038026%7CMCMID%7C44678617538589927245338922777180881512%7CMCAID%7CNONE%7CMCOPTOUT-1638739201s%7CNONE%7CvVersion%7C5.0.0"
       },
       {
-        "host": ".hotexamples.com",
-        "name": "ezovid_110793",
-        "value": "785860318"
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/cpp/error-messages/tool-errors/linker-tools-error-lnk1120"
       },
       {
-        "host": ".hotexamples.com",
-        "name": "lp_110793",
-        "value": "https://cpp.hotexamples.com/examples/-/-/LogonUser/cpp-logonuser-function-examples.html"
+        "host": ".microsoft.com",
+        "name": "mbox",
+        "value": "session#9ac4d146f7154516a204e194fac89a93#1639145169|PC#9ac4d146f7154516a204e194fac89a93.37_0#1673330009"
       },
       {
-        "host": ".hotexamples.com",
-        "name": "ezovuuidtime_110793",
-        "value": "1638511824"
+        "host": ".visualstudio.com",
+        "name": "VstsSession",
+        "value": "%7B%22PersistentSessionId%22%3A%227130a805-f5c4-4981-9c2b-d5325bf1d974%22%2C%22PendingAuthenticationSessionId%22%3A%22dd890bfa-d4a8-4f0e-96e1-a2b5269bcc50%22%2C%22CurrentAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22SignInState%22%3A%7B%22app.vssps.visualstudio.com%22%3A%7B%22LastSignInTick%22%3A637747401111267381%2C%22SignInCount%22%3A1%7D%7D%7D"
       },
       {
-        "host": ".hotexamples.com",
-        "name": "ezovuuid_110793",
-        "value": "acf2d367-c58c-4e7a-549a-9845c9f698f9"
+        "host": "visualstudio.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "5fd28488-89e3-49a8-8cca-f1517579cb60"
       },
       {
-        "host": "cpp.hotexamples.com",
-        "name": "ezds",
-        "value": "ffid%3D1%2Cw%3D1536%2Ch%3D864"
+        "host": "visualstudio.microsoft.com",
+        "name": "ai_session",
+        "value": "wUTnp5LEYoSzpETOxpHJkj|1639143308072|1639143313261"
       },
       {
-        "host": "cpp.hotexamples.com",
-        "name": "ezohw",
-        "value": "w%3D1536%2Ch%3D703"
+        "host": ".codeproject.com",
+        "name": "lpk",
+        "value": "9rkV1ir5U48bUhcZl15DAWUERih%2bI7%2bfyeWrwjj8zTO7XaMUrKJ8DY3Xr9ydlz0LnYue3TZqcBXmoF7aly155sAjm8vWQJr7F6FlmSTru3E17NfuvrYqgD3gRSE3%2fdme"
       },
       {
-        "host": "cpp.hotexamples.com",
-        "name": "ezux_lpl_110793",
-        "value": "1638511831702|82ac661c-36aa-4c8a-67b7-7a6a163ead59|false"
+        "host": ".codeproject.com",
+        "name": "mguid",
+        "value": "d3ebc9b7-cefd-4934-88c7-242706fc10b8"
       },
       {
-        "host": ".hotexamples.com",
-        "name": "ezoab_110793",
-        "value": "mod13-c"
+        "host": "pollserver.lastpass.com",
+        "name": "PHPSESSID",
+        "value": "lovu99svjfm58lr27afgruirt9e"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/processthreadsapi/nf-processthreadsapi-getpriorityclass"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/ProcThread/process-creation-flags"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/breadcrumb/toc.json"
+      },
+      {
+        "host": ".serverfault.com",
+        "name": "prov",
+        "value": "31d0a8ef-6ede-149e-6c8e-508ebc74fcc4"
+      },
+      {
+        "host": "www.itprotoday.com",
+        "name": "penton_gdpr_cookie",
+        "value": "1"
+      },
+      {
+        "host": "talk.hyvor.com",
+        "name": "talksess",
+        "value": "TVENucrSsOXOlLxSNXtouHNwpZj8uHDrmKBpLbD6"
+      },
+      {
+        "host": "adamtheautomator.com",
+        "name": "__adblocker",
+        "value": "true"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/start-sleep"
+      },
+      {
+        "host": "social.technet.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "ae0bdef1-5c87-4032-a59d-9895dfab6c57"
+      },
+      {
+        "host": "social.technet.microsoft.com",
+        "name": "ai_session",
+        "value": "szpiQkfWM8JTvr17/EYRZ0|1639148668579|1639149794667"
+      },
+      {
+        "host": ".www.pluralsight.com",
+        "name": "__cf_bm",
+        "value": "jzxcHWYiJ..Ngw_hWm8W_rOUY5BxKdrflH2ZwHY_Dpo-1639149866-0-AWd0o1Zyxva40Alm+0BFPA1UZtZwz0KGBiv93YRuC0hMmPShJqchD6LkEYIgw7vVnIbbt4djKFqoXXmHp7HK0sU="
+      },
+      {
+        "host": ".pluralsight.com",
+        "name": "ps_trk",
+        "value": "1"
+      },
+      {
+        "host": ".pluralsight.com",
+        "name": "fv",
+        "value": "1"
+      },
+      {
+        "host": "www.pluralsight.com",
+        "name": "drift_ab",
+        "value": "B"
+      },
+      {
+        "host": "www.pluralsight.com",
+        "name": "ps_visNum",
+        "value": "1"
+      },
+      {
+        "host": "www.pluralsight.com",
+        "name": "ps_infl",
+        "value": "1"
+      },
+      {
+        "host": ".pluralsight.com",
+        "name": "profileScores",
+        "value": "0|0|0|0|0|0|1|0"
+      },
+      {
+        "host": ".pluralsight.com",
+        "name": "AMCV_70D658CC558978FF7F000101%40AdobeOrg",
+        "value": "-1124106680%7CMCIDTS%7C18972%7CMCMID%7C72712435699455409660356090601536399032%7CMCAID%7CNONE%7CMCOPTOUT-1639157069s%7CNONE%7CvVersion%7C5.2.0"
+      },
+      {
+        "host": ".pluralsight.com",
+        "name": "mbox",
+        "value": "session#c482b70952a64178b580033c36a7801e#1639151730"
+      },
+      {
+        "host": "forums.codeguru.com",
+        "name": "vb_lastvisit",
+        "value": "1638464653"
+      },
+      {
+        "host": "forums.codeguru.com",
+        "name": "vb_lastactivity",
+        "value": "0"
+      },
+      {
+        "host": "docs.w3cub.com",
+        "name": "tp",
+        "value": "1"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/breadcrumb/toc.json"
+      },
+      {
+        "host": "lastpass.com",
+        "name": "PHPSESSID",
+        "value": "lovu99svjfm58lr27afgruirt9e"
+      },
+      {
+        "host": ".lastpass.com",
+        "name": "ak_bmsc",
+        "value": "E408FF637DEBD997DF93FB08B23F9508~000000000000000000000000000000~YAAQs1CMTw2hUC59AQAAkpxFqA6RFbn9um/Thn8bWvUXU96+cH4FlQVwMdd3t1+fF4r+zBXVK6AICtS4wxbrrnxyqkLYUg2/Ze7CLEXPG7BEVan1/ho7sURUoZ8uOtcDE6jKhNBcIMVWKqjeuZJM5tmXV9QJHzUuc6QyYYt8LZWvb/EUd5fWItVWDNrxFJRgWEfuGuQlWhWXOUKd2yTb3VXvUhg3xyJbLDmzzavsGpLc5i/zwuqgv29VD2jA1LSscb8b5i28pMaFxfHCOlPeD8QrFVtep7cG/93Eyj5TIjv/yZMb3dn/rVEMul/1gOEIbBM+SG+lMvUWzB5thf0Ndxn7UqgMSMp2QWnnztrqdi+8CzMHWAC1yt7kqBcJKPKLENiyzsv6CbimZ3A="
+      },
+      {
+        "host": ".lastpass.com",
+        "name": "lang",
+        "value": "en_US"
+      },
+      {
+        "host": ".lastpass.com",
+        "name": "bm_sv",
+        "value": "51D486059820DDF42561739B5DE5D041~iGDwoJ+p2HFKvbdALvUtaulC8o1PAwQgzOaNz0QKrjxBUnuJCCHcNrAJYOOVROiuP2Xma4e6CnqKfh43Q+RdpgvWCUFYz4+oTjhkPNWcvlcJeGTS5kHrER3c3TV4lv8yzPZt+GxdspWGhbOoj0kRwFa4d2UrmNXGvuIQc+P72kM="
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/visualstudio/debugger/how-to-set-debug-and-release-configurations"
+      },
+      {
+        "host": "www.geeksforgeeks.org",
+        "name": "guest",
+        "value": "yes"
+      },
+      {
+        "host": "realpython.com",
+        "name": "origin",
+        "value": "ref-google"
+      },
+      {
+        "host": "realpython.com",
+        "name": "csrftoken",
+        "value": "hScI1uR1JI4IYL9LMcj7aOXfSMZwgofYlFbRB4Olq4yUF6GVqcUjcpep8BGak15g"
+      },
+      {
+        "host": ".fonts.net",
+        "name": "__cf_bm",
+        "value": "NJw56JbxO7lAplKRj5YUqvZgbydI26H6ex2agOMqJ5E-1639233442-0-AcDWdoc8Zw1WR3XmFTHLrFd0HrE+OmCHOKwgoM1qpbjnOqXopdvlvZ2RqcG6dJ5fyZKHZeKM+gqKadmTlxHESv4="
+      },
+      {
+        "host": ".kite.com",
+        "name": "mp_fb6b9b336122a8b29c60f4c28dab6d03_mixpanel",
+        "value": "%7B%22distinct_id%22%3A%20%2217da8beec5e29d-00b262b66a7b9e8-4c3e207f-1fa400-17da8beec5faec%22%2C%22%24device_id%22%3A%20%2217da8beec5e29d-00b262b66a7b9e8-4c3e207f-1fa400-17da8beec5faec%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%7D"
+      },
+      {
+        "host": ".kite.com",
+        "name": "_ga",
+        "value": "GA1.2.1642492683.1639213636"
+      },
+      {
+        "host": ".kite.com",
+        "name": "_gid",
+        "value": "GA1.2.617858247.1639213636"
       },
       {
         "host": ".hotexamples.com",
@@ -718,2133 +1123,138 @@
       },
       {
         "host": ".hotexamples.com",
-        "name": "ezosuigeneris-0",
-        "value": "80efef8b2d429f77b2e72fea1d406710"
+        "name": "ezosuibasgeneris-0",
+        "value": "96430b4f40e72c4e80c3c9c3c2467a2e"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezoab_110793",
+        "value": "mod96-c"
       },
       {
         "host": ".hotexamples.com",
         "name": "active_template::110793",
-        "value": "pub_site.1638511831"
+        "value": "pub_site.1639234647"
       },
       {
-        "host": "docs.microsoft.com",
-        "name": "original_req_url",
-        "value": "https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient.maxresponsecontentbuffersize"
-      },
-      {
-        "host": ".medium.com",
-        "name": "uid",
-        "value": "lo_bb5c0aabef6e"
-      },
-      {
-        "host": ".medium.com",
-        "name": "sid",
-        "value": "1%3AsiIjMjBRTD2gX27wqaTaUSwQmtUft49og26tq%2FSJwYSx9sktQWP9A6hDMHBdk%2BhM93MJf2Okx13o2jjlk7raqw%3D%3D"
-      },
-      {
-        "host": ".medium.com",
-        "name": "optimizelyEndUserId",
-        "value": "lo_bb5c0aabef6e"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_2cfefd3e-da66-4a8d-a334-dd286faedb01",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_4f1d4957-589b-44b2-899e-a0de79ffa92c",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_24100450-03ef-4d61-a365-971dab63fcf9",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_51a5d510-d482-4860-badd-999d73c754d4",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_720cbc11-fe3d-40da-92d6-b8e219116444",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_37f202e3-a437-4a90-8142-2f62a838189f",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_bbe12003-3600-4c41-b253-a6d3ac3dc788",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_d5674796-712a-4344-aadf-09549a3f68c5",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_345e8f60-7c3b-40ea-b67e-358f42ee7785",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_e78db05e-bd5c-4505-bb0a-9a9122b7c4c0",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_29f9a72f-0262-497f-9234-9a12bf07921d",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_47d47c0a-39f8-48da-a004-c6bcab7318c2",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_b64b87cd-266a-44ac-927f-b9a5fe3b0265",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_d3ab0f6f-7af8-4049-931c-143c35e0f363",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_f93fcc49-45f5-4608-ba41-11894bd8c46b",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_dde244a4-f8ec-471b-9633-e83a3dd67d75",
-        "value": "test"
-      },
-      {
-        "host": "githubmemory.com",
-        "name": "XSRF-TOKEN",
-        "value": "eyJpdiI6ImxEcVpLQ0o0NDIzSTZzZS9Ib0lFR3c9PSIsInZhbHVlIjoiOUdzVm4xT0t6My91U3IvTHZwTFV5eGwvVDV4bElKamEweWdrOFBFV3dlckRkTE9OS2NhbzhaSWFhQWRqMEozeFlYZW5IYzdMZGhjVnFuR2VpLyt1VnAxWHlhVVlxbHg0VU5Ka3hZTDZiMURVWDFFNVVvOW1TcnIzeFJtcDU2ODkiLCJtYWMiOiI5NjQ1YzM0YmYxY2ZiMDY1MWJhNzA2NWVjOTQ2NjY3YjIyMmE1ZDlkOGQzYzRlODUwZTdhNTkxNjgwMWQ5MGI0IiwidGFnIjoiIn0%3D"
-      },
-      {
-        "host": "githubmemory.com",
-        "name": "githubmemory_session",
-        "value": "eyJpdiI6InRSanlXZmtxQXJxMzRNT1JaSmU0WGc9PSIsInZhbHVlIjoiUzZGQi9qNFBRUHh2ZjBGcHlmM0NMWnZnQmV4VS9oUE5QZ1p6NkJ4YjQ1ODhKSy92OFg3NkY1NVFxcW5lMDQ3MW5VMVhuRzF3ei9uV0pHMFlZdTcrYjlWYjRrQUZTQXlIanBXVmFRc0RUSmUzU21HV2lDSjFyb21BZEEvWW1GM0EiLCJtYWMiOiIxZWY0Yzg5NmNiNzJmOTY1M2ExNWNjYWNmYTE0OTAwOWViMTM1OTMwMDQ0YzYzODE2N2MzNjA4Yjg4Y2RjZGRhIiwidGFnIjoiIn0%3D"
-      },
-      {
-        "host": "www.dropbox.com",
-        "name": "gvc",
-        "value": "MTI1MTA2MDY5OTAxNzIyNDIyNjczNjM5NTMyODM1NjA3NzA5MDY3"
-      },
-      {
-        "host": ".dropbox.com",
-        "name": "t",
-        "value": "fYHinqWIp9JXpJ7t58LTjqH4"
-      },
-      {
-        "host": "www.dropbox.com",
-        "name": "__Host-js_csrf",
-        "value": "fYHinqWIp9JXpJ7t58LTjqH4"
-      },
-      {
-        "host": "www.dropbox.com",
-        "name": "__Host-ss",
-        "value": "Wux55twnkc"
-      },
-      {
-        "host": ".dropbox.com",
-        "name": "locale",
-        "value": "en"
-      },
-      {
-        "host": ".dropbox.com",
-        "name": "__Secure-dbx_consent",
-        "value": "{'consentType':1,'consentDate':'2021-12-03T07:57:09.558Z','expireDate':'2022-06-03T06:57:09.558Z','consentMonths':6,'categories':{},'userInteracted':false,'numDots':1}"
-      },
-      {
-        "host": "billing.time4vps.com",
-        "name": "CookieConsent",
-        "value": "{stamp:%27OlA4l8/n+SOQ/5gSqf5HH4VWB5jdfDzHW+To2Pgta/4JSeC+jCYKdQ==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1638519208211%2Cregion:%27il%27}"
-      },
-      {
-        "host": ".paypal.com",
-        "name": "cookie_check",
-        "value": "yes"
-      },
-      {
-        "host": ".paypal.com",
-        "name": "d_id",
-        "value": "4dcbea16495a4e34a7c393f3617ee8551638519228615"
-      },
-      {
-        "host": ".paypal.com",
-        "name": "cookie_prefs",
-        "value": "P%3D1%2CF%3D1%2Ctype%3Dimplicit"
-      },
-      {
-        "host": ".c.paypal.com",
-        "name": "sc_f",
-        "value": "BgisG9oD54yM5hR0ViVpaJmW5aTiCGFWgvsaV8D0udUb51s5YzBggV1LJwRCK0gR5cBvebhDzH4c6RuWdgjTjW4OoEVBJpyFBaNJtm"
-      },
-      {
-        "host": ".paypal.com",
-        "name": "login_email",
-        "value": "tpaz123%40gmail.com"
-      },
-      {
-        "host": ".paypal.com",
-        "name": "ui_experience",
-        "value": "login_type%3DEMAIL_PASSWORD%26tokenType%3Dsms_otp%26tokenIdentifier%3Di12xp9sI3wvmF1dEuhMyS1L2npHWjtErp5Ifdw8Ll1TLiOX8k74VnTsLyUFtoNsUz_L84m"
-      },
-      {
-        "host": ".paypal.com",
-        "name": "KHcl0EuY7AKSMgfvHl7J5E7hPtK",
-        "value": "qQJtxZqIo6FGIeoWAtxQs15ih2DMwKptinWldqC-yHP_0QQRq8A_3JkRwoSYu8yUAsjkCOXsrcEhgsT0"
-      },
-      {
-        "host": "www.paypal.com",
-        "name": "ectoken",
-        "value": "EC-3KG66587SR519035M"
-      },
-      {
-        "host": ".paypal.com",
-        "name": "x-csrf-jwt",
-        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6InVMdzVIQUotZHlkWDNrSUhQVVFXOE5SZWtqbXQ3Q1JoSFRnV29IQm1MbHZuNFByUDFHYXJVWi1ma19Fb2VId09rT1ZvSXZDbHpvdUkxSFdQZTRCZUdnbGpwUHdiT0xsT3k5cEhsT0NybVp0bmxPR0VrTGYzM1lVRnFJR3c1U1lBSTJlNUNMazJ2dDl5SXJ1dWpZejQ4TEdPeFQxOFptYUJ1M2JwcndQTXhDYmZWSVNIaEFIalA0QXhlaUhIU1hqazFnOGpoYXVIUmZ4M2FQZ2NzZzdZdG9NMzJ0aSIsImlhdCI6MTYzODUxOTI3MiwiZXhwIjoxNjM4NTIyODcyfQ.ImhfAqaSbwR2TTHnmcVuruV6Z1utqCQ_7X2don0SeeM"
-      },
-      {
-        "host": ".paypal.com",
-        "name": "LANG",
-        "value": "en_US%3BIL"
-      },
-      {
-        "host": ".paypal.com",
-        "name": "l7_az",
-        "value": "dcg15.slc"
-      },
-      {
-        "host": ".paypal.com",
-        "name": "ts",
-        "value": "vreXpYrS%3D1733213695%26vteXpYrS%3D1638521095%26vr%3D7f5b3aa517d0a1d4f7aeb095f914ae38%26vt%3D7f5b3aa517d0a1d4f7aeb095f914ae37%26vtyp%3Dnew"
-      },
-      {
-        "host": ".paypal.com",
-        "name": "ts_c",
-        "value": "vr%3D7f5b3aa517d0a1d4f7aeb095f914ae38%26vt%3D7f5b3aa517d0a1d4f7aeb095f914ae37"
-      },
-      {
-        "host": ".paypal.com",
-        "name": "tsrce",
-        "value": "smarthelpnodeweb"
-      },
-      {
-        "host": "mail.google.com",
-        "name": "GMAIL_STAT_c16b",
-        "value": "/S:v=2&a=re&sv=ti&ev=ti&t=1181&i=1145&id=46&hc=6&sp=1&ai=mail%3Are.c16b.1.0&fua=1/S:v=2&a=re&sv=ti&ev=ti&t=230&i=185&id=157&hc=6&sp=1&ai=mail%3Are.c16b.3.0/S:v=2&a=o&sv=ti&ev=cv&t=487&i=429&id=23&hc=6&sp=1&ai=mail%3Ao.c16b.4.0"
-      },
-      {
-        "host": ".time4vps.com",
-        "name": "intercom-session-iywrslp3",
-        "value": "d2YxbmJVMWdVenlPYUdQc2MwS094dXF3aVI3cUczNFg3UTdkQ0ZjMlZWd0VPejE1TGdGVWp4QTE5VGFpQjdocS0tMysxRlRnV29NUWdGZlA3cUpaQVUrQT09--f2d860573ca3092d6b21f44caea6b336186e5c20"
-      },
-      {
-        "host": ".zoomadmin.com",
-        "name": "za-ref",
-        "value": "https%3A%2F%2Fwww.google.com%2F"
-      },
-      {
-        "host": "account-api.protonmail.com",
-        "name": "Version",
-        "value": "default"
-      },
-      {
-        "host": "account.protonmail.com",
-        "name": "REFRESH-msvisrtsqerrv7qdj6el4dpmooiu6vdd",
-        "value": "%7B%22ResponseType%22%3A%22token%22%2C%22ClientID%22%3A%22WebAccount%22%2C%22GrantType%22%3A%22refresh_token%22%2C%22RefreshToken%22%3A%227rgoe4mqcycymfl6r7gbqbkatepdoypm%22%2C%22UID%22%3A%22msvisrtsqerrv7qdj6el4dpmooiu6vdd%22%2C%22RedirectURI%22%3A%22https%3A%5C%2F%5C%2Fmail.protonmail.com%22%7D"
-      },
-      {
-        "host": "account.protonmail.com",
-        "name": "AUTH-msvisrtsqerrv7qdj6el4dpmooiu6vdd",
-        "value": "ubjkanea5eumoh64tedod6eqm5shbvjd"
-      },
-      {
-        "host": "mail.protonmail.com",
-        "name": "REFRESH-atfxjfafj2epvvubg5fmmmgy2fswrods",
-        "value": "%7B%22ResponseType%22%3A%22token%22%2C%22ClientID%22%3A%22WebMail%22%2C%22GrantType%22%3A%22refresh_token%22%2C%22RefreshToken%22%3A%222elxlolscmif5ptai6sbi5vfc75rcc3x%22%2C%22UID%22%3A%22atfxjfafj2epvvubg5fmmmgy2fswrods%22%2C%22RedirectURI%22%3A%22https%3A%5C%2F%5C%2Fmail.protonmail.com%22%7D"
-      },
-      {
-        "host": "mail.protonmail.com",
-        "name": "AUTH-atfxjfafj2epvvubg5fmmmgy2fswrods",
-        "value": "y33y3fnvzg4lvoypnercerqfuo6wkzv5"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_be960598-8729-4a16-9702-64657593f93f",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_c08a7428-9c50-407a-9941-52ab01d33cb1",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_0520e5b0-e17d-4c3f-ba68-e2c914871511",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_58720a11-073c-4d33-9d01-b7319a662b81",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_1524b422-98f0-4c46-81a9-19f0fb24a6ea",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_1e2a5221-a04c-4815-9ec3-9573a13f48a6",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_549eae2a-e7dd-4d27-a49e-38b232173bd8",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_ed12866b-750a-4cbe-b23a-2412cf63ea6e",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_19684647-ded3-400d-a62f-d2c2fb3a6a4d",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_dd176225-d147-4d14-a749-6e2128f907b6",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_ccedb475-f399-432d-809b-b4ee327a4268",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_3e3944b4-d6ce-43d3-9bf6-147344eea97b",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_54ea08e7-238c-4b3b-836a-a7d0bf82ddcd",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_73977498-2286-4e33-bbf5-212aed317da4",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_30a69220-1c94-405a-be54-69803a57fea6",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_8cbb4f59-dc99-4362-9289-28168af41b1d",
-        "value": "test"
-      },
-      {
-        "host": ".stackexchange.com",
-        "name": "prov",
-        "value": "88e8be44-38cd-11b2-e6ea-c8bbe35dd3b9"
-      },
-      {
-        "host": ".stackexchange.com",
-        "name": "OptanonAlertBoxClosed",
-        "value": "2021-12-03T08:33:22.660Z"
-      },
-      {
-        "host": ".stackexchange.com",
-        "name": "OptanonConsent",
-        "value": "isIABGlobal=false&datestamp=Fri+Dec+03+2021+10%3A33%3A22+GMT%2B0200+(Israel+Standard+Time)&version=6.10.0&landingPath=NotLandingPage&groups=C0003%3A1%2CC0004%3A1%2CC0002%3A1%2CC0001%3A1&hosts=&geolocation=%3B&AwaitingReconsent=false"
-      },
-      {
-        "host": "pypi.org",
-        "name": "session_id",
-        "value": "l5YsQbkL30lNV7eudNG_TOD-XCht9Swd9kzkLpH1xtc.YandSQ.S6YO0K3V3yuJ2QdX_KmjSZhMQMaA1Vs30OBC8r1QnEaFFcJKAJmguKaSuuc8ukWW1ZrjGrXa7xdexlUnP984nw"
-      },
-      {
-        "host": "pagure.io",
-        "name": "pagure",
-        "value": "eyJfcGVybWFuZW50Ijp0cnVlLCJjc3JmX3Rva2VuIjoiMzBlMmIyYjkwZjJlNDI5NTExODVlMzY4ZjhhNDdhOWY0ZTMwZmE4MSJ9.FItwMQ.JqSjzEFV-jVBmM98DkHBOSybnD8"
-      },
-      {
-        "host": ".microsoft.com",
-        "name": "MC1",
-        "value": "GUID=af6fac26e81e4f8d9e4b819e2ccaf318&HASH=af6f&LV=202112&V=4&LU=1638603226123"
-      },
-      {
-        "host": "azure.microsoft.com",
-        "name": "OpenIdConnect.nonce.QYYLXqEZAE2pmxfMFv%2BiugX%2B9WSXxLssGPbnzmv7d1A%3D",
-        "value": "VDF1eThJV2hnVTJTRC1lYkM4RTRZVlMzdE5SOHdNbWhfR0NjSjFUeDNTbFItZDNuT3Y2dnFRSEo4akhiS1dnaUNJZ2I2dVJfZExTeVZqMkp0dzF3NG5SYnh3WHc2akZCbGhzVlp6aUJEY1hTbEZnT3prT0FOLWZqUjNTSW84SEpaNkRmdDBsdXQ0NlhtQ3p1amNpMGZZMFEwWDctU25MS2JUQzV2cTl5N0lYVE5KYzh5OTFQcGFLeTh4ZmFqWXIwekNfQ3BIa3BEOTJvUlNyUThJM0NrVEttSVVN"
-      },
-      {
-        "host": "autologon.microsoftazuread-sso.com",
-        "name": "fpc",
-        "value": "AljR3N77VFNGr2YgFxFzUik"
-      },
-      {
-        "host": "login.microsoftonline.com",
-        "name": "clrc",
-        "value": "{%2218965%22%3a[%22h5ROdrbP%22%2c%22RjrhuE3a%22]}"
-      },
-      {
-        "host": ".microsoftonline.com",
-        "name": "wlidperf",
-        "value": "FR=L&ST=1638603278660"
-      },
-      {
-        "host": "azure.microsoft.com",
-        "name": "userInfo",
-        "value": "%7b%22guid%22%3a%22af6fac26e81e4f8d9e4b819e2ccaf318%22%7d"
-      },
-      {
-        "host": ".microsoft.com",
-        "name": "AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg",
-        "value": "1585540135%7CMCIDTS%7C18966%7CMCMID%7C67128481401701733273016605891337595840%7CMCAID%7CNONE%7CMCOPTOUT-1638610495s%7CNONE%7CvVersion%7C4.4.0"
-      },
-      {
-        "host": "azure.microsoft.com",
-        "name": "MicrosoftApplicationsTelemetryDeviceId",
-        "value": "7ab05231-7c42-4aa2-abe7-ac53869a88ac"
-      },
-      {
-        "host": "azure.microsoft.com",
-        "name": "ai_session",
-        "value": "OJeghPlZrOa3AUcIXIhaeC|1638603227541|1638603295992"
-      },
-      {
-        "host": ".microsoft.com",
-        "name": "mbox",
-        "value": "session#658bdce8eb944a0bbbd316a703e5d442#1638605088|PC#658bdce8eb944a0bbbd316a703e5d442.37_0#1672789995"
-      },
-      {
-        "host": "azure.microsoft.com",
-        "name": "jwt",
-        "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6Imwzc1EtNTBjQ0g0eEJWWkxIVEd3blNSNzY4MCIsImtpZCI6Imwzc1EtNTBjQ0g0eEJWWkxIVEd3blNSNzY4MCJ9.eyJhdWQiOiIyMzUyMzc1NS0zYTJiLTQxY2EtOTMxNS1mODFmM2Y1NjZhOTUiLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC8wOGQ1NmIzMS1mZmEzLTRlYTMtOGI5Zi04NWExMmY4ZDRhOTcvIiwiaWF0IjoxNjM4NjAyOTk2LCJuYmYiOjE2Mzg2MDI5OTYsImV4cCI6MTYzODYwNjg5NiwiYWlvIjoiQVNRQTIvOFRBQUFBeGNIU1NjckdNL1lpWTlIbVRvbXFicXFBVC9JVlZ3aktSSDhwemF5cDc2MD0iLCJhbXIiOlsicHdkIl0sImNfaGFzaCI6IlZIX2c5bE12TzQxSUJvZUR0WEk5S1EiLCJjbG91ZF9ncmFwaF9ob3N0X25hbWUiOiJncmFwaC53aW5kb3dzLm5ldCIsImNsb3VkX2luc3RhbmNlX25hbWUiOiJtaWNyb3NvZnRvbmxpbmUuY29tIiwiZmFtaWx5X25hbWUiOiJQYXoiLCJnaXZlbl9uYW1lIjoiVG9tIiwiZ3JvdXBzIjpbIjNlYzQ1MDRjLWUwNjgtNGQ5YS05OTg1LTQyOGU5NzBmY2U0ZiJdLCJpcGFkZHIiOiI3Ny4xMjUuNzIuMTkiLCJsb2dpbl9oaW50IjoiTy5DaVJtWlRRMVltUXdaUzFqTVRKa0xUUTBZall0T1dWallTMWhZMlpsTnpRMVpUYzVZamtTSkRBNFpEVTJZak14TFdabVlUTXROR1ZoTXkwNFlqbG1MVGcxWVRFeVpqaGtOR0U1TnhvWGRIQmhlakV5TTBCamN5NWpiMnh0WVc0dVlXTXVhV3dnK2dFPSIsIm1zZ3JhcGhfaG9zdCI6ImdyYXBoLm1pY3Jvc29mdC5jb20iLCJuYW1lIjoiVG9tIFBheiIsIm5vbmNlIjoiNjM3NzQyMDAwOTYxODA1NDc1Lk5tRXlOV1U0WkRBdE1UZGlOQzAwTTJObExUa3haVFV0TWpBMVlqSmhNalkyTjJRNVpEY3lOVGRrTkRNdFptVTFPQzAwT0dVeExXSmhOalV0WkRRek5qQmpZMlZsTldaayIsIm9pZCI6ImZlNDViZDBlLWMxMmQtNDRiNi05ZWNhLWFjZmU3NDVlNzliOSIsIm9ucHJlbV9zaWQiOiJTLTEtNS0yMS0xOTI4MTkwNzQxLTU2NzgxMjI1OC0xNDkxNDQxNzQ4LTI2NjQ3IiwicHVpZCI6IjEwMDMyMDAwRjEyMTkwQTEiLCJyaCI6IjAuQVhNQU1XdlZDS1BfbzA2TG40V2hMNDFLbDFVM1VpTXJPc3BCa3hYNEh6OVdhcFZ6QUdRLiIsInN1YiI6IjFVN3JVT1Y4XzdrVG9VNzZqTENBdk9zT3p2UzllSXJIV2pXMXBCVVJaYUUiLCJ0ZW5hbnRfcmVnaW9uX3Njb3BlIjoiRVUiLCJ0aWQiOiIwOGQ1NmIzMS1mZmEzLTRlYTMtOGI5Zi04NWExMmY4ZDRhOTciLCJ1bmlxdWVfbmFtZSI6InRwYXoxMjNAY3MuY29sbWFuLmFjLmlsIiwidXBuIjoidHBhejEyM0Bjcy5jb2xtYW4uYWMuaWwiLCJ1dGkiOiJGdzVQWjh2UWVrQ0NRLU5iNVZZTUFBIiwidmVyIjoiMS4wIn0.cpH2D61_5LlwLldlE5b4ASOOhh5fIIJRpY4tFZFiJrvWcHGulIjOyOIy3iOlhV8f6qTn6qs4L_oOYwuR-1Ep2HCHjXfab-1OxMrtXklAeRw0aHk1EMrfXgMsMU37w21B8ubuW41C-BVjfxq5oxLgwzv-CDSDuXF7dxZil074MahC5pgSNl2X5BzIe1sXlFPwi8eKIM3V4t98Rh0Sw-JeFupIKpHa1o3ebKgLUanNVUQbv-EKE79xqc2k7a_Fdad09eBM3ZysAXvKvl9cUaOlueQjxKsQqyIkHPQ0WRQhScxZUVVqjv-8OjA6Gy_GABiFDA5Bh2w_64TT1xqS9BMSeg"
-      },
-      {
-        "host": ".mozilla.org",
-        "name": "_gat_gtag_UA_36116321_2",
+        "host": ".hotexamples.com",
+        "name": "ezopvc_110793",
         "value": "1"
       },
       {
-        "host": "support.mozilla.org",
-        "name": "session_id",
-        "value": "dnjpy5qe30lo5o67vi7cyvjfmbnxfi38"
-      },
-      {
-        "host": "support.mozilla.org",
-        "name": "csrftoken",
-        "value": "xUwqJ52nmdaHnIwLHjc6eGXm47N8Mj5jDALmkYpnOOM23Ly31Ut01mX2e5pdtX3A"
-      },
-      {
-        "host": ".mozilla.org",
-        "name": "_ga",
-        "value": "GA1.2.490696896.1638605095"
-      },
-      {
-        "host": ".mozilla.org",
-        "name": "_gid",
-        "value": "GA1.2.495385193.1638605095"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_4c6579b7-6dcf-40df-9c17-ca7c09fcf639",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_11a1983d-7701-414d-b2bf-fbc748b2358c",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_83ddaf9b-7604-40a7-ba50-f17b5c68176a",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_4e8e396e-b418-414b-88b5-64732a383999",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_127bdb6d-312f-4519-af6a-e55ac467c036",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_e5c1def4-d2fa-4ad4-a07a-1ba5f383038b",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_00eff974-244b-4a23-9fbe-a062603881f8",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_32891edb-f175-472c-ba79-75e599867fbf",
-        "value": "test"
-      },
-      {
-        "host": ".thehacktoday.com",
-        "name": "__cf_bm",
-        "value": "rcIlc9K6Hhe8dQyYRU6WYrkJNbt3JJXavVCr7x95AuM-1638605229-0-AY85ipm2O2SlfCD49iX19zXJDGxfyGbU5nxUeBu4Inw4SVW2k2+eq+y2YnW3DdvxRbEB1+pJuWO7l2uHY/9nuvN3D8i9NvXGVsAwRHkmFxlGL7/F1wpXGADXj4qvfCRR8w=="
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_76b5ef01-10be-4ece-b234-ace6b190bce5",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_82c73004-e6ab-4e66-8db0-74f77b801151",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_c896bd8e-b6a1-4ebb-ae3a-4068e4c4b023",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_bb63af03-a9e6-4e8a-a31c-9985b38408e1",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_77fe9c08-3528-4a7b-930b-71ac83529997",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_db32e158-939a-4f9d-bb86-b6408ba1a263",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_1463ff0c-1a00-4574-a651-0b8ac231206c",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "dd_cookie_test_743da150-6bcf-4bbf-9f2c-bffabac396cf",
-        "value": "test"
-      },
-      {
-        "host": "medium.com",
-        "name": "_dd_s",
-        "value": "rum=0&expire=1638606213148"
-      },
-      {
-        "host": ".t.co",
-        "name": "muc",
-        "value": "b272839a-097f-4b89-b2b4-abfa4f61ffcb"
-      },
-      {
-        "host": ".t.co",
-        "name": "muc_ads",
-        "value": "b272839a-097f-4b89-b2b4-abfa4f61ffcb"
-      },
-      {
-        "host": ".linkedin.com",
-        "name": "lidc",
-        "value": "'b=OB50:s=O:r=O:a=O:p=O:g=2618:u=11:x=1:i=1638613353:t=1638699753:v=2:sig=AQGWlNkalIEL9yrxSFAsSnPFgZiqbKzR'"
-      },
-      {
-        "host": ".techcrunch.com",
-        "name": "cmp",
-        "value": "t=1638613433&j=0"
-      },
-      {
-        "host": ".techcrunch.com",
-        "name": "A1",
-        "value": "d=AQABBLdBq2ECEJFfVFAkVOgAHVDkckrA3N4FEgEBAQGTrGG1YQAAAAAA_eMAAAcIt0GrYUrA3N4&S=AQAAArr-1nyzwiJ4PIo7aScOiE8"
-      },
-      {
-        "host": ".techcrunch.com",
-        "name": "A3",
-        "value": "d=AQABBLdBq2ECEJFfVFAkVOgAHVDkckrA3N4FEgEBAQGTrGG1YQAAAAAA_eMAAAcIt0GrYUrA3N4&S=AQAAArr-1nyzwiJ4PIo7aScOiE8"
-      },
-      {
-        "host": ".techcrunch.com",
-        "name": "BX",
-        "value": "dtn6099gqmgdn&b=3&s=a3"
-      },
-      {
-        "host": ".techcrunch.com",
-        "name": "GUC",
-        "value": "AQEBAQFhrJNhtUIfLASd"
-      },
-      {
-        "host": ".techcrunch.com",
-        "name": "rxx",
-        "value": "68m60w09keg.2jzdj2g9&v=1"
-      },
-      {
-        "host": ".techcrunch.com",
-        "name": "__tbc",
-        "value": "%7Bkpbx%7Dt8LnI3fv6vPa8xG2BMVgl1r6RmIvkaNG2Qhp2sTMWF0"
-      },
-      {
-        "host": ".techcrunch.com",
-        "name": "cX_P",
-        "value": "kwro4pr5ux21z643"
-      },
-      {
-        "host": ".techcrunch.com",
-        "name": "__pat",
-        "value": "-28800000"
-      },
-      {
-        "host": ".techcrunch.com",
-        "name": "__pvi",
-        "value": "%7B%22id%22%3A%22v-kwro4pr6pu17k0l1%22%2C%22domain%22%3A%22.techcrunch.com%22%2C%22time%22%3A1638613434804%7D"
-      },
-      {
-        "host": ".techcrunch.com",
-        "name": "xbc",
-        "value": "%7Bkpbx%7DP1Ad-PDS8eLByrrP5GjX1MV06bP4AeNwQPd_db_BbjrHrqW0dai10-JrE3Pqr6i-ZBNfCyBYTTZ8lM6i32u7cSqpPqBr22S4kLfm10B1IJ_BgdKH8q-36934DGMNpg-AGrPzGTQ9cP10fIG9q9Ww9CPG3M3ZZ1B0MAqHn1aJ_R-x3_9rfeUj12MyVcsMyRQr7VoL5Ry1jmf_dMVRI16KiCMdkU1I6GSkfFS7n7rAjxCn150Tu6cbn5nQwuNPO80z78uB1DtHht-ffRuROtdqeeMkf33_2KKCWk-7AeUXyDzHzk3xN99NIMmdvD6STh5vP-Cmic0KFGXdB4XvUbHvgJjMMcXNTHGog17Qa66wQRp0x54k9c6mmBE1CySfqVUAUo5kZ27IITgFSA98H07A7BayBOYbjcrOuCdYHuETGlc"
-      },
-      {
-        "host": ".www.linkedin.com",
-        "name": "timezone",
-        "value": "Asia/Jerusalem"
-      },
-      {
-        "host": ".linkedin.com",
-        "name": "UserMatchHistory",
-        "value": "AQIwYegW5pQUFAAAAX2E-oiFRe5vU2QYvoIWW4cJT6lHbC9MkSV_nzE9Oq4vKfTVE9e5JEM3F284MU7J7zrWruP8xlgdxSID6TXu1Q9j-sU2YdLPBsRFDSFWeKB_eoRW1Ls0i6X1lhncmU1G1nOMFsu3VWku7g1hTz6iYHpyz8f5IJv07y-j-eGksg-ww17blvuFeRp6RRAcNv7I-RmwAwDlOgjEZ7aHufpBqm6xb9a9gHqfgVSK01WN8xEEqxdCBQp07mz87A"
-      },
-      {
-        "host": ".twitter.com",
-        "name": "twid",
-        "value": "u%3D1171146535658299393"
-      },
-      {
-        "host": "www.convertunits.com",
-        "name": "mobile",
-        "value": "2"
-      },
-      {
-        "host": ".www.linkedin.com",
-        "name": "li_at",
-        "value": "AQEDATi2NxYBBX4fAAABfWFOF2QAAAF9qrA5LE0ALi1do9SarwTRlmMv_n-nu802lQuxedrHET839EG0kkwMgIY7RbFMkQUOJHrY4n0mQ7EwiF7Iub5Rul0rkZqgko1mrfarBnwRcPwT2sp5yofbisjt"
-      },
-      {
-        "host": ".linkedin.com",
-        "name": "liap",
-        "value": "true"
-      },
-      {
-        "host": ".www.linkedin.com",
-        "name": "JSESSIONID",
-        "value": "'ajax:4693426386164418457'"
-      },
-      {
-        "host": "accounts.google.com",
-        "name": "__Host-GAPS",
-        "value": "1:5RfIKla4Xza7bII8s_IfiT_ThQROoEF6ffl5oA31mpbZ4PXNE46OwESolf_u2ATFvJJW1qp9BkdtKKXs53pLkNhUKMg4hA:JLvZI8eOTdqqyO-o"
-      },
-      {
-        "host": "accounts.google.com",
-        "name": "LSID",
-        "value": "o.chat-dl.google.com|o.chat.google.com|o.mail.google.com|s.IL|s.youtube:EQh5o8vw8w8WHDYqW0VQeVpJHyNiMmXWRRrIi3xKhJx2DnOzw1VSi5iEA-boKHUsAKHNXg."
-      },
-      {
-        "host": "accounts.google.com",
-        "name": "__Host-1PLSID",
-        "value": "o.chat-dl.google.com|o.chat.google.com|o.mail.google.com|s.IL|s.youtube:EQh5o8vw8w8WHDYqW0VQeVpJHyNiMmXWRRrIi3xKhJx2DnOzLGryORqDRHxnsFAh2M-cSQ."
-      },
-      {
-        "host": "accounts.google.com",
-        "name": "__Host-3PLSID",
-        "value": "o.chat-dl.google.com|o.chat.google.com|o.mail.google.com|s.IL|s.youtube:EQh5o8vw8w8WHDYqW0VQeVpJHyNiMmXWRRrIi3xKhJx2DnOzml34mhMk-eI88jd5FACKBA."
-      },
-      {
-        "host": "chat-dl.google.com",
-        "name": "OSID",
-        "value": "Egh5o2fTwXrG9x-F9jaMeXcwGWhus84xjGg06mQumzjU2DeavESetjYYWGtBtUTVj4LPOg."
-      },
-      {
-        "host": "chat-dl.google.com",
-        "name": "__Secure-OSID",
-        "value": "Egh5o2fTwXrG9x-F9jaMeXcwGWhus84xjGg06mQumzjU2DeaVqiZ_RtnJZeacjg9rlTlyg."
-      },
-      {
-        "host": "chat-dl.google.com",
-        "name": "OTZ",
-        "value": "6272329_48_48_120960_44_365700"
-      },
-      {
-        "host": "chat-dl.google.com",
-        "name": "COMPASS",
-        "value": "dynamite=EKKfyY0GGmUACWuJV8-xNR_p0e9_YqamKzoz-Ifvu01p7ZFnLUhMeE4qMYz0_yL93HT6aqnRH45JzV3F5iP7totHwwMoQgTC0yu7VB5pv89iU5s75U3yxduckkW6xk3frdDGBdD7Fv1vkArRsA"
-      },
-      {
-        "host": "www.oreilly.com",
-        "name": "BrowserCookie",
-        "value": "fcc613b6-f3c6-41c7-af24-e1273d4d9c21"
-      },
-      {
-        "host": "www.oreilly.com",
-        "name": "csrftoken",
-        "value": "i7CfpTuQz7tTLIDFV8pupkdq4U0DCn69XXC15KGNannFRVJ7dSQUrynHK6dTTENL"
-      },
-      {
-        "host": "www.oreilly.com",
-        "name": "libraryExitIntentShown",
-        "value": "true"
-      },
-      {
-        "host": "forums.mozillazine.org",
-        "name": "phpbb3-mzforum23_u",
-        "value": "1"
-      },
-      {
-        "host": "forums.mozillazine.org",
-        "name": "phpbb3-mzforum23_k",
-        "value": ""
-      },
-      {
-        "host": "forums.mozillazine.org",
-        "name": "phpbb3-mzforum23_sid",
-        "value": "5bfda278ee4f1d2bad38ec6dada2a1cd"
-      },
-      {
-        "host": "forums.mozillazine.org",
-        "name": "style_cookie",
-        "value": "null"
-      },
-      {
-        "host": "stackoverflow.com",
-        "name": "hero-dismissed",
-        "value": "1638857524328!stk_a"
-      },
-      {
-        "host": "www.geeksforgeeks.org",
-        "name": "guest",
-        "value": "yes"
-      },
-      {
-        "host": "developer.ibm.com",
-        "name": "mdLogger",
-        "value": "false"
-      },
-      {
-        "host": "developer.ibm.com",
-        "name": "kampyle_userid",
-        "value": "ecf1-4ffb-09c4-034b-d267-8d5c-3efd-5cb4"
-      },
-      {
-        "host": "developer.ibm.com",
-        "name": "kampyleUserSession",
-        "value": "1638869863542"
-      },
-      {
-        "host": "developer.ibm.com",
-        "name": "kampyleUserSessionsCount",
-        "value": "1"
-      },
-      {
-        "host": "developer.ibm.com",
-        "name": "kampyleSessionPageCounter",
-        "value": "1"
-      },
-      {
-        "host": ".cloud.ibm.com",
-        "name": "com.ibm.cloud.console.analytics.anonymousId",
-        "value": "8f6ddbb7-3bd6-4916-86de-c11a770fdbd3"
-      },
-      {
-        "host": ".cloud.ibm.com",
-        "name": "com.ibm.cloud.console.nEU",
-        "value": "1"
-      },
-      {
-        "host": ".ibm.com",
-        "name": "BM_SESSION_ID",
-        "value": "1638871024832"
-      },
-      {
-        "host": ".ibm.com",
-        "name": "BMAID",
-        "value": "8f6ddbb7-3bd6-4916-86de-c11a770fdbd3"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "LOGIN_INFO",
-        "value": "AFmmF2swRgIhANZsjWp_qbFlL4F4YnXYJwZNkPU1wNllLZiTy2TiA41AAiEA6-DwsYEFHHkpUpuWAumrcp8SaT9W_Zcx_ZFqc9hB5kM:QUQ3MjNmek0yZFUzSkpnek91WDd4cG1wQWJlMjJHdTBFX2J1MENVSVN5X2ViM2dHQjBqbG5zTnFELV9XdV81cXdZQUE5ZTNNZm8zQkNpcnZCSzFYU1hyU1R6TTNHTXFVcGFYdlF6aUhFY1JFUVN6cENuYWlrcTU3TEEzUGpIODlmS19Ob2J3bWxBbDFHY3c3eUNKX1BNOUJtVUZ6NlFzWGdB"
-      },
-      {
-        "host": "badge.fury.io",
-        "name": "_sid",
-        "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqSXhaV1k1TmpZMExUUmtabU10TkRsbVppMWlaR1JsTFRJeE9XUmlPREpqTTJObU1TST0iLCJleHAiOiIyMDIyLTEyLTA3VDEyOjM3OjAzLjI1NFoiLCJwdXIiOm51bGx9fQ%3D%3D--9715a7d4699781004bce2837de1bdb51cf8d7ebd"
-      },
-      {
-        "host": ".bing.com",
-        "name": "SUID",
-        "value": "M"
-      },
-      {
-        "host": ".bing.com",
-        "name": "SRCHUSR",
-        "value": "DOB=20211130&T=1638881137000"
-      },
-      {
-        "host": ".bing.com",
-        "name": "BFBUSR",
-        "value": "BAWAS=1&BAWFS=1"
-      },
-      {
-        "host": ".bing.com",
-        "name": "BFB",
-        "value": "AhC3ErVrIBxb2Sj45vglg-_tHPqfnvZMXYFZNpepHsmCVsxSp9DOqOvZe3Nageeu6V-okgpGqkQHVqNLz0shkboiGwPpqLbmWZa4ZhIdXPezRjM6lkpBhfb8yMQzQ_aaav3dGvINQtIDivkBjo8d2oK7TookkfBwD77iMdtLZn5Cjg"
-      },
-      {
-        "host": ".bing.com",
-        "name": "OIDR",
-        "value": "ghBDQzv208OFUiej_e1kH0u52HQKzMScSQSNpdp2VGLjkK8vpUDU0HpA4kdRhrKOZnwDsJ4-TR1VsQr_Zq3HSek8UosHqHDoVMdE9i5U9UD44PjO1eI6Pb5fQqXsOgxi7I3iOJX7Vh_bnXOK5bTOh9HAYJbQQYmotRstj6nnAhYgRu6AMutcHtgKn1ArrMmFVAJkr8VV_GtSDn7GqdjMumVE_X5NMSSSUGztFE_vlbXaCgx03PYF8OtUzSzmU-W5c_wB4bs1f_a_sCKAQYSSCezFR-7y0fxWZ4WBCrQJgY90WJtSZaGBN1j235MBSP7UnDOgs_WRD6xhyqz9C9VsKS4T5xfjOoLa4tcpmIPaXXcRtOXgFDH48Km5Zb1aakNl6_2NFiYI7y4JRKR2lGVDsoImeZtMdh6EUfwU81gbKMLjvcdvbGjrUfe9GLYuady5UZOsvE-mdB7hz4oMtkKJJmYhIlLEAboV5qUyK30XhncrX98K8j16wJqV1bcBDC__SQ-IgQrvmmr7NqI5jj0s5bxMbGBCylDuizgfR38AV3Efb6kD8GOChbkIJXlpA_IhKO-3Y02XmesYVW1CGXpztiRt3hD_dOR2F7d06P7y8LRXboLQdGTWm0-ZQ2-6iN1LLvjBTrh6rox17pbdgaf0qCacEDmlabMaL-F8jwME_RKNE7ZYMIPbhX5DyWTzealGZc1T85yIlWHQltmvxlTYJKAZO4dNdw3sSHEJHt3jGDNTZI0i6KNtTct-GClQOwFkrtGCLIgSNDLc7I8XY43ImTdzBHKv9XFWLOJWDzq36L3nlbk4OQwpy4VtEAEW_WlgXBnwBpHq8oV5efTgeYIrXW974XH7-iTVTAQiR7bxJ5B1ft2DIlro401SVua_-m4VLtAHBPdQFcQE7-CYXASatbruGqbrjxdS-WNA8rQz7uurRDdMs9UbAjTuTqFvgGb7v61BvAU2HGKOXw-da3nGASnHzKtFmRIsEQlnxOUnxNbqT3eHMoLMLfwTREDj8BUG0JxehESAk1A9f2NafqSUmWCgCqurV6OpaFI5IMAPQuBq-RX_y9Jn3EpAkTQxJq1i-TmKIJUhCR8nNFyYTxtDcC8UBfsllATiL9d1JTEK49uWKXnXrEojJuf77kzyLroVB-WZ6Pd99shb2E2fwnNAmdmyVR9pntCEBrJBdiwUfFKyCTmltmzVtQ78DiW_4HXt7i81mEbd5m4onEKKq92FJvAB"
-      },
-      {
-        "host": "business.bing.com",
-        "name": "MUIDB",
-        "value": "3B981C4EF1B16B1633420CB1F00A6A18"
-      },
-      {
-        "host": "www.postman.com",
-        "name": "_pm",
-        "value": "PM.MjAyMS0xMi0wN1QxMjo0NjoyNy42ODNa"
-      },
-      {
-        "host": "www.postman.com",
-        "name": "referrer_url",
-        "value": "https://www.bing.com/"
-      },
-      {
-        "host": ".postman.com",
-        "name": "OptanonAlertBoxClosed",
-        "value": "2021-12-07T12:47:46.167Z"
-      },
-      {
-        "host": ".postman.com",
-        "name": "OptanonConsent",
-        "value": "isIABGlobal=false&datestamp=Tue+Dec+07+2021+14%3A47%3A46+GMT%2B0200+(Israel+Standard+Time)&version=6.8.0&hosts=&consentId=c2d4532d-5753-4410-a977-46ad226d0267&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0004%3A1%2CC0002%3A1"
-      },
-      {
-        "host": "identity.getpostman.com",
-        "name": "legacy_sails.sid",
-        "value": "s%3A1vvmt0tKiT8yH8r8qxGqj7vq1bGdQlt1.Nk6GKE%2FEE9F6s1wStemVUIG6x9Qd4Sw8QueEwirUIY4"
-      },
-      {
-        "host": ".identity.getpostman.com",
-        "name": "postman.sid",
-        "value": "323e1efb84f55835ea744df01b6f1ea2b63a78565d93b910c1e6b81f888dc3c8339664946312c67d52f6c6c05e3dc4a77d32d2544739af75a7bf2f4fc50bffff1067a0cdf699c389becce0d4ddc946baf5507ac467216d8647fcbbb535e0ea1abfdf57e8380b48f3b0afefb64166c9e5155ebec9fab6bdd4f025e141b13c7119f3b0f7bf68da1b9e34bf29bd15d70f7f5943f1d3474dc0892f76c8ea6767d64569494bdc17f39eb1f7aab3f06b920cdcced9cab0bd7ae01041bf35e4997993eb10e477f90657d6b666ee26005eb11c6fba41da31f59de8a4ac01ac17a391c821983ef33394ec29c2e525cb4713b0fe46e5159d8eacf0a5c34f39db08c95dc3c2deaadde69851acdac9e362b7a30f2a411610c0a2413a81d69c103947a267fc15c0c00db1d5a65c035f1aee461a6c10d77778435c9ef7b4b22b0765fdfdf092406f3d3712f5b3c5c0791b0bf3aa1f0aa21a1c8a3d6b38022b7cb5e87175a1a9158a650ac8212806cd2060f1f2c5f56013df78074f244f633d023c8fa76d81cc30bd2ec1d23b422cbd86b939ce15b3a237d42463911c50b9467c2874b96cbd91ce2ec558ed1f0172e81d60252dde7fcfe5ef79f9da7ba444c1376b140aee578f22b4c294c47de320992843655c672212e177e3f91c31d7b24c882ea361"
-      },
-      {
-        "host": ".getpostman.com",
-        "name": "getpostmanlogin",
-        "value": "yes"
-      },
-      {
-        "host": ".getpostman.com",
-        "name": "dashboard_beta",
-        "value": "yes"
-      },
-      {
-        "host": ".getpostman.com",
-        "name": "_PUB_ID",
-        "value": "94f22aad0647ea0035bd1523"
-      },
-      {
-        "host": ".getpostman.com",
-        "name": "postman.meta",
-        "value": "eyJhY2NvdW50IjoiZGIyMTBmMWRjOTJlMWMzYjRjYzFlODdhNmNjZDJjNDc1Y2QzYzFmNjlhMDNjNjg5Y2ZjNWRjMWNjNjE1Y2ZjYmUzZDMxYTBkNTI1NGY0N2ExY2FlOWQ3ODMyZDdiNjZiMzczNDUwMDIwYWUxMDY3OTc3ZmU4MjlmOTZiZjFiMDMifQ%3D%3D"
-      },
-      {
-        "host": "identity.postman.co",
-        "name": "legacy_sails.sid",
-        "value": "s%3A0wBDnBiO0oP5O-DxuitQbaqAzbXv9od4.Flw9tyHoHcAzYwuzfrnsoOvE8QkHDImIBrk4qQUrNKw"
-      },
-      {
-        "host": ".postman.co",
-        "name": "postman.sid",
-        "value": "66a6a146fda202bf608b9ac5c517870d371eb32424c39f8f92369eaf920bddfda448aed82aeb033ba11eb65106ad5317dab2c3f8bca8520b5be981bb95f775db9696cbf7773c36dde7afbba3eb4952638b836ce3a62fc6c424de1fb4f9e9d9325c958f08d5a18adda1ed850070c0d50951c6986c88f0fa4b48ff0386c17b2dd2b3b707ef1a0a2cbb3047c02aa521560152801267cf98d0606fd76ca22cd5eaf69ca4ed22c159ae63ad9f63ecf0ade5c8ae9f79873b616fd832e140fb11736072fd208219d1619275185949bda0611da493f005c8a15144b0517f542d9e04449fcaadc873f79b5b3c8d80319f4a35bbd0bfced7506fc9c038794132c13369cfb4795c25e8d30773168e87bc4cb109ecf4f9ba2ecb81275ff0b62b6261d0d9315afdb2a333bb5dcdfed8bdba8e17bed7f2324a0f1354255e09167cded93fdcce7b210bf8d27e6fc335e9b6a2ad471386b5db052e5c649e6c89e9cb9ac703623fa65751eaefd342ca4d4ddb185a7fc7b390c34bc666c9dc4727443520b4260d3d8774ee42a37281da2642ba5e77cc732c93e468f9fb96402a34bb766b416d8f6dc0ac29527bb0ce03259960c6a39a1b617ee4a1952c7890a9406b7617df5d57ecb59d65bb6d4ac99ea8229316e26a3c6e28157d96f93a43438eaa294794"
-      },
-      {
-        "host": ".postman.co",
-        "name": "dashboard_beta",
-        "value": "yes"
-      },
-      {
-        "host": "identity.postman.co",
-        "name": "sails.sid",
-        "value": "s%3A0wBDnBiO0oP5O-DxuitQbaqAzbXv9od4.Flw9tyHoHcAzYwuzfrnsoOvE8QkHDImIBrk4qQUrNKw"
-      },
-      {
-        "host": "identity.postman.com",
-        "name": "legacy_sails.sid",
-        "value": "s%3AD-yDheWFkONjtpjynpBQWuJ7JLlqhByT.QDZRGnR%2FwtZHQb3qwd7NMTnvUO42%2B%2BJFETojgKjif28"
-      },
-      {
-        "host": ".identity.postman.com",
-        "name": "postman.sid",
-        "value": "da86720a758908d0eb6a938566d0d0ff7dd22d51ea784c9c75740f264dd57c85d4b7894c347d8dd944f0c6b62e21952171b9adead510051f13548e93695a1f110a5387f43cb476d163eed99eef3ad4ef3b3bd4a930e4888eb3f5bd8398044c52e675e70730a36e79dcc8ea034bfea7929a4a0f05be457b76a6cbc770a6360baf2ee380c71e888d40ae543da0a21032681dc01158415319cb0a0f784fdb4f76a490fedc4b632b90f9e10c50b94f331d9326d2cdccc00c92780359668d95e9e95875c6f777a08e7de03b1392dce843936d3c88da8a9148597e805f3f22ce8d100c243fde1e3759c904d77e264ba631dd0947cb5a1dc16d2e370658e4a61940fc27733a91e3a0e2083acc883bb72d04314763dbb916e80712c8cb3ccb846cb3a486adebad21fa3ab06d6f8430224a923cb0f3d1773d1de2a95cff4c989e74fe5e3b142232fffea6cbf920b5b6870ef10b8e06037ac290194d7cdcb7f8df87d1ff54ffe4e6b0108908c0068df4c1577a40e7ce3b8edd43988c3a08184d96dec42d99499cff2cb517fa5460bd16e7d786ede95d0dea71fb2b39870c0a2ae276cd1b854d62d6c0b7966b3e19a3254affe88e776071e14f35072c2d257b22aa814570e9f0a8b7cdbf58f4e25b12dc64204256dab9d83e1f42e053932d920eb6"
-      },
-      {
-        "host": ".postman.com",
-        "name": "getpostmanlogin",
-        "value": "yes"
-      },
-      {
-        "host": ".postman.com",
-        "name": "dashboard_beta",
-        "value": "yes"
-      },
-      {
-        "host": ".postman.com",
-        "name": "_PUB_ID",
-        "value": "94f22aad0647ea0035bd1523"
-      },
-      {
-        "host": "identity.postman.com",
-        "name": "sails.sid",
-        "value": "s%3AD-yDheWFkONjtpjynpBQWuJ7JLlqhByT.QDZRGnR%2FwtZHQb3qwd7NMTnvUO42%2B%2BJFETojgKjif28"
-      },
-      {
-        "host": "id.gw.postman.com",
-        "name": "legacy_sails.sid",
-        "value": "s%3AYsqF0bNdRxQ_MS9OPQqb_zXVQSsNu1po.N1NEkTojS2x%2FogNQ5qBPsUFV6sdG3DQWdQMLWMkj3XM"
-      },
-      {
-        "host": ".gw.postman.com",
-        "name": "postman.sid",
-        "value": "6c0b5b04e64eeb5ca91be5a99e45d232fb89f4923788baeb1de087116b18058e6d0da704374cf413de7ed144a0e063a48e21560ebebaaffbe64ed1523bd0bf021fbc31b27c77e62c2bafc300a605be3f2d20e8ac463bb711566043cd51f49138ffbe19c2e822de47fcd6886846e29c1761051469197f3e22a5ef206ebf4bec7f4f0c04231cce314c7fbe72f25b5a827ca7813fe8aef669fc6a3968d041c9f7e99d520f8427c0080ca4f9f00a8960a9c7286bbaa225bbf02487ff87ebcfda8ec273d0e08e880f38e2f8fc977f79e82534729dcd4d0bc47c7b94fb441c55d2e4b5cb34e927288268f426a589d7ce29a23042a7d57046902fb639938a6958b7edc43f1f1d2c970471a6c43bb0eb9131e161c8d144181e16c683ae44a3759ff9df9774fc00cb8810c95fa40576470bf1f7b423e206b87d6f7b45cb311c298257bab1b797f0ef952581092d99f77d4d777a1a5b5184a06a669f0c56b0943c771bedd4fc0f2e5db6883f7ef4f7033c317e0a36eaeedf2627e42e5f54ce0b27abb639bb73220191e5c5572f448cee98b2a769127c784b1818e2608d6cee086bc0bb3b1f693d05778f0ea19c02d3afa60386a535fd505d14960b7e51d31378fa253ef1962fca4f9b70c1e1c2f59a99ad4b7d475f7aa34659993d844cb37b095f"
-      },
-      {
-        "host": ".gw.postman.com",
-        "name": "alternate_postman.sid",
-        "value": "6c0b5b04e64eeb5ca91be5a99e45d232fb89f4923788baeb1de087116b18058e6d0da704374cf413de7ed144a0e063a48e21560ebebaaffbe64ed1523bd0bf021fbc31b27c77e62c2bafc300a605be3f2d20e8ac463bb711566043cd51f49138ffbe19c2e822de47fcd6886846e29c1761051469197f3e22a5ef206ebf4bec7f4f0c04231cce314c7fbe72f25b5a827ca7813fe8aef669fc6a3968d041c9f7e99d520f8427c0080ca4f9f00a8960a9c7286bbaa225bbf02487ff87ebcfda8ec273d0e08e880f38e2f8fc977f79e82534729dcd4d0bc47c7b94fb441c55d2e4b5cb34e927288268f426a589d7ce29a23042a7d57046902fb639938a6958b7edc43f1f1d2c970471a6c43bb0eb9131e161c8d144181e16c683ae44a3759ff9df9774fc00cb8810c95fa40576470bf1f7b423e206b87d6f7b45cb311c298257bab1b797f0ef952581092d99f77d4d777a1a5b5184a06a669f0c56b0943c771bedd4fc0f2e5db6883f7ef4f7033c317e0a36eaeedf2627e42e5f54ce0b27abb639bb73220191e5c5572f448cee98b2a769127c784b1818e2608d6cee086bc0bb3b1f693d05778f0ea19c02d3afa60386a535fd505d14960b7e51d31378fa253ef1962fca4f9b70c1e1c2f59a99ad4b7d475f7aa34659993d844cb37b095f"
-      },
-      {
-        "host": "id.gw.postman.com",
-        "name": "sails.sid",
-        "value": "s%3AYsqF0bNdRxQ_MS9OPQqb_zXVQSsNu1po.N1NEkTojS2x%2FogNQ5qBPsUFV6sdG3DQWdQMLWMkj3XM"
-      },
-      {
-        "host": "identity.getpostman.com",
-        "name": "sails.sid",
-        "value": "s%3A1vvmt0tKiT8yH8r8qxGqj7vq1bGdQlt1.Nk6GKE%2FEE9F6s1wStemVUIG6x9Qd4Sw8QueEwirUIY4"
-      },
-      {
-        "host": ".dev.to",
-        "name": "_Devto_Forem_Session",
-        "value": "6224aefb66d97fc8fff12486c4236d9c"
-      },
-      {
-        "host": ".bing.com",
-        "name": "_HPVN",
-        "value": "CS=eyJQbiI6eyJDbiI6MywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6MywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6MywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMS0xMi0wN1QwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTJ9"
-      },
-      {
-        "host": ".bing.com",
-        "name": "OID",
-        "value": "AhAul78cQdN8YEz5_bNfpSgsIqTZczL5Dxgv0SvtmzDp_iE5KAaqtxIFURSCei3oNj3gmKSeHkKORaHQpqE2F-QIAR7-QhRbC7kXnl-Ict1x-921rA2QeW0IPI-VLGrq2ZTYEpR6cD3x5ZHwGgl0KdF5"
-      },
-      {
-        "host": ".bing.com",
-        "name": "OIDI",
-        "value": "ghDf39UAQJxe6WGULSDRU-pN-TBPRYjLJuouqvzPG_A3dBBvO-TPl8vIpg_U_Ur3IPg2ggOhFFT0V1kmnE5ubOM5aZQgYZYFC1xpZNEH2FexITuhWev4Dla_Vjvj9dMNvxWWx6JKAx_zI0xTEaTU3Kx4ajx3iI-p4FMelOgKbvxvNORLeizMXzf8FUbpWR8SFyvfBcFYMi_fovluGQ6Bh1RguXwvkHYcRYVbSbPD2NQ7XomAsCoW0Yp1kIEd7W7asMwyzjBH-Z0zZJGlaj508nYprAympAUFda82TVpXjEIUokb_F3VrKt1255Of8y6Flv7MLKrOUSdlYrkbWkLCugQhXzCQAGB-uQPYcOYVF_YBIpC-YxSuab7ZY7cW19BJ5Oikib0BKxh5k1gbnLcdTm0oxoW0ECgvYuyZHzdPC9IZs8_pnRo6_Ev1D2rnObIS-swsOvbcno0G-XFkscAYOavs0E1hTaaw6CK36BodDvvkEKKAtjkwta-mtBvSCY_OESjszXFhIdz9IiUqgePZq4EGA3VlibBiracK-xHy3sCj5XbCBmXAuKMHACpBvMBuJMoJdTiA-Il99mGpnCLYcVntRBzsobRDqK9geyVnKYNa92o9c_lsMtYA1-DPt7FVTogx5rejJcJ4ba_Flcb1EXizEQhlPbAmXl0sU-oOgumK_lpyqQjiY7H-00eEx2OS6PbKD_XeKYPhuOO-68nCs97R2RopZjQFobSJUW9XxA1a8RSAb6VGO-auN68cxl3B-Jp4H7pQ4PYS-zU2PeOTKXMPf38ZrRC7LTv3V0Z--O07CPWdfOtnW1copkGwjpWAOhqQkuqKgr8mwl6kV_4EcFUCJpchLxj_gQDanuivR4hfRIxQ_Rp6KZ7--gu9lvkn1YdKYIHLyLUTMAmrh2iBNcEMOoA3XSQBhotqQKp41nKfdpxAuWSdN_EVQUosFE2vIV3duZpp8UwSCD3t7RrqJEgu9su_5T1sEZKPC7myfUTcCck8t24vvfK29kWp0b7N0j1j7vVuBfP2rmBctyuEiwf1mN-yovclZqB24aC8N3Lvn1SALVz6bY8-hNN3HI_a8QYOZteQZubFuETQFKpiNUbC7B9ymkdJXiKONnAAM9A4OqbUqb2FtLBBLg0py5-BfRwjiMDBwIEF6x-9Lgz8aurPXUE-dAa1UyMG39pXykt0sZXn0mmwDFXXRmQTbXrxtwZLAhwABFrdGV1LLU7SSZF8C5U9_JGV2hzw48JCYNs7uSnV25vz2E3JFvOPMEOzWo9RJSQw9G8Yrz59X5OyciM0czOcw5C0vsBXd_FCmv8Dt2m28Sl5gwUfLKbw9LafpN5oVo4YgM-N3QSRRzudO5nGLFjHtoXu2zRbi3XKcDkKcGozo6HpS1eCS0aENiCXxm8HXLAcwChfmbbIiM7t5rJm_4x8F-5AF0TSc0iKTkV49nRQ6L0Hb16HTCNm9Cs3WDNu8kpLGZlrb9oyCn3yBvIQ-YWQFKHUnYkL9roe2swIFwbt5EFpXuZAzs8cVk6L8fGfBw_Nu9gVT1xTQukLakpPrf0nGkA6SS-Eu49abUS6HaURXeaqAGWk3S2xglkIp5zw1IwEDRGFJkBbbRoU_D4aWyAnyNTyU12NHWrjQQqlE5vhB7q1h7xNdYmeXUkLweyx8ffiWyJhYr8IzCbgn7JNAAJpLdHpA1raqyQiiJkYf1gM4ASG1nUny81Ezh0WKqvT8MWJ_hNOChFXdtlfc51WuuTSAOblMO6cClKZ2xWGr1dBv0kK-03Jomk61ZPODucWVXeHC4GCZwOjbvGE3A747EyoMm31zN7brQZzdBj7UAJbIvlxO8dLHnXB4AtUrf9DeLSWVeyES3AWBE_rSxZneTbRsedlUm93txLT5iN3GdeUZukn8tTCJBcq21kX_-LQYDPwLZKbc4y1w5sgpiIXzw08me0egVWWm2J6GN8gdXtI6O0DL2SiBWtsTEeAqRNQgtLmvknP4xPo6ao_N2M9"
-      },
-      {
-        "host": ".datascienceparichay.com",
-        "name": "ezoadgid_294434",
-        "value": "-1"
-      },
-      {
-        "host": ".datascienceparichay.com",
-        "name": "ezoref_294434",
-        "value": "bing.com"
-      },
-      {
-        "host": ".datascienceparichay.com",
-        "name": "ezosuigeneris-0",
-        "value": "51b273d1eb17446feb76ce087ca248e9"
-      },
-      {
-        "host": ".datascienceparichay.com",
-        "name": "ezoab_294434",
-        "value": "mod1"
-      },
-      {
-        "host": ".datascienceparichay.com",
-        "name": "active_template::294434",
-        "value": "pub_site.1638891174"
-      },
-      {
-        "host": ".datascienceparichay.com",
-        "name": "ezopvc_294434",
-        "value": "1"
-      },
-      {
-        "host": ".datascienceparichay.com",
+        "host": ".hotexamples.com",
         "name": "ezepvv",
-        "value": "396"
+        "value": "297"
       },
       {
-        "host": ".datascienceparichay.com",
-        "name": "ezovid_294434",
-        "value": "499635113"
+        "host": ".hotexamples.com",
+        "name": "ezovid_110793",
+        "value": "1236920447"
       },
       {
-        "host": ".datascienceparichay.com",
-        "name": "lp_294434",
-        "value": "https://datascienceparichay.com/article/get-the-current-working-directory-in-python/"
+        "host": ".hotexamples.com",
+        "name": "lp_110793",
+        "value": "https://cpp.hotexamples.com/examples/-/-/xop/cpp-xop-function-examples.html"
       },
       {
-        "host": ".datascienceparichay.com",
-        "name": "ezovuuidtime_294434",
-        "value": "1638891174"
+        "host": ".hotexamples.com",
+        "name": "ezovuuidtime_110793",
+        "value": "1639234648"
       },
       {
-        "host": ".datascienceparichay.com",
-        "name": "ezovuuid_294434",
-        "value": "6602f171-4e11-4e80-59bb-28a29692186e"
+        "host": ".hotexamples.com",
+        "name": "ezovuuid_110793",
+        "value": "dd28e634-f8e9-4f04-56fa-9890de9bd9cd"
       },
       {
-        "host": "datascienceparichay.com",
-        "name": "ezds",
-        "value": "ffid%3D1%2Cw%3D1536%2Ch%3D864"
-      },
-      {
-        "host": "datascienceparichay.com",
-        "name": "ezohw",
-        "value": "w%3D1536%2Ch%3D703"
-      },
-      {
-        "host": "datascienceparichay.com",
-        "name": "cookielawinfo-checkbox-necessary",
-        "value": "yes"
-      },
-      {
-        "host": "datascienceparichay.com",
-        "name": "cookielawinfo-checkbox-non-necessary",
-        "value": "yes"
-      },
-      {
-        "host": "datascienceparichay.com",
-        "name": "ezux_lpl_294434",
-        "value": "1638891181649|f7d29819-ba09-4a5c-7c38-5d055a5ca40f|false"
-      },
-      {
-        "host": "codeigo.com",
-        "name": "pvc_visits[0]",
-        "value": "1637682466b671"
-      },
-      {
-        "host": ".codeigo.com",
-        "name": "ezoadgid_125384",
-        "value": "-1"
-      },
-      {
-        "host": ".codeigo.com",
-        "name": "ezoref_125384",
-        "value": "bing.com"
-      },
-      {
-        "host": ".codeigo.com",
-        "name": "ezosuigeneris-0",
-        "value": "51b273d1eb17446feb76ce087ca248e9"
-      },
-      {
-        "host": ".codeigo.com",
-        "name": "ezoab_125384",
-        "value": "mod50-c"
-      },
-      {
-        "host": ".codeigo.com",
-        "name": "active_template::125384",
-        "value": "pub_site.1638891787"
-      },
-      {
-        "host": ".codeigo.com",
-        "name": "ezopvc_125384",
-        "value": "1"
-      },
-      {
-        "host": ".codeigo.com",
-        "name": "ezepvv",
-        "value": "0"
-      },
-      {
-        "host": ".codeigo.com",
-        "name": "ezovid_125384",
-        "value": "234949114"
-      },
-      {
-        "host": ".codeigo.com",
-        "name": "lp_125384",
-        "value": "https://codeigo.com/python/get-directory-of-a-file"
-      },
-      {
-        "host": ".codeigo.com",
-        "name": "ezovuuidtime_125384",
-        "value": "1638891787"
-      },
-      {
-        "host": ".codeigo.com",
-        "name": "ezovuuid_125384",
-        "value": "75f0f27e-90a1-40f1-6f90-a78ecc32d53d"
-      },
-      {
-        "host": "codeigo.com",
-        "name": "ezds",
-        "value": "ffid%3D1%2Cw%3D1536%2Ch%3D864"
-      },
-      {
-        "host": "codeigo.com",
-        "name": "ezohw",
-        "value": "w%3D1536%2Ch%3D703"
-      },
-      {
-        "host": "codeigo.com",
-        "name": "ezux_lpl_125384",
-        "value": "1638891788800|45672b2e-0fb0-4ee6-432b-d7ccce980dfc|false"
-      },
-      {
-        "host": ".datacamp.com",
-        "name": "_sp_id.6552",
-        "value": "740f23f1-5aee-42f4-ba64-b073ca9bc10a.1638892061.1.1638892101.1638892061.279f9b7c-b1f8-4865-93b6-12df1f166396"
-      },
-      {
-        "host": ".datacamp.com",
-        "name": "_sp_ses.6552",
-        "value": "*"
-      },
-      {
-        "host": "www.datacamp.com",
-        "name": "sp",
-        "value": "c6d526ad-d1fe-465b-bb49-9d4474c2b3b7"
-      },
-      {
-        "host": ".datacamp.com",
-        "name": "__cf_bm",
-        "value": "0bXo7Fojvt1Cf50dSfCug9z3QHBiKz6T4LnFE.a6t.g-1638892101-0-AfwSY73Myw6LHU64yTonJwf9IuJWIGSqk3sRINHvgV4o87qQC2iU5oF0Ypocej2Vkqib2jN6nvcDSelOVS+0+NY="
-      },
-      {
-        "host": ".bing.com",
-        "name": "SRCHHPGUSR",
-        "value": "SRCHLANG=en&BRW=XW&BRH=M&CW=1536&CH=703&SW=1536&SH=864&DPR=1.25&UTC=120&DM=1&WTS=63774477937&HV=1638892831&EXLTT=31"
-      },
-      {
-        "host": ".jetbrains.com",
-        "name": "ncountryCodeCookie",
-        "value": "IL"
-      },
-      {
-        "host": "account.protonmail.com",
-        "name": "Version",
-        "value": "default"
-      },
-      {
-        "host": ".facebook.com",
-        "name": "sb",
-        "value": "gbOvYV8b60XZj0LVjjcU9tQn"
-      },
-      {
-        "host": ".facebook.com",
-        "name": "fr",
-        "value": "0NzT8KEzszCYVNUPu..Bhr7OB.dQ.AAA.0.0.Bhr7OB.AWWIwAl8zWs"
-      },
-      {
-        "host": ".facebook.com",
-        "name": "_js_datr",
-        "value": "gbOvYfho6B4LMXYd28WaXGdO"
-      },
-      {
-        "host": ".facebook.com",
-        "name": "wd",
-        "value": "1920x919"
-      },
-      {
-        "host": ".protonmail.com",
-        "name": "Session-Id",
-        "value": "YaJ@ZDECcEGlrCy-0ClMNQAAAO4"
-      },
-      {
-        "host": "mail.protonmail.com",
-        "name": "Version",
-        "value": "default"
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "_orig_referrer",
-        "value": "https%3A%2F%2Fwww.google.com%2F"
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "_landing_page",
-        "value": "%2Fcollections%2F%25D7%2592%25D7%2591%25D7%25A8%25D7%2599%25D7%259D-%25D7%2590%25D7%2591%25D7%2599%25D7%2596%25D7%25A8%25D7%2599%25D7%259D-%25D7%25AA%25D7%2599%25D7%25A7%25D7%2599%25D7%259D-%25D7%2595%25D7%2590%25D7%25A8%25D7%25A0%25D7%25A7%25D7%2599%25D7%259D"
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "_tracking_consent",
-        "value": "%7B%22v%22%3A%222.0%22%2C%22con%22%3A%7B%22GDPR%22%3A%22%22%7D%2C%22lim%22%3A%5B%22GDPR%22%5D%2C%22reg%22%3A%22%22%7D"
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "_shopify_tw",
-        "value": ""
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "_shopify_m",
-        "value": "persistent"
-      },
-      {
-        "host": "storyonline.co.il",
-        "name": "_ks_scriptVersion",
-        "value": "308"
-      },
-      {
-        "host": "storyonline.co.il",
-        "name": "_ks_scriptVersionChecked",
-        "value": "true"
-      },
-      {
-        "host": ".chimpstatic.com",
-        "name": "ak_bmsc",
-        "value": "7F27F9F25BC59B52495FFF481F9DC711~000000000000000000000000000000~YAAQtbRmUgBsYIp9AQAAJuZylg4bUEOeUVZMqv6xILJyyL9JEyNB3t4obyhurMjBT8Ik6njK2Blg8OjGwfmzgmpuAuz0VdR+vc+krpMEG9OkTurRKnzN//NVjuFXMOfytJr/oe0w4NdcD0n8M1qmeBSJJTkI+2QsimpTsMrLrnh11XF4cqZawSmb/VaAD4Kxc2ObIG2PnQptjgkg4wPyU8HSycKuYj4f4X6JbsQVW1zvZ9ByeW9lx8CRwPtj+uRJgWnkP464iwvzII/ISVPT0Q7VKJK/IC1EQCUp0HKa+VdzlhfIwsqKQHVzC+2zU0aa1n43IqupPQ39dDf4DGOgag3/MnYXv3vXJj6XAfLsXBuaXhA/NIp3CzUWmvaZECohh0/T3Q=="
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "__zlcmid",
-        "value": "17QkXNztTNxfC5F"
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "_shopify_sa_t",
-        "value": "2021-12-07T19%3A50%3A55.579Z"
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "_shopify_sa_p",
-        "value": ""
-      },
-      {
-        "host": "storyonline.co.il",
-        "name": "secure_customer_sig",
-        "value": ""
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "_y",
-        "value": "54a67507-684e-4c1c-bd79-cb8311a6ce9c"
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "_s",
-        "value": "c102e7ae-17a0-4781-b3ef-6b4927c7f7d7"
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "_shopify_y",
-        "value": "54a67507-684e-4c1c-bd79-cb8311a6ce9c"
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "_shopify_s",
-        "value": "c102e7ae-17a0-4781-b3ef-6b4927c7f7d7"
-      },
-      {
-        "host": ".storyonline.co.il",
-        "name": "_shopify_tm",
-        "value": ""
-      },
-      {
-        "host": "www.terminalx.com",
-        "name": "RSESSIONID",
-        "value": "21de2829-3488-4db9-861a-1bc48a7eac75"
-      },
-      {
-        "host": "www.camelmountain.co.il",
-        "name": "referer_url",
-        "value": "https://www.google.com/"
-      },
-      {
-        "host": ".terminalx.com",
-        "name": "__zlcmid",
-        "value": "17QkXO08uXe0f0Q"
-      },
-      {
-        "host": ".www.terminalx.com",
-        "name": "PHPSESSID",
-        "value": "1eu3sefpo39okqq58htitemqrr"
-      },
-      {
-        "host": "www.terminalx.com",
-        "name": "private_content_version",
-        "value": "9917199ba83b796bd8f43e57ed16c303"
-      },
-      {
-        "host": ".emanuel-online.com",
-        "name": "__zlcmid",
-        "value": "17QkXO0ENGnuxP8"
-      },
-      {
-        "host": "www.terminalx.com",
-        "name": "fe-version",
-        "value": "62cac04d4b2b71f782b7ff5bdc50029af1d0fed7"
-      },
-      {
-        "host": "www.emanuel-online.com",
-        "name": "mage-cache-storage",
-        "value": "%7B%7D"
-      },
-      {
-        "host": "www.emanuel-online.com",
-        "name": "mage-cache-storage-section-invalidation",
-        "value": "%7B%7D"
-      },
-      {
-        "host": "www.emanuel-online.com",
-        "name": "mage-messages",
-        "value": ""
-      },
-      {
-        "host": "www.emanuel-online.com",
-        "name": "recently_viewed_product",
-        "value": "%7B%7D"
-      },
-      {
-        "host": "www.emanuel-online.com",
-        "name": "recently_viewed_product_previous",
-        "value": "%7B%7D"
-      },
-      {
-        "host": "www.emanuel-online.com",
-        "name": "recently_compared_product",
-        "value": "%7B%7D"
-      },
-      {
-        "host": "www.emanuel-online.com",
-        "name": "recently_compared_product_previous",
-        "value": "%7B%7D"
-      },
-      {
-        "host": "www.emanuel-online.com",
-        "name": "product_data_storage",
-        "value": "%7B%7D"
-      },
-      {
-        "host": ".www.emanuel-online.com",
-        "name": "PHPSESSID",
-        "value": "hkjsm2keujmu8slnbdkvvu7mue"
-      },
-      {
-        "host": ".www.emanuel-online.com",
-        "name": "form_key",
-        "value": "xTHybGS2c4TJcX64"
-      },
-      {
-        "host": "www.emanuel-online.com",
-        "name": "private_content_version",
-        "value": "41e402eb0176183267548631c2c255e8"
-      },
-      {
-        "host": "www.emanuel-online.com",
-        "name": "section_data_ids",
-        "value": "%7B%7D"
-      },
-      {
-        "host": "www.zap.co.il",
-        "name": ".ASPXANONYMOUS",
-        "value": "YDT38_fg3WeLrwyGcXxczBDaLnoMdL-cQ36FDeIIXVgI28h-o6emRPpH-2zWAq3q_NJ6O8FK8hjyjNHMKFXCxfXd8LUz6DkwMLXWKKOf6vCsldYFvDyhQJ_CShKI4p64dvP1tA2"
-      },
-      {
-        "host": "www.zap.co.il",
-        "name": "ga_client_id",
-        "value": "undefined"
-      },
-      {
-        "host": "shoesonline.co.il",
-        "name": "shoes_user_type_2021",
-        "value": "guest"
-      },
-      {
-        "host": "shoesonline.co.il",
-        "name": "wp_woocommerce_session_563b116423846e4dc119cb133e44df37",
-        "value": "f1a970f5e0f9147d91d761cd2e85760e%7C%7C1641501169%7C%7C1641501168%7C%7C6e332d16f07cf6cb908c61b8e50f2efd"
-      },
-      {
-        "host": "shoesonline.co.il",
-        "name": "GCLB",
-        "value": "CKzxxO7Kj8CTHA"
-      },
-      {
-        "host": "shoesonline.co.il",
-        "name": "shoes_is_admin_page_2021",
-        "value": "1"
-      },
-      {
-        "host": ".zap.co.il",
-        "name": "SiteCookie",
-        "value": "notloggedin"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1jirj20",
-        "value": "itct=CM4CENwwIhMIzb-VwMTS9AIVmNZRCh3HYwQEMgpnLWhpZ2gtcmVjWg9GRXdoYXRfdG9fd2F0Y2iaAQYQjh4YngE%3D&csn=MC45OTQ4ODkyMTAyNzY5NTEz&endpoint=%7B%22clickTrackingParams%22%3A%22CM4CENwwIhMIzb-VwMTS9AIVmNZRCh3HYwQEMgpnLWhpZ2gtcmVjWg9GRXdoYXRfdG9fd2F0Y2iaAQYQjh4YngE%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DmhkptIDDR0Q%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22mhkptIDDR0Q%22%2C%22watchEndpointSupportedOnesieConfig%22%3A%7B%22html5PlaybackOnesieConfig%22%3A%7B%22commonConfig%22%3A%7B%22url%22%3A%22https%3A%2F%2Fr6---sn-nhpax-ua8d.googlevideo.com%2Finitplayback%3Fsource%3Dyoutube%26orc%3D1%26oeis%3D1%26c%3DWEB%26oad%3D3200%26ovd%3D3200%26oaad%3D11000%26oavd%3D11000%26ocs%3D700%26oewis%3D1%26oputc%3D1%26ofpcc%3D1%26msp%3D1%26odeak%3D1%26odepv%3D1%26osfc%3D1%26id%3D9a1929b480c34744%26ip%3D77.125.72.19%26initcwndbps%3D727500%26mt%3D1638908706%26oweuc%3D%22%7D%7D%7D%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1xjedn5",
-        "value": "itct=CMICENwwIhMI-ICN2MXS9AIVEgwWCh2hxA9pMgpnLWhpZ2gtY3J2Wg9GRXdoYXRfdG9fd2F0Y2iaAQUQjh4YZg%3D%3D&csn=MC40MDU0NTQxOTYwOTgyNzY0&endpoint=%7B%22clickTrackingParams%22%3A%22CMICENwwIhMI-ICN2MXS9AIVEgwWCh2hxA9pMgpnLWhpZ2gtY3J2Wg9GRXdoYXRfdG9fd2F0Y2iaAQUQjh4YZg%3D%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DTgN1QsXKeS0%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22TgN1QsXKeS0%22%2C%22watchEndpointSupportedOnesieConfig%22%3A%7B%22html5PlaybackOnesieConfig%22%3A%7B%22commonConfig%22%3A%7B%22url%22%3A%22https%3A%2F%2Fr1---sn-nhpax-ua8k.googlevideo.com%2Finitplayback%3Fsource%3Dyoutube%26orc%3D1%26oeis%3D1%26c%3DWEB%26oad%3D3200%26ovd%3D3200%26oaad%3D11000%26oavd%3D11000%26ocs%3D700%26oewis%3D1%26oputc%3D1%26ofpcc%3D1%26msp%3D1%26odeak%3D1%26odepv%3D1%26osfc%3D1%26id%3D4e037542c5ca792d%26ip%3D77.125.72.19%26initcwndbps%3D886250%26mt%3D1638909219%26oweuc%3D%22%7D%7D%7D%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1i067kf",
-        "value": "itct=CNYBENwwIhMI4uvV4cfS9AIVD0AWCh2yJwPCMgpnLWhpZ2gtcmVjWg9GRXdoYXRfdG9fd2F0Y2iaAQYQjh4YngE%3D&csn=MC44OTk1ODAxNDQ2MTYzNDY4&endpoint=%7B%22clickTrackingParams%22%3A%22CNYBENwwIhMI4uvV4cfS9AIVD0AWCh2yJwPCMgpnLWhpZ2gtcmVjWg9GRXdoYXRfdG9fd2F0Y2iaAQYQjh4YngE%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DLlvFQpA-wTM%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22LlvFQpA-wTM%22%2C%22watchEndpointSupportedOnesieConfig%22%3A%7B%22html5PlaybackOnesieConfig%22%3A%7B%22commonConfig%22%3A%7B%22url%22%3A%22https%3A%2F%2Fr2---sn-nhpax-ua8r.googlevideo.com%2Finitplayback%3Fsource%3Dyoutube%26orc%3D1%26oeis%3D1%26c%3DWEB%26oad%3D3200%26ovd%3D3200%26oaad%3D11000%26oavd%3D11000%26ocs%3D700%26oewis%3D1%26oputc%3D1%26ofpcc%3D1%26msp%3D1%26odeak%3D1%26odepv%3D1%26osfc%3D1%26id%3D2e5bc542903ec133%26ip%3D77.125.72.19%26initcwndbps%3D823750%26mt%3D1638909219%26oweuc%3D%22%7D%7D%7D%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1pk690n",
-        "value": "csn=MC43MDk4NDIwNzA4MjQyNjYz&itct=CAAQg2ciEwiWt4eCyNL0AhXu9LQKHaVsDu0yDHJlbGF0ZWQtYXV0b0izgvuBqajxrS6aAQUIAxD4HQ%3D%3D&lact=218052&pbis=3&prefetch_reason=hc_pbis&vis=0&autonav=1&endpoint=%7B%22clickTrackingParams%22%3A%22CAAQg2ciEwiWt4eCyNL0AhXu9LQKHaVsDu0yDHJlbGF0ZWQtYXV0b0izgvuBqajxrS6aAQUIAxD4HQ%3D%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3D1-1SF5pkAjQ%26pp%3DQAFIAQ%253D%253D%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%221-1SF5pkAjQ%22%2C%22params%22%3A%22EAEYAdoBAggB%22%2C%22playerParams%22%3A%22QAFIAQ%253D%253D%22%2C%22watchEndpointSupportedPrefetchConfig%22%3A%7B%22prefetchHintConfig%22%3A%7B%22prefetchPriority%22%3A0%2C%22countdownUiRelativeSecondsPrefetchCondition%22%3A-3%7D%7D%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-8c89x0",
-        "value": "autonav=1&itct=CDQQ4ZIBIhMIlreHgsjS9AIV7vS0Ch2lbA7tMgxyZWxhdGVkLWF1dG9Is4L7gamo8a0umgEFCAMQ-B0%3D&lact=220615&vis=0&csn=MC43MDk4NDIwNzA4MjQyNjYz&endpoint=%7B%22watchEndpoint%22%3A%7B%22videoId%22%3A%221-1SF5pkAjQ%22%2C%22params%22%3A%22EAEYAdoBAggB%22%2C%22playerParams%22%3A%22QAFIAQ%253D%253D%22%2C%22watchEndpointSupportedPrefetchConfig%22%3A%7B%22prefetchHintConfig%22%3A%7B%22prefetchPriority%22%3A0%2C%22countdownUiRelativeSecondsPrefetchCondition%22%3A-3%7D%7D%7D%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3D1-1SF5pkAjQ%26pp%3DQAFIAQ%253D%253D%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22clickTrackingParams%22%3A%22CDQQ4ZIBIhMIlreHgsjS9AIV7vS0Ch2lbA7tMgxyZWxhdGVkLWF1dG9Is4L7gamo8a0umgEFCAMQ-B0%3D%22%7D"
-      },
-      {
-        "host": "plugins.jetbrains.com",
-        "name": "AWSALB",
-        "value": "J1UNScv4SUAMY0Vr1g7WJQkq8w7BSbn7Lg74aYdtJm9Bn2MKGO2fN+XV5+xnBYIacFVxbdzrwud6lffizYJ0G1k8xdanIJ4Kz9tg1vaaYbQYV8TM05h0xkvrPmIY"
-      },
-      {
-        "host": "plugins.jetbrains.com",
-        "name": "AWSALBCORS",
-        "value": "J1UNScv4SUAMY0Vr1g7WJQkq8w7BSbn7Lg74aYdtJm9Bn2MKGO2fN+XV5+xnBYIacFVxbdzrwud6lffizYJ0G1k8xdanIJ4Kz9tg1vaaYbQYV8TM05h0xkvrPmIY"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-ykahry",
-        "value": "itct=CM4CENwwIhMIwYTil_jU9AIVFAwWCh3XPAmzMgpnLWhpZ2gtY3J2Wg9GRXdoYXRfdG9fd2F0Y2iaAQUQjh4YZg%3D%3D&csn=MC4zOTU4NzM5NDQ4MzExNzYx&endpoint=%7B%22clickTrackingParams%22%3A%22CM4CENwwIhMIwYTil_jU9AIVFAwWCh3XPAmzMgpnLWhpZ2gtY3J2Wg9GRXdoYXRfdG9fd2F0Y2iaAQUQjh4YZg%3D%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DvvBB-fH94OI%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22vvBB-fH94OI%22%2C%22watchEndpointSupportedOnesieConfig%22%3A%7B%22html5PlaybackOnesieConfig%22%3A%7B%22commonConfig%22%3A%7B%22url%22%3A%22https%3A%2F%2Fr4---sn-nhpax-ua8k.googlevideo.com%2Finitplayback%3Fsource%3Dyoutube%26orc%3D1%26oeis%3D1%26c%3DWEB%26oad%3D3200%26ovd%3D3200%26oaad%3D11000%26oavd%3D11000%26ocs%3D700%26oewis%3D1%26oputc%3D1%26ofpcc%3D1%26msp%3D1%26odeak%3D1%26odepv%3D1%26osfc%3D1%26id%3Dbef041f9f1fde0e2%26ip%3D77.125.72.19%26initcwndbps%3D703750%26mt%3D1638991012%26oweuc%3D%22%7D%7D%7D%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-s1kflv",
-        "value": "csn=MC45NDc1MjI3NzA4OTE3OTEy&itct=CAAQg2ciEwjEnPGZ-NT0AhUSxBYKHRhjCnkyDHJlbGF0ZWQtYXV0b0jiwfePn7-Q-L4BmgEFCAMQ-B0%3D&lact=113851&pbis=3&prefetch_reason=hc_pbis&vis=0&autonav=1&endpoint=%7B%22clickTrackingParams%22%3A%22CAAQg2ciEwjEnPGZ-NT0AhUSxBYKHRhjCnkyDHJlbGF0ZWQtYXV0b0jiwfePn7-Q-L4BmgEFCAMQ-B0%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DTNBKuhaVnRk%26pp%3DQAFIAQ%253D%253D%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22TNBKuhaVnRk%22%2C%22params%22%3A%22EAEYAdoBAggB%22%2C%22playerParams%22%3A%22QAFIAQ%253D%253D%22%2C%22watchEndpointSupportedPrefetchConfig%22%3A%7B%22prefetchHintConfig%22%3A%7B%22prefetchPriority%22%3A0%2C%22countdownUiRelativeSecondsPrefetchCondition%22%3A-3%7D%7D%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1d7ha1c",
-        "value": "autonav=1&itct=CDQQ4ZIBIhMIxJzxmfjU9AIVEsQWCh0YYwp5MgxyZWxhdGVkLWF1dG9I4sH3j5-_kPi-AZoBBQgDEPgd&lact=116431&vis=0&csn=MC45NDc1MjI3NzA4OTE3OTEy&endpoint=%7B%22watchEndpoint%22%3A%7B%22videoId%22%3A%22TNBKuhaVnRk%22%2C%22params%22%3A%22EAEYAdoBAggB%22%2C%22playerParams%22%3A%22QAFIAQ%253D%253D%22%2C%22watchEndpointSupportedPrefetchConfig%22%3A%7B%22prefetchHintConfig%22%3A%7B%22prefetchPriority%22%3A0%2C%22countdownUiRelativeSecondsPrefetchCondition%22%3A-3%7D%7D%7D%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DTNBKuhaVnRk%26pp%3DQAFIAQ%253D%253D%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22clickTrackingParams%22%3A%22CDQQ4ZIBIhMIxJzxmfjU9AIVEsQWCh0YYwp5MgxyZWxhdGVkLWF1dG9I4sH3j5-_kPi-AZoBBQgDEPgd%22%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1oe9439",
-        "value": "csn=MC43MjI0OTQxMzE4MDExNjI4&itct=CAAQg2ciEwik_6Tg-NT0AhWQAhYKHcgDC1AyDHJlbGF0ZWQtYXV0b0iZuta0odeS6EyaAQUIAxD4HQ%3D%3D&lact=289550&pbis=3&prefetch_reason=hc_pbis&vis=0&autonav=1&endpoint=%7B%22clickTrackingParams%22%3A%22CAAQg2ciEwik_6Tg-NT0AhWQAhYKHcgDC1AyDHJlbGF0ZWQtYXV0b0iZuta0odeS6EyaAQUIAxD4HQ%3D%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DjJFs7LTmvFc%26pp%3DQAFIAg%253D%253D%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22jJFs7LTmvFc%22%2C%22params%22%3A%22EAEYAdoBAggC%22%2C%22playerParams%22%3A%22QAFIAg%253D%253D%22%2C%22watchEndpointSupportedPrefetchConfig%22%3A%7B%22prefetchHintConfig%22%3A%7B%22prefetchPriority%22%3A0%2C%22countdownUiRelativeSecondsPrefetchCondition%22%3A-3%7D%7D%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1htyc5e",
-        "value": "autonav=1&itct=CDQQ4ZIBIhMIpP-k4PjU9AIVkAIWCh3IAwtQMgxyZWxhdGVkLWF1dG9ImbrWtKHXkuhMmgEFCAMQ-B0%3D&lact=292138&vis=0&csn=MC43MjI0OTQxMzE4MDExNjI4&endpoint=%7B%22watchEndpoint%22%3A%7B%22videoId%22%3A%22jJFs7LTmvFc%22%2C%22params%22%3A%22EAEYAdoBAggC%22%2C%22playerParams%22%3A%22QAFIAg%253D%253D%22%2C%22watchEndpointSupportedPrefetchConfig%22%3A%7B%22prefetchHintConfig%22%3A%7B%22prefetchPriority%22%3A0%2C%22countdownUiRelativeSecondsPrefetchCondition%22%3A-3%7D%7D%7D%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DjJFs7LTmvFc%26pp%3DQAFIAg%253D%253D%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22clickTrackingParams%22%3A%22CDQQ4ZIBIhMIpP-k4PjU9AIVkAIWCh3IAwtQMgxyZWxhdGVkLWF1dG9ImbrWtKHXkuhMmgEFCAMQ-B0%3D%22%7D"
-      },
-      {
-        "host": "visualstudio.microsoft.com",
-        "name": "MicrosoftApplicationsTelemetryDeviceId",
-        "value": "07206917-cf10-495b-b209-24700923d2f8"
-      },
-      {
-        "host": "visualstudio.microsoft.com",
-        "name": "ai_session",
-        "value": "qqS74uhBLFPFHr7wbqmYn0|1639116371178|1639116376399"
-      },
-      {
-        "host": ".visualstudio.com",
-        "name": "VstsSession",
-        "value": "%7B%22PersistentSessionId%22%3A%2225f31245-7f1f-4aa2-8612-53287064eee6%22%2C%22PendingAuthenticationSessionId%22%3A%22b7d9605f-639c-4757-8e24-eea953e9f3cd%22%2C%22CurrentAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22SignInState%22%3A%7B%22app.vssps.visualstudio.com%22%3A%7B%22LastSignInTick%22%3A637747131785318339%2C%22SignInCount%22%3A1%7D%7D%7D"
-      },
-      {
-        "host": ".freereceivesms.com",
-        "name": "__cf_bm",
-        "value": "j2t.u3TIZBizKkxgAAUB_G18tPQEHyrkXdZh091xHPo-1639117060-0-AfxfmC7cIlyUMYRlPn25iPweoflfmYJQQBuRUq77VAV5JqV2udLKiZ0jeKFIuhpZCpQEjVAa/n6+lxf2PsPN7l4OYoFYweYdRKUuZMQItolgNcgB27U0MlwYAqeRuo/nnA=="
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "original_req_url",
-        "value": "https://docs.microsoft.com/en-us/visualstudio/releases/2022/release-notes-v17.0"
-      },
-      {
-        "host": "account.jetbrains.com",
-        "name": "timeZoneOffset",
-        "value": "120"
-      },
-      {
-        "host": ".jetbrains.com",
-        "name": "JBA",
-        "value": "5ed6eaa0-4c58-4268-9766-e7a10e2e9e98"
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "original_req_url",
-        "value": "https://docs.microsoft.com/en-us/windows/desktop/breadcrumb/toc.json"
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "original_req_url",
-        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/Rpcdce/nc-rpcdce-rpc_object_inq_fn"
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "original_req_url",
-        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/breadcrumb/toc.json"
-      },
-      {
-        "host": ".learncpp.com",
-        "name": "ezoadgid_221418",
-        "value": "-2"
-      },
-      {
-        "host": ".learncpp.com",
-        "name": "ezoref_221418",
-        "value": "google.com"
-      },
-      {
-        "host": ".learncpp.com",
-        "name": "ezosuibasgeneris-0",
-        "value": "ce7c821d400c916680c86f46f98c7646"
-      },
-      {
-        "host": ".learncpp.com",
-        "name": "ezoab_221418",
-        "value": "mod1-c"
-      },
-      {
-        "host": ".learncpp.com",
-        "name": "active_template::221418",
-        "value": "pub_site.1639126178"
-      },
-      {
-        "host": ".learncpp.com",
-        "name": "ezopvc_221418",
-        "value": "1"
-      },
-      {
-        "host": ".learncpp.com",
-        "name": "ezepvv",
-        "value": "730"
-      },
-      {
-        "host": ".learncpp.com",
-        "name": "ezovid_221418",
-        "value": "164687099"
-      },
-      {
-        "host": ".learncpp.com",
-        "name": "lp_221418",
-        "value": "https://www.learncpp.com/cpp-tutorial/function-templates-with-multiple-template-types/"
-      },
-      {
-        "host": ".learncpp.com",
-        "name": "ezovuuidtime_221418",
-        "value": "1639126178"
-      },
-      {
-        "host": ".learncpp.com",
-        "name": "ezovuuid_221418",
-        "value": "54335286-da7e-4fdd-50c0-75d7ef24e925"
-      },
-      {
-        "host": "www.learncpp.com",
-        "name": "ezds",
-        "value": "ffid%3D1%2Cw%3D1536%2Ch%3D864"
-      },
-      {
-        "host": "www.learncpp.com",
-        "name": "ezohw",
-        "value": "w%3D1536%2Ch%3D703"
-      },
-      {
-        "host": "www.learncpp.com",
-        "name": "ezux_lpl_221418",
-        "value": "1639126185986|111e5597-e3c3-43f4-56e2-78b51d481567|false"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1cj9qxg",
-        "value": "oq=pass%20multiple%20arguments%20to%20c%2B%2B%20pointer%20function&gs_l=youtube.3..33i21k1.4104.11691.0.11790.50.46.1.0.0.0.238.6391.0j41j3.45.0....0...1ac.1.64.youtube..4.25.3900.0..0i512i433i131k1j0i433i131k1j0i512i433k1j0i512k1j0i3k1j0i512i10k1j0i24k1j33i10i160k1j33i160k1.528.TGkxvWCobms&itct=CBwQ7VAiEwjLo63U79j0AhX6wEkHHa2cBxY%3D&csn=MC44MjI5OTk1MzUwODM0MTQ0&endpoint=%7B%22clickTrackingParams%22%3A%22CBwQ7VAiEwjLo63U79j0AhX6wEkHHa2cBxY%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fresults%3Fsearch_query%3Dpass%2Bmultiple%2Barguments%2Bto%2Bc%252B%252B%2Bpointer%2Bfunction%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_SEARCH%22%2C%22rootVe%22%3A4724%7D%7D%2C%22searchEndpoint%22%3A%7B%22query%22%3A%22pass%20multiple%20arguments%20to%20c%2B%2B%20pointer%20function%22%7D%7D"
-      },
-      {
-        "host": ".ibm.com",
-        "name": "ak_bmsc",
-        "value": "384A6F525A06A5ADD55A6F2338FFBDDB~000000000000000000000000000000~YAAQzLRmUgAJkJJ9AQAAfC2bow5vPaszPoQW5qRtyw/igVn4tbXWXtFyhuRutjv1kvtKChfkU/pkuEK+U6b0sObQ5TRARImBDk2HVXPpngPvcLMWcIPqNlro8Y1GRGhO7hllJHkUNNKgTRVcRxwOCIy5+aptwuK/JEaWuiB6P/R0P4B7p0bHSbre61yka191UQ5pGh9zT4kBZiElbnZS7D/xf5cHK5wtu7w8FhS4qBygzsOKKf3IoYhc+qaRS2M/aNBmRT3LU14m59yraLKaUnhsQdsbUIISrhI3grZgOzSzhLDP91zc18ShuyaZrUVuzevyeOMW3Ky7t/AlUMuTXLbLuxL+gB2Qt+AERruUHKOw57d6jR2QW+pm1eqEXx3KiXULLHjm"
-      },
-      {
-        "host": ".ibm.com",
-        "name": "bm_sz",
-        "value": "004AF1643BE62FE4D45467AA03369695~YAAQzLRmUgEJkJJ9AQAAfC2bow5VnSFFJopBTXBXZUg8KAmqh8wSpy1S2G+qCeDuWTvz3yAyxC6DeAU9+pyeLybaCeq3He78mjiVk3OZSRU4GbdhtVce2C+2V0nWnUxGxBUrFNobgJHgUch0ySt+E6bF2+DokpKd1kHwkPB5dCrFzllcoLHuf7qpJhhuXGN2j4N92rqiKdQCCNqMfaAmN9pR4EmMc72I7w+rcEwaTg5y0Qoru0axWFjJGQ+RuU+BcWCZ/ZBp1HLzitIvGLTars+qqvG/xpr/RK790Oqoo/4=~3424825~3163190"
-      },
-      {
-        "host": "www-api.ibm.com",
-        "name": "notice_preferences_master",
-        "value": "{'CAMP':{'cm_mmc':'OSearch_Google-_---_---_--','cm_mmc_vendor':'OSearch_Google','cm_mmc_category':'-','cm_mmc_placement':'-','cm_mmc_item':'-','utm_source':'Google','p1':'Osearch'}}"
-      },
-      {
-        "host": ".geeksforgeeks.org",
-        "name": "g_state",
-        "value": "{'i_p':1639733783577,'i_l':3}"
-      },
-      {
-        "host": "www.packer.io",
-        "name": "_ALGOLIA",
-        "value": "anonymous-9c12af27-aa7a-498e-ac16-10e11008accf"
-      },
-      {
-        "host": ".codeproject.com",
-        "name": "mguid",
-        "value": "7f2e6bd8-7ec2-4827-ae81-5e8208727d24"
-      },
-      {
-        "host": ".ibm.com",
-        "name": "_abck",
-        "value": "FC0FF1BBDC60325468ED6008F23C4EA1~0~YAAQzLRmUvI8kJJ9AQAA4drKowc1B7NWDlm7gluEqpYskk92Ry7RZVCVWjvEQ5krBXS9qw3QyLYkDlVSZXMuz+xOsjV/bwKO+T52v38p0SmZaaG2zwPsuzet0E+SxLcZcgFD2sBheb+QZBrH8JpcYMT0p0upC0ZjrzwZbexs1aa8qjDv708cmp3YSvim9vcWa+07zyEUkQ3YHVotyDHrWTmfXHsNmJsbEJDAifbt2teXcrLzME1hBITl8eL61+AogrzhM+BL0pQrX/LnMWjSTW2yplwb07XiVWUu+GlfvYjdlW1y16vku2QLwldivu0XHs/aQUSj99CUAISTkelLXD7gD2Jgx7XgoAKCOc+ciyY7Ovw9iDE/0MoOqZkiyqbvTnZqbU7ON/0kj1OOvXEV5CSEdu+vlQ==~-1~||-1||~-1"
-      },
-      {
-        "host": ".ibm.com",
-        "name": "userContext",
-        "value": "8f6ddbb7-3bd6-4916-86de-c11a770fdbd3|0|0|0|IL|n/a|0|n/a|n/a"
-      },
-      {
-        "host": ".ibm.com",
-        "name": "bm_sv",
-        "value": "C23CAAE79C437E4633CBA4141744BE2D~PHh/XRGVdPT6ahfENxx0c0Bep13dAOz2ICz9xsKH1zxTPpWXymlGZrd3co85VdBeteVc24fwhlyucjcZIx/VZ7PeiXpAlf3IC0UMCgbJxKa7flFOfetlso+dF8GV7Jbu3oXFzyk+MXx8t+QPrqhEsA=="
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1y99q77",
-        "value": "oq=paramater%20pack%20c%2B%2B&gs_l=youtube.3..0i13k1j0i22i30k1.2268.9937.0.10128.44.39.5.0.0.0.259.6768.0j26j11.39.0....0...1ac.1.64.youtube..0.33.5375.0..0i512i433i131k1j0i433i131k1j0i512i433k1j0i512k1j0i3k1j0i512i10k1j0i433i131i10k1j0i10k1j0i22i10i30k1j33i21k1j0i433i10k1j0i455i10k1.154.ECxTkYwkWy8&itct=CBwQ7VAiEwj3-NuA_dj0AhWN5rQKHe7IC_g%3D&csn=MC4zMDQ5Mzk2NTg0NzAxNTYyNQ..&endpoint=%7B%22clickTrackingParams%22%3A%22CBwQ7VAiEwj3-NuA_dj0AhWN5rQKHe7IC_g%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fresults%3Fsearch_query%3Dparamater%2Bpack%2Bc%252B%252B%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_SEARCH%22%2C%22rootVe%22%3A4724%7D%7D%2C%22searchEndpoint%22%3A%7B%22query%22%3A%22paramater%20pack%20c%2B%2B%22%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1q43hqt",
-        "value": "itct=CLoBENwwGAEiEwii4JKg_dj0AhWOO_EFHcIaDc4yBnNlYXJjaFIScGFyYW1hdGVyIHBhY2sgYysrmgEDEPQk&csn=MC4yMDQ2MTM0NjY5ODk1MDczMw..&endpoint=%7B%22clickTrackingParams%22%3A%22CLoBENwwGAEiEwii4JKg_dj0AhWOO_EFHcIaDc4yBnNlYXJjaFIScGFyYW1hdGVyIHBhY2sgYysrmgEDEPQk%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DlyDGcdqEhqI%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22lyDGcdqEhqI%22%2C%22params%22%3A%22qgMScGFyYW1hdGVyIHBhY2sgYysrugMKCMKIrPemisSRULoDCwjRoenn4efLqKMBugMLCJqUrOH755TGqQG6AwoIqf2mu7mOhoNTugMLCPypl-v8s8LKqgG6AwoImo6D_4O_kpwHugMKCJeApK2jpLidCboDCgisuMWk-eftqEe6AwoIi7H2tZSylvQjugMLCI2_zvzE8NyB1gG6AwoI592coZ_j65ZIugMLCPLas52xtYmazgG6AwsI0vv9hsrHy5_0AboDCwji1-q5uJ7AzfoBugMLCNejgpewgrDKgwG6AwsIu4-fuuuc_KupAboDCwjZvYWp4KiqrY8BugMKCJb26-ChqunoQLoDCwiP3-KH9abZzOgB%22%2C%22watchEndpointSupportedOnesieConfig%22%3A%7B%22html5PlaybackOnesieConfig%22%3A%7B%22commonConfig%22%3A%7B%22url%22%3A%22https%3A%2F%2Fr3---sn-nhpax-ua8k.googlevideo.com%2Finitplayback%3Fsource%3Dyoutube%26orc%3D1%26oeis%3D1%26c%3DWEB%26oad%3D3200%26ovd%3D3200%26oaad%3D11000%26oavd%3D11000%26ocs%3D700%26oewis%3D1%26oputc%3D1%26ofpcc%3D1%26msp%3D1%26odeak%3D1%26odepv%3D1%26osfc%3D1%26id%3D9720c671da8486a2%26ip%3D77.125.72.19%26initcwndbps%3D1046250%26mt%3D1639130211%26oweuc%3D%22%7D%7D%7D%7D%7D"
-      },
-      {
-        "host": "mail.google.com",
-        "name": "COMPASS",
-        "value": "gmail=CooBAAlriVdR4v9Ej_RvfxRz_kDWkAnMCjjat0i4yw2XyngZIiHftPNBKGxkbbyfDcwJJy8Ky7inS0IvMEVz22_It2dp4K343l0u3DIaK4WclOakvuUMBJh-6fHp1c5I2AVZsh0GdLCFIL-AyQ76wIj5a0YdWca8kBSdp9EW5xdXrzrC_JCJW_qVUXxTELz4zI0GGpwBAAlriVcXSGgbW_hEUP2hvSKnx0eTlH9Ib9pfotd1cU2ptsir9L8NmgVsUM4qyGNydTpbgXmn0AcwjO0wa7UkG5G8Sd8XqF_ko30-T585jAOl-j6704XnruwZRVQWL8G4kfLK2it-jjbhBAKoWzYyYR5lGBuWsHySy0nPJMACVJtcyIftb6jVa_e8_K2K5Lep2J4fOHfZ13D9mE27:gmail_ps=CogBAAlriVcDTPS6gWplEl3d08pCxR3dxlD55mOWBoQxWfBeuO_yZ7MLVMPWk0D8Wfs7xbhexk9gkgEsonjkHakSTh9lfR2pqViU8aeT_ys6h7QPRLnQpjHZiOoe9c2VjvjjbSeb0ME9geyXRRIg1c0LwsqFt5wfMm2RMCpmSOYjFQwxfJYFBS_vERDP-MyNBhqaAQAJa4lXxYngGs0cvq3wyKeCN99eSBl1RIpd7ewM5I4KHe9yv4k8zBjeRGJqMl4DrLjalcHjXwYAP_WU22PFPZL4tcyxhbhj1WlbV9zXbA_38foF4DP1HnTD8N8WE4xt7ffjUJufpB4rtuMSDG-CSr29QIRUKZYnlOMPrjT5vCo0-HqGlsXPZeAog9vWwMfed-J3XiaiwKBCthU"
-      },
-      {
-        "host": "mail.google.com",
-        "name": "COMPASS",
-        "value": "bigtop-sync=CooBAAlriVcaGyE9iUvrgmXJ4Uf7dKPYkIRH9AT4Tb6tSas1yP507Iot11bLHF3o0wTTgmBMLOrB73Bn8Rawcvzj9YmcuBHhpeDQVYcVDnaBIIGVNHT6fl-kBvZnyS9RtSt4Mys6lGeLl-5myKVAa6-ZcYm_UuRsx7a-xOfvKPv3cbhNIyzFsxmnkmxfEK34zI0GGpwBAAlriVdIiG-NC8tW2RAX0T9RyNr_8o67HvsbwBopYJQN4z2Fv0NEjnpu-0GzGXEk5ShXcjdFHd0ciCAenPQubJ4_CYpDubYxybP4gqz1e1eD5esupA6mgj3LrugJCE3xD1uCSqfoFBCzhMChepf2Vg0BtN3OqA7amPLriEYIR-vQfq7zDUFOCj9Ttuhspf-GQx-2qgcnln550yox"
-      },
-      {
-        "host": "mail.google.com",
-        "name": "GMAIL_IMP",
-        "value": "v*2%2Fhc*6%2Fr-cs*363%2Fsdim*0%2Fsact*3%2Ftwts*6%2Ffua*-1*-1*4487!none!none!none%2Ftadis*11"
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "original_req_url",
-        "value": "https://docs.microsoft.com/en-us/visualstudio/ide/setting-bookmarks-in-code"
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "original_req_url",
-        "value": "https://docs.microsoft.com/en-us/cpp/error-messages/compiler-errors-2/compiler-error-c2504"
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "MicrosoftApplicationsTelemetryDeviceId",
-        "value": "ec73d45d-4849-4631-8d1b-7ad1333cfdf6"
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "ai_session",
-        "value": "oqBWXiiUFNuh7KFlXgc3+g|1639132786104|1639135636898"
-      },
-      {
-        "host": "pollserver.lastpass.com",
-        "name": "PHPSESSID",
-        "value": "g4dav1kpc096abtoof8p3j6l2ht"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1r85lg",
-        "value": "itct=CPkBENwwIhMI6u_P6I7Z9AIVwyzxBR2IuQ5DMgpnLWhpZ2gtY3J2Wg9GRXdoYXRfdG9fd2F0Y2iaAQUQjh4YZg%3D%3D&csn=MC4xMzQ5MDMxNDI0NDE1MTUyNA..&endpoint=%7B%22clickTrackingParams%22%3A%22CPkBENwwIhMI6u_P6I7Z9AIVwyzxBR2IuQ5DMgpnLWhpZ2gtY3J2Wg9GRXdoYXRfdG9fd2F0Y2iaAQUQjh4YZg%3D%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DlksbjTPD1Zo%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22lksbjTPD1Zo%22%2C%22watchEndpointSupportedOnesieConfig%22%3A%7B%22html5PlaybackOnesieConfig%22%3A%7B%22commonConfig%22%3A%7B%22url%22%3A%22https%3A%2F%2Fr3---sn-nhpax-ua8k.googlevideo.com%2Finitplayback%3Fsource%3Dyoutube%26orc%3D1%26oeis%3D1%26c%3DWEB%26oad%3D3200%26ovd%3D3200%26oaad%3D11000%26oavd%3D11000%26ocs%3D700%26oewis%3D1%26oputc%3D1%26ofpcc%3D1%26msp%3D1%26odeak%3D1%26odepv%3D1%26osfc%3D1%26id%3D964b1b8d33c3d59a%26ip%3D77.125.72.19%26initcwndbps%3D1107500%26mt%3D1639135043%26oweuc%3D%22%7D%7D%7D%7D%7D"
-      },
-      {
-        "host": ".tinypass.com",
-        "name": "LANG",
-        "value": "en_US"
-      },
-      {
-        "host": ".tinypass.com",
-        "name": "LANG_CHANGED",
-        "value": "en_US"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-131krkh",
-        "value": "itct=CGUQlDUYACITCN3ZrYHN2fQCFdHoUQodBW4A0zIKZy1oaWdoLWNydloYVUNiQTJCWkJvRGlBQlBveUVhYzhteFpnmgEFEPI4GGaqARhVVWJBMkJaQm9EaUFCUG95RWFjOG14Wmc%3D&csn=MC41NTQ5MjMxNDExNjg3NzMx&endpoint=%7B%22clickTrackingParams%22%3A%22CGUQlDUYACITCN3ZrYHN2fQCFdHoUQodBW4A0zIKZy1oaWdoLWNydloYVUNiQTJCWkJvRGlBQlBveUVhYzhteFpnmgEFEPI4GGaqARhVVWJBMkJaQm9EaUFCUG95RWFjOG14Wmc%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DVkbZACFaat4%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22VkbZACFaat4%22%2C%22watchEndpointSupportedOnesieConfig%22%3A%7B%22html5PlaybackOnesieConfig%22%3A%7B%22commonConfig%22%3A%7B%22url%22%3A%22https%3A%2F%2Fr2---sn-nhpax-ua8r.googlevideo.com%2Finitplayback%3Fsource%3Dyoutube%26orc%3D1%26oeis%3D1%26c%3DWEB%26oad%3D3200%26ovd%3D3200%26oaad%3D11000%26oavd%3D11000%26ocs%3D700%26oewis%3D1%26oputc%3D1%26ofpcc%3D1%26msp%3D1%26odeak%3D1%26odepv%3D1%26osfc%3D1%26id%3D5646d900215a6ade%26ip%3D77.125.72.19%26initcwndbps%3D1112500%26mt%3D1639151575%26oweuc%3D%22%7D%7D%7D%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1ojfylx",
-        "value": "csn=MC43MjM4MjU0ODAxNjAxNjE2&itct=CAAQg2ciEwiYwYOEzdn0AhWjulEKHQfyD2oyDHJlbGF0ZWQtYXV0b0je1emKgqC2o1aaAQUIAxD4HQ%3D%3D&lact=54889&pbis=3&prefetch_reason=hc_pbis&vis=0&autonav=1&endpoint=%7B%22clickTrackingParams%22%3A%22CAAQg2ciEwiYwYOEzdn0AhWjulEKHQfyD2oyDHJlbGF0ZWQtYXV0b0je1emKgqC2o1aaAQUIAxD4HQ%3D%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DgvUj9f_dmXo%26pp%3DQAFIAQ%253D%253D%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22gvUj9f_dmXo%22%2C%22params%22%3A%22EAEYAdoBAggB%22%2C%22playerParams%22%3A%22QAFIAQ%253D%253D%22%2C%22watchEndpointSupportedPrefetchConfig%22%3A%7B%22prefetchHintConfig%22%3A%7B%22prefetchPriority%22%3A0%2C%22countdownUiRelativeSecondsPrefetchCondition%22%3A-3%7D%7D%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1hopfr6",
-        "value": "autonav=1&itct=CDMQ4ZIBIhMImMGDhM3Z9AIVo7pRCh0H8g9qMgxyZWxhdGVkLWF1dG9I3tXpioKgtqNWmgEFCAMQ-B0%3D&lact=57510&vis=0&csn=MC43MjM4MjU0ODAxNjAxNjE2&endpoint=%7B%22watchEndpoint%22%3A%7B%22videoId%22%3A%22gvUj9f_dmXo%22%2C%22params%22%3A%22EAEYAdoBAggB%22%2C%22playerParams%22%3A%22QAFIAQ%253D%253D%22%2C%22watchEndpointSupportedPrefetchConfig%22%3A%7B%22prefetchHintConfig%22%3A%7B%22prefetchPriority%22%3A0%2C%22countdownUiRelativeSecondsPrefetchCondition%22%3A-3%7D%7D%7D%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DgvUj9f_dmXo%26pp%3DQAFIAQ%253D%253D%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22clickTrackingParams%22%3A%22CDMQ4ZIBIhMImMGDhM3Z9AIVo7pRCh0H8g9qMgxyZWxhdGVkLWF1dG9I3tXpioKgtqNWmgEFCAMQ-B0%3D%22%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-x57ay6",
-        "value": "itct=IhMI1cGrgc3Z9AIVbirxBR2i1AIEMg5lbWJfY2hfbmFtZV9leA%3D%3D&csn=MC41Mjk1NzU2MTc4NjkxNzYy&endpoint=%7B%22clickTrackingParams%22%3A%22IhMI1cGrgc3Z9AIVbirxBR2i1AIEMg5lbWJfY2hfbmFtZV9leA%3D%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fchannel%2FUCbA2BZBoDiABPoyEac8mxZg%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_CHANNEL%22%2C%22rootVe%22%3A3611%2C%22apiUrl%22%3A%22%2Fyoutubei%2Fv1%2Fbrowse%22%7D%7D%2C%22browseEndpoint%22%3A%7B%22browseId%22%3A%22UCbA2BZBoDiABPoyEac8mxZg%22%2C%22params%22%3A%22EgC4AQA%253D%22%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1b",
-        "value": "disableCache=true&itct=CB8QsV4iEwiz0Jn6z9n0AhWXHwYAHdlzCuo%3D&csn=MC44MjE3NTU0NDI5ODA4NDEx&endpoint=%7B%22clickTrackingParams%22%3A%22CB8QsV4iEwiz0Jn6z9n0AhWXHwYAHdlzCuo%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2F%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_BROWSE%22%2C%22rootVe%22%3A3854%2C%22apiUrl%22%3A%22%2Fyoutubei%2Fv1%2Fbrowse%22%7D%7D%2C%22browseEndpoint%22%3A%7B%22browseId%22%3A%22FEwhat_to_watch%22%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1ulzoj6",
-        "value": "itct=CM0CENwwIhMIh5-M-8_Z9AIVEe5RCh2oNQH0MgpnLWhpZ2gtY3J2Wg9GRXdoYXRfdG9fd2F0Y2iaAQUQjh4YZg%3D%3D&csn=MC4zMTEyMzE5NTkwODE4Njg1&endpoint=%7B%22clickTrackingParams%22%3A%22CM0CENwwIhMIh5-M-8_Z9AIVEe5RCh2oNQH0MgpnLWhpZ2gtY3J2Wg9GRXdoYXRfdG9fd2F0Y2iaAQUQjh4YZg%3D%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DFau4p9eFB7Q%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22Fau4p9eFB7Q%22%2C%22watchEndpointSupportedOnesieConfig%22%3A%7B%22html5PlaybackOnesieConfig%22%3A%7B%22commonConfig%22%3A%7B%22url%22%3A%22https%3A%2F%2Fr1---sn-nhpax-ua8k.googlevideo.com%2Finitplayback%3Fsource%3Dyoutube%26orc%3D1%26oeis%3D1%26c%3DWEB%26oad%3D3200%26ovd%3D3200%26oaad%3D11000%26oavd%3D11000%26ocs%3D700%26oewis%3D1%26oputc%3D1%26ofpcc%3D1%26msp%3D1%26odeak%3D1%26odepv%3D1%26osfc%3D1%26id%3D15abb8a7d78507b4%26ip%3D77.125.72.19%26initcwndbps%3D1096250%26mt%3D1639152294%26oweuc%3D%22%7D%7D%7D%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "PREF",
-        "value": "tz=Asia.Jerusalem&f6=40000000"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-1z1k5s",
-        "value": "csn=MC4yMzAyMDE2MjQxMTA1ODU2NQ..&itct=CM0CENwwIhMIjd-M0qXb9AIV8BwGAB06PAXkMgpnLWhpZ2gtcmVjWg9GRXdoYXRfdG9fd2F0Y2iaAQYQjh4YngE%3D&endpoint=%7B%22clickTrackingParams%22%3A%22CM0CENwwIhMIjd-M0qXb9AIV8BwGAB06PAXkMgpnLWhpZ2gtcmVjWg9GRXdoYXRfdG9fd2F0Y2iaAQYQjh4YngE%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DyJ1OVSmuHGI%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22yJ1OVSmuHGI%22%2C%22watchEndpointSupportedOnesieConfig%22%3A%7B%22html5PlaybackOnesieConfig%22%3A%7B%22commonConfig%22%3A%7B%22url%22%3A%22https%3A%2F%2Fr6---sn-nhpax-ua8d.googlevideo.com%2Finitplayback%3Fsource%3Dyoutube%26orc%3D1%26oeis%3D1%26c%3DWEB%26oad%3D3200%26ovd%3D3200%26oaad%3D11000%26oavd%3D11000%26ocs%3D700%26oewis%3D1%26oputc%3D1%26ofpcc%3D1%26msp%3D1%26odeak%3D1%26odepv%3D1%26osfc%3D1%26id%3Dc89d4e5529ae1c62%26ip%3D77.125.72.19%26initcwndbps%3D1473750%26mt%3D1639209650%26oweuc%3D%22%7D%7D%7D%7D%7D"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "ST-7vc8s0",
-        "value": "itct=CM0CENwwIhMIjd-M0qXb9AIV8BwGAB06PAXk&csn=MC4yMzAyMDE2MjQxMTA1ODU2NQ..&endpoint=%7B%22clickTrackingParams%22%3A%22CM0CENwwIhMIjd-M0qXb9AIV8BwGAB06PAXk%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fc%2FKAN11NEWS%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_CHANNEL%22%2C%22rootVe%22%3A3611%2C%22apiUrl%22%3A%22%2Fyoutubei%2Fv1%2Fbrowse%22%7D%7D%2C%22browseEndpoint%22%3A%7B%22browseId%22%3A%22UC_HwfTAcjBESKZRJq6BTCpg%22%2C%22canonicalBaseUrl%22%3A%22%2Fc%2FKAN11NEWS%22%7D%7D"
-      },
-      {
-        "host": "moodle.colman.ac.il",
-        "name": "MOODLEID1_",
-        "value": "%2582t%2590z%2599%25EC%25B9%25E4%2512"
-      },
-      {
-        "host": "www.office.com",
-        "name": "OH.DCAffinity",
-        "value": "OH-weu"
-      },
-      {
-        "host": "www.office.com",
-        "name": "OH.FLID",
-        "value": "59408b84-f06f-4fad-b65a-19cbeea65617"
-      },
-      {
-        "host": ".office.com",
-        "name": "MUID",
-        "value": "0307652A9D8467C720DD74209CFF66BA"
-      },
-      {
-        "host": ".login.microsoftonline.com",
-        "name": "brcap",
-        "value": "0"
-      },
-      {
-        "host": "www.office.com",
-        "name": "OhpToken",
-        "value": "AQAAABowMy8xMC8yMDIyIDA5OjQzOjQxICswMDowMKUJMC5BWE1BTVd2VkNLUF9vMDZMbjRXaEw0MUtsMXRFWlVmR01yQkpnLVlkazNaU2RzcHpBR1EuQWdBQkFBQUFBQUQtLURMQTNWTzdRcmRkZ0pnN1dldnJBZ0RzX3dRQTlQLXZtbk9EN0NvaEFzTzVQaENmaFJ1UDJQNjVmRzZQYU03dXlqZEJsWnNSNFFhQnVIaDZMWGNPandIeERZclV1QjJhOFNjalVLOTdkTFhLeEd5ZHdvUW9JQk42d2hQQ0dpSE5DOF9sOEdXdjFrcXp5bFZoSHdaVUNQMElfSldQOGRUb0RacFZMSWs1OXZpaXJtNm9OMWhfWmN2aDFub0pfMXNaMEkxNHNiTjZtRmxKRTBaN1JTZEVma1N4aDRxR0VpS1I5Ym04dC05bENveUQ0VFVhVXZQb1l2YldkZlFIZmFhTkF1bFpGZjh3WFU4RG1JWnZaamwxUFBUY0FCNi1zUDhMQ1BDb2NsSExmZ3BuUjZ4eWdFbzZ0U1lrelVzRXM3YU5uSko4Q2lBYXpxTTktLTNQTmdDaC1vajJCczFsa1haNjAtYWhObUw2ZUhoQm5RdGs1TjBFZUhETGlQUnlHSTRucTZxcE12eDFVcTkzSFRIWWJUWjZZbnJCTW5Ram1NR2FSZi13MEh1QU9lUnl6QkJ6alhhLXVJWFM0Sk8tQjJlamVyalhJYjIyX1FndUltUWROZk50UlFtdF9tcWI0ZF9rVWhzLVQwNTAyVlZNcEoyd3REWm5iSmsxZmJnVWpQMFZ1TVVwQ2YtSjZia3EySzhVd3Z3MTRhSF9pcndzM2R4d3h1b2ExekF6dGJLZTExWWZoSkgwUmEyWFdLdEpIZDZxWXVlcUNyXzhpR2J3U3VxdGdmNm8wZlktQm95SHczb1V5WWdTX0VDWWVDeW1kYW1wb1A0dFZ0YkdfaHd1UjItUFVHRkFVX1BPSy1SUVlYMXhBMlJGc3dqUnFpcW10WE9HM2xCazBKa1MyclpLSVBvRnhMOXZSdWJGSVNMX2FtUTVkdFhkdGlzV1lxVXNwaWNnLVF1TVFHdWI5MDZyV1FwZXc3UmEwU1Q1czdLeUg3cWpUOWY0QUhQUHhqTTVfNXI4am41cERDTUgwMjNKTnFaM2FlSXh3bFR3eWhCUUk0eEktUGt4aExocUFPTVQyeGV0YnRIYVQzR3gxcHZrekQ2VEstd3ZhLWxHZWlVXzlBUWp0ZGctcDF4SERTT2lpV01BN1VVWXVFU3pjbGd6NTh3ODVKSnpBZDViOXRycXVRN0RVaDN2VF9LVFBmLXNwLVZvbGZYdXJ2LWRPd0JOMnh3WHZjM3dFUXJwbWV0a2F3REoyNzBpUDhRellmdFFJSGg2U2NQcVNFaUtwVnZoY2haLWN3UElqdDNPUUVuTGU5SUxOSGdEaFcxODVqMU5fYnhtNUZ0dVhuSEg4ZUpIZFRKWmtuRUh1ZjVsbHBUeG5pUVBLeC1WZ0o4cnBlaWsyMWs0N0ZteTRqQ0NwM21Ed1JXR2lIeEd6cEowaHRSUWlCY21pYnd4cVRTWEJYVnUzLTdtR2lySGh3c2puR2JmSlhJLWhfYw%3D%3D"
-      },
-      {
-        "host": "www.office.com",
-        "name": "UserIndex",
-        "value": "H4sIAAAAAAAAChWMOw7CMBBEHX4XoOACtGv2A3GciooTcIFlSSQkJyCFitPjLd5opNGbJoTQVHaVlfdTjXD4fvRHLFdbor3LpHNUi6%2ByrtuekQmIgeiOXS%2Fcc9q4tHVuWpbBz47cSkYZFRi7DGdJAlnI4KHyvIxp4BbNtT%2Bmvhg9ggAAAA%3D%3D"
-      },
-      {
-        "host": "www.office.com",
-        "name": "OhpAuth",
-        "value": "jlwkDD4mXN9aG67VeII1qegTwPsuNl4FsA98KMH0Q3X49SfRpGhbTqPUCab4_uYXgBSGE5Vfy0L9ElNTkpETIPg6XWG4TNXHw-PfVb_CPzatQEcfj_k06obusUmxGugf43VGBlHZHi3tMcxv7T7oZV64htJr8_nfau2LnQfh5KOmSMDqWUb-31cia3RAsQHNDqTkD2dinFnbg2O7MFDU6deJ4MXCQsCt8KjkYKNvgRXMSuHxq-583PsGUaH8KiB8qEJfchRnUVowm4eSPFZYiDNmvFrFOFQHnlqOblShr4E0R5KoZbIjGSdH0xjr4OVSiOHaKdf7xe60HzfEps4rTu1RxAE8RCCBLJQ-orf-ENe2dhXSEDmiBCIzaWpJPtQvzM24i53mxOCwrW4dJP3lThQVb2GH-z9Ou3mJ6Pdm9MjcS7PAw8HE_2YqDHQbpKpYCtn7Va7zpTTQ76Bd6z950z9TvwfMeCtN_MMwlQlnd3oxB6Vxl2KvviOrJ631oOX_LXszKY_ABMLkEiCJ4x_ImtjpjkAEcmrGtIo6O293_IPomsORjnvi5JNgNcVIMSSP5Ut1I3Ji7xQA7GNtkTr4E9q8D-WoE-jVCxSEZFtnZmKPkqrHfX4vOOdZHfUlQOnpMUIeEncg8_Hbsvq_THEanRhBzeiVtvhvcpp2f-pZakbJEbR1s72IXmQUFLsgCW-8s5KhI78137Hx0R7k98mNXNh2yLIoSUcFFemZ3d1hmbHOoNyLRVcbB8KRIgwfusdFf-mJSo4p06ko7KDp36onAllgcrZq2SjnLUU4mnmzY-6w1olQ33Kv0XfhtzSERqvPScW-2p0yeUYKmV-ClzIBTpCxk_NOZ9C-089e2fFcksTNpZnb-S_X347zVsImWFLKr7UKZJMNHB_YGKIL-Hb_9GkgbJ4Yb7yGKoKhO8bPOjGPoS-kr_u48d4oQZ8ai3RIZmG-l_gRYke5OMADU9I6fgJIeBk8WMuQr364Yu9uGUsDRFWZm5OYSyl2WYlNH4w3agwIgPI29Bul7ZR3uc_VOVKnTsUj3nZBRcUx2Ki7240kdwYShjDKPJS2tNN_6wfLXPzFKPGiiwHdFsbeN18nhPjmAVfXN1CxCUXSwhWJSVCd_fVmEogKLrbkkTnMyKFjjfa-HBPbNXojyrkIcUV0EAg9-6XkVJUzmqWi-jAS-irXHEPyu10m7A8Iq3GiW6UBeltYmFHz3n1WtIHOV2dwpdoJ2SX789AgyWIXXcYstcVKosDl5DVRg8txmAKrsCD1yrsnWXX2eVPITMbGGoXJ3tI4vweaAGsCRoFO7Hbgi63sS7B4Vb6mzxsICNGE5Q9qOsPC5VgjJw7qOA-mNfaJe-Yfldj5X565Qnw4Fl9sL-X43X0jTRlNeVtiSNcp5Xd0JP38uBORrMKtcp6qaJoFkTEz4TbXd7sAZ_uh6qX_mKiMEcV6_sti3CbfE4i5tFphCLwmSirU__4DgZB2Q8eap4gBIfJdTIOKzp_hLmxt8dMb2dHrx3-9OtG2kxA_S52xYnvCIhupUCSCSPxsjfM8eq5EBmTu2Vphx_u2G-PAY18sHiL8iCpvduuZmGJOlw7F_imPjyRPzmTjcnFdWasX3-eJDgbHlbZDaWpv3QJLc7jRhRYzQAebiXhVxeeLhKUI0T-wRCgCoS5C2BTFe6c2xh5wjcpzB_usK2vvNrl_XozUKUJM117Tl4n46hukrT9jb-jq8juwQnSV2MOm3NIz6WRIvC5Siyf3jnTNPa_ELFKyMtqDYBZlHQiMy3svVZ_YHpmmQY1_e314JBhF0YYu9jBgIHhnYR-EubvCix4tPQJgCVemKgiwM9PqfeHa03j9bSUGO2gVD--SDAv6aKenNY7GHbTmfNDFXs7DARuLjasvQrWsBAeVuRB-B_fFua0A4V5jzl0wL2WU2zCB686WprAFslb5cfD1pJgAfIqXY9hp_9Av7sGgKCXg3GDn2B5mWgJ2APiOl34z4eWHb0zARyO6bal2bdV0v8Ed0A2uFuIFdK--8fDolFpvaPOK4K0m1fq8rgqtpzvOeUT8EfbI9I-B3P8QBh18WtaI3lCmaxD_BjLsW8c90hCmg95i6MI5IWpEeehG205CepQXTWpwMBW1g6Nl0eGR9eN2oH9j8_v7gKdPflYlwpJlzQ4Wy6RCjtZAElAxJ-4ljBvAwrtX5aJDIHvq0O-DPBzQjilcagZkDmHUsTr2XxFURtQuqOx-6M_NLHEoppaDkWT7ifo0CcFaLVDWFSru2MRbKCOJ4q80VcW2o4aRiX19G0VYfaVo2V_IvPUeRgj2KhhdZC07brX0jhE0Op5McNOxbMfhU76gG9Fiizpdu6FZbaPRpcLHAOw8ptimh2jBGCJGd9OKfhHnHwiUPUzJY95msNgom40Hkcrf_KkZh2Hn0tGZA3tb10UnWHLAnv85Maelc0c5gmcMlOKkC2V8UBTVl_ILMTK59p7RWwo4-qVleTE35EgKj6vNMZrKmaQrVlMQfP8VEImG1S0OUcSyRvYvaqpAQ8UYDKhFjDbsQfHqtOZ8ssjaxHaR-IfkPv1y2_LJzOA39P6TF46-jJUR1v6KtDNxIpKWhvU5nJbEsxdII5gD8NpuYrqGRuXJPupMVJga3ZU9zXL-10_Qf1OR-djiTXNY3aXc80tYlOpVBw8UpxKtXQJ9R4shlmg6AeFJa5k9jM_fwOmFZhgeDFN4M5kuKuYfjVSDn9_jwGU5rYgvv_utmf3qZkJYGZSyfoSSPC15bNjJKlfhOKULyltOR02fMY4G0GATr6Pr08cKws6-RnWKnq6iqbYXgbzdqDBbU-E7ZaWjd9QiLUzOpiQAcxvnlFPxgpRPc6RoDHbOqA_MBaxGiE4c5XpCnSUa7tQtv4gw8kntm-qTThEJ0zCNzV8liOz4lNiNP0YyMHbI5XHWhW7W8x2NnyazAv-b9-dQeGu03VHgcZNs5Pfo70xEDcSBnOcC4nRQAuAInlmIdnN728Y_-ghT"
-      },
-      {
-        "host": "www.office.com",
-        "name": "AjaxSessionKey",
-        "value": "zsqClq9fsWv7IHlYjDlC36c%2FfkKeSj0yRcdHmLL6Cq1e0gmYe7MTDBa4zFrocTtjjgG7QD7euy%2BgT13Jumq%2FBA%3D%3D"
-      },
-      {
-        "host": "www.office.com",
-        "name": "userid",
-        "value": "10032000F12190A1"
-      },
-      {
-        "host": "www.office.com",
-        "name": "PersonalizationCookie",
-        "value": "Cuxr5%2FGq1T9qxaZw%2Bi%2Bv0AlJCtH0zEuXepaAZVrRKqppwoQ6TlpJE7DGxzZJtUCSNKPPQ248bfn0g9CLk2rOwK65I%2Fc0sDE5D%2BzfCsZA9B3oKrzphw6mzOOogYI16bzcMeAVVP1CLKISwATtxEcSC%2BtGceTA%2FUMzZsuW4cEZzLB9VRg8CfyGO7P6%2FPaXuUiMgOXXuhrc5atWNdew9cZvtkKaKvdwMK2wLpYleyn3gWeoeCfOmHJ8s3ysZZ2TyF0HcTuotj349PeH%2FUEzN%2ByIIqLXV51YZOP35Nzrne%2F0%2BBY%3D"
-      },
-      {
-        "host": ".sharepoint.com",
-        "name": "rtFa",
-        "value": "dUmw4sElBUw+xvfUQHYSfDzEQqjrNvX6MWVnDP1gtB8mMDhENTZCMzEtRkZBMy00RUEzLThCOUYtODVBMTJGOEQ0QTk3IzEzMjgzNjg1MTc1MjkzMjM5NiNDN0FDMEJBMC1FMEZCLTMwMDAtOEJGNi01NEM1MjYyRTA5NjAjVFBBWjEyMyU0MENTLkNPTE1BTi5BQy5JTCrg4LvKIieRXD8L5taWCVjuBUIplfWFGGZ71uve1Fd5d1AsSlgDkqWxXAF8G26agf6fnkxOSDHve6bAF/COHZuUx1lmf2S8LlX5XoHtTdf+A68JpqpOwPNE90yZuVp9FSNpLGJFGjLFaNVL8zWEwznLTi80+lZpxxOdfQKvNoWzHIfS+M1OFd/ZqcdWEB0in52AeoOSVzagLWwbZpVB5ig9cMqcAIaDubwbV/wQF+YDa6VeRkXCPMXb/CakPRuyiZm/cbV3xUBtxgoykuBz9Q+azb9FYuJN4IhJp47kb5ICQK4T6nuPk4OdjHauDhxgNxZYloJ73X3TevE1dg2s6WOXAAAA"
-      },
-      {
-        "host": "cscolmanacil-my.sharepoint.com",
-        "name": "FedAuth",
-        "value": "77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48U1A+VjExLDBoLmZ8bWVtYmVyc2hpcHwxMDAzMjAwMGYxMjE5MGExQGxpdmUuY29tLDAjLmZ8bWVtYmVyc2hpcHx0cGF6MTIzQGNzLmNvbG1hbi5hYy5pbCwxMzI4MzA3Njg3OTAwMDAwMDAsMTMyNjk2MDIxODEwMDAwMDAwLDEzMjg0MTE3MTc1Mjc3NjAzNiw3Ny4xMjUuNzIuMTksMywwOGQ1NmIzMS1mZmEzLTRlYTMtOGI5Zi04NWExMmY4ZDRhOTcsLDI2MzkwM2ZhLTIwODktNDM3My05MzFjLWJhM2Q1ZjdlMjYwYyxjN2FjMGJhMC1lMGZiLTMwMDAtOGJmNi01NGM1MjYyZTA5NjAsYzdhYzBiYTAtZTBmYi0zMDAwLThiZjYtNTRjNTI2MmUwOTYwLCwwLDEzMjgzNzcxNTc1MjQ2MzQyNSwxMzI4Mzk0NDM3NTI0NjM0MjUsLCxleUo0YlhOZlkyTWlPaUpiWENKRFVERmNJbDBpTENKNGJYTmZjM050SWpvaU1TSXNJbkJ5WldabGNuSmxaRjkxYzJWeWJtRnRaU0k2SW5Sd1lYb3hNak5BWTNNdVkyOXNiV0Z1TG1GakxtbHNJbjA9LDI2NTA0Njc3NDM5OTk5OTk5OTksMTMyODM2ODUxNzQwMDAwMDAwLGZlNDViZDBlLWMxMmQtNDRiNi05ZWNhLWFjZmU3NDVlNzliOSwsLCwsLDAsTjBQVXR1UnFIak5ZRGMvS245SHJ0VVFrVnJLL1BzL1NlV1ZSTHcybmRpZzcyTy9XVkZXakd3RXEzZnhCbzNTM2t0eUtqZ3kzRWJyajZhQ2IwejNSSFlhcHRqd21BVmk5YldGcTRkbWsybVBWczdsZEdteVY1NSt5eUhXR29kUldTdU9yVjdBdWxtajRLMUVValc3TXdkT1BqaWRtN0ZxVEF2amlhb0hsS2FrU29YdGh1L3FkRnIyYmwxT0J4cStXVDU3TjBWc2JNb2xGMWYzSWhqdjF4NXZZQWlqekJ6Q3J4V0hhRkQyd0VyNVp3RGM0SUNFUEw2emJCTjhnNXBOQSs3TDI4bGt0OGtUVEtPL2h4L2JEeUdrcS9xb2o5bUg2QmNIWmFQVVY1STZDdmdsQ3ZOMjcrR3NZQU1sSzFFdndUVmQwSHI3blN4Y3RaNDQyQUxtMm1BPT08L1NQPg=="
-      },
-      {
-        "host": "cscolmanacil-my.sharepoint.com",
-        "name": "MicrosoftApplicationsTelemetryDeviceId",
-        "value": "0fed72af-1a3e-d16c-bae7-c816909694f5"
-      },
-      {
-        "host": "cscolmanacil-my.sharepoint.com",
-        "name": "MicrosoftApplicationsTelemetryFirstLaunchTime",
-        "value": "1639211578124"
-      },
-      {
-        "host": "euc-word-edit.officeapps.live.com",
-        "name": "DcLcid",
-        "value": "ui=1033&data=1033"
-      },
-      {
-        "host": "cscolmanacil-my.sharepoint.com",
-        "name": "WordWacDataCenter",
-        "value": "GEU4"
-      },
-      {
-        "host": "cscolmanacil-my.sharepoint.com",
-        "name": "WacDataCenter",
-        "value": "GEU4"
-      },
-      {
-        "host": ".login.microsoftonline.com",
-        "name": "ESTSAUTHPERSISTENT",
-        "value": "0.AXMAMWvVCKP_o06Ln4WhL41Kl9vUPbJCkTRHhn81d_ZArQxzAGQ.AgABAAQAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P_lAIorYQre49tKllZfJE9TBTjzqA_aigQHFzDu676sao3QfKpNHSoJDTuoiOThgpOTLkc5erJN8hSGn91RVtH6QZZQu5TFHS74DomVPWnaL_O-2oZTxBaomGLWsekwbdPeB-UnOZZcoDTZkuSZz0LAG478P18qdUYt2GzKmfdBstCfL97e2cb7yqQaI1sR5WnVc8EhAer56o5V4ZsLB2vgCo9ghUQajJfNyAxpziVV1FECM6b07NrHVfmCBZBd5NMl6oxjMqXIp6MPBHSE7dGWvJckFhrq7V387aJq8IQm4RG4qiJNyYX_OZvBGr5lNO-mDH0DAUDFNtTfGM0mXdWlG2Gd7-LA0Uoy2FSIInLTSrmHJwUNY_phfzWYaWKmiQnpJRxcqE_1UNrE10N3Fx5XbskuDduIfkwkul3vl24F2RG61r80DDjTk3EyXfSpUstyHDQNxuSwLk5Cp5vMBKD82wU0Mdsdcvpv2bfkN63Oicr2oznSuc3S9V_Pgs6SPKnSWxXP8YfN_dXkGI8E5J-DNwRtf1km79T224mfVcNVagEma8AGaAV6wbglHqOpskaOSyg2E3BEBqQO66LftMgWG6QwqgjKEJao4KU"
-      },
-      {
-        "host": ".login.microsoftonline.com",
-        "name": "ch",
-        "value": "KLVI_kgfvdWic1K6fgQILFUI5fXTqyh95yJ3JTZudC0"
-      },
-      {
-        "host": "login.microsoftonline.com",
-        "name": "buid",
-        "value": "0.AXMAMWvVCKP_o06Ln4WhL41Kl9vUPbJCkTRHhn81d_ZArQxzAGQ.AQABAAEAAAD--DLA3VO7QrddgJg7WevrIAwXP8jjGgPST6qdx5HsvvRIkBg1Q18hFFrF9vk5DFRPmWa5uidKZVX1vEPnyVD88168K39fCDarYyVwnQbi1WZDsQARJKET8x33sN1Rv-upq4XwSdVQxzc06Qo1gLDnZoVhn86OikgscgZr7cLiO2qMtdIOPxI4s3ynC52CBKAgAA"
-      },
-      {
-        "host": ".login.microsoftonline.com",
-        "name": "CCState",
-        "value": "RWhJS0VORUhhY3BaTEdoUHNHd1FXNGxNeTNvPQ=="
-      },
-      {
-        "host": "login.microsoftonline.com",
-        "name": "fpc",
-        "value": "AjIisdu_zCNLv_WDiMrNZkKbW_HwAQAAAEdZRtkOAAAA1rtk7gEAAAA_WUbZDgAAAL-xBVIBAAAAQVlG2Q4AAAA"
-      },
-      {
-        "host": "oauth.online.office.com",
-        "name": "DcLcid",
-        "value": "ui=1033&data=1033"
-      },
-      {
-        "host": "euc-word-edit.officeapps.live.com",
-        "name": "MicrosoftApplicationsTelemetryDeviceId",
-        "value": "c8e667e6-3a08-4488-b7e6-e53f58872267"
-      },
-      {
-        "host": "euc-word-edit.officeapps.live.com",
-        "name": "MicrosoftApplicationsTelemetryFirstLaunchTime",
-        "value": "2021-12-11T08:33:17.670Z"
-      },
-      {
-        "host": "s20.tiktokcdn.com",
-        "name": "R6kq3TV7",
-        "value": "ANph5al9AQAAMA39rToNVe9aHd7YMZE_Db5tOzWGhniCHM4E03iOMK_E7ZkH|1|0|046884538cfa7679a34eaaa0a07f7a813477e035"
-      },
-      {
-        "host": ".tiktok.com",
-        "name": "ttwid",
-        "value": "1%7C_Pt3Jl3vMprmv1kU-aFaufaamLFvnGSHUDsJeNdtQ8c%7C1639232922%7C14f977bc86a7e7688de971d7b61a2d3d6450926b14bac53938af3ff08ca955a0"
-      },
-      {
-        "host": ".cnn.com",
-        "name": "FastAB",
-        "value": "0=6835,1=8408,2=1075,3=5395,4=1680,5=7441,6=9870,7=7671,8=4342,9=9950"
-      },
-      {
-        "host": ".cnn.com",
-        "name": "OptanonConsent",
-        "value": "isIABGlobal=false&datestamp=Sat+Dec+11+2021+17%3A52%3A21+GMT%2B0200+(Israel+Standard+Time)&version=6.26.0&hosts=&landingPath=https%3A%2F%2Fedition.cnn.com%2F&groups=BG173%3A1%2Csmv%3A1%2Cpfv%3A1%2Cpzv%3A1%2Cven%3A1%2Csav%3A1%2Cpf%3A1%2Cpz%3A1%2Csa%3A1%2Cad%3A1%2Csm%3A1%2Ctdc%3A1%2Ccos%3A1%2Cdid%3A1%2Cdlk%3A1%2Cpcp%3A1%2Cdsa%3A1%2Cmra%3A1%2Cmap%3A1%2Cpap%3A1%2Cgld%3A1%2Cpad%3A1%2Cpdd%3A1%2Csid%3A1%2Ccad%3A1%2Csec%3A1%2Cai%3A1%2Cfc%3A1%2Ctc%3A1%2Cpcd%3A1%2Cmcp%3A1%2Creq%3A1"
-      },
-      {
-        "host": ".cnn.com",
-        "name": "umto",
-        "value": "1"
-      },
-      {
-        "host": ".cnn.com",
-        "name": "OptanonControl",
-        "value": "ccc=IL&csc=TA&cic=0&otvers=6.26.0&pctm=0&reg=global&ustcs=1---&vers=3.1.15"
-      },
-      {
-        "host": "developercommunity.visualstudio.com",
-        "name": "ai_user",
-        "value": "LChBj|2021-12-11T16:01:14.365Z"
-      },
-      {
-        "host": "developercommunity.visualstudio.com",
-        "name": "ai_session",
-        "value": "mXYH|1639238474377|1639238474377"
-      },
-      {
-        "host": ".visualstudio.com",
-        "name": "MSCC",
-        "value": "NR"
-      },
-      {
-        "host": "scriptingosx.com",
-        "name": "eucookielaw",
-        "value": "1654791609433"
-      },
-      {
-        "host": ".akashmittal.com",
-        "name": "ezoadgid_240667",
-        "value": "-1"
-      },
-      {
-        "host": ".akashmittal.com",
-        "name": "ezoref_240667",
-        "value": "google.com"
-      },
-      {
-        "host": ".akashmittal.com",
-        "name": "ezosuibasgeneris-0",
-        "value": "46165164408af20f80b520f62ea95edd"
-      },
-      {
-        "host": ".akashmittal.com",
-        "name": "ezoab_240667",
-        "value": "mod1-c"
-      },
-      {
-        "host": ".akashmittal.com",
-        "name": "active_template::240667",
-        "value": "pub_site.1639239984"
-      },
-      {
-        "host": ".akashmittal.com",
-        "name": "ezopvc_240667",
-        "value": "1"
-      },
-      {
-        "host": ".akashmittal.com",
-        "name": "ezepvv",
-        "value": "0"
-      },
-      {
-        "host": ".akashmittal.com",
-        "name": "ezovid_240667",
-        "value": "1081642596"
-      },
-      {
-        "host": ".akashmittal.com",
-        "name": "lp_240667",
-        "value": "https://www.akashmittal.com/type-object-not-subscriptable/"
-      },
-      {
-        "host": ".akashmittal.com",
-        "name": "ezovuuidtime_240667",
-        "value": "1639239985"
-      },
-      {
-        "host": ".akashmittal.com",
-        "name": "ezovuuid_240667",
-        "value": "a09b092f-e61a-4021-6cad-5e7ecfe8abd7"
-      },
-      {
-        "host": "www.akashmittal.com",
+        "host": "cpp.hotexamples.com",
         "name": "ezds",
         "value": "ffid%3D1%2Cw%3D1920%2Ch%3D1080"
       },
       {
-        "host": "www.akashmittal.com",
+        "host": "cpp.hotexamples.com",
         "name": "ezohw",
-        "value": "w%3D1920%2Ch%3D919"
+        "value": "w%3D1920%2Ch%3D927"
       },
       {
-        "host": "www.akashmittal.com",
-        "name": "ezux_lpl_240667",
-        "value": "1639239988596|7a587122-8a75-483b-53aa-4988ac1a3ee1|false"
+        "host": "www.unknowncheats.me",
+        "name": "bblastvisit",
+        "value": "1639234672"
       },
       {
-        "host": ".piano.io",
-        "name": "__cf_bm",
-        "value": "LNlOIJw3bYsiJktwVd7xInywtbJ6z6f5wUixynI020s-1639245471-0-AdG+qJ1zuPsMWO+GZm0WSCJw6PDolieUd/G0uX5VMFOu4FOr3aMIwJUFTbOS4pLwknDR7h/a8OA/1hOueejOnYA="
-      },
-      {
-        "host": ".askubuntu.com",
-        "name": "prov",
-        "value": "0b14f772-a6d9-e6c3-96e2-09655e8990d5"
-      },
-      {
-        "host": "www.ynet.co.il",
-        "name": "tmcundefined",
-        "value": "111111111111111111111111111112"
-      },
-      {
-        "host": ".ynet.co.il",
-        "name": "__pvi",
-        "value": "%7B%22id%22%3A%22v-kx24xhr7sgf5q88w%22%2C%22domain%22%3A%22.ynet.co.il%22%2C%22time%22%3A1639246312484%7D"
-      },
-      {
-        "host": ".ynet.co.il",
-        "name": "__tbc",
-        "value": "%7Bkpbx%7DsEKm591EwbmQGh6mMGRwwd9fM0sedHtBeevzK4vMs7g"
-      },
-      {
-        "host": ".ynet.co.il",
-        "name": "cX_P",
-        "value": "kwhs0rs36ygukqep"
-      },
-      {
-        "host": ".ynet.co.il",
-        "name": "__pat",
-        "value": "7200000"
-      },
-      {
-        "host": ".ynet.co.il",
-        "name": "xbc",
-        "value": "%7Bkpbx%7DaqmIUW0ejtklJ1hFlCKucV3hr1j2MlcAFXT8f_6NH-v4R33xInoqdnthVcqZjaMIHPrV745DHEmvKiGMqdOEVKHGcumdUQ4evMvKh3vM5j_JOy1YCz8RPsRoWrRJA0MAAyYl4mSMRmgDX69FDJM26ZjVA-hQmHS25w2OflHKdwwsuOfZGnK2bNJBOFyNhG3iDdeRiBWWG2_eiuyoJ5GfHhkzIuoKuTttMweA-ss6tyyYAiJ5XsKvj6jpqp226OK-dClKMEOD5J-yiDLpQYG4X6mT_d1tb8MiydYApmVhAaQ"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "SIDCC",
-        "value": "AJi4QfHoNOfHHn4xtc1fMtPKwISoBoFhNHR3cq8_fv6kc_qWK20Xa65pBKtR9ORy7YBGzFYc6zA"
-      },
-      {
-        "host": ".youtube.com",
-        "name": "__Secure-3PSIDCC",
-        "value": "AJi4QfEUinItMf_0JIr6CR3v_HPJjtbinwFLFUIhntU5yOd8krYpVtcsz6chS_x0mHv2rxtq0w"
-      },
-      {
-        "host": "www.petefreitag.com",
-        "name": "cfid",
-        "value": "de1f412e-c989-44b9-ab32-023af3e5cdaf"
-      },
-      {
-        "host": "www.petefreitag.com",
-        "name": "cftoken",
+        "host": "www.unknowncheats.me",
+        "name": "bblastactivity",
         "value": "0"
       },
       {
-        "host": ".serverfault.com",
-        "name": "prov",
-        "value": "bf5099cc-38ac-27dd-33dd-c9ba90b1113b"
+        "host": ".asciitable.com",
+        "name": "ezoadgid_61065",
+        "value": "-1"
       },
       {
-        "host": ".superuser.com",
-        "name": "prov",
-        "value": "155948dc-6de0-a38d-e79f-1be334653206"
+        "host": ".asciitable.com",
+        "name": "ezoref_61065",
+        "value": "google.com"
       },
       {
-        "host": ".superuser.com",
-        "name": "OptanonAlertBoxClosed",
-        "value": "2021-12-11T18:29:26.065Z"
+        "host": ".asciitable.com",
+        "name": "ezosuibasgeneris-0",
+        "value": "560f717940176cef803eecc65fd35492"
       },
       {
-        "host": ".superuser.com",
-        "name": "OptanonConsent",
-        "value": "isIABGlobal=false&datestamp=Sat+Dec+11+2021+20%3A29%3A26+GMT%2B0200+(Israel+Standard+Time)&version=6.10.0&hosts=&landingPath=NotLandingPage&groups=C0003%3A1%2CC0004%3A1%2CC0002%3A1%2CC0001%3A1"
+        "host": ".asciitable.com",
+        "name": "ezoab_61065",
+        "value": "mod1"
       },
       {
-        "host": ".lastpass.com",
-        "name": "ak_bmsc",
-        "value": "83EE4E404EACD90F812DFABBE89A6E07~000000000000000000000000000000~YAAQs1CMTy++PLN9AQAAHdwRuA5rz8kChlHWBurNBArTYHqIYLlCAqDMxXwvuRSV0FGLIr4iB7TMUkdzwgBjBW8sltg1Ve885VWEDTw+j0FA/hDiKoUWVXXlpzRGyLswRv/Zz5Ez2uotu14u5Afh6zS3ZsLXYRtbohmh+5wUaiWEF8sarh0s953TNM6IZ/k3x/VhGS6eNtu4zcPmhi1aKygr3BaiaXeIe7kA3nrd9ywCMsYPeM9/wjOwKqB2eicW/D1tFf6eYk3C2o/r7j4jC0Ot/b5R/kqGNU+ogyNVaYoUgNAoI3WBdQ0yQ63hZNjV+nx69Tc+zxkdmDnLIZw3jZb4FxJv8OS+ATmSIIVUaTyEiXAhfEvhgmuw32dtqrgP3Dsf4pO0PK4c5Gwx"
+        "host": ".asciitable.com",
+        "name": "active_template::61065",
+        "value": "pub_site.1639237686"
       },
       {
-        "host": "lastpass.com",
-        "name": "PHPSESSID",
-        "value": "g4dav1kpc096abtoof8p3j6l2ht"
+        "host": ".asciitable.com",
+        "name": "ezopvc_61065",
+        "value": "1"
       },
       {
-        "host": ".lastpass.com",
-        "name": "lang",
-        "value": "en_US"
+        "host": ".asciitable.com",
+        "name": "ezepvv",
+        "value": "296"
       },
       {
-        "host": ".lastpass.com",
-        "name": "bm_sv",
-        "value": "C099D220428434897E02A7DED59FA5BD~OsAZNu9IKocPM5SuuD51afPr4rxZpqxnTFK9ssFNYoCXmGieLIwgXEjRfWUhB0iSI9mHxlPkZG+3rkz9DXMLo4waoWawk9vmz3SKEM7g93L689ZHvoI1eoJyrG4UYtWDGCSW+l5bu2I8dZ5uHVcKZXkatfDDZP9FWjxx4OAn9VM="
+        "host": ".asciitable.com",
+        "name": "ezovid_61065",
+        "value": "703829548"
       },
       {
-        "host": ".spotify.com",
-        "name": "OptanonConsent",
-        "value": "isIABGlobal=false&datestamp=Tue+Dec+14+2021+10%3A32%3A06+GMT%2B0200+(Israel+Standard+Time)&version=6.26.0&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1&geolocation=IL%3BTA&AwaitingReconsent=false"
+        "host": ".asciitable.com",
+        "name": "lp_61065",
+        "value": "https://www.asciitable.com/"
       },
       {
-        "host": ".spotify.com",
-        "name": "sp_landing",
-        "value": "https%3A%2F%2Fopen.spotify.com%2Frecaptcha%2Ffraud"
+        "host": ".asciitable.com",
+        "name": "ezovuuidtime_61065",
+        "value": "1639237686"
       },
       {
-        "host": "blog.elcomsoft.com",
-        "name": "smpush_auto_channel_landing",
-        "value": "6740"
+        "host": ".asciitable.com",
+        "name": "ezovuuid_61065",
+        "value": "7710c03d-e86a-4b47-7935-a6c22f6d4b15"
       },
       {
-        "host": "blog.elcomsoft.com",
-        "name": "smpush_desktop_request",
-        "value": "true"
+        "host": "www.asciitable.com",
+        "name": "ezds",
+        "value": "ffid%3D1%2Cw%3D1920%2Ch%3D1080"
       },
       {
-        "host": "answers.microsoft.com",
-        "name": "tzo",
-        "value": "-120"
+        "host": "www.asciitable.com",
+        "name": "ezohw",
+        "value": "w%3D1920%2Ch%3D927"
       },
       {
-        "host": ".microsoft.com",
-        "name": "MSCC",
-        "value": "NR"
-      },
-      {
-        "host": "answers.microsoft.com",
-        "name": "MicrosoftApplicationsTelemetryDeviceId",
-        "value": "095668cc-cdfe-4769-94fc-6c26cc259a5e"
-      },
-      {
-        "host": "answers.microsoft.com",
-        "name": "ai_session",
-        "value": "hSBlKI/PkmSL4JYf3oxyy9|1639472518468|1639472519191"
-      },
-      {
-        "host": "pollserver.lastpass.com",
-        "name": "ADRUM_BT",
-        "value": "R%3A0%7Cg%3Ab47e81f1-8d07-43ca-813a-54af8bc1add354116%7Cn%3Acitrix_c88ca7a6-705e-4cde-9391-83bb80917e45%7Ci%3A307364%7Ce%3A197"
+        "host": "www.asciitable.com",
+        "name": "ezux_lpl_61065",
+        "value": "1639237687114|6455a4c3-dc55-4292-5f1d-9c114b6c403c|true"
       },
       {
         "host": ".geeksforgeeks.org",
@@ -2852,84 +1262,364 @@
         "value": "A"
       },
       {
-        "host": ".translate-pa.googleapis.com",
-        "name": "NID",
-        "value": "511=HZXq6UnHH06Q3I5Z7ZtfNjvbwegiUg0fYw0bYPsXW4YoO4xTenZRCFdmvfZgJwhd9bZTROklbKh5Eh-Lj0UQ_pRtPuiESJG96wbZ4SZQ_WW4S57ahMtFCdp860BpCba6yivW1C5iEoB8zBe3_5dE-yHcJbIegg17qZuyEXaamrY"
+        "host": ".dev.to",
+        "name": "_Devto_Forem_Session",
+        "value": "5d75b84d456836f8b60d782498181aaf"
       },
       {
-        "host": "en.wikipedia.org",
-        "name": "WMF-Last-Access",
-        "value": "14-Dec-2021"
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/visualstudio/ide/specifying-custom-build-events-in-visual-studio"
       },
       {
-        "host": ".wikipedia.org",
-        "name": "WMF-Last-Access-Global",
-        "value": "14-Dec-2021"
+        "host": "docs.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "8753c113-dea8-4f41-b1f9-a54bcea3a7ef"
       },
       {
-        "host": "login.wikimedia.org",
-        "name": "WMF-Last-Access",
-        "value": "14-Dec-2021"
-      },
-      {
-        "host": "en.wikipedia.org",
-        "name": "enwikiwmE-sessionTickLastTickTime",
-        "value": "1639491591230"
-      },
-      {
-        "host": "en.wikipedia.org",
-        "name": "enwikiwmE-sessionTickTickCount",
-        "value": "1"
-      },
-      {
-        "host": "en.wikipedia.org",
-        "name": "enwikiel-sessionId",
-        "value": "adefcec1303cf1ffffb2"
-      },
-      {
-        "host": ".lastpass.com",
-        "name": "bm_sz",
-        "value": "78CDD5F9FE75596815DC9DC709CC6261~YAAQ7/wUAjUZU6F9AQAAbQKtuQ6CE+sVQm/QCGpe8HkckUNgAbB4V0CtV4vxTXJ2QkvqP7myEuZFkvcVZIboi5p4xu95+aBSdAFGK3E98uPdd3Pr/Oca94j6SPsZevqeVK5ueX8H27VqbV2az6Cg2T6KmuvZQfjI1NDIxLJX9faaXMEC6EhvvkXVV03SLEvhd53AC/poymQqvBa7uuEvGMqiccuTAuX4Ft3JbYUpr6XOvZSTxJ0EyEbVVDIhaVApkRmwyd4ehf5ohKj47Dm7bL75kJsYvgifeV41fgVj//w0Ljo3UKFf1gmUAkW7mK16nIeBI+tifaI8HoO7CA==~3556659~3490613"
-      },
-      {
-        "host": ".google.com",
-        "name": "NID",
-        "value": "511=ui6sSrLDipFnKV6FJ2uBTFUpSuNAA23gc1jfVwyPDCuRkW6mFMgwBAuBaELRgRJyckNDpk3hSkowX-_2DblGTqAy5A13lEfm8BYgq-fvJoGQ9BJBOwTq7G4Muvnz6JEedrbeabUx6Dcbme0OzbHcUcriuvpDlcDFMgov75ImBt7vKeTEMDV_0YxVfOdghVAFk4-yGugK3aqTc5SEyrmFSK25QfN68GadHp3rkgLqBQqBhgyPTqlQbHSSI0ItogldveB3G9aw1u21uw"
-      },
-      {
-        "host": ".google.com",
-        "name": "1P_JAR",
-        "value": "2021-12-14-16"
-      },
-      {
-        "host": "www.google.com",
-        "name": "DV",
-        "value": "s0hDKa9kTTFKwNdk69DJyhX_8A2c25dHdzweT9XjqQAAAMDG-w71jj8zQgAAAAgH7s-UDNE6FAAAAA"
-      },
-      {
-        "host": ".google.com",
-        "name": "SIDCC",
-        "value": "AJi4QfHqfb7irvr-Fa2pGwEtKGn-MQDK4P4X_yJ4NzJrGq3fng4RvnpfzLh9Z74D-cnYPN3dj9k"
-      },
-      {
-        "host": ".google.com",
-        "name": "__Secure-3PSIDCC",
-        "value": "AJi4QfEX3dKC2bt9VIp3ueBdJ8TCaeGeRl2-BZtobSrW-9_llWNi6hSQlADuHElVwxs3Yago6A"
-      },
-      {
-        "host": ".spotify.com",
-        "name": "sp_t",
-        "value": "6eaa4c924040d556f213df5ce2b2e85b"
+        "host": "docs.microsoft.com",
+        "name": "ai_session",
+        "value": "k4NEcQ4UKqMBRMgKqKyGyo|1639248026668|1639248026668"
       },
       {
         "host": "github.com",
         "name": "user_session",
-        "value": "TEn1JL1uvdtomQx3rEkAcacFhbPtBdzp5uw5k5amByjZDLZS"
+        "value": "yT_g75Uhlj7SRPJWirD79YWaZ7Sr1KLQobkeUftZlsTak5Zf"
       },
       {
         "host": "github.com",
         "name": "__Host-user_session_same_site",
-        "value": "TEn1JL1uvdtomQx3rEkAcacFhbPtBdzp5uw5k5amByjZDLZS"
+        "value": "yT_g75Uhlj7SRPJWirD79YWaZ7Sr1KLQobkeUftZlsTak5Zf"
+      },
+      {
+        "host": "pollserver.lastpass.com",
+        "name": "ADRUM_BT",
+        "value": "R%3A0%7Cg%3A162f8748-7fef-4fdb-9aca-7b34b3331388897%7Cn%3Acitrix_c88ca7a6-705e-4cde-9391-83bb80917e45%7Ci%3A307364%7Ce%3A8"
+      },
+      {
+        "host": ".lastpass.com",
+        "name": "bm_sz",
+        "value": "C430A3686658BE083BE6A8E54089F5C9~YAAQNBdlX3BFcrR9AQAAd3cutQ5V6F/NSN3XdoNiQ+FFTKhiterv9CKM1f5TB2iMQR0+FO2I6ukUP0Yjf86stKXWQD5ZwQ25YLS5m1XOrN9Deoxv16P4HGu0VzNU72/J3LiNdNNLQf+uTJsRtVdwyDQ7b8roBF9uCC3RnmrXy7vfjBNq2OjTNHp0xh/M6Yp6dcAtsLyNq8UCzRgbgPy3GS9UhStTQl7cV9xIZRQxA2uASk/yUv5+YP7gWabDhSZwXgwj07m9kTXKxa3srFwnPAh8sDVJbrzLYfLkKNpOob/TUSu3W7iBqub6cFeNQ1GRoIDhT0nhpRVuSjgjpA==~3619125~3225397"
+      },
+      {
+        "host": ".gitbook.com",
+        "name": "__session",
+        "value": "2ff1f860-f09a-4f1a-94ef-47be0c3de9d7R"
+      },
+      {
+        "host": "book.hacktricks.xyz",
+        "name": "__gitbook_cookie_granted",
+        "value": "yes"
+      },
+      {
+        "host": ".hacktricks.xyz",
+        "name": "amp_fef1e8",
+        "value": "2ff1f860-f09a-4f1a-94ef-47be0c3de9d7R...1fmqmtv0g.1fmqmv125.2.1.3"
+      },
+      {
+        "host": ".disqus.com",
+        "name": "disqus_unique",
+        "value": "8neag3a3mbleng"
+      },
+      {
+        "host": "disqus.com",
+        "name": "__jid",
+        "value": "8neame1324rk9o"
+      },
+      {
+        "host": ".disqus.com",
+        "name": "G_ENABLED_IDPS",
+        "value": "google"
+      },
+      {
+        "host": "www.computerperformance.co.uk",
+        "name": "ppwp_wp_session",
+        "value": "306824e7309c96b4c230e18d5b52923d%7C%7C1639429021%7C%7C1639428661"
+      },
+      {
+        "host": ".google.com",
+        "name": "NID",
+        "value": "511=FM-fTZi5uexhtkyKUQVk2dpKqU2LvIGVwvbCAKOpcoqUC3Ke-ftpygVwHyCZoBRZ_gxzLp_nQS7MLdfaYS7Le3yZapkRfu4EUQIQ-r6OFYwsofSTB_UVTJUmQk_VuEoYy1MsKtDEfZCYTobYiVlB1SefZlmagD6ZTKXkg3MREi9VREsaTRkJbgDToraPdVVY"
+      },
+      {
+        "host": "developers.google.com",
+        "name": "_ga_devsite",
+        "value": "GA1.3.2990185944.1639428184"
+      },
+      {
+        "host": "forums.hak5.org",
+        "name": "ips4_hasJS",
+        "value": "true"
+      },
+      {
+        "host": ".medium.com",
+        "name": "uid",
+        "value": "lo_62556e3aad41"
+      },
+      {
+        "host": ".medium.com",
+        "name": "sid",
+        "value": "1%3AyaiSDAKTu4V6w5V2uQxg5nm6yni3aX8oghFwskQBMpxZWWdk5SN4K0%2Ft1onIdI5O"
+      },
+      {
+        "host": ".medium.com",
+        "name": "optimizelyEndUserId",
+        "value": "lo_62556e3aad41"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "uid",
+        "value": "lo_62556e3aad41"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "sid",
+        "value": "1:xhJg1plZ6VB1+ktdF0FLIdV/JvkO20a6lS3vSOw3EHDxl1LxXg8nc6zz6jff7Y5Ev+8Dzm8b6I1MyG4WYBU7Zg=="
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "optimizelyEndUserId",
+        "value": "lo_62556e3aad41"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_a6e0d23b-a521-4519-960f-69114d8a3708",
+        "value": "test"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_f8c32cf3-2f2b-43d9-b71b-ad28e9924c09",
+        "value": "test"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_85833249-c857-4083-85ab-21643032f523",
+        "value": "test"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_e95f309e-40dc-448f-a94f-ca95ac55bddf",
+        "value": "test"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_1341a5da-96cc-47e4-b3c6-37a9e873b16e",
+        "value": "test"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_4612604e-2fa4-4aac-8c08-320a71495785",
+        "value": "test"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_2ef1f872-5f76-43d9-80f3-c69fe8b73751",
+        "value": "test"
+      },
+      {
+        "host": ".vimeo.com",
+        "name": "vuid",
+        "value": "pl1603919137.181574518"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "_dd_s",
+        "value": "rum=0&expire=1639429145583"
+      },
+      {
+        "host": "forums.hak5.org",
+        "name": "AWSALB",
+        "value": "+WSrP71xAaljhBtyvYOR71A2Dh+Y0Qq8bbrxgjF17vCwf1HhbVMVGW0F8anxEaByPSeho3rsnkg5NmRZxU5frUvyzg0KMUdJf48u+P8MWmRH9zwtkt7uQiaPBGWV"
+      },
+      {
+        "host": "forums.hak5.org",
+        "name": "AWSALBCORS",
+        "value": "+WSrP71xAaljhBtyvYOR71A2Dh+Y0Qq8bbrxgjF17vCwf1HhbVMVGW0F8anxEaByPSeho3rsnkg5NmRZxU5frUvyzg0KMUdJf48u+P8MWmRH9zwtkt7uQiaPBGWV"
+      },
+      {
+        "host": "devblogs.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "24b51d17-b42a-43b8-b655-6c974cc8eaab"
+      },
+      {
+        "host": "devblogs.microsoft.com",
+        "name": "ai_session",
+        "value": "LGezf21pYTkA8H/VJiJIh7|1639429476640|1639429476640"
+      },
+      {
+        "host": ".microsoft.com",
+        "name": "MSCC",
+        "value": "NR"
+      },
+      {
+        "host": "devblogs.microsoft.com",
+        "name": "simaCookie",
+        "value": "set"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_8707337c-8785-4037-b9bb-0c6b868b9663",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_ce2d584a-facd-4390-977b-250fa1e758d5",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_06a8d695-6438-4469-af40-647d7fee4a7d",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_e60e93c4-c5c5-4b33-9b0a-a8147d0e6323",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_b9ddd726-d7cf-4c3e-a4ca-4a1d8f6ee96e",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_145cc27d-5b2b-42b0-8e70-6f4950010d5a",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_ac87742a-a4ae-4f54-8c0a-a1410b9df417",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_b8dd4a6e-80f6-4392-8fd0-b8052ec1f7f6",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_2f459912-e5cf-49eb-a0cb-c168205c42a8",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_1edcbae4-d24a-4715-8400-b6f6a3bd8127",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_552a800d-6039-4245-805e-8e19bb9c7151",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_140cb06c-2579-4046-9dcb-bae5b6066dd8",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_14954c4a-c401-4a91-89ad-4da23981308b",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_e65a4f10-bfb8-4840-9060-983eef1dc01f",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_140fea8e-fc75-4c2a-beb5-d70911ced989",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_4c136119-4744-4d61-ab10-7785dd9d8ceb",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "_dd_s",
+        "value": "rum=0&expire=1639430721883"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "ref",
+        "value": "%2Ftopic%2F1710213-hide-a-powershell-console-window-when-running-a-script"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "user_type",
+        "value": "%7B%22type%22%3A%22Search+User%22%2C%22T%22%3A%5B%221710213%22%5D%2C%22cnt%22%3A1%7D"
+      },
+      {
+        "host": "community.spiceworks.com",
+        "name": "visit_count",
+        "value": "1"
+      },
+      {
+        "host": "community.spiceworks.com",
+        "name": "first_visit",
+        "value": "2021-12-13T21%3A11Z"
+      },
+      {
+        "host": "community.spiceworks.com",
+        "name": "topic_page_reads",
+        "value": "1"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "_swndat",
+        "value": "hamf%3A20211227%3A%3A%3A1"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "visid_incap_1058513",
+        "value": "egN8FYH3Twiq88Imnv5bFhS3t2EAAAAAQUIPAAAAAACTn5bo8x0TyfRZAPJPRlFn"
+      },
+      {
+        "host": ".spiceworksstatic.com",
+        "name": "visid_incap_1615666",
+        "value": "Rv2/M3tLSmmZKIpFjb28ihW3t2EAAAAAQUIPAAAAAAAjpDXxDtTamlpzpa4cwrK0"
+      },
+      {
+        "host": ".spiceworksstatic.com",
+        "name": "visid_incap_935698",
+        "value": "wpJfmbaURCylPtKgthS3TRW3t2EAAAAAQUIPAAAAAAANIYb+2MFRkELJW5bOrAd7"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "visid_incap_1049467",
+        "value": "KfxmT8U9TNO2rU2QACEhVBW3t2EAAAAAQUIPAAAAAADDd/M7Z2x5bq9f8WCI0FvD"
+      },
+      {
+        "host": "community.spiceworks.com",
+        "name": "last_visit",
+        "value": "2021-12-13T21%3A11Z"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "spiceworks_community",
+        "value": "SVkyc3lQSk5wd3lwbHlMSy9ieFBtUUg2QkdpMjE3ek96QndTMFNDdEVGTE82UjVsZ1dVVHhBdTR3SW1qMDZsYkNGYit4ZU5KQWdNSGdLVVlxUDBZYzBLSnNUWk94TS9KMDA0MEhaTVdYSjVpeGF3WUlIVU9tczBOUU5qSWR5dENmNUk4SWVvTHpUM0RNNm9qYlAxQXVNTTNDYnQwd0o1Lzh5bVRWdHBWUlkvTGR6TU1aWk03WWVBZTF1SkV0dDR4OTJQcHorZTFaSUhzTDhwLzdHbmJvK2Z5YnA2TGJYN3BqMGVHOGVaR1RxUktCdW5RVVdka2xwNm9TN01UYzVjK3JjbzJIb0g1RklhMGdkT1pTOHRPTHc9PS0tYUo0dDh4R2dBTEdTSUF0dkNzdkhEZz09--d131ce5739097e977cc5b7d2b2394912c82757bf"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "visid_incap_1285770",
+        "value": "KKEQdP5rRIuJXzVlLk48/he3t2EAAAAAQUIPAAAAAAB4z7EpcLvcUGkGF7Z69IBS"
+      },
+      {
+        "host": ".spiceworksstatic.com",
+        "name": "visid_incap_925105",
+        "value": "W9D1rwfiTwieWVV03eNzcxi3t2EAAAAAQUIPAAAAAAAQ/q6YPSHBOBOjtkWPityE"
+      },
+      {
+        "host": "community.spiceworks.com",
+        "name": "photo_modal_shown",
+        "value": "PhotoModalShown"
+      },
+      {
+        "host": "ducktoolkit.com",
+        "name": "cookieconsent_status",
+        "value": "dismiss"
       },
       {
         "host": "github.com",
@@ -2937,9 +1627,19 @@
         "value": "1"
       },
       {
+        "host": "www.google.com",
+        "name": "DV",
+        "value": "k0CuomO3HnMigJ14QZ6zteauzo5Y2xdonmSkrvHU1wAAAAA"
+      },
+      {
+        "host": ".google.com",
+        "name": "1P_JAR",
+        "value": "2021-12-13-21"
+      },
+      {
         "host": ".lastpass.com",
         "name": "_abck",
-        "value": "0D9337992304B2A48703BF4978106BAF~-1~YAAQ7/wUAh6iXaF9AQAAOa7xuQcVweMdxkfKf68Ei8f5T40SXm6JfbwZtDBe4IjS0Oc0yBirwwRFKT+/8nb/cELPF/i6m/tvPKbAGy1n9uhROJd0bd1C9T7A43LkdrPmiYEss7nrUmEp7+Q0z5BageMZDsgA1YVgh63sLZkF3Sv1gh1MK/fK0qv6TOpqj7rkw77tlJSgPQOjDEooTREs9IMeDPSbAwOvwxQQG1JXQZ4MmAHotqt64/rHdnVZAPDO27by5b9BSDAMbIRUrLgmqBcWYQ4/sGKSdfDf787tai5aLNiA9SH+NuafuYyWAvzpRt8KqsFwN2Xo1txhWFCEcHuVMJIerqmqRKk1Mnf3OJojuD4=~-1~-1~1638019015"
+        "value": "5868AE2D9A469D7DAF136EADF97BB2A1~-1~YAAQNBdlXw7idrR9AQAACYzFtQdmuiWBeudLmnlBh50ClMe1lT9HTHYPOJYxZ4LUGSFkWQwejPZehxO/z0Edy5F9ORsOSpbx7ayYcQP9Sq0VrzwSK+HiB0JYtA52Op9OLDCthf6d6vdPsasAliAWVxWpaN2+fi8FyOZvZKHACqWnK3bE0Qcz/zhwPId+Ofhu0i3DfYyw5aRHSE7m+vZVEvL2gsEhd/i1wOXOQvyfe2bXUUTH5hrXleXc967GT226EDCnn1zjrtEEpQ9lMdavL8MAqsusXyoizyPiI5lkA/tIvVCKKX0ETFG+9DtnwQuc5Ykk/J7tP2pBqRYrmfOo4Q9Znjn5AXTlpz0fiL3Txycgv/E=~-1~-1~1638027196"
       }
     ],
     "Passwords": {
@@ -2947,57 +1647,41 @@
       "logins": [
         {
           "encType": 1,
-          "encryptedPassword": "MDoEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECCXpax5+CPI/BBASu16hw41JvNf1Lsi2lAp5",
-          "encryptedUsername": "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECP+M5bBOZp/NBBhcxCbycmldxRXcdyvyUHmPn/6/ryYqyQo=",
-          "formSubmitURL": "https://www.facebook.com",
-          "guid": "{bced9ecb-a2e0-4f3f-9393-19eaaa622c12}",
-          "hostname": "https://www.facebook.com",
-          "httpRealm": null,
-          "id": 3,
-          "passwordField": "pass",
-          "timeCreated": 1637919710337,
-          "timeLastUsed": 1637919710337,
-          "timePasswordChanged": 1637919710337,
-          "timesUsed": 1,
-          "usernameField": "email"
-        },
-        {
-          "encType": 1,
-          "encryptedPassword": "MDoEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECAGZElTbFsbnBBBTGWYDulOPIOPyjCgER/zI",
-          "encryptedUsername": "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECJdJ5T7zLSxUBBjTp/qhFlFADVBeHSP0dhOHE4Te5SQ/joI=",
+          "encryptedPassword": "MDoEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECMmwt6CR3hbKBBBgLrw+bn0comAe32e8i7Yj",
+          "encryptedUsername": "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECMJNmiQBk2xDBBgTBfQRqF8GxKrqTAHw3Up+BdsG5Ppk5vQ=",
           "formSubmitURL": "https://www.instagram.com",
-          "guid": "{671a4a79-847c-45ac-bcd0-4c38ca25b96f}",
+          "guid": "{34c6a2ce-e427-4edd-a4a6-4e60899091cd}",
           "hostname": "https://www.instagram.com",
           "httpRealm": null,
-          "id": 4,
+          "id": 1,
           "passwordField": "password",
-          "timeCreated": 1637919731803,
-          "timeLastUsed": 1637919731803,
-          "timePasswordChanged": 1637919731803,
+          "timeCreated": 1637647783962,
+          "timeLastUsed": 1637647783962,
+          "timePasswordChanged": 1637647783962,
           "timesUsed": 1,
           "usernameField": "username"
         },
         {
           "encType": 1,
-          "encryptedPassword": "MDoEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECOppxvr6afz+BBDwXIl91UPGQSgPKb95qS2L",
-          "encryptedUsername": "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECJde0s0d6KhjBBivbeLLjOR3zPKUE9O30mHjq9j9jXY33Qc=",
-          "formSubmitURL": "https://www.dropbox.com",
-          "guid": "{7c246575-7d6d-4637-9669-23fcf59fd91f}",
-          "hostname": "https://www.dropbox.com",
+          "encryptedPassword": "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECAYS55548QzLBBiRANUUbw2OkQ8JjsVeYxcbIZVMM5Gd0v4=",
+          "encryptedUsername": "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECORzrG8uclCvBBiXuFXAT4g6XTXLGYLL2Itbrpw13INY9UQ=",
+          "formSubmitURL": "https://www.facebook.com",
+          "guid": "{c15fa205-0852-44fe-a002-bc7bd248ad94}",
+          "hostname": "https://www.facebook.com",
           "httpRealm": null,
-          "id": 5,
-          "passwordField": "login_password",
-          "timeCreated": 1638518237306,
-          "timeLastUsed": 1638518237306,
-          "timePasswordChanged": 1638518237306,
+          "id": 2,
+          "passwordField": "pass",
+          "timeCreated": 1637647797109,
+          "timeLastUsed": 1637647797109,
+          "timePasswordChanged": 1637647797109,
           "timesUsed": 1,
-          "usernameField": "login_email"
+          "usernameField": "email"
         }
       ],
-      "nextId": 6,
+      "nextId": 3,
       "potentiallyVulnerablePasswords": [],
       "version": 3
     }
   },
-  "Session-ID": "95a32435-0aac-4526-8cff-8478b0869229"
+  "Session-ID": "74af3fcb-af8f-4018-8442-0b0567381cee"
 }
