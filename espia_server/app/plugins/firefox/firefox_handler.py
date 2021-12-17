@@ -492,11 +492,14 @@ def handle_firefox_passwords(session_dir_path: pathlib.Path, credentials: dict) 
 
 def handle_all_firefox_modules(session_dir_path: pathlib.Path, results: dict):
     firefox_product = _FIREFOX_PRODUCT
-    firefox_results = results.get("Firefox")
-    firefox_passwords = firefox_results.get("Passwords")
-    firefox_product["Passwords"] = handle_firefox_passwords(session_dir_path, firefox_passwords.get("logins"))
-    firefox_cookies = firefox_results.get("Cookies")
-    firefox_product["Cookies"] = handle_firefox_cookies(firefox_cookies)
+    try:
+        firefox_results = results.get("Firefox")
+        firefox_passwords = firefox_results.get("Passwords")
+        firefox_product["Passwords"] = handle_firefox_passwords(session_dir_path, firefox_passwords.get("logins"))
+        firefox_cookies = firefox_results.get("Cookies")
+        firefox_product["Cookies"] = handle_firefox_cookies(firefox_cookies)
+    except:
+        pass
     return firefox_product
 
 

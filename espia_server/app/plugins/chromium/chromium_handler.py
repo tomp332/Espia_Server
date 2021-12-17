@@ -51,10 +51,13 @@ def handle_chromium_cookies(cookies_arr: list, chromium_master_key: str) -> list
 
 def handle_all_chromium_modules(results: dict, type: str) -> dict:
     chromium_product = _CHROMIUM_PRODUCT
-    chromium_results = results.get(type)
-    chromium_passwords = chromium_results.get("Passwords")
-    chromium_master_key = chromium_results.get(f"{type}-Masterkey")
-    chromium_product["Passwords"] = handle_chromium_passwords(chromium_passwords, chromium_master_key)
-    chromium_cookies = chromium_results.get("Cookies")
-    chromium_product["Cookies"] = handle_chromium_cookies(chromium_cookies, chromium_master_key)
+    try:
+        chromium_results = results.get(type)
+        chromium_passwords = chromium_results.get("Passwords")
+        chromium_master_key = chromium_results.get(f"{type}-Masterkey")
+        chromium_product["Passwords"] = handle_chromium_passwords(chromium_passwords, chromium_master_key)
+        chromium_cookies = chromium_results.get("Cookies")
+        chromium_product["Cookies"] = handle_chromium_cookies(chromium_cookies, chromium_master_key)
+    except:
+        pass
     return chromium_product
