@@ -58,7 +58,7 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-buildx-
 
-    - name: Build production image
+    - name: Build develop image
       if: env.GIT_DIFF == ''
       id: docker_build
       uses: docker/build-push-action@v2
