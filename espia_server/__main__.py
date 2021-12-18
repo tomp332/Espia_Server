@@ -3,7 +3,7 @@ import pathlib
 
 import uvicorn
 
-from app.utils import config
+from espia_server.app.utils import config
 
 
 def main():
