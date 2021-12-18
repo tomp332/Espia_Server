@@ -13,7 +13,6 @@ RUN pip install -r requirements.txt
 # ---- Copy Files/Build ----
 FROM dependencies AS build  
 WORKDIR /server
-COPY ./venv /server/venv
 COPY espia_server /server/espia_server
 
 # --- Release with Alpine ----
@@ -30,5 +29,4 @@ RUN pip install -r requirements.txt
 COPY --from=build /server/ ./
 EXPOSE 443
 ENV ESPIA_ENV=prod
-#CMD ["/venv/bin/python","-m","espia_server"]
-ENTRYPOINT ["tail", "-f", "/dev/null"]
+CMD ["python","-m","espia_server"]
