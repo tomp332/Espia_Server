@@ -1,5 +1,5 @@
 # ---- Base python ----
-FROM python:3.9 AS base
+FROM python:3.9-alpine3.14 AS base
 # Create app directory
 WORKDIR /server
 
