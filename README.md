@@ -23,7 +23,7 @@ MAILGUN_DOMAIN=<Mailgun email domain>
 MAILGUN_USER=<Mailgun username>
 DESTINATION_EMAIL=<Destination email for results to be sent to>
 ```
-1. Run the image:
+3. Run the image:
 ```
 docker run -p 443:443 -v <your config.ini file absolute path that was created>:/server/espia_server/configs/config.ini ghcr.io/tomp332/espia-server:latest
 ```
