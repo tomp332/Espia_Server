@@ -8,3 +8,22 @@
 ### Step 2 - Install required packages
 1. Run `python -m pip install -r requirements.txt`
 2. sudo setcap CAP_NET_BIND_SERVICE=+eip /usr/bin/python3.9 (for letting a user run server on priv port)
+
+## Package option:
+1. By default the latest docker image is exported on 443, which means that if for some reason you want the main server to be exported on a different port, re-build the image locally.
+2. Overide the default config.ini file :
+```
+[app]
+SERVER_IP=0.0.0.0
+SERVER_PORT=<local docker port>
+
+[mailgun]
+API_KEY=3dbe8102e42613953546e1d16e3ca052-2ac825a1-40512545
+MAILGUN_DOMAIN=sandboxc4a5325005b24785b5e4e93bdb56aec4.mailgun.org
+MAILGUN_USER=wifi_testing
+DESTINATION_EMAIL=wifi_testing@protonmail.com
+```
+1. Run the image:
+```
+docker run -p 443:443 -v <your config.ini file absolute path that was created>:/server/espia_server/configs/config.ini ghcr.io/tomp332/espia-server:latest
+```
