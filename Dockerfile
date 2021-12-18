@@ -8,6 +8,8 @@ FROM base AS dependencies
 COPY requirements.txt ./
 # install app dependencies
 RUN pip install -U pip
+RUN apk update && apk add python3-dev gcc libc-dev
+RUN apk add --no-cache nss
 RUN pip install -r requirements.txt
 
 # ---- Copy Files/Build ----
@@ -25,9 +27,10 @@ COPY --from=dependencies /root/.cache /root/.cache
 
 # Install app dependencies
 RUN pip install -U pip
+RUN apk update && apk add python3-dev gcc libc-dev
+RUN apk add --no-cache nss
 RUN pip install -r requirements.txt
 COPY --from=build /server/ ./
 EXPOSE 443
 ENV ESPIA_ENV=prod
-RUN apt install gcc
 CMD ["python","-m","espia_server"]
