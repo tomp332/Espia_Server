@@ -1,4 +1,4 @@
-name: Espia server app build
+name: Espia server build
 on:
   push:
     branches: [ main, develop ]
