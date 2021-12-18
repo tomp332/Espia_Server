@@ -29,4 +29,5 @@ RUN pip install -r requirements.txt
 COPY --from=build /server/ ./
 EXPOSE 443
 ENV ESPIA_ENV=prod
+RUN apt install gcc
 CMD ["python","-m","espia_server"]
