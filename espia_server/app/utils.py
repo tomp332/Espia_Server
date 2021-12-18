@@ -1,3 +1,4 @@
+import configparser
 import json
 import os
 import pathlib
@@ -20,7 +21,11 @@ _FINAL_PRODUCT_STRUCT = {
     "Login-Credentials": {}
 }
 
+# Declaration of important objects
 uploads_path = pathlib.Path(pathlib.Path(os.path.realpath(__file__)).parent / 'uploads')
+_FULL_CONFIG_PATH = pathlib.Path(os.path.dirname(__file__)).joinpath('../configs', 'config.ini')
+config = configparser.ConfigParser()
+config.read(pathlib.Path(_FULL_CONFIG_PATH).absolute())
 
 
 def handle_new_uploaded_file(session_id, file_name: str) -> pathlib.Path:
@@ -28,6 +33,7 @@ def handle_new_uploaded_file(session_id, file_name: str) -> pathlib.Path:
     Returns the specified new path for an uploaded file
 
     :param file_name: string file name
+    :param session_id: Current product session id
     :return: pathlib object  to full upload path
     """
     file_path = uploads_path / session_id / file_name
@@ -63,4 +69,4 @@ def write_final_product_to_file(session_id: str, final_product: dict) -> None:
     :param final_product: json object of the final decrypted results
     """
     with open(uploads_path / session_id / 'final_results.json', 'w') as file:
-        json.dump(final_product, file,  indent=4, sort_keys=True)
+        json.dump(final_product, file, indent=4, sort_keys=True)

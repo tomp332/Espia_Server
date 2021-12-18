@@ -5,3 +5,4 @@ venv*
 espia_server/app/scripts/*
 *.pyc
 espia_server/app/scripts/espia_patch.py
+espia_server/configs/*
