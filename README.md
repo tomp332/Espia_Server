@@ -1,5 +1,4 @@
 # Espia Server
-## Setup and Installation
 ### Step 1 [Optional] - Create and Activate a Virtual Environment (python 3.9 >= )
 1. Run the following command: `python3.9 -m venv <env_dir_path>`
 2. Activate the environment  
