@@ -9,7 +9,7 @@
 1. Run `python -m pip install -r requirements.txt`
 2. sudo setcap CAP_NET_BIND_SERVICE=+eip /usr/bin/python3.9 (for letting a user run server on priv port)
 
-## Package option:
+## Packge Option:
 1. By default the latest docker image is exported on 443, which means that if for some reason you want the main server to be exported on a different port, re-build the image locally.
 2. Overide the default config.ini file :
 ```
