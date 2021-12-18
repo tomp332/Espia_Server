@@ -1,7 +1,7 @@
 name: Espia server app build
 on:
   push:
-    branches: [ main ]
+    branches: [ main, develop ]
   release:
     types:
       - published
@@ -36,10 +36,11 @@ jobs:
           tags: ghcr.io/${{github.actor}}/espia-server:latest
       - name: Image digest
         run: echo ${{ steps.docker_build.outputs.digest }}
- dev-build:
-  if: ${{ github.ref == 'refs/heads/develop' }}
-  runs-on: ubuntu-latest
-  steps:
+        
+  dev-build:
+    if: ${{ github.ref == 'refs/heads/develop' }}
+    runs-on: ubuntu-latest
+    steps:
     - name: Log into Github container
       uses: docker/login-action@v1
       with:
