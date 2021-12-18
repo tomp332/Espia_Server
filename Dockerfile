@@ -8,6 +8,9 @@ FROM base AS dependencies
 COPY requirements.txt ./
 # install app dependencies
 RUN pip install -U pip
+RUN apk update && apk add python3-dev \
+                        gcc \
+                        libc-dev
 RUN pip install -r requirements.txt
 
 # ---- Copy Files/Build ----
