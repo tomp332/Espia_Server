@@ -9,6 +9,8 @@ jobs:
   prod-build:
     if: ${{ github.ref == 'refs/heads/main' }}
     runs-on: ubuntu-latest
+    env:
+      MAIN_USER: tomp332
     steps:
       - name: Log into Github container
         uses: docker/login-action@v1
@@ -33,13 +35,15 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: ghcr.io/${{github.actor}}/espia-server:latest
+          tags: ghcr.io/${{ env.MAIN_USER }}/espia-server:latest
       - name: Image digest
         run: echo ${{ steps.docker_build.outputs.digest }}
         
   dev-build:
     if: ${{ github.ref == 'refs/heads/develop' }}
     runs-on: ubuntu-latest
+    env:
+      MAIN_USER: tomp332
     steps:
     - name: Log into Github container
       uses: docker/login-action@v1
@@ -64,6 +68,6 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: ghcr.io/${{github.actor}}/espia-server:beta_dev
+        tags: ghcr.io/${{ env.MAIN_USER }}/espia-server:beta_dev
     - name: Image digest
       run: echo ${{ steps.docker_build.outputs.digest }}
