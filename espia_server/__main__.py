@@ -12,8 +12,8 @@ def main():
                 host=config['app'].get('SERVER_IP'),
                 port=int(config['app'].get('SERVER_PORT')),
                 reload=True,
-                ssl_keyfile=certs_dir / f"{os.getenv('ESPIA_ENV')}" / 'key.pem',
-                ssl_certfile=certs_dir / f"{os.getenv('ESPIA_ENV')}" / 'cert.pem')
+                ssl_keyfile=certs_dir / f"{config['app'].get('ESPIA_ENV')}" / 'key.pem',
+                ssl_certfile=certs_dir / f"{config['app'].get('ESPIA_ENV')}" / 'cert.pem')
 
 
 if __name__ == '__main__':
