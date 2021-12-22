@@ -39,8 +39,7 @@ def upload_results(results: dict) -> dict:
 async def create_upload_file(request: Request, fileUpload: UploadFile = File(...)) -> dict:
     session_id = request.headers.get('Session')
     file_path = handle_new_uploaded_file(session_id, fileUpload.filename)
-    with open(file_path, 'wb') as f:
-        content = await fileUpload.read()
-        f.write(content)
+    file_path.write_bytes(await fileUpload.read())
+
     print(block + f"[+] Successfully received database files from {session_id}")
     return {}
