@@ -64,6 +64,6 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: ghcr.iotomp332/espia-server:beta_dev
+        tags: ghcr.io/tomp332/espia-server:beta_dev
     - name: Image digest
       run: echo ${{ steps.docker_build.outputs.digest }}
