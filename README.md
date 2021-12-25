@@ -12,6 +12,7 @@
 # Table of contents
 - [Table of contents](#table-of-contents)
 - [Basic Overview](#basic_overview)
+  - [Espia Client](#espia-client)
 - [Setup](#setup)
   - [Local Setup](#local-setup)
   - [Docker Setup](#docker-setup)
