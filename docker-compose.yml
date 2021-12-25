@@ -12,7 +12,7 @@ services:
                         - type: bind
                           source: <your config.ini file>
                           target: /server/espia_server/configs/config.ini
-                        # Storage for all session files that the Espia receives
+                        # Storage for all session files that Espia receives
                         - type: bind
                           source: <path to all local session files storage>
                           target: /server/espia_server/app/uploads
