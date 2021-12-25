@@ -10,7 +10,7 @@ services:
                 volumes:
                         # Your main configuration file
                         - type: bind
-                          source: <your config.ini file>
+                          source: <your main config.ini file>
                           target: /server/espia_server/configs/config.ini
                         # Storage for all session files that Espia receives
                         - type: bind
