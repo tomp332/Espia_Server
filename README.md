@@ -9,17 +9,41 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Basic Overview
+# Table of contents
+- [Table of contents](#table-of-contents)
+- [Basic Overview](#basic_overview)
+- [Contributors](#Contributors)
+- [Contact](#contact)
+- [Disclaimer](#disclaimer)
 
-Using stock historical data, train a supervised learning algorithm with any combination of financial indicators. Rapidly backtest your model for accuracy and simulate investment portfolio performance. 
-<p align="center"><img width=95% src="https://github.com/anfederico/clairvoyant/blob/master/media/Schematic.png"></p>
+
+# Basic Overview
+
+The Espia Project is a simple but usseful client server SpyWare setup. It's main goal is to gather as much information as possible from the remote machine that has been compromised.
+Currently the Espia client retrieves Edge, Chrome and Firefox passwords that are stored on the PC and enables a stealthy and fast way to conduct a brief and small attak.
 
 <br>
 
-
-## Contributing
-Please take a look at our [contributing](https://github.com/anfederico/clairvoyant/blob/master/CONTRIBUTING.md) guidelines if you're interested in helping!
+# Contributors
+ - @dvbergmann [David Bergmann](https://github.com/dvbergmann)
+ 
 #### Pending Features
-- Export model
-- Support for multiple sklearn SVM models
-- Visualization for models with more than 2 features
+- More execution models
+
+
+# Contact
+
+Feel free to open issues and contact us with any question :+1:
+
+- :email: [tomp12@protonmail.com](mailto:tomp12@protonmail.com)
+
+- :globe_with_meridians: [Twitter](https://twitter.com/tomp332)
+
+- :octocat:  [Github](https://github.com/tomp332)
+<br><br>
+
+# Disclaimer
+
+You shall not misuse the information to gain unauthorised access. However you may try out these hacks on your own computer at your own risk. Performing hack attempts (without permission) on computers that you do not own is illegal.
+
+Enjoy :metal:
