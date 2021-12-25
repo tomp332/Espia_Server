@@ -1,5 +1,4 @@
 import os
-import pathlib
 
 from fastapi import FastAPI, File, UploadFile, Request
 from starlette.responses import FileResponse
