@@ -31,6 +31,4 @@ RUN apk update && apk add python3-dev gcc libc-dev
 RUN apk add --no-cache nss
 RUN pip install -r requirements.txt
 COPY --from=build /server/ ./
-EXPOSE 443
-ENV ESPIA_ENV=prod
 CMD ["python","-m","espia_server"]
