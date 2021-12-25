@@ -8,9 +8,19 @@ services:
                 ports:
                         - 443:443
                 volumes:
+                        # Your main configuration file
                         - type: bind
-                          source: <your config.ini file>
+                          source: <your main config.ini file>
                           target: /server/espia_server/configs/config.ini
+                        # Storage for all session files that Espia receives
                         - type: bind
-                          source: <local dir absolute path for all user data>
+                          source: <path to all local session files storage>
                           target: /server/espia_server/app/uploads
+                        # By default there are localhost public\private keys installed,
+                        # if you want production ones override them, otherwise remove these 2 binds
+                        - type: bind
+                          source: <path to public key>
+                          target: /server/espia_server/certs/public_key.pem
+                        - type: bind
+                          source: <path to private key>
+                          target: /server/espia_server/certs/private_key.pem
