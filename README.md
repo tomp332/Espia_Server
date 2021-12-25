@@ -27,9 +27,6 @@ Currently the Espia client retrieves Edge, Chrome and Firefox passwords that are
 # Contributors
  - @dvbergmann [David Bergmann](https://github.com/dvbergmann)
  
-#### Pending Features
-- More execution models
-
 
 # Contact
 
