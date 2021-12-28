@@ -36,12 +36,23 @@ Currently the Espia client retrieves Edge, Chrome and Firefox passwords that are
 </div>
 
 ### Espia Client
+### Overview
+Espia client is written in c++ and is available in the Espia_Client fork.
+The client works in 2 stages:
+  1. Launcher - which launches and downloads the espia.exe file from the server.
+  2. Espia - The actual client that executes and collects all plugins available.
+At the end of the execution , the server will have all product results in the current session_id directory that will be explained in the next section.
+
+### Fork it
+
+### Server
 1. All retrieved products from Espia Client will be rendered and created on a local directory by their own session_id that is randomly generated.
 
 <img src="./media/screenshot1.png" alt="Tree example" width=250 height=150>
 
 2. final_results.json will include all retrieved data from the remote target
 
+3.
 <br>
 
 
