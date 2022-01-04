@@ -3,16 +3,8 @@ import json
 import os
 import pathlib
 
-from colored import fg
-
 from espia_server.app.plugins.chromium.chromium_handler import handle_all_chromium_modules
 from espia_server.app.plugins.firefox.firefox_handler import handle_all_firefox_modules
-
-# For output purposes
-block = fg('light_sky_blue_3a')
-title = fg('blue')
-main_title = fg('red')
-data = fg('dark_green_sea')
 
 _FINAL_PRODUCT_STRUCT = {
     "Chrome": {},
@@ -24,7 +16,7 @@ _FINAL_PRODUCT_STRUCT = {
 # Declaration of important objects
 static_files_path = f'{pathlib.Path(__file__).parent}/static_files'
 uploads_path = pathlib.Path(pathlib.Path(os.path.realpath(__file__)).parent / 'uploads')
-_FULL_CONFIG_PATH = pathlib.Path(os.path.dirname(__file__)).joinpath('../configs', 'config.ini')
+_FULL_CONFIG_PATH = pathlib.Path(os.path.dirname(__file__)).joinpath('../../configs', 'config.ini')
 config = configparser.ConfigParser()
 config.read(pathlib.Path(_FULL_CONFIG_PATH).absolute())
 
