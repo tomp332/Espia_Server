@@ -1,0 +1,1687 @@
+{
+  "Chrome": {
+    "Chrome-Masterkey": "a7b1e1758a5727880d6e1c7db75b9da379b8feee5f987883a15d49d6e71230af",
+    "Cookies": [
+      {
+        "Domain": ".facebook.com",
+        "Value": "7631302b64c1f35b869238a81a200a966541321b8e60b06427cdaa93550ee27713655dc86f71e7f61610ab8879909b06d8c081fd577c8b"
+      },
+      {
+        "Domain": ".instagram.com",
+        "Value": "763130704146d6c3997d192b272177a85a5858d8b40ca8e111f0e7edd9282abe3f1b11b330b6ba0ee8d5a9a5577cb6bff010b721890dfd745d013f7a0556045549dfec"
+      },
+      {
+        "Domain": ".instagram.com",
+        "Value": "7631303958b82b36ffda53ee3961404bac632e3f5ebd3dcab5c15c104fac7cc7"
+      },
+      {
+        "Domain": ".instagram.com",
+        "Value": "76313096c757a3524c7c9878a3f03bda299bab9644a9851367b00e1120100eaefdf61b62a8e25fa7f4038f6f026b9e42dcaec68c793a2b1a3170c0"
+      },
+      {
+        "Domain": ".facebook.com",
+        "Value": "763130fc351b1c378311de2523fe98bf24bf9593c1b45d9127d5c843acec12ba0e811d051c74727f89ea5793f4cfcadd9accc040812576"
+      },
+      {
+        "Domain": ".google.com",
+        "Value": "763130c2c714ba9236de2af983cfab40d006854707fe536ad5eefaa471f1baa6e6714b8d8e7ebbb76313fe63"
+      },
+      {
+        "Domain": ".google.com",
+        "Value": "7631302c9da869ca694be44db63feac7b662c26e77ea5910a8070abc9b295b51d3dc3c330cdd8b14d90cc20c7001a993fdb6111db4d590c4795f7eecfd"
+      },
+      {
+        "Domain": ".stackoverflow.com",
+        "Value": "763130ee1677b096b1cfe30a3d7861cdd6e5b58ec22d6132736e21631332fd5ab7b1ae948307cc34f0d789406816bbe0e09d2ce78ef61f"
+      },
+      {
+        "Domain": ".stackoverflow.com",
+        "Value": "7631307f74372b5b86d0458b03ab2a2c1291feafdb3f56aa3adc167e18d1302a6faa8facb703e12a1bd9d87c4ee4bed59d9b751c0536cb8cfe4914af34ed551dc5cd4bed3d2a1120a448af6190ce5c99a6086225837463273167819f40c1452d116e221e5c5d8549a3f793a5c90e85325aecf0f5ff4f604768ca1b32a24e7f7e1d0af2d1e107516a2ec316e5b1f5976a11210fe47244587c8efed1298f6d36acebfdb6fbbfb6db1a591c8451c3471aace51ebacdd33fd236b0802af4a920e051a920e4397266c3d789d1aee9ae0d35943cb9747a"
+      },
+      {
+        "Domain": ".google.com",
+        "Value": "763130bcc929102767628f5b82e6"
+      },
+      {
+        "Domain": ".stackoverflow.com",
+        "Value": "763130e0d133195cb9b30dfbf30b1e2aae27b14b32844f2a0bfebb"
+      },
+      {
+        "Domain": ".stackoverflow.com",
+        "Value": "763130c6102ffef28e6858fd6f0b3bf6256e5dba96633940e377e4fd3f0e37a6"
+      },
+      {
+        "Domain": ".stackoverflow.com",
+        "Value": "763130b60f231f7c3feadc8b190dd34d26b2400fe1c08e31bfa978d8d0e8a72e8873e4013e553e91f84c225b1265711584a868c6a5f4825d9cc1"
+      },
+      {
+        "Domain": ".stackoverflow.com",
+        "Value": "7631305b60762a5067a5182e3484360bd23f92b69cee38d298c352b04593e00d7bb39add12653149ac4aaf0eda0dc8e743da9d30c30934b7da2948457f2d9255769253"
+      },
+      {
+        "Domain": ".doubleclick.net",
+        "Value": "763130db5cf3b4b2599f0a692848ff7b57d2de480fe89df77518570ced0d0a43c4bada0499ce2511113845b22da6d2c35f"
+      },
+      {
+        "Domain": ".instagram.com",
+        "Value": "7631304c4c23384f50ca29be"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130197cc39b12b89511a353d7de842b"
+      },
+      {
+        "Domain": "www.dropbox.com",
+        "Value": "7631303c85a05a32af54d7fd6d0460c8d2a5dc92ca7f4a79e9d0250fcfed09eaa5fb40374d3fc73a6ff73b8aa8a30dbf55c33cb3adc5f0"
+      },
+      {
+        "Domain": "www.dropbox.com",
+        "Value": "763130a6e95a219e25f647c07a7c6cd4defeddb0ca436b9a3e70678fc8e7a2daadc003238bfc0e634f"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631301a718d2e85ba39c27ecc3cd6f42fd4a20c28b9afc5afe0f5bcf308235fe19fead9426f66068ee845fc1a8ee5eb6cfab91e52f5677393344a9ce0607590fccc516e4f97e7cf60a662e62a7d65fc3b9658c21fac0872b811ed9e9e6c744d81197a271a0b1433688b3414e05ad3cca453fcbcd2c0bee6e4b27e88f74249eb46eaa1beeb38ac4d92bee0cdf0c77411efb570bf4d04bacf6976a098a4f0ef4b6270b01ad58c8105cc450f98a18b7594479f40aea60eabbfb05aec99d62774480e4bae840ebf"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "76313028531ba087ec8c769c4fd061e6cc7c5155e76ba69ed51d7e53519f4310ae98bdae73a17965c1a0b77d8c133e81c3aa8edf73976eaf87275a7cb76e351d"
+      },
+      {
+        "Domain": ".bidr.io",
+        "Value": "763130bf2fb99e95e958a4c067eb197d3ee7bef7a905d49f3636aeb13f675d13e39c11168a9ccb994dfd992bb9"
+      },
+      {
+        "Domain": ".bidr.io",
+        "Value": "763130960249bc95bbd651a26333f226c0a1afc815eb944b118eb32598702dbaf7"
+      },
+      {
+        "Domain": ".demdex.net",
+        "Value": "763130321601a66d3ff80fcac8e12f6a2acc8d3bd678a1fb7bbe4f7cde1d6966013d5246cad9b297f0779980a9bb1b53bf014bc39fe6287a2d7649a1c168e62388e13229f8"
+      },
+      {
+        "Domain": ".dpm.demdex.net",
+        "Value": "763130ee8e232f2f5c386b4f3b952b71d97dc81d37b8f76507686a3ccc28a8422ea567a370983f7a65052c2adbcd47b7ee52b095733f64fa2c5418eafde31469a2058b9b47"
+      },
+      {
+        "Domain": ".everesttech.net",
+        "Value": "763130cfde8f8c50142d786f8c5cd9e33019f9950bbbac97f71ce704b974ede546c41ed3f7c145eba1d48ddce898af87c44a2de952b0b9e5cee2"
+      },
+      {
+        "Domain": ".facebook.com",
+        "Value": "76313003e5df498ad88b7997ffe310d8e4362345744434a340a32b2e67a288c089a02313a18f417861367aa329a2c7a849177514b091d13208357e202b653865124c602a54183a9e33f8f30ef4870926b95ffb4ac5aef5564ebd67631369e7d68efb4a6fdaca0ad0421b92498ec1942826"
+      },
+      {
+        "Domain": "www.dropbox.com",
+        "Value": "763130c9fde81dde3d2806c86b940b4537dad07f8a9a82062164365e64386810e3e1081ddc0d6f91603277aaa7609f201059955db6193da613704f6bd3418897a1ed9d8dd006f3429c1ced7dc378940c6e76b0"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "76313047ba8b3fe0439afbff3552454b146ccb0df330972735f5b0ce65d319b994"
+      },
+      {
+        "Domain": ".rlcdn.com",
+        "Value": "7631302bd729aeae5efb76eb605a9e810a565a0f4c10b83a303cc8f3856123fde7a51cf317123dca079fb27f33bb759a384d13ba453aa7842697c4"
+      },
+      {
+        "Domain": ".rlcdn.com",
+        "Value": "7631301ac09c282b4d9b9d0d5b0d58f13dd166514a95175e59097440f154609ce56f2c2ec2686b373958c2052bb7c036b8cb6f252bcffe70f7e8902617c3419ca5f77228badfe2a03b72d8"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130f5436f8931e11e80d63069c59f06c55b23c990afdda10539c36758a69be601f1b56d447cee4b2b559315a224833407f7a1dd"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130e48c9cbc960c7fe17e7742dbe908847cf2be633fdadc7736b39b409bb3df88ad462a51232c18500a251883d881055489449a5826"
+      },
+      {
+        "Domain": ".company-target.com",
+        "Value": "7631301c40fea43b11fd22bff2ae75523e1e5274c1ac20222ed7058f5af2b0793dee4b1b618dcfae03da451125c030f3a6d81ff048f7582c181962c25cbdd3d498c79d"
+      },
+      {
+        "Domain": ".company-target.com",
+        "Value": "7631300159ad781bd433"
+      },
+      {
+        "Domain": ".www.dropbox.com",
+        "Value": "7631304e986caef460d770a1440684d01a8a4c33c71b0ec25e55fdfd618701c9c6dd19b78c63635d7439bcec70567c93117603347c3a5927316af45dbab9bf17af68b64171f4e908c6ff309f95be985601dd8989aaec8b47706353754d4ef4d854ccc408f607364a6b95966a6648bbc6a1c9de35a08fe841202d333893c5dbe531e88f7b7a32e70ce8547e9c8118e716bd84aab6b5d7fcf49508621c291bb679ca3b1fc92e2b66bac6f4899f02c2e1ad2649f415b5b350cd4d64b7ddd64e1fe8308d57c942ec3d9ee71a302a72e7652de79f31c68dea48f4856b853005b3544a230f3fe8f04d2e5bcf02e9a955e3bdb765b347b59a931f53e93a5533e119490159f1c7cc32a138a0cc01fb417e6a0589da8d64751bddb2720af7104c84e215110e93be3e89604634683353d14b5ba947a0d636a2dd1220570c8ad29beb0f324e4c8745a07c2dd0b08db4b8cd6caeb101ed95dba379a1032f2c76bcffde47d11f0b84f9b8ce71c9887482263d85288fc4cafa99aecbbc5ba720b24ed5f51f1abfb56986182f4cc6ffa830d162d5477d377fdeceb2b1bfef9c780f3e75e3dca2ad974d28050f9b447e2264a2313c88954d8d90dd97e7b201ee9c57d2ded80c1adfe5188d"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631300ce41a1148e498bb95c394e44327792e52aa99a5e4cb07e64f316e3bc83119ce2fbfaad59f26cb4a151c9f7b3f338d6b343de3bff546f389cb"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631302a35b8f3223f5cb2f17f5396d53b91a65d8ead0fb861904fa23a531eb47ce774157c7dfe991b2031f9e73a163a74a85da6ffe46d3957deaf4b"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130bbdd95e05a3ef67a45b7496a0119f453f8d46c57151578136a40bc8b0473c85f206071a74463c1b97d3722c03836267bdf5116087290b0b4d8"
+      },
+      {
+        "Domain": ".twitter.com",
+        "Value": "763130570323255c8c73e97d35179a9979d0d78568acb2fdb065921ee511b158be0c9d113882cd047de95ab2c1"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130574f0104df061527a58a1a42e2c54a1eb664fd5fa4894885645f86237072ce90af0293bac695dd2ffb"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "76313073f22a415afaabbaa3f1254c3c25aa7d38de7856f4c8d6b990f651d00e"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "76313072c3b997340a854fa2f2b75bf0fb463f4aece27753da67de9ce30839a7909fdd"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130e81936b15e3fc0e257c4deb08fd73aa58a4e4961ee76375008abca791c95073a811402fa9a638efc3a"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "76313052d7e9149c708157d08cfb267ed69f8ec037e2fcf3f8c19109056c51af24f569462e2c1afc8c4c5387"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631308a5b77e1859e699fef498d46e270d8156fc6b7febc82bb5a3ca9259bd3619e9b68f170e1974c2e914ac186eb84"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130bc80dd7d219189f4dcd8d4080c9bbe86bc77d8eeca7ec93b6177"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "76313010381441df9e358ba618ab9867bf8fc4fae282f4c4ab76d98238cfc097"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631307418f3f4947c9a2f4cc4f3222b6ebfb9fd6e2672ab5cda77b74abaed18f44859d8515319ea79e5a7719a59b7ffaa4e1f8131e09f83837335afaf7f7bfd88519ae3b256613627fda7d92923"
+      },
+      {
+        "Domain": ".facebook.com",
+        "Value": "76313009b372fbe2d32d179f808ea94f13ed5bec331cf56a014d304f8f942d21693d47085cae87"
+      }
+    ],
+    "Passwords": {
+      "1": {
+        "password": "76313081c548b55d4a3b7d5e28fd3892bf84805f143258db25f419eacaa5aae0f8acf9866d10b23640e25d26bb05",
+        "url": "https://www.instagram.com/",
+        "username": "test123@gmail.com"
+      },
+      "2": {
+        "password": "7631305a4cff2e864377f26b443b832a71decc53c5a1fc3929c71c2ff368891f77acf1543288dc890c",
+        "url": "https://www.facebook.com/login/",
+        "username": "test123@gmail.com"
+      },
+      "3": {
+        "password": "763130c9dd3aa953fa703ea821dc05b85f4f28a10ff9447f39351b15e62fe5",
+        "url": "",
+        "username": ""
+      },
+      "4": {
+        "password": "76313073346d2732091575824c3bd6850bdd14fa340c38e47ba8d68345fc77e2bf481512ad5155e09a9d8ba9",
+        "url": "https://www.dropbox.com/login",
+        "username": "test123@gmail.com"
+      }
+    }
+  },
+  "Edge": {
+    "Cookies": [
+      {
+        "Domain": "ntp.msn.com",
+        "Value": "763130d75f4f6f0ed95a2f800e8cbb524ad7b8bc25e17d"
+      },
+      {
+        "Domain": ".msn.com",
+        "Value": "76313094ccee9fb548212fa5da9e04c620a3d7549c800844bc337acaa697"
+      },
+      {
+        "Domain": ".msn.com",
+        "Value": "763130bbd20fcfd9542fa9b9fcba917c953ff851e9e828f420f2551cb807ee78688926a144de4c87bc9a65260979f3f41c51e314115c6b4b254d983ccf7fcd"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "7631303072171a7573f1bdfd6c42660d32274529d37ef59b1aa24347d84d813273ef67576217b1c79597cbed1b52c81e340ba03e8ecee2267b21d8a89d22f1"
+      },
+      {
+        "Domain": ".c.bing.com",
+        "Value": "763130c7d6bdc0de56269d1880fff13c175514b60a1f5e81590ed4cea2aca96f52ef1a19a8191aa7efeae21e1e42ae0e60fdf5f163615a84a205e514089384"
+      },
+      {
+        "Domain": ".c.bing.com",
+        "Value": "763130df649cc2701b526322bcb8183e84bcbaea6cfaa9e4675ea1ce89b60f97e136a501930bde28a44f33b29f63ad7ae40c6145bd6d5d066b1c1b6e47c26b"
+      },
+      {
+        "Domain": "ntp.msn.com",
+        "Value": "76313051af33a98b5d8323e19da17b5533fb29de97a7dd3c1b01517281d4be8e"
+      },
+      {
+        "Domain": ".msn.com",
+        "Value": "7631303059dc957165150fea0361df50b846b0111c638b3ddcf16c9807ec2b75fddc4663d0"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "7631306b1711c1e63b677ec28aedd075cc8ef24b645fa9a94937e7abf4c86bf4869442c68eb89afd"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "763130599b31d66ac391d762e3c223ed12be6df69f9b0a1464dcfaed5b0db0f158644189b3b021036e303d30326509f8e23f65059a431ff88728e98e235e8b8df227aa2cd623ea15e9da3026a03e2537b8"
+      },
+      {
+        "Domain": "microsoftedgewelcome.microsoft.com",
+        "Value": "76313010b2a4f31f2cfbbacd2152558f4bbf2a3d04f097397d779737889e475deb6caf14d9097c4436f6297175209db4f61464c02538904aa8111388f04b33c90d33ec75ea3f5469cb2403f793fbf87005958b59dc74d4d36510b19dd601b47f6510f01b0e472639f2283fc953010acb22"
+      },
+      {
+        "Domain": "microsoftedgewelcome.microsoft.com",
+        "Value": "7631309b80ed3af53bdf2ca6c9a8266c0465809572514a52125d9b0a8cd247521d859c2bf5ec991a35f6b9728a858add1a1f750fd8e1d4961f35e4c6903f3d1beed3b7"
+      },
+      {
+        "Domain": "microsoftedgewelcome.microsoft.com",
+        "Value": "7631308f8c10cfa20ae8ce30b6504fc440d00538f42dcfafffedd27c3caacf5f382201605073646e17ff10e30266c3dfad728c7bc4129b9d9d4c83e71622e4fb14b26705a0065001099f2ad387426e1947"
+      },
+      {
+        "Domain": ".microsoft.com",
+        "Value": "7631302bb4e4c6179dc5e171433f14d2dbc8f70614b8f62beee1b4301b351d335cc488174eaebc8c0f43c54b"
+      },
+      {
+        "Domain": "www.bing.com",
+        "Value": "763130b40b3e401b9ff0915e69a58b1b0a6b288fea717f7925860dd3dc1e4b507db56f2b12dd7610d4fa459ea4e07c6eeff92c5fdb142eff77c32704339e67"
+      },
+      {
+        "Domain": ".microsoft.com",
+        "Value": "763130a7557efc67a40c1f5450089264409e0b3f344a5b0338399d186a855c827d8787c57b2936c41fc136cc5e7dfa017edd46847b62a9912f8fcbee4d23de89c29418eba995e374774dfa97d37050a8132c5fd973ae3c0b7d1867928be9632b40d8b3284a0f7a7589ecc10bc6"
+      },
+      {
+        "Domain": ".microsoft.com",
+        "Value": "763130c759d9408586247de394e80acca1b6d50c162436a00d63ebee772870ef416529199cc9793f07378d266c092678c63240c89598770f7ded43bdd0ef80"
+      },
+      {
+        "Domain": "www.clarity.ms",
+        "Value": "7631305acbb032c0632ab058e25d89ee8daab2196f28dc4f65477a0f55f3c438fcb63266690a7cd4168c53b70d5a88cc7c42d407f9ff94c757a8bd3344bb354357d96eb7f84f5d136fb04a721045674816"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "763130c93b0d35b42978278f5ae0326b36644d89b9028fae752fc81a0b56bc69b5d012b44a08ddd17f0e64bbe76ebfca096ff4ae"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "763130ef8779266831b5c309e8b2bc3b2dc0f00310f6eb2119266b2a76aab1623bc1b15bbc6a18a984f3cb259b98d6ccac2deaf5ec4dc0ac32120bf4f693acf60cdc0770fcd668f765cadf733f14b2e20c50e03d7a5d1e4f9fd67d3e88247824c6605d9d6f3d7ff82acdf511e7c889bdf2b56aa2ea83fd354f61a57b23d9e824cab7f13ebb093166b6c6457f987e2802"
+      },
+      {
+        "Domain": "login.microsoftonline.com",
+        "Value": "76313056a21c903bf5da2e7e1b052acf9148d28475f980ccf736718aad36365ada1f3e2c7606955fdac0c7cb9550afe7e159607b08388bbab1ce0ec221e8df0bc953c5bab9c8a6b6efa8920d85a5bcc8349be584d698fb6246136a6ff1bdb3a6a5f7fb4fb13f366ebac80621f0f69b5fae972206d57d1ec31bac4bc361b5e8c35ccfc4392731641ad7f51345a88de48c8cea11ad20ad20d19e03790c2f1007992a01b7298d450c24bb0fdff07455800e0f8edb6cc74265cf5244"
+      },
+      {
+        "Domain": "login.microsoftonline.com",
+        "Value": "763130572a2d87a324137ebc734dfcc082878112a4d6787759412d6821a8f5854428ff8c653cbd31de72801578f7d1db176492509349f85c6a6e72"
+      },
+      {
+        "Domain": ".mozilla.org",
+        "Value": "763130739f1109cdc358e9dae6f0e5364e11effb5f1c77a9a44222491f4c5a6552d8e822d744076a2435de06c63d607705db1a10c82c9c687bd4"
+      },
+      {
+        "Domain": ".mozilla.org",
+        "Value": "763130d45ca68ef66feb79166d937b20f99232090661afe55cd32762ae9d6791d8c75d1a54a5405c78a5f6cd6ab29cdd78ee3d4380fdeac7da6b"
+      },
+      {
+        "Domain": ".mozilla.org",
+        "Value": "7631306f8238591ecda6782941fb5b8b3b1774fcecd8e2bdf1b417eca90f5c0d"
+      },
+      {
+        "Domain": "www.mozilla.org",
+        "Value": "7631303ed720ee1911454c8e0f52bd697146d05beb1c9c6c8f12eab36b6137b7b3f7decef47df17429a06fec3712bce48ac3a9af122272bb8925072b8ea3fdfb34ca2a4d4c08586c3956c08e82a02b54a5ccb78e64ab5c578ecd846734317d14172f4d7c8f0c2fc7ea4c2c38830606d8e913fcfb9f91158cd619fa65504ca34dfa56dbcee182038328a9ff15df880beb9cd33fdffaed5a68db47d6712e549fbb48d1be41fa419bc10a7489760e31281ff50f18e2abbbf2b8057914ccf0ecfad7a11806692075af014f0d3c2be3f0fb431a70aaab50eaaf19e06db68401e0fb7bde9f0f0516ca9824e82ceb"
+      },
+      {
+        "Domain": "www.mozilla.org",
+        "Value": "7631302355ee38623f0413bab9ec6b277b719ce2e295e02ffa173eec6ab0165af4d0b24aafa5544b74b3aa226d505bea8cf01ba39116b8d2880179a23dad9ccc269a713791e399cabac45e837a2c6f65c909f5af600454b2d297094605dfc8"
+      },
+      {
+        "Domain": ".mozilla.org",
+        "Value": "763130ee17d548cc83a30aed210457a4abadb40fe1ac14cb2eec8b90f96abe77704ae3b50b4f10c84b7b12bf"
+      },
+      {
+        "Domain": ".c.msn.com",
+        "Value": "763130660dfebdca79eaef86655c8b942b306a9bded931ac27aa56e0bcafdf09"
+      },
+      {
+        "Domain": "ntp.msn.com",
+        "Value": "763130122e0602a28723bf3eed83cfbcec234db9c6be8e83bd9ef7d25cd8b193e65a1901326b9c13c7f7933082f0b070fa25d354b8a3ccb27d0d93ea7d49250e2dc5d6"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "7631309ed3a8e99fe98bc9ee416733c0c35541b53adcf2a349ebb876148db809"
+      },
+      {
+        "Domain": ".scorecardresearch.com",
+        "Value": "76313052c4f07a663f6b66b76ab94b7774501216b0bde1ad35be23d88a5a70396d684b8531b7b4d09d4df47f6902f69644af33dc354da4b11309a714afd8e88b"
+      },
+      {
+        "Domain": "www.dropbox.com",
+        "Value": "763130189a640e3e8373bc1e3e410a9b7b0ab997a977bca226557125a350a636cfa54f0e5c283a0d67fdf768d1b6716b2a9339eadf659e"
+      },
+      {
+        "Domain": "www.dropbox.com",
+        "Value": "76313003fa703e8015ea18ac3a5eac42ef3519f3ae5dd93d2a7cc1bc02c26664cd4748a80ba3473bcc"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "763130e7c2ae092312173cb5cfe245a1e34782ef1466d20b4761ff6baf763d3f8ae22c8c50aebc57c94e7b8e358b3f1afa2c16ce49a0085dfbd4292abe67baddd10ee1f64b8a9f8215207e9237b29013697b2e98693b0195cbd187d18adad41a7018ce611b740d2c1674b18ab51383551f80dc5173c203701d54b5b3ee50127943c63232e448919b90c2c525b007a53f60699d79849a6432999645dc61c269b294bb0daa154245dc06475630430ba35d8ce8338f83ae62691e0b2735c2c95c759acc023dfc92"
+      },
+      {
+        "Domain": "ntp.msn.com",
+        "Value": "7631304969c4c8e8631acab0746da9a8c45f45af76c7a38a6ac1554ad674549b1e232082f741810caa0c09fac61ff3600df8a4b3d45f413af350d5360f1c62760b0961ba"
+      },
+      {
+        "Domain": "obs.cheqzone.com",
+        "Value": "763130d11b165722557384"
+      },
+      {
+        "Domain": ".msn.com",
+        "Value": "7631303f2fb5a5511fc7383665df5defa6b181f103ccad12d9564e3cc37821e65e16cfbb70af498d6a5e78c9c906b52b30430139ef6cd45759a011f03f02eb9ff112f2ed8bff1a1fb29e4a0ee3f81869100b89bc91237d17d80624293a35c44391f8f3ec8136a0d798698e7944fa9d6c7cc3fee71ec9f822"
+      },
+      {
+        "Domain": "www.dropbox.com",
+        "Value": "763130a34f93d3f617b9dfa40230b565d4f3911951e0e758ac7ca30274fc1ad403520ca76037055c4e1da183367d6ccdb6e4447dd1f94955ef32f4d4eafbf5b1d8d4432291a58f55f49fd03771737c980aeedd"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631305cb3d2988bc2f1c41840a10deba6829fab2c21afc3388f35eafb226fc13f"
+      },
+      {
+        "Domain": "ntp.msn.com",
+        "Value": "763130df55a0bdd3ca8506285754490e1a1d6813337401ffb76776f5467cb585"
+      },
+      {
+        "Domain": ".msn.com",
+        "Value": "763130a939a7edb4503c64f48e36ac5aff7d6c98fad2fc"
+      },
+      {
+        "Domain": ".msn.com",
+        "Value": "763130708485582c52f46c89d79ba4b730f378fad0bcde4a20e07286929aa762dc6ede"
+      },
+      {
+        "Domain": ".dropbox.com",
+        "Value": "7631304f54dbb411638d728ab43193bef74eadfce833e60c6aa3972f474f5f1268984d057da57f9ff5a523768daac2a2b73737184ea306"
+      }
+    ],
+    "Edge-Masterkey": "f83df9297f8a88ca70d28a5e420a6238d91e29f610ccd574407d2407b26138dd",
+    "Passwords": {
+      "1": {
+        "password": "763130abc60602be1dc0884fce410db4c53ac0ddcfc579eb309d8de48d283b879b690af9a8e09369defb5527",
+        "url": "https://www.dropbox.com/login",
+        "username": "test123@gmail.com"
+      }
+    }
+  },
+  "Firefox": {
+    "Cookies": [
+      {
+        "host": ".bing.com",
+        "name": "SUID",
+        "value": "M"
+      },
+      {
+        "host": ".bing.com",
+        "name": "MUID",
+        "value": "1EA82EAC616161661FBB3E5360B36046"
+      },
+      {
+        "host": "www.bing.com",
+        "name": "MUIDB",
+        "value": "1EA82EAC616161661FBB3E5360B36046"
+      },
+      {
+        "host": ".bing.com",
+        "name": "_EDGE_V",
+        "value": "1"
+      },
+      {
+        "host": ".bing.com",
+        "name": "SRCHD",
+        "value": "AF=NOFORM"
+      },
+      {
+        "host": ".bing.com",
+        "name": "SRCHUID",
+        "value": "V=2&GUID=818A92EA029D4EC3B19560D5AC026917&dmnchg=1"
+      },
+      {
+        "host": ".bing.com",
+        "name": "SRCHUSR",
+        "value": "DOB=20211130&T=1638262622000"
+      },
+      {
+        "host": "login.microsoftonline.com",
+        "name": "buid",
+        "value": "0.AQsAMe_N-B6jSkuT5F9XHpElWnmtoZ62_ZpPi8MrcPluNMcBAAA.AQABAAEAAAD--DLA3VO7QrddgJg7WevrSMpGYkYHmGFu1vkFfCSQki4t0ldfTCCOZq5m3WMnsgQMwwzw3Mit57OLmij8Dxhv4x0lKYpwDBsHMj5Dn5_6qyIZQ0YmtuzFP9382ZdamBIgAA"
+      },
+      {
+        "host": "login.microsoftonline.com",
+        "name": "fpc",
+        "value": "Amj0AC0-0jxHvysl_KTL_n6CeMQLAQAAAF_eN9kOAAAA"
+      },
+      {
+        "host": "www2.bing.com",
+        "name": "MUIDB",
+        "value": "1EA82EAC616161661FBB3E5360B36046"
+      },
+      {
+        "host": ".stackoverflow.com",
+        "name": "prov",
+        "value": "16b896ad-211f-ea18-a8e8-0de5a7d2011f"
+      },
+      {
+        "host": ".ti.com",
+        "name": "ak_bmsc",
+        "value": "6A123C48402F9AB44976CE0EA21F801F~000000000000000000000000000000~YAAQt7RmUjDNcSx9AQAAfdIccA1L4H8b5lJegkpMejhNTKQhdS3WQiAafFyAzpRmL+mywgn7aAkeAM7z2SwO5Kgcdh/9SZ1BfY/90HNjtyi/tMwuy0le6TG98A4k67G1msiHePNevX2ac6KeL1dvNh7mZNVS1mZmQPyf9CfDSojTtkcvS0B/5xfdQWcDlnWHtGbfqyoi0UuK8Q630VEJ3Hl8NkoRYgany5SbI6oGcS2YNRvc5s8DIzUpFQJ41fPCJchmgzGfcxf2GQS5Hpw0BTkjyjn7L/cn3cmtMFmywlFqK2gvNMQ4+15BwWfHkW05C4oyLx+WY1DwfHeE6FH+ZKLztgjq4UPKV7QT6KSEtITPVSvxcUoeAHT0jg=="
+      },
+      {
+        "host": "e2e.ti.com",
+        "name": "AWSALB",
+        "value": "MXtlJNC1qf+KbTbNqyU6VwM+G5cO9gSMVzCJS/4ygrj1FGHMJAec2vbL9S94bqH4S2SwyciSXNNx1JtrJXRw9UFzWK2w15L9AIZAl6B6yHedZONSMxl5yaKzkrC4"
+      },
+      {
+        "host": "e2e.ti.com",
+        "name": "AWSALBCORS",
+        "value": "MXtlJNC1qf+KbTbNqyU6VwM+G5cO9gSMVzCJS/4ygrj1FGHMJAec2vbL9S94bqH4S2SwyciSXNNx1JtrJXRw9UFzWK2w15L9AIZAl6B6yHedZONSMxl5yaKzkrC4"
+      },
+      {
+        "host": ".ti.com",
+        "name": "bm_sv",
+        "value": "59EF256E61F96E93A19C2F63ABDC5532~pZP6G0CcCY9PUzGB1JZqRnTSqVHY3eUe0JNvi9Bufd5aNk5AKiqT9lJuB4QtP5BFdELP3Fyj6bA45yFIqersCP/2n4Ol+baPE7FiPhUviCXjeQ8hwWsLUJkMDcoVDrK6DdsLe46UtJi9IVlts01a3g=="
+      },
+      {
+        "host": "www.codeguru.com",
+        "name": "advanced_ads_page_impressions",
+        "value": "1"
+      },
+      {
+        "host": "www.codeguru.com",
+        "name": "advanced_ads_browser_width",
+        "value": "1903"
+      },
+      {
+        "host": "lastpass.com",
+        "name": "lp_anonymousid",
+        "value": "69b26037-6000-4e07-bd8b-50d3d7a96235"
+      },
+      {
+        "host": ".stackoverflow.com",
+        "name": "OptanonAlertBoxClosed",
+        "value": "2021-11-30T09:39:20.453Z"
+      },
+      {
+        "host": ".stackoverflow.com",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Tue+Nov+30+2021+01%3A39%3A20+GMT-0800+(Pacific+Standard+Time)&version=6.10.0&hosts=&landingPath=NotLandingPage&groups=C0003%3A1%2CC0004%3A1%2CC0002%3A1%2CC0001%3A1"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "anspress_session",
+        "value": "a549f2fc7088b6088506a70caf7ec36b"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "cookielawinfo-checkbox-necessary",
+        "value": "yes"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "cookielawinfo-checkbox-functional",
+        "value": "no"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "cookielawinfo-checkbox-performance",
+        "value": "no"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "cookielawinfo-checkbox-analytics",
+        "value": "no"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "cookielawinfo-checkbox-advertisement",
+        "value": "no"
+      },
+      {
+        "host": "johnnn.tech",
+        "name": "cookielawinfo-checkbox-others",
+        "value": "no"
+      },
+      {
+        "host": "www.google.com",
+        "name": "_GRECAPTCHA",
+        "value": "09ABBMTcO5XeuN5YP55iENqO_shqODhtVcF4EHld7Z9KkOxeVkbGotKr9WYrilHiU8d18Ol3-3OuqOJ2KPqIl0kB8"
+      },
+      {
+        "host": ".ired.team",
+        "name": "amp_fef1e8",
+        "value": "2ff1f860-f09a-4f1a-94ef-47be0c3de9d7R...1flo3h0f2.1flo3h1d8.1.1.2"
+      },
+      {
+        "host": ".memberful.com",
+        "name": "__cf_bm",
+        "value": "qamW50HRKRdlZEazv0ASz0W1fpi42MW0hrybIByZ9KQ-1638265966-0-AXkshTGuVXi4k70DxP2HLzmUDbDwETM/sgjeehK7QzViulrcNdBO9GnwiDxk+4IMnHjhcfz+YToe3X8eA0vmYcY="
+      },
+      {
+        "host": "m.stripe.com",
+        "name": "m",
+        "value": "00174da8-ecef-4c72-ad5e-f504701df008fd9cb4"
+      },
+      {
+        "host": ".marketplace.visualstudio.com",
+        "name": "Gallery-Service-UserIdentifier",
+        "value": "65332362-8dc7-4649-9b71-8d36a1083201"
+      },
+      {
+        "host": ".visualstudio.com",
+        "name": "MSCC",
+        "value": "NR"
+      },
+      {
+        "host": "marketplace.visualstudio.com",
+        "name": "Market_SelectedTab",
+        "value": "vscode"
+      },
+      {
+        "host": ".superuser.com",
+        "name": "prov",
+        "value": "cabf6dc8-fe95-fbd2-2f22-2173297cb6a6"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/wincred/nf-wincred-creduipromptforcredentialsa"
+      },
+      {
+        "host": "www.oreilly.com",
+        "name": "BrowserCookie",
+        "value": "b326cdc0-5992-46d4-9560-787afe1776ca"
+      },
+      {
+        "host": "www.oreilly.com",
+        "name": "csrftoken",
+        "value": "IZSDcqWF2f5lytdxmhSOHi3ympkLI2chK5Lmj3ZeHBHyG2VjPqbui7kqoKuDI5W1"
+      },
+      {
+        "host": ".codeproject.com",
+        "name": "vk",
+        "value": "fc48922c-d35b-4844-91c1-05517256ba8c"
+      },
+      {
+        "host": "groups.google.com",
+        "name": "OTZ",
+        "value": "6269347_88_88_104280_84_446940"
+      },
+      {
+        "host": "social.technet.microsoft.com",
+        "name": ".ASPXANONYMOUS",
+        "value": "of-HynAG2QEkAAAAZDE1YTZlNDUtODljYy00MDhlLWEzNWQtNzI5Y2E0YmMyYmIxJczjIqABf2hQRYfgQcgPl8EMyf6ODC-kgikTOdcVb8E1"
+      },
+      {
+        "host": "stackoverflow.com",
+        "name": "notice-ssb",
+        "value": "1%3B1638464952006"
+      },
+      {
+        "host": ".visualstudio.com",
+        "name": "mbox",
+        "value": "session#866a0366d89a41d7816708b78c2f2024#1638466952"
+      },
+      {
+        "host": ".geeksforgeeks.org",
+        "name": "gfg_nluid",
+        "value": "59476b1629079951b36f4c91f85852e3"
+      },
+      {
+        "host": "www.experts-exchange.com",
+        "name": "AWSALB",
+        "value": "VIDf2qNWjsiEAwKrKShX9RRnLevNeHU6EaWMzVIHfm4dGD9ZuNdrAzG8EEOgvXNTHyzx7cytEe1JrOW+C1vG5U5xJ0UOXwNxCLlDAZ5VY65OwlTrVfaDUeVrbmDM"
+      },
+      {
+        "host": "www.experts-exchange.com",
+        "name": "AWSALBCORS",
+        "value": "VIDf2qNWjsiEAwKrKShX9RRnLevNeHU6EaWMzVIHfm4dGD9ZuNdrAzG8EEOgvXNTHyzx7cytEe1JrOW+C1vG5U5xJ0UOXwNxCLlDAZ5VY65OwlTrVfaDUeVrbmDM"
+      },
+      {
+        "host": "www.experts-exchange.com",
+        "name": "dd_cookie_test_2ae127bc-e0e3-429f-a69d-558f2838e0be",
+        "value": "test"
+      },
+      {
+        "host": "www.experts-exchange.com",
+        "name": "_dd_s",
+        "value": "rum=0&expire=1638467393510"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/windows/desktop/api/lmwksta/nf-lmwksta-netwkstagetinfo"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/lmwksta/nf-lmwksta-netwkstagetinfo"
+      },
+      {
+        "host": "accounts.google.com",
+        "name": "__Host-GAPS",
+        "value": "1:OYun2hZItQM2pr-ddLsCzMnsNfL05A:wPHAsytnHjZ1FCdl"
+      },
+      {
+        "host": "social.msdn.microsoft.com",
+        "name": ".ASPXANONYMOUS",
+        "value": "m4ZhqHUG2QEkAAAAYTRkYmI4NWItMGE4Zi00Y2VmLWI3MGMtYzg0NjgyYjRkZDc3UcJJgd0XKVmz84etM09PpkpcFhzVd4T2FZi37am5CCQ1"
+      },
+      {
+        "host": "5a3318f6fcc34e41bf99d46845944055.svc.dynamics.com",
+        "name": "79f08280-5c63-4331-b04d-fb6f39afda51",
+        "value": "B_ViENcsTmXsYvYFn1jTeA0krNpothc3bUKOZmut_K8"
+      },
+      {
+        "host": "visualstudio.microsoft.com",
+        "name": "msd365mkttr",
+        "value": "Me_fPfZ0tFB28Jim44jPiKfUU3dTupmJIfkiJyyR"
+      },
+      {
+        "host": ".github.com",
+        "name": "_octo",
+        "value": "GH1.1.99586498.1638605263"
+      },
+      {
+        "host": "gitlab.com",
+        "name": "experimentation_subject_id",
+        "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqaGlPRFl6TjJRd0xXVTVaVFF0TkRjNE55MWlaVGM0TFdVeVpUSTVOVE5oTUdFd01pST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--49b402671d82a5b23cf141a8b09147d1769dbe07"
+      },
+      {
+        "host": "gitlab.com",
+        "name": "_gitlab_session",
+        "value": "ed6ba90471e87211dba11cde739031d8"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "guest_id_marketing",
+        "value": "v1%3A163861330538560075"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "guest_id_ads",
+        "value": "v1%3A163861330538560075"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "personalization_id",
+        "value": "'v1_Q4scDFQTRBdlZtqFubfrcw=='"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "guest_id",
+        "value": "v1%3A163861330538560075"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "ct0",
+        "value": "2bf0856dac3a2e126138845cfaff64b0"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "gt",
+        "value": "1467076658167525380"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "att",
+        "value": "1-XWUmZ4AImd3PHSwaYboxtWBKnAzlqQVMgktW31Gh"
+      },
+      {
+        "host": "github.com",
+        "name": "_device_id",
+        "value": "a6b2728623437eee26886453c4fed749"
+      },
+      {
+        "host": ".github.com",
+        "name": "logged_in",
+        "value": "yes"
+      },
+      {
+        "host": ".github.com",
+        "name": "dotcom_user",
+        "value": "tomp332"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezosuigeneris-0",
+        "value": "536a546a0a4884a43825f1b4a5c629ca"
+      },
+      {
+        "host": "cpp.hotexamples.com",
+        "name": "ezux_lpl_110793",
+        "value": "1638647462480|5fad26ef-5fab-40c8-61c0-726baec344f7|true"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/cpp/build/adding-references-in-visual-cpp-projects"
+      },
+      {
+        "host": "gist.github.com",
+        "name": "gist_user_session",
+        "value": "8ZWEeNyl-DO2yYuCliur7CryMkuajo1tNei-YyK7noTbIDAm"
+      },
+      {
+        "host": "gist.github.com",
+        "name": "__Host-gist_user_session_same_site",
+        "value": "8ZWEeNyl-DO2yYuCliur7CryMkuajo1tNei-YyK7noTbIDAm"
+      },
+      {
+        "host": "gist.github.com",
+        "name": "has_recent_activity",
+        "value": "1"
+      },
+      {
+        "host": "social.msdn.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "d245c59a-a911-4cbc-b76b-b0cf6ae8b7a9"
+      },
+      {
+        "host": "social.msdn.microsoft.com",
+        "name": "ai_session",
+        "value": "9wkz9v5Woxnq9x2zKQPeTB|1638730687312|1638730687312"
+      },
+      {
+        "host": "loglogin.lastpass.com",
+        "name": "PHPSESSID",
+        "value": "lovu99svjfm58lr27afgruirt9e"
+      },
+      {
+        "host": "cboard.cprogramming.com",
+        "name": "bb_lastvisit",
+        "value": "1638731816"
+      },
+      {
+        "host": "cboard.cprogramming.com",
+        "name": "bb_lastactivity",
+        "value": "0"
+      },
+      {
+        "host": ".www.codegrepper.com",
+        "name": "G_ENABLED_IDPS",
+        "value": "google"
+      },
+      {
+        "host": "community.adobe.com",
+        "name": "LithiumCookiesAccepted",
+        "value": "0"
+      },
+      {
+        "host": ".adobe.com",
+        "name": "sat_domain",
+        "value": "A"
+      },
+      {
+        "host": "community.adobe.com",
+        "name": "VISITOR_BEACON",
+        "value": "~2REFoGH968bDSGd89~I62HC6eGFPhGOa_qtNLS93XH2HNh4Q0fdojlgJagopupJ7VuBqZNBnWJxxTf3tLF2nfyi6s3YPsM06eBtM9mdw.."
+      },
+      {
+        "host": ".adobe.com",
+        "name": "sat_domain",
+        "value": "A"
+      },
+      {
+        "host": ".adobe.com",
+        "name": "s_nr",
+        "value": "1638731988487-New"
+      },
+      {
+        "host": "community.adobe.com",
+        "name": "community.language",
+        "value": "en"
+      },
+      {
+        "host": ".adobe.com",
+        "name": "fg",
+        "value": "V77SPBWGFLE5ATECFAQBRHQANM======"
+      },
+      {
+        "host": ".adobe.com",
+        "name": "feds_privacy_consent",
+        "value": "{'hasUserProvidedConsent':true,'userHasCustomConsent':false}"
+      },
+      {
+        "host": ".adobe.com",
+        "name": "OptanonChoice",
+        "value": "1"
+      },
+      {
+        "host": "community.adobe.com",
+        "name": "AWSALB",
+        "value": "6sX4yebdbddSpzlG3vKgrnBLm1buTM7s9BkQkXq20nbXS3vPVvI9SXECBBMB0/vqqVSYpztY77yxKU1ZSV3mEpawXLbkNEKXRk7xW9ULLWWy7ydGUea8JJ+B688/"
+      },
+      {
+        "host": "community.adobe.com",
+        "name": "AWSALBCORS",
+        "value": "6sX4yebdbddSpzlG3vKgrnBLm1buTM7s9BkQkXq20nbXS3vPVvI9SXECBBMB0/vqqVSYpztY77yxKU1ZSV3mEpawXLbkNEKXRk7xW9ULLWWy7ydGUea8JJ+B688/"
+      },
+      {
+        "host": "community.adobe.com",
+        "name": "LithiumVisitor",
+        "value": "~2xYlzegiIXPIZ2UTy~Q_V17vqX3TCSLAOVUetYGZgR9klea4Dl7fyE5G4jgZfd8CcIp-yV1KywXik6FZW2CPGJd9cSdDUp0YQitRdtvQ.."
+      },
+      {
+        "host": ".adobe.com",
+        "name": "gpv",
+        "value": "community.adobe.com:t5:indesign:conversationPage"
+      },
+      {
+        "host": ".adobe.com",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Sun+Dec+05+2021+11%3A20%3A01+GMT-0800+(Pacific+Standard+Time)&version=6.9.0&hosts=&consentId=5f387de0-dac3-4efc-ad5f-79e0c0acb642&interactionCount=1&landingPath=https%3A%2F%2Fcommunity.adobe.com%2Ft5%2Findesign-discussions%2Fconvert-an-image-file-to-base64-or-other-string-value%2Fm-p%2F3769424&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1"
+      },
+      {
+        "host": ".adobe.com",
+        "name": "s_vs",
+        "value": "1"
+      },
+      {
+        "host": ".adobe.com",
+        "name": "s_cpc",
+        "value": "1"
+      },
+      {
+        "host": ".adobe.com",
+        "name": "AMCV_9E1005A551ED61CA0A490D45%40AdobeOrg",
+        "value": "870038026%7CMCMID%7C44678617538589927245338922777180881512%7CMCAID%7CNONE%7CMCOPTOUT-1638739201s%7CNONE%7CvVersion%7C5.0.0"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/cpp/error-messages/tool-errors/linker-tools-error-lnk1120"
+      },
+      {
+        "host": ".microsoft.com",
+        "name": "mbox",
+        "value": "session#9ac4d146f7154516a204e194fac89a93#1639145169|PC#9ac4d146f7154516a204e194fac89a93.37_0#1673330009"
+      },
+      {
+        "host": ".visualstudio.com",
+        "name": "VstsSession",
+        "value": "%7B%22PersistentSessionId%22%3A%227130a805-f5c4-4981-9c2b-d5325bf1d974%22%2C%22PendingAuthenticationSessionId%22%3A%22dd890bfa-d4a8-4f0e-96e1-a2b5269bcc50%22%2C%22CurrentAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22SignInState%22%3A%7B%22app.vssps.visualstudio.com%22%3A%7B%22LastSignInTick%22%3A637747401111267381%2C%22SignInCount%22%3A1%7D%7D%7D"
+      },
+      {
+        "host": "visualstudio.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "5fd28488-89e3-49a8-8cca-f1517579cb60"
+      },
+      {
+        "host": "visualstudio.microsoft.com",
+        "name": "ai_session",
+        "value": "wUTnp5LEYoSzpETOxpHJkj|1639143308072|1639143313261"
+      },
+      {
+        "host": ".codeproject.com",
+        "name": "lpk",
+        "value": "9rkV1ir5U48bUhcZl15DAWUERih%2bI7%2bfyeWrwjj8zTO7XaMUrKJ8DY3Xr9ydlz0LnYue3TZqcBXmoF7aly155sAjm8vWQJr7F6FlmSTru3E17NfuvrYqgD3gRSE3%2fdme"
+      },
+      {
+        "host": ".codeproject.com",
+        "name": "mguid",
+        "value": "d3ebc9b7-cefd-4934-88c7-242706fc10b8"
+      },
+      {
+        "host": "pollserver.lastpass.com",
+        "name": "PHPSESSID",
+        "value": "lovu99svjfm58lr27afgruirt9e"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/processthreadsapi/nf-processthreadsapi-getpriorityclass"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/ProcThread/process-creation-flags"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/breadcrumb/toc.json"
+      },
+      {
+        "host": ".serverfault.com",
+        "name": "prov",
+        "value": "31d0a8ef-6ede-149e-6c8e-508ebc74fcc4"
+      },
+      {
+        "host": "www.itprotoday.com",
+        "name": "penton_gdpr_cookie",
+        "value": "1"
+      },
+      {
+        "host": "talk.hyvor.com",
+        "name": "talksess",
+        "value": "TVENucrSsOXOlLxSNXtouHNwpZj8uHDrmKBpLbD6"
+      },
+      {
+        "host": "adamtheautomator.com",
+        "name": "__adblocker",
+        "value": "true"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/start-sleep"
+      },
+      {
+        "host": "social.technet.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "ae0bdef1-5c87-4032-a59d-9895dfab6c57"
+      },
+      {
+        "host": "social.technet.microsoft.com",
+        "name": "ai_session",
+        "value": "szpiQkfWM8JTvr17/EYRZ0|1639148668579|1639149794667"
+      },
+      {
+        "host": ".www.pluralsight.com",
+        "name": "__cf_bm",
+        "value": "jzxcHWYiJ..Ngw_hWm8W_rOUY5BxKdrflH2ZwHY_Dpo-1639149866-0-AWd0o1Zyxva40Alm+0BFPA1UZtZwz0KGBiv93YRuC0hMmPShJqchD6LkEYIgw7vVnIbbt4djKFqoXXmHp7HK0sU="
+      },
+      {
+        "host": ".pluralsight.com",
+        "name": "ps_trk",
+        "value": "1"
+      },
+      {
+        "host": ".pluralsight.com",
+        "name": "fv",
+        "value": "1"
+      },
+      {
+        "host": "www.pluralsight.com",
+        "name": "drift_ab",
+        "value": "B"
+      },
+      {
+        "host": "www.pluralsight.com",
+        "name": "ps_visNum",
+        "value": "1"
+      },
+      {
+        "host": "www.pluralsight.com",
+        "name": "ps_infl",
+        "value": "1"
+      },
+      {
+        "host": ".pluralsight.com",
+        "name": "profileScores",
+        "value": "0|0|0|0|0|0|1|0"
+      },
+      {
+        "host": ".pluralsight.com",
+        "name": "AMCV_70D658CC558978FF7F000101%40AdobeOrg",
+        "value": "-1124106680%7CMCIDTS%7C18972%7CMCMID%7C72712435699455409660356090601536399032%7CMCAID%7CNONE%7CMCOPTOUT-1639157069s%7CNONE%7CvVersion%7C5.2.0"
+      },
+      {
+        "host": ".pluralsight.com",
+        "name": "mbox",
+        "value": "session#c482b70952a64178b580033c36a7801e#1639151730"
+      },
+      {
+        "host": "forums.codeguru.com",
+        "name": "vb_lastvisit",
+        "value": "1638464653"
+      },
+      {
+        "host": "forums.codeguru.com",
+        "name": "vb_lastactivity",
+        "value": "0"
+      },
+      {
+        "host": "docs.w3cub.com",
+        "name": "tp",
+        "value": "1"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/breadcrumb/toc.json"
+      },
+      {
+        "host": "lastpass.com",
+        "name": "PHPSESSID",
+        "value": "lovu99svjfm58lr27afgruirt9e"
+      },
+      {
+        "host": ".lastpass.com",
+        "name": "ak_bmsc",
+        "value": "E408FF637DEBD997DF93FB08B23F9508~000000000000000000000000000000~YAAQs1CMTw2hUC59AQAAkpxFqA6RFbn9um/Thn8bWvUXU96+cH4FlQVwMdd3t1+fF4r+zBXVK6AICtS4wxbrrnxyqkLYUg2/Ze7CLEXPG7BEVan1/ho7sURUoZ8uOtcDE6jKhNBcIMVWKqjeuZJM5tmXV9QJHzUuc6QyYYt8LZWvb/EUd5fWItVWDNrxFJRgWEfuGuQlWhWXOUKd2yTb3VXvUhg3xyJbLDmzzavsGpLc5i/zwuqgv29VD2jA1LSscb8b5i28pMaFxfHCOlPeD8QrFVtep7cG/93Eyj5TIjv/yZMb3dn/rVEMul/1gOEIbBM+SG+lMvUWzB5thf0Ndxn7UqgMSMp2QWnnztrqdi+8CzMHWAC1yt7kqBcJKPKLENiyzsv6CbimZ3A="
+      },
+      {
+        "host": ".lastpass.com",
+        "name": "lang",
+        "value": "en_US"
+      },
+      {
+        "host": ".lastpass.com",
+        "name": "bm_sv",
+        "value": "51D486059820DDF42561739B5DE5D041~iGDwoJ+p2HFKvbdALvUtaulC8o1PAwQgzOaNz0QKrjxBUnuJCCHcNrAJYOOVROiuP2Xma4e6CnqKfh43Q+RdpgvWCUFYz4+oTjhkPNWcvlcJeGTS5kHrER3c3TV4lv8yzPZt+GxdspWGhbOoj0kRwFa4d2UrmNXGvuIQc+P72kM="
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/visualstudio/debugger/how-to-set-debug-and-release-configurations"
+      },
+      {
+        "host": "www.geeksforgeeks.org",
+        "name": "guest",
+        "value": "yes"
+      },
+      {
+        "host": "realpython.com",
+        "name": "origin",
+        "value": "ref-google"
+      },
+      {
+        "host": "realpython.com",
+        "name": "csrftoken",
+        "value": "hScI1uR1JI4IYL9LMcj7aOXfSMZwgofYlFbRB4Olq4yUF6GVqcUjcpep8BGak15g"
+      },
+      {
+        "host": ".fonts.net",
+        "name": "__cf_bm",
+        "value": "NJw56JbxO7lAplKRj5YUqvZgbydI26H6ex2agOMqJ5E-1639233442-0-AcDWdoc8Zw1WR3XmFTHLrFd0HrE+OmCHOKwgoM1qpbjnOqXopdvlvZ2RqcG6dJ5fyZKHZeKM+gqKadmTlxHESv4="
+      },
+      {
+        "host": ".kite.com",
+        "name": "mp_fb6b9b336122a8b29c60f4c28dab6d03_mixpanel",
+        "value": "%7B%22distinct_id%22%3A%20%2217da8beec5e29d-00b262b66a7b9e8-4c3e207f-1fa400-17da8beec5faec%22%2C%22%24device_id%22%3A%20%2217da8beec5e29d-00b262b66a7b9e8-4c3e207f-1fa400-17da8beec5faec%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%7D"
+      },
+      {
+        "host": ".kite.com",
+        "name": "_ga",
+        "value": "GA1.2.1642492683.1639213636"
+      },
+      {
+        "host": ".kite.com",
+        "name": "_gid",
+        "value": "GA1.2.617858247.1639213636"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezoadgid_110793",
+        "value": "-1"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezoref_110793",
+        "value": "google.com"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezosuibasgeneris-0",
+        "value": "96430b4f40e72c4e80c3c9c3c2467a2e"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezoab_110793",
+        "value": "mod96-c"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "active_template::110793",
+        "value": "pub_site.1639234647"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezopvc_110793",
+        "value": "1"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezepvv",
+        "value": "297"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezovid_110793",
+        "value": "1236920447"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "lp_110793",
+        "value": "https://cpp.hotexamples.com/examples/-/-/xop/cpp-xop-function-examples.html"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezovuuidtime_110793",
+        "value": "1639234648"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezovuuid_110793",
+        "value": "dd28e634-f8e9-4f04-56fa-9890de9bd9cd"
+      },
+      {
+        "host": "cpp.hotexamples.com",
+        "name": "ezds",
+        "value": "ffid%3D1%2Cw%3D1920%2Ch%3D1080"
+      },
+      {
+        "host": "cpp.hotexamples.com",
+        "name": "ezohw",
+        "value": "w%3D1920%2Ch%3D927"
+      },
+      {
+        "host": "www.unknowncheats.me",
+        "name": "bblastvisit",
+        "value": "1639234672"
+      },
+      {
+        "host": "www.unknowncheats.me",
+        "name": "bblastactivity",
+        "value": "0"
+      },
+      {
+        "host": ".asciitable.com",
+        "name": "ezoadgid_61065",
+        "value": "-1"
+      },
+      {
+        "host": ".asciitable.com",
+        "name": "ezoref_61065",
+        "value": "google.com"
+      },
+      {
+        "host": ".asciitable.com",
+        "name": "ezosuibasgeneris-0",
+        "value": "560f717940176cef803eecc65fd35492"
+      },
+      {
+        "host": ".asciitable.com",
+        "name": "ezoab_61065",
+        "value": "mod1"
+      },
+      {
+        "host": ".asciitable.com",
+        "name": "active_template::61065",
+        "value": "pub_site.1639237686"
+      },
+      {
+        "host": ".asciitable.com",
+        "name": "ezopvc_61065",
+        "value": "1"
+      },
+      {
+        "host": ".asciitable.com",
+        "name": "ezepvv",
+        "value": "296"
+      },
+      {
+        "host": ".asciitable.com",
+        "name": "ezovid_61065",
+        "value": "703829548"
+      },
+      {
+        "host": ".asciitable.com",
+        "name": "lp_61065",
+        "value": "https://www.asciitable.com/"
+      },
+      {
+        "host": ".asciitable.com",
+        "name": "ezovuuidtime_61065",
+        "value": "1639237686"
+      },
+      {
+        "host": ".asciitable.com",
+        "name": "ezovuuid_61065",
+        "value": "7710c03d-e86a-4b47-7935-a6c22f6d4b15"
+      },
+      {
+        "host": "www.asciitable.com",
+        "name": "ezds",
+        "value": "ffid%3D1%2Cw%3D1920%2Ch%3D1080"
+      },
+      {
+        "host": "www.asciitable.com",
+        "name": "ezohw",
+        "value": "w%3D1920%2Ch%3D927"
+      },
+      {
+        "host": "www.asciitable.com",
+        "name": "ezux_lpl_61065",
+        "value": "1639237687114|6455a4c3-dc55-4292-5f1d-9c114b6c403c|true"
+      },
+      {
+        "host": ".geeksforgeeks.org",
+        "name": "AKA_A2",
+        "value": "A"
+      },
+      {
+        "host": ".dev.to",
+        "name": "_Devto_Forem_Session",
+        "value": "5d75b84d456836f8b60d782498181aaf"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/visualstudio/ide/specifying-custom-build-events-in-visual-studio"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "8753c113-dea8-4f41-b1f9-a54bcea3a7ef"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "ai_session",
+        "value": "k4NEcQ4UKqMBRMgKqKyGyo|1639248026668|1639248026668"
+      },
+      {
+        "host": "github.com",
+        "name": "user_session",
+        "value": "yT_g75Uhlj7SRPJWirD79YWaZ7Sr1KLQobkeUftZlsTak5Zf"
+      },
+      {
+        "host": "github.com",
+        "name": "__Host-user_session_same_site",
+        "value": "yT_g75Uhlj7SRPJWirD79YWaZ7Sr1KLQobkeUftZlsTak5Zf"
+      },
+      {
+        "host": "pollserver.lastpass.com",
+        "name": "ADRUM_BT",
+        "value": "R%3A0%7Cg%3A162f8748-7fef-4fdb-9aca-7b34b3331388897%7Cn%3Acitrix_c88ca7a6-705e-4cde-9391-83bb80917e45%7Ci%3A307364%7Ce%3A8"
+      },
+      {
+        "host": ".lastpass.com",
+        "name": "bm_sz",
+        "value": "C430A3686658BE083BE6A8E54089F5C9~YAAQNBdlX3BFcrR9AQAAd3cutQ5V6F/NSN3XdoNiQ+FFTKhiterv9CKM1f5TB2iMQR0+FO2I6ukUP0Yjf86stKXWQD5ZwQ25YLS5m1XOrN9Deoxv16P4HGu0VzNU72/J3LiNdNNLQf+uTJsRtVdwyDQ7b8roBF9uCC3RnmrXy7vfjBNq2OjTNHp0xh/M6Yp6dcAtsLyNq8UCzRgbgPy3GS9UhStTQl7cV9xIZRQxA2uASk/yUv5+YP7gWabDhSZwXgwj07m9kTXKxa3srFwnPAh8sDVJbrzLYfLkKNpOob/TUSu3W7iBqub6cFeNQ1GRoIDhT0nhpRVuSjgjpA==~3619125~3225397"
+      },
+      {
+        "host": ".gitbook.com",
+        "name": "__session",
+        "value": "2ff1f860-f09a-4f1a-94ef-47be0c3de9d7R"
+      },
+      {
+        "host": "book.hacktricks.xyz",
+        "name": "__gitbook_cookie_granted",
+        "value": "yes"
+      },
+      {
+        "host": ".hacktricks.xyz",
+        "name": "amp_fef1e8",
+        "value": "2ff1f860-f09a-4f1a-94ef-47be0c3de9d7R...1fmqmtv0g.1fmqmv125.2.1.3"
+      },
+      {
+        "host": ".disqus.com",
+        "name": "disqus_unique",
+        "value": "8neag3a3mbleng"
+      },
+      {
+        "host": "disqus.com",
+        "name": "__jid",
+        "value": "8neame1324rk9o"
+      },
+      {
+        "host": ".disqus.com",
+        "name": "G_ENABLED_IDPS",
+        "value": "google"
+      },
+      {
+        "host": "www.computerperformance.co.uk",
+        "name": "ppwp_wp_session",
+        "value": "306824e7309c96b4c230e18d5b52923d%7C%7C1639429021%7C%7C1639428661"
+      },
+      {
+        "host": ".google.com",
+        "name": "NID",
+        "value": "511=FM-fTZi5uexhtkyKUQVk2dpKqU2LvIGVwvbCAKOpcoqUC3Ke-ftpygVwHyCZoBRZ_gxzLp_nQS7MLdfaYS7Le3yZapkRfu4EUQIQ-r6OFYwsofSTB_UVTJUmQk_VuEoYy1MsKtDEfZCYTobYiVlB1SefZlmagD6ZTKXkg3MREi9VREsaTRkJbgDToraPdVVY"
+      },
+      {
+        "host": "developers.google.com",
+        "name": "_ga_devsite",
+        "value": "GA1.3.2990185944.1639428184"
+      },
+      {
+        "host": "forums.hak5.org",
+        "name": "ips4_hasJS",
+        "value": "true"
+      },
+      {
+        "host": ".medium.com",
+        "name": "uid",
+        "value": "lo_62556e3aad41"
+      },
+      {
+        "host": ".medium.com",
+        "name": "sid",
+        "value": "1%3AyaiSDAKTu4V6w5V2uQxg5nm6yni3aX8oghFwskQBMpxZWWdk5SN4K0%2Ft1onIdI5O"
+      },
+      {
+        "host": ".medium.com",
+        "name": "optimizelyEndUserId",
+        "value": "lo_62556e3aad41"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "uid",
+        "value": "lo_62556e3aad41"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "sid",
+        "value": "1:xhJg1plZ6VB1+ktdF0FLIdV/JvkO20a6lS3vSOw3EHDxl1LxXg8nc6zz6jff7Y5Ev+8Dzm8b6I1MyG4WYBU7Zg=="
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "optimizelyEndUserId",
+        "value": "lo_62556e3aad41"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_a6e0d23b-a521-4519-960f-69114d8a3708",
+        "value": "test"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_f8c32cf3-2f2b-43d9-b71b-ad28e9924c09",
+        "value": "test"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_85833249-c857-4083-85ab-21643032f523",
+        "value": "test"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_e95f309e-40dc-448f-a94f-ca95ac55bddf",
+        "value": "test"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_1341a5da-96cc-47e4-b3c6-37a9e873b16e",
+        "value": "test"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_4612604e-2fa4-4aac-8c08-320a71495785",
+        "value": "test"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "dd_cookie_test_2ef1f872-5f76-43d9-80f3-c69fe8b73751",
+        "value": "test"
+      },
+      {
+        "host": ".vimeo.com",
+        "name": "vuid",
+        "value": "pl1603919137.181574518"
+      },
+      {
+        "host": "systemweakness.com",
+        "name": "_dd_s",
+        "value": "rum=0&expire=1639429145583"
+      },
+      {
+        "host": "forums.hak5.org",
+        "name": "AWSALB",
+        "value": "+WSrP71xAaljhBtyvYOR71A2Dh+Y0Qq8bbrxgjF17vCwf1HhbVMVGW0F8anxEaByPSeho3rsnkg5NmRZxU5frUvyzg0KMUdJf48u+P8MWmRH9zwtkt7uQiaPBGWV"
+      },
+      {
+        "host": "forums.hak5.org",
+        "name": "AWSALBCORS",
+        "value": "+WSrP71xAaljhBtyvYOR71A2Dh+Y0Qq8bbrxgjF17vCwf1HhbVMVGW0F8anxEaByPSeho3rsnkg5NmRZxU5frUvyzg0KMUdJf48u+P8MWmRH9zwtkt7uQiaPBGWV"
+      },
+      {
+        "host": "devblogs.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "24b51d17-b42a-43b8-b655-6c974cc8eaab"
+      },
+      {
+        "host": "devblogs.microsoft.com",
+        "name": "ai_session",
+        "value": "LGezf21pYTkA8H/VJiJIh7|1639429476640|1639429476640"
+      },
+      {
+        "host": ".microsoft.com",
+        "name": "MSCC",
+        "value": "NR"
+      },
+      {
+        "host": "devblogs.microsoft.com",
+        "name": "simaCookie",
+        "value": "set"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_8707337c-8785-4037-b9bb-0c6b868b9663",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_ce2d584a-facd-4390-977b-250fa1e758d5",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_06a8d695-6438-4469-af40-647d7fee4a7d",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_e60e93c4-c5c5-4b33-9b0a-a8147d0e6323",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_b9ddd726-d7cf-4c3e-a4ca-4a1d8f6ee96e",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_145cc27d-5b2b-42b0-8e70-6f4950010d5a",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_ac87742a-a4ae-4f54-8c0a-a1410b9df417",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_b8dd4a6e-80f6-4392-8fd0-b8052ec1f7f6",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_2f459912-e5cf-49eb-a0cb-c168205c42a8",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_1edcbae4-d24a-4715-8400-b6f6a3bd8127",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_552a800d-6039-4245-805e-8e19bb9c7151",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_140cb06c-2579-4046-9dcb-bae5b6066dd8",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_14954c4a-c401-4a91-89ad-4da23981308b",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_e65a4f10-bfb8-4840-9060-983eef1dc01f",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_140fea8e-fc75-4c2a-beb5-d70911ced989",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "dd_cookie_test_4c136119-4744-4d61-ab10-7785dd9d8ceb",
+        "value": "test"
+      },
+      {
+        "host": "shellbr3ak.medium.com",
+        "name": "_dd_s",
+        "value": "rum=0&expire=1639430721883"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "ref",
+        "value": "%2Ftopic%2F1710213-hide-a-powershell-console-window-when-running-a-script"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "user_type",
+        "value": "%7B%22type%22%3A%22Search+User%22%2C%22T%22%3A%5B%221710213%22%5D%2C%22cnt%22%3A1%7D"
+      },
+      {
+        "host": "community.spiceworks.com",
+        "name": "visit_count",
+        "value": "1"
+      },
+      {
+        "host": "community.spiceworks.com",
+        "name": "first_visit",
+        "value": "2021-12-13T21%3A11Z"
+      },
+      {
+        "host": "community.spiceworks.com",
+        "name": "topic_page_reads",
+        "value": "1"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "_swndat",
+        "value": "hamf%3A20211227%3A%3A%3A1"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "visid_incap_1058513",
+        "value": "egN8FYH3Twiq88Imnv5bFhS3t2EAAAAAQUIPAAAAAACTn5bo8x0TyfRZAPJPRlFn"
+      },
+      {
+        "host": ".spiceworksstatic.com",
+        "name": "visid_incap_1615666",
+        "value": "Rv2/M3tLSmmZKIpFjb28ihW3t2EAAAAAQUIPAAAAAAAjpDXxDtTamlpzpa4cwrK0"
+      },
+      {
+        "host": ".spiceworksstatic.com",
+        "name": "visid_incap_935698",
+        "value": "wpJfmbaURCylPtKgthS3TRW3t2EAAAAAQUIPAAAAAAANIYb+2MFRkELJW5bOrAd7"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "visid_incap_1049467",
+        "value": "KfxmT8U9TNO2rU2QACEhVBW3t2EAAAAAQUIPAAAAAADDd/M7Z2x5bq9f8WCI0FvD"
+      },
+      {
+        "host": "community.spiceworks.com",
+        "name": "last_visit",
+        "value": "2021-12-13T21%3A11Z"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "spiceworks_community",
+        "value": "SVkyc3lQSk5wd3lwbHlMSy9ieFBtUUg2QkdpMjE3ek96QndTMFNDdEVGTE82UjVsZ1dVVHhBdTR3SW1qMDZsYkNGYit4ZU5KQWdNSGdLVVlxUDBZYzBLSnNUWk94TS9KMDA0MEhaTVdYSjVpeGF3WUlIVU9tczBOUU5qSWR5dENmNUk4SWVvTHpUM0RNNm9qYlAxQXVNTTNDYnQwd0o1Lzh5bVRWdHBWUlkvTGR6TU1aWk03WWVBZTF1SkV0dDR4OTJQcHorZTFaSUhzTDhwLzdHbmJvK2Z5YnA2TGJYN3BqMGVHOGVaR1RxUktCdW5RVVdka2xwNm9TN01UYzVjK3JjbzJIb0g1RklhMGdkT1pTOHRPTHc9PS0tYUo0dDh4R2dBTEdTSUF0dkNzdkhEZz09--d131ce5739097e977cc5b7d2b2394912c82757bf"
+      },
+      {
+        "host": ".spiceworks.com",
+        "name": "visid_incap_1285770",
+        "value": "KKEQdP5rRIuJXzVlLk48/he3t2EAAAAAQUIPAAAAAAB4z7EpcLvcUGkGF7Z69IBS"
+      },
+      {
+        "host": ".spiceworksstatic.com",
+        "name": "visid_incap_925105",
+        "value": "W9D1rwfiTwieWVV03eNzcxi3t2EAAAAAQUIPAAAAAAAQ/q6YPSHBOBOjtkWPityE"
+      },
+      {
+        "host": "community.spiceworks.com",
+        "name": "photo_modal_shown",
+        "value": "PhotoModalShown"
+      },
+      {
+        "host": "ducktoolkit.com",
+        "name": "cookieconsent_status",
+        "value": "dismiss"
+      },
+      {
+        "host": "github.com",
+        "name": "has_recent_activity",
+        "value": "1"
+      },
+      {
+        "host": "www.google.com",
+        "name": "DV",
+        "value": "k0CuomO3HnMigJ14QZ6zteauzo5Y2xdonmSkrvHU1wAAAAA"
+      },
+      {
+        "host": ".google.com",
+        "name": "1P_JAR",
+        "value": "2021-12-13-21"
+      },
+      {
+        "host": ".lastpass.com",
+        "name": "_abck",
+        "value": "5868AE2D9A469D7DAF136EADF97BB2A1~-1~YAAQNBdlXw7idrR9AQAACYzFtQdmuiWBeudLmnlBh50ClMe1lT9HTHYPOJYxZ4LUGSFkWQwejPZehxO/z0Edy5F9ORsOSpbx7ayYcQP9Sq0VrzwSK+HiB0JYtA52Op9OLDCthf6d6vdPsasAliAWVxWpaN2+fi8FyOZvZKHACqWnK3bE0Qcz/zhwPId+Ofhu0i3DfYyw5aRHSE7m+vZVEvL2gsEhd/i1wOXOQvyfe2bXUUTH5hrXleXc967GT226EDCnn1zjrtEEpQ9lMdavL8MAqsusXyoizyPiI5lkA/tIvVCKKX0ETFG+9DtnwQuc5Ykk/J7tP2pBqRYrmfOo4Q9Znjn5AXTlpz0fiL3Txycgv/E=~-1~-1~1638027196"
+      }
+    ],
+    "Passwords": {
+      "dismissedBreachAlertsByLoginGUID": {},
+      "logins": [
+        {
+          "encType": 1,
+          "encryptedPassword": "MDoEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECMmwt6CR3hbKBBBgLrw+bn0comAe32e8i7Yj",
+          "encryptedUsername": "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECMJNmiQBk2xDBBgTBfQRqF8GxKrqTAHw3Up+BdsG5Ppk5vQ=",
+          "formSubmitURL": "https://www.instagram.com",
+          "guid": "{34c6a2ce-e427-4edd-a4a6-4e60899091cd}",
+          "hostname": "https://www.instagram.com",
+          "httpRealm": null,
+          "id": 1,
+          "passwordField": "password",
+          "timeCreated": 1637647783962,
+          "timeLastUsed": 1637647783962,
+          "timePasswordChanged": 1637647783962,
+          "timesUsed": 1,
+          "usernameField": "username"
+        },
+        {
+          "encType": 1,
+          "encryptedPassword": "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECAYS55548QzLBBiRANUUbw2OkQ8JjsVeYxcbIZVMM5Gd0v4=",
+          "encryptedUsername": "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECORzrG8uclCvBBiXuFXAT4g6XTXLGYLL2Itbrpw13INY9UQ=",
+          "formSubmitURL": "https://www.facebook.com",
+          "guid": "{c15fa205-0852-44fe-a002-bc7bd248ad94}",
+          "hostname": "https://www.facebook.com",
+          "httpRealm": null,
+          "id": 2,
+          "passwordField": "pass",
+          "timeCreated": 1637647797109,
+          "timeLastUsed": 1637647797109,
+          "timePasswordChanged": 1637647797109,
+          "timesUsed": 1,
+          "usernameField": "email"
+        }
+      ],
+      "nextId": 3,
+      "potentiallyVulnerablePasswords": [],
+      "version": 3
+    }
+  },
+  "Session-ID": "74af3fcb-af8f-4018-8442-0b0567381cee"
+}
