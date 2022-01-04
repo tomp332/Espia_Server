@@ -11,9 +11,16 @@ data = fg('dark_green_sea')
 error_message = fg('red')
 
 logging_path = f'{pathlib.Path(__file__).parent}/logs'
-logging.basicConfig(filename=f'{logging_path}/espia_server.log', format='%(asctime)s %(levelname)-8s %(message)s',
-                    level=logging.INFO,
-                    datefmt='%Y-%m-%d %H:%M:%S')
+
+
+def setup():
+    pathlib.Path(logging_path).mkdir(exist_ok=True, parents=True)
+    logging.basicConfig(filename=f'{logging_path}/espia_server.log', format='%(asctime)s %(levelname)-2s %(message)s',
+                        level=logging.INFO,
+                        datefmt='%Y-%m-%d %H:%M:%S')
+
+
+setup()
 
 
 def log_error(message):
