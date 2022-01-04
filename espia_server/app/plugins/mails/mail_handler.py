@@ -1,6 +1,6 @@
 import requests
 
-from espia_server.app.utils.tool_utils import config, uploads_path, block, main_title
+from espia_server.app.utils.tool_utils import config, uploads_path
 
 _MAILGUN_CONFIG = config['mailgun']
 

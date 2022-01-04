@@ -10,7 +10,7 @@ from base64 import b64decode
 from configparser import ConfigParser
 from typing import Optional, Iterator, Any
 
-from espia_server.app.utils.tool_utils import log_error
+from espia_server.app.utils.espia_logging import log_error
 
 _FIREFOX_PRODUCT = {
     "Passwords": [],

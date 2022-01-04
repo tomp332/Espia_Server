@@ -11,7 +11,9 @@ data = fg('dark_green_sea')
 error_message = fg('red')
 
 logging_path = f'{pathlib.Path(__file__).parent}'
-logging.basicConfig(filename=f'{logging_path}/espia_server.log', encoding='utf-8', level=logging.DEBUG)
+logging.basicConfig(filename=f'{logging_path}/espia_server.log', format='%(asctime)s %(levelname)-8s %(message)s',
+                    level=logging.INFO,
+                    datefmt='%Y-%m-%d %H:%M:%S')
 
 
 def log_error(message):
@@ -19,6 +21,6 @@ def log_error(message):
     logging.error(message)
 
 
-def log_debug(message):
+def log_info(message):
     print(f"{title}[+] {message}")
-    logging.debug(message)
+    logging.info(message)
