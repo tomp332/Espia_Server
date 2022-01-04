@@ -14,8 +14,8 @@ _FINAL_PRODUCT_STRUCT = {
 }
 
 # Declaration of important objects
-static_files_path = f'{pathlib.Path(__file__).parent}/static_files'
-uploads_path = pathlib.Path(pathlib.Path(os.path.realpath(__file__)).parent / 'uploads')
+static_files_path = f'{pathlib.Path(__file__).parent.parent}/static_files'
+uploads_path = pathlib.Path(pathlib.Path(os.path.realpath(__file__)).parent.parent / 'uploads')
 _FULL_CONFIG_PATH = pathlib.Path(os.path.dirname(__file__)).joinpath('../../configs', 'config.ini')
 config = configparser.ConfigParser()
 config.read(pathlib.Path(_FULL_CONFIG_PATH).absolute())

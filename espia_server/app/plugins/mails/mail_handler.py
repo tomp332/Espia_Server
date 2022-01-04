@@ -1,5 +1,6 @@
 import requests
 
+from espia_server.app.utils.espia_logging import log_info, log_error
 from espia_server.app.utils.tool_utils import config, uploads_path
 
 _MAILGUN_CONFIG = config['mailgun']
@@ -17,5 +18,5 @@ def send_mail(session_id: str) -> None:
               "to": [_MAILGUN_CONFIG.get('DESTINATION_EMAIL')],
               "subject": "Results",
               "text": f"Your results from {session_id} are ready"})
-    (response.status_code == 200) and print(block + f"[+] Successfully sent mail for {session_id} results")
-    (response.status_code != 200) and print(main_title + f"[-] Failed to send email for {session_id} results")
+    (response.status_code == 200) and log_info(f"Successfully sent mail for {session_id} results")
+    (response.status_code != 200) and log_error(f"Failed to send email for {session_id} results")

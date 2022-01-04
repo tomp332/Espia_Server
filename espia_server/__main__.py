@@ -15,7 +15,7 @@ def main():
                 host=config['app'].get('SERVER_IP'),
                 port=int(config['app'].get('SERVER_PORT')),
                 reload=True,
-                log_level="critical",
+                log_level="info",
                 ssl_keyfile=certs_dir / 'public_key.pem',
                 ssl_certfile=certs_dir / 'private_key.pem')
 

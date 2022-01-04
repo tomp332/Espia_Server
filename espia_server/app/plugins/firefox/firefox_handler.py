@@ -99,35 +99,15 @@ def load_libnss():
             locations: list[str] = [
                 "",  # Current directory or system lib finder
                 os.path.expanduser("~\\AppData\\Local\\Mozilla Firefox"),
-                os.path.expanduser("~\\AppData\\Local\\Mozilla Thunderbird"),
-                os.path.expanduser("~\\AppData\\Local\\Nightly"),
-                os.path.expanduser("~\\AppData\\Local\\SeaMonkey"),
-                os.path.expanduser("~\\AppData\\Local\\Waterfox"),
                 "C:\\Program Files\\Mozilla Firefox",
-                "C:\\Program Files\\Mozilla Thunderbird",
-                "C:\\Program Files\\Nightly",
-                "C:\\Program Files\\SeaMonkey",
-                "C:\\Program Files\\Waterfox",
             ]
         else:
             locations: list[str] = [
                 "",  # Current directory or system lib finder
                 "C:\\Program Files (x86)\\Mozilla Firefox",
-                "C:\\Program Files (x86)\\Mozilla Thunderbird",
-                "C:\\Program Files (x86)\\Nightly",
-                "C:\\Program Files (x86)\\SeaMonkey",
-                "C:\\Program Files (x86)\\Waterfox",
                 # On windows 32bit these folders can also be 32bit
                 os.path.expanduser("~\\AppData\\Local\\Mozilla Firefox"),
-                os.path.expanduser("~\\AppData\\Local\\Mozilla Thunderbird"),
-                os.path.expanduser("~\\AppData\\Local\\Nightly"),
-                os.path.expanduser("~\\AppData\\Local\\SeaMonkey"),
-                os.path.expanduser("~\\AppData\\Local\\Waterfox"),
                 "C:\\Program Files\\Mozilla Firefox",
-                "C:\\Program Files\\Mozilla Thunderbird",
-                "C:\\Program Files\\Nightly",
-                "C:\\Program Files\\SeaMonkey",
-                "C:\\Program Files\\Waterfox",
             ]
 
         # If either of the supported software is in PATH try to use it
