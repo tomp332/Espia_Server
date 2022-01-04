@@ -10,7 +10,7 @@ main_title = fg('red')
 data = fg('dark_green_sea')
 error_message = fg('red')
 
-logging_path = f'{pathlib.Path(__file__).parent}'
+logging_path = f'{pathlib.Path(__file__).parent}/logs'
 logging.basicConfig(filename=f'{logging_path}/espia_server.log', format='%(asctime)s %(levelname)-8s %(message)s',
                     level=logging.INFO,
                     datefmt='%Y-%m-%d %H:%M:%S')
