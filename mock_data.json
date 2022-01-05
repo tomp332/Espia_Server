@@ -270,15 +270,7 @@
       },
       {
         "Domain": "microsoftedgewelcome.microsoft.com",
-        "Value": "76313010b2a4f31f2cfbbacd2152558f4bbf2a3d04f097397d779737889e475deb6caf14d9097c4436f6297175209db4f61464c02538904aa8111388f04b33c90d33ec75ea3f5469cb2403f793fbf87005958b59dc74d4d36510b19dd601b47f6510f01b0e472639f2283fc953010acb22"
-      },
-      {
-        "Domain": "microsoftedgewelcome.microsoft.com",
         "Value": "7631309b80ed3af53bdf2ca6c9a8266c0465809572514a52125d9b0a8cd247521d859c2bf5ec991a35f6b9728a858add1a1f750fd8e1d4961f35e4c6903f3d1beed3b7"
-      },
-      {
-        "Domain": "microsoftedgewelcome.microsoft.com",
-        "Value": "7631308f8c10cfa20ae8ce30b6504fc440d00538f42dcfafffedd27c3caacf5f382201605073646e17ff10e30266c3dfad728c7bc4129b9d9d4c83e71622e4fb14b26705a0065001099f2ad387426e1947"
       },
       {
         "Domain": ".microsoft.com",
@@ -291,10 +283,6 @@
       {
         "Domain": ".microsoft.com",
         "Value": "763130a7557efc67a40c1f5450089264409e0b3f344a5b0338399d186a855c827d8787c57b2936c41fc136cc5e7dfa017edd46847b62a9912f8fcbee4d23de89c29418eba995e374774dfa97d37050a8132c5fd973ae3c0b7d1867928be9632b40d8b3284a0f7a7589ecc10bc6"
-      },
-      {
-        "Domain": ".microsoft.com",
-        "Value": "763130c759d9408586247de394e80acca1b6d50c162436a00d63ebee772870ef416529199cc9793f07378d266c092678c63240c89598770f7ded43bdd0ef80"
       },
       {
         "Domain": "www.clarity.ms",
@@ -349,10 +337,6 @@
         "Value": "763130122e0602a28723bf3eed83cfbcec234db9c6be8e83bd9ef7d25cd8b193e65a1901326b9c13c7f7933082f0b070fa25d354b8a3ccb27d0d93ea7d49250e2dc5d6"
       },
       {
-        "Domain": ".bing.com",
-        "Value": "7631309ed3a8e99fe98bc9ee416733c0c35541b53adcf2a349ebb876148db809"
-      },
-      {
         "Domain": ".scorecardresearch.com",
         "Value": "76313052c4f07a663f6b66b76ab94b7774501216b0bde1ad35be23d88a5a70396d684b8531b7b4d09d4df47f6902f69644af33dc354da4b11309a714afd8e88b"
       },
@@ -403,6 +387,10 @@
       {
         "Domain": ".dropbox.com",
         "Value": "7631304f54dbb411638d728ab43193bef74eadfce833e60c6aa3972f474f5f1268984d057da57f9ff5a523768daac2a2b73737184ea306"
+      },
+      {
+        "Domain": ".bing.com",
+        "Value": "763130303f256c56da37b2d81847f1"
       }
     ],
     "Edge-Masterkey": "f83df9297f8a88ca70d28a5e420a6238d91e29f610ccd574407d2407b26138dd",
@@ -416,11 +404,6 @@
   },
   "Firefox": {
     "Cookies": [
-      {
-        "host": ".bing.com",
-        "name": "SUID",
-        "value": "M"
-      },
       {
         "host": ".bing.com",
         "name": "MUID",
@@ -552,16 +535,6 @@
         "value": "no"
       },
       {
-        "host": "www.google.com",
-        "name": "_GRECAPTCHA",
-        "value": "09ABBMTcO5XeuN5YP55iENqO_shqODhtVcF4EHld7Z9KkOxeVkbGotKr9WYrilHiU8d18Ol3-3OuqOJ2KPqIl0kB8"
-      },
-      {
-        "host": ".ired.team",
-        "name": "amp_fef1e8",
-        "value": "2ff1f860-f09a-4f1a-94ef-47be0c3de9d7R...1flo3h0f2.1flo3h1d8.1.1.2"
-      },
-      {
         "host": ".memberful.com",
         "name": "__cf_bm",
         "value": "qamW50HRKRdlZEazv0ASz0W1fpi42MW0hrybIByZ9KQ-1638265966-0-AXkshTGuVXi4k70DxP2HLzmUDbDwETM/sgjeehK7QzViulrcNdBO9GnwiDxk+4IMnHjhcfz+YToe3X8eA0vmYcY="
@@ -575,11 +548,6 @@
         "host": ".marketplace.visualstudio.com",
         "name": "Gallery-Service-UserIdentifier",
         "value": "65332362-8dc7-4649-9b71-8d36a1083201"
-      },
-      {
-        "host": ".visualstudio.com",
-        "name": "MSCC",
-        "value": "NR"
       },
       {
         "host": "marketplace.visualstudio.com",
@@ -627,11 +595,6 @@
         "value": "1%3B1638464952006"
       },
       {
-        "host": ".visualstudio.com",
-        "name": "mbox",
-        "value": "session#866a0366d89a41d7816708b78c2f2024#1638466952"
-      },
-      {
         "host": ".geeksforgeeks.org",
         "name": "gfg_nluid",
         "value": "59476b1629079951b36f4c91f85852e3"
@@ -665,11 +628,6 @@
         "host": "docs.microsoft.com",
         "name": "original_req_url",
         "value": "https://docs.microsoft.com/en-us/windows/desktop/api/lmwksta/nf-lmwksta-netwkstagetinfo"
-      },
-      {
-        "host": "accounts.google.com",
-        "name": "__Host-GAPS",
-        "value": "1:OYun2hZItQM2pr-ddLsCzMnsNfL05A:wPHAsytnHjZ1FCdl"
       },
       {
         "host": "social.msdn.microsoft.com",
@@ -722,21 +680,6 @@
         "value": "v1%3A163861330538560075"
       },
       {
-        "host": ".twitter.com",
-        "name": "ct0",
-        "value": "2bf0856dac3a2e126138845cfaff64b0"
-      },
-      {
-        "host": ".twitter.com",
-        "name": "gt",
-        "value": "1467076658167525380"
-      },
-      {
-        "host": ".twitter.com",
-        "name": "att",
-        "value": "1-XWUmZ4AImd3PHSwaYboxtWBKnAzlqQVMgktW31Gh"
-      },
-      {
         "host": "github.com",
         "name": "_device_id",
         "value": "a6b2728623437eee26886453c4fed749"
@@ -757,39 +700,9 @@
         "value": "536a546a0a4884a43825f1b4a5c629ca"
       },
       {
-        "host": "cpp.hotexamples.com",
-        "name": "ezux_lpl_110793",
-        "value": "1638647462480|5fad26ef-5fab-40c8-61c0-726baec344f7|true"
-      },
-      {
         "host": "docs.microsoft.com",
         "name": "original_req_url",
         "value": "https://docs.microsoft.com/en-us/cpp/build/adding-references-in-visual-cpp-projects"
-      },
-      {
-        "host": "gist.github.com",
-        "name": "gist_user_session",
-        "value": "8ZWEeNyl-DO2yYuCliur7CryMkuajo1tNei-YyK7noTbIDAm"
-      },
-      {
-        "host": "gist.github.com",
-        "name": "__Host-gist_user_session_same_site",
-        "value": "8ZWEeNyl-DO2yYuCliur7CryMkuajo1tNei-YyK7noTbIDAm"
-      },
-      {
-        "host": "gist.github.com",
-        "name": "has_recent_activity",
-        "value": "1"
-      },
-      {
-        "host": "social.msdn.microsoft.com",
-        "name": "MicrosoftApplicationsTelemetryDeviceId",
-        "value": "d245c59a-a911-4cbc-b76b-b0cf6ae8b7a9"
-      },
-      {
-        "host": "social.msdn.microsoft.com",
-        "name": "ai_session",
-        "value": "9wkz9v5Woxnq9x2zKQPeTB|1638730687312|1638730687312"
       },
       {
         "host": "loglogin.lastpass.com",
@@ -907,21 +820,6 @@
         "value": "session#9ac4d146f7154516a204e194fac89a93#1639145169|PC#9ac4d146f7154516a204e194fac89a93.37_0#1673330009"
       },
       {
-        "host": ".visualstudio.com",
-        "name": "VstsSession",
-        "value": "%7B%22PersistentSessionId%22%3A%227130a805-f5c4-4981-9c2b-d5325bf1d974%22%2C%22PendingAuthenticationSessionId%22%3A%22dd890bfa-d4a8-4f0e-96e1-a2b5269bcc50%22%2C%22CurrentAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22SignInState%22%3A%7B%22app.vssps.visualstudio.com%22%3A%7B%22LastSignInTick%22%3A637747401111267381%2C%22SignInCount%22%3A1%7D%7D%7D"
-      },
-      {
-        "host": "visualstudio.microsoft.com",
-        "name": "MicrosoftApplicationsTelemetryDeviceId",
-        "value": "5fd28488-89e3-49a8-8cca-f1517579cb60"
-      },
-      {
-        "host": "visualstudio.microsoft.com",
-        "name": "ai_session",
-        "value": "wUTnp5LEYoSzpETOxpHJkj|1639143308072|1639143313261"
-      },
-      {
         "host": ".codeproject.com",
         "name": "lpk",
         "value": "9rkV1ir5U48bUhcZl15DAWUERih%2bI7%2bfyeWrwjj8zTO7XaMUrKJ8DY3Xr9ydlz0LnYue3TZqcBXmoF7aly155sAjm8vWQJr7F6FlmSTru3E17NfuvrYqgD3gRSE3%2fdme"
@@ -932,24 +830,9 @@
         "value": "d3ebc9b7-cefd-4934-88c7-242706fc10b8"
       },
       {
-        "host": "pollserver.lastpass.com",
-        "name": "PHPSESSID",
-        "value": "lovu99svjfm58lr27afgruirt9e"
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "original_req_url",
-        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/processthreadsapi/nf-processthreadsapi-getpriorityclass"
-      },
-      {
         "host": "docs.microsoft.com",
         "name": "original_req_url",
         "value": "https://docs.microsoft.com/en-us/windows/desktop/ProcThread/process-creation-flags"
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "original_req_url",
-        "value": "https://docs.microsoft.com/en-us/windows/desktop/breadcrumb/toc.json"
       },
       {
         "host": ".serverfault.com",
@@ -1032,44 +915,9 @@
         "value": "session#c482b70952a64178b580033c36a7801e#1639151730"
       },
       {
-        "host": "forums.codeguru.com",
-        "name": "vb_lastvisit",
-        "value": "1638464653"
-      },
-      {
-        "host": "forums.codeguru.com",
-        "name": "vb_lastactivity",
-        "value": "0"
-      },
-      {
         "host": "docs.w3cub.com",
         "name": "tp",
         "value": "1"
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "original_req_url",
-        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/breadcrumb/toc.json"
-      },
-      {
-        "host": "lastpass.com",
-        "name": "PHPSESSID",
-        "value": "lovu99svjfm58lr27afgruirt9e"
-      },
-      {
-        "host": ".lastpass.com",
-        "name": "ak_bmsc",
-        "value": "E408FF637DEBD997DF93FB08B23F9508~000000000000000000000000000000~YAAQs1CMTw2hUC59AQAAkpxFqA6RFbn9um/Thn8bWvUXU96+cH4FlQVwMdd3t1+fF4r+zBXVK6AICtS4wxbrrnxyqkLYUg2/Ze7CLEXPG7BEVan1/ho7sURUoZ8uOtcDE6jKhNBcIMVWKqjeuZJM5tmXV9QJHzUuc6QyYYt8LZWvb/EUd5fWItVWDNrxFJRgWEfuGuQlWhWXOUKd2yTb3VXvUhg3xyJbLDmzzavsGpLc5i/zwuqgv29VD2jA1LSscb8b5i28pMaFxfHCOlPeD8QrFVtep7cG/93Eyj5TIjv/yZMb3dn/rVEMul/1gOEIbBM+SG+lMvUWzB5thf0Ndxn7UqgMSMp2QWnnztrqdi+8CzMHWAC1yt7kqBcJKPKLENiyzsv6CbimZ3A="
-      },
-      {
-        "host": ".lastpass.com",
-        "name": "lang",
-        "value": "en_US"
-      },
-      {
-        "host": ".lastpass.com",
-        "name": "bm_sv",
-        "value": "51D486059820DDF42561739B5DE5D041~iGDwoJ+p2HFKvbdALvUtaulC8o1PAwQgzOaNz0QKrjxBUnuJCCHcNrAJYOOVROiuP2Xma4e6CnqKfh43Q+RdpgvWCUFYz4+oTjhkPNWcvlcJeGTS5kHrER3c3TV4lv8yzPZt+GxdspWGhbOoj0kRwFa4d2UrmNXGvuIQc+P72kM="
       },
       {
         "host": "docs.microsoft.com",
@@ -1085,11 +933,6 @@
         "host": "realpython.com",
         "name": "origin",
         "value": "ref-google"
-      },
-      {
-        "host": "realpython.com",
-        "name": "csrftoken",
-        "value": "hScI1uR1JI4IYL9LMcj7aOXfSMZwgofYlFbRB4Olq4yUF6GVqcUjcpep8BGak15g"
       },
       {
         "host": ".fonts.net",
@@ -1110,71 +953,6 @@
         "host": ".kite.com",
         "name": "_gid",
         "value": "GA1.2.617858247.1639213636"
-      },
-      {
-        "host": ".hotexamples.com",
-        "name": "ezoadgid_110793",
-        "value": "-1"
-      },
-      {
-        "host": ".hotexamples.com",
-        "name": "ezoref_110793",
-        "value": "google.com"
-      },
-      {
-        "host": ".hotexamples.com",
-        "name": "ezosuibasgeneris-0",
-        "value": "96430b4f40e72c4e80c3c9c3c2467a2e"
-      },
-      {
-        "host": ".hotexamples.com",
-        "name": "ezoab_110793",
-        "value": "mod96-c"
-      },
-      {
-        "host": ".hotexamples.com",
-        "name": "active_template::110793",
-        "value": "pub_site.1639234647"
-      },
-      {
-        "host": ".hotexamples.com",
-        "name": "ezopvc_110793",
-        "value": "1"
-      },
-      {
-        "host": ".hotexamples.com",
-        "name": "ezepvv",
-        "value": "297"
-      },
-      {
-        "host": ".hotexamples.com",
-        "name": "ezovid_110793",
-        "value": "1236920447"
-      },
-      {
-        "host": ".hotexamples.com",
-        "name": "lp_110793",
-        "value": "https://cpp.hotexamples.com/examples/-/-/xop/cpp-xop-function-examples.html"
-      },
-      {
-        "host": ".hotexamples.com",
-        "name": "ezovuuidtime_110793",
-        "value": "1639234648"
-      },
-      {
-        "host": ".hotexamples.com",
-        "name": "ezovuuid_110793",
-        "value": "dd28e634-f8e9-4f04-56fa-9890de9bd9cd"
-      },
-      {
-        "host": "cpp.hotexamples.com",
-        "name": "ezds",
-        "value": "ffid%3D1%2Cw%3D1920%2Ch%3D1080"
-      },
-      {
-        "host": "cpp.hotexamples.com",
-        "name": "ezohw",
-        "value": "w%3D1920%2Ch%3D927"
       },
       {
         "host": "www.unknowncheats.me",
@@ -1262,49 +1040,9 @@
         "value": "A"
       },
       {
-        "host": ".dev.to",
-        "name": "_Devto_Forem_Session",
-        "value": "5d75b84d456836f8b60d782498181aaf"
-      },
-      {
         "host": "docs.microsoft.com",
         "name": "original_req_url",
         "value": "https://docs.microsoft.com/en-us/visualstudio/ide/specifying-custom-build-events-in-visual-studio"
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "MicrosoftApplicationsTelemetryDeviceId",
-        "value": "8753c113-dea8-4f41-b1f9-a54bcea3a7ef"
-      },
-      {
-        "host": "docs.microsoft.com",
-        "name": "ai_session",
-        "value": "k4NEcQ4UKqMBRMgKqKyGyo|1639248026668|1639248026668"
-      },
-      {
-        "host": "github.com",
-        "name": "user_session",
-        "value": "yT_g75Uhlj7SRPJWirD79YWaZ7Sr1KLQobkeUftZlsTak5Zf"
-      },
-      {
-        "host": "github.com",
-        "name": "__Host-user_session_same_site",
-        "value": "yT_g75Uhlj7SRPJWirD79YWaZ7Sr1KLQobkeUftZlsTak5Zf"
-      },
-      {
-        "host": "pollserver.lastpass.com",
-        "name": "ADRUM_BT",
-        "value": "R%3A0%7Cg%3A162f8748-7fef-4fdb-9aca-7b34b3331388897%7Cn%3Acitrix_c88ca7a6-705e-4cde-9391-83bb80917e45%7Ci%3A307364%7Ce%3A8"
-      },
-      {
-        "host": ".lastpass.com",
-        "name": "bm_sz",
-        "value": "C430A3686658BE083BE6A8E54089F5C9~YAAQNBdlX3BFcrR9AQAAd3cutQ5V6F/NSN3XdoNiQ+FFTKhiterv9CKM1f5TB2iMQR0+FO2I6ukUP0Yjf86stKXWQD5ZwQ25YLS5m1XOrN9Deoxv16P4HGu0VzNU72/J3LiNdNNLQf+uTJsRtVdwyDQ7b8roBF9uCC3RnmrXy7vfjBNq2OjTNHp0xh/M6Yp6dcAtsLyNq8UCzRgbgPy3GS9UhStTQl7cV9xIZRQxA2uASk/yUv5+YP7gWabDhSZwXgwj07m9kTXKxa3srFwnPAh8sDVJbrzLYfLkKNpOob/TUSu3W7iBqub6cFeNQ1GRoIDhT0nhpRVuSjgjpA==~3619125~3225397"
-      },
-      {
-        "host": ".gitbook.com",
-        "name": "__session",
-        "value": "2ff1f860-f09a-4f1a-94ef-47be0c3de9d7R"
       },
       {
         "host": "book.hacktricks.xyz",
@@ -1317,29 +1055,9 @@
         "value": "2ff1f860-f09a-4f1a-94ef-47be0c3de9d7R...1fmqmtv0g.1fmqmv125.2.1.3"
       },
       {
-        "host": ".disqus.com",
-        "name": "disqus_unique",
-        "value": "8neag3a3mbleng"
-      },
-      {
-        "host": "disqus.com",
-        "name": "__jid",
-        "value": "8neame1324rk9o"
-      },
-      {
-        "host": ".disqus.com",
-        "name": "G_ENABLED_IDPS",
-        "value": "google"
-      },
-      {
         "host": "www.computerperformance.co.uk",
         "name": "ppwp_wp_session",
         "value": "306824e7309c96b4c230e18d5b52923d%7C%7C1639429021%7C%7C1639428661"
-      },
-      {
-        "host": ".google.com",
-        "name": "NID",
-        "value": "511=FM-fTZi5uexhtkyKUQVk2dpKqU2LvIGVwvbCAKOpcoqUC3Ke-ftpygVwHyCZoBRZ_gxzLp_nQS7MLdfaYS7Le3yZapkRfu4EUQIQ-r6OFYwsofSTB_UVTJUmQk_VuEoYy1MsKtDEfZCYTobYiVlB1SefZlmagD6ZTKXkg3MREi9VREsaTRkJbgDToraPdVVY"
       },
       {
         "host": "developers.google.com",
@@ -1417,11 +1135,6 @@
         "value": "test"
       },
       {
-        "host": ".vimeo.com",
-        "name": "vuid",
-        "value": "pl1603919137.181574518"
-      },
-      {
         "host": "systemweakness.com",
         "name": "_dd_s",
         "value": "rum=0&expire=1639429145583"
@@ -1445,11 +1158,6 @@
         "host": "devblogs.microsoft.com",
         "name": "ai_session",
         "value": "LGezf21pYTkA8H/VJiJIh7|1639429476640|1639429476640"
-      },
-      {
-        "host": ".microsoft.com",
-        "name": "MSCC",
-        "value": "NR"
       },
       {
         "host": "devblogs.microsoft.com",
@@ -1622,24 +1330,1354 @@
         "value": "dismiss"
       },
       {
+        "host": ".bing.com",
+        "name": "SRCHHPGUSR",
+        "value": "SRCHLANG=en&BRW=XW&BRH=M&CW=1920&CH=927&SW=1920&SH=1080&DPR=1&UTC=-480&DM=0"
+      },
+      {
+        "host": ".help.duo.com",
+        "name": "CookieConsentPolicy",
+        "value": "0:0"
+      },
+      {
+        "host": ".help.duo.com",
+        "name": "LSKey-c$CookieConsentPolicy",
+        "value": "0:0"
+      },
+      {
+        "host": "help.duo.com",
+        "name": "sfdc-stream",
+        "value": "!jXqy9z9YS1MaX+7SibnZiwTQAfFEBMNbmQ6ntUw//cSJbFcBaX/qzck/t5xNVgdWZF51HjaRoCRyMIQ="
+      },
+      {
+        "host": "docs.cyberark.com",
+        "name": "_gz_sid",
+        "value": "1639749458240594"
+      },
+      {
+        "host": "docs.cyberark.com",
+        "name": "_gz_taid",
+        "value": "1639749458241206"
+      },
+      {
+        "host": "help.duo.com",
+        "name": "pctrk",
+        "value": "a7f17be1-2f68-4934-8ef7-d3cdafd9d054"
+      },
+      {
+        "host": "www.google.com",
+        "name": "OTZ",
+        "value": "6290797_88_88_104280_84_446940"
+      },
+      {
+        "host": ".online-convert.com",
+        "name": "qg_consent",
+        "value": "true"
+      },
+      {
+        "host": ".online-convert.com",
+        "name": "QGID",
+        "value": "71e66dfe-b52d-44bc-8d17-d824fdb2c21b"
+      },
+      {
+        "host": ".online-convert.com",
+        "name": "x-oc-download-password",
+        "value": "71e66dfe-b52d-44bc-8d17-d824fdb2c21b"
+      },
+      {
+        "host": ".online-convert.com",
+        "name": "qg_locale_suggest",
+        "value": "true"
+      },
+      {
+        "host": ".online-convert.com",
+        "name": "qgExtension",
+        "value": "true"
+      },
+      {
+        "host": ".online-convert.com",
+        "name": "qgrole",
+        "value": "unregistered"
+      },
+      {
+        "host": ".online-convert.com",
+        "name": "OCSESS",
+        "value": "i5so52eco0v3jct7qnmaqs5cig"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_9ba66e5c-bab6-4f16-a44d-2e1c182d3470",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_2db8960b-5d9c-4530-9a61-d6319e07948c",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_9e200922-065a-4e04-9b75-af82a34461b6",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_d67bf665-16c0-4fee-b992-e25d1a12fe29",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_f5e27c55-732c-41f4-8d60-8ac81b4d602f",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_92dbb841-eace-41c4-b148-fdf5330c8c9a",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_7ded1510-47fe-4f2a-8582-f8db3ce4e028",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_e9976e96-cf2f-4a45-9ab4-ea0c8978c3ae",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_36df5caf-0071-4ef0-8934-c9f244acda10",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_95cba96f-13cc-4d76-9bf3-8a52ff60c08d",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_45fabce5-5c89-4c7e-bbdf-9c45b8dc7269",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_3ac58caf-2421-4023-bb4d-a5b8bc590939",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_6071cdc1-ddf8-4531-b85f-8088a9886bad",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_ab374ede-73f1-4542-92c3-f45011680ec2",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_787111a2-b83c-4ff9-9ea1-9d5c53767f5b",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_5fbb403e-7a94-4492-8d9f-8c5c90709a55",
+        "value": "test"
+      },
+      {
+        "host": "devopscube.com",
+        "name": "adp-popup-8294",
+        "value": "1"
+      },
+      {
+        "host": "devopscube.com",
+        "name": "adp-popup-9326",
+        "value": "1"
+      },
+      {
+        "host": "www.whitesourcesoftware.com",
+        "name": "ws_uid_unique",
+        "value": "wsu_mQzMY0Ao0wKzyThVUNqtDjoYeJyZs6k4"
+      },
+      {
+        "host": "www.whitesourcesoftware.com",
+        "name": "drift_campaign_refresh",
+        "value": "6fe27d9b-a671-439d-a2f3-6efbe9253508"
+      },
+      {
+        "host": "www.whitesourcesoftware.com",
+        "name": "drift_aid",
+        "value": "15f2ceda-8c92-4ae9-b6a6-f43a1686a39e"
+      },
+      {
+        "host": "www.whitesourcesoftware.com",
+        "name": "driftt_aid",
+        "value": "15f2ceda-8c92-4ae9-b6a6-f43a1686a39e"
+      },
+      {
+        "host": ".pkgs.org",
+        "name": "antibot_token1",
+        "value": "7d3c2ba1ddded55c"
+      },
+      {
+        "host": ".pkgs.org",
+        "name": "antibot_token2",
+        "value": "c55deddd1ab2c3d7"
+      },
+      {
+        "host": "docs.github.com",
+        "name": "_docs-events",
+        "value": "55720d9f-9e9b-4d1a-8d5e-c381f8e4f854"
+      },
+      {
+        "host": ".github.blog",
+        "name": "_octo",
+        "value": "GH1.1.545730096.1639854403"
+      },
+      {
+        "host": "realpython.com",
+        "name": "csrftoken",
+        "value": "hScI1uR1JI4IYL9LMcj7aOXfSMZwgofYlFbRB4Olq4yUF6GVqcUjcpep8BGak15g"
+      },
+      {
+        "host": "www.bmc.com",
+        "name": "AWSELB",
+        "value": "4BF9C17F022107820D38EA57CBBA7BCBB4BED0FA740EFABDEF23054C90FD0327A5CCA7182F5FD59607B1588DB84F7994EB9D5077554BE2539A379981DCB18AA29BE6D9B88B"
+      },
+      {
+        "host": "www.bmc.com",
+        "name": "AWSELBCORS",
+        "value": "4BF9C17F022107820D38EA57CBBA7BCBB4BED0FA740EFABDEF23054C90FD0327A5CCA7182F5FD59607B1588DB84F7994EB9D5077554BE2539A379981DCB18AA29BE6D9B88B"
+      },
+      {
+        "host": ".bmc.com",
+        "name": "ak_bmsc",
+        "value": "7CD7CF413FECA393FCC150BF03C0B774~000000000000000000000000000000~YAAQpJhmUn2cSZ99AQAAPKzK2A5m2U5OvDylJXaqsfDQp6NQS0fJc7klXGfijVrtfE6V97/IS2tUK2xT5P4q8je9TwC1qXpvo3yXCOhbAui8NgibkawAs1pOiA0Js6GPzIOiMPGPuDMKd9q3F500NIsBYfbXiScHI6ntowS1OoY4Um7tf71+cOqF9r5a1XtyVQv/uSjghHk/4b5xVLxMreGV6jCU6KozFQ67VjAAoloxZZPd1qnEParYNbXWejmefkCBMio2HFVyosXiZ35G1365lK10V/mmNzqQzWJBpNWBIngZEiAzzovKwNcyEBmQbxD+wdM4goF/UejKm5zdMuMlSzjx8iqSdIVjL9VmT1jvvNjR2Eg/9rLB3tkenUAHDgvlqyjW"
+      },
+      {
+        "host": ".bmc.com",
+        "name": "AMCV_90FF097853513F650A490D4C%40AdobeOrg",
+        "value": "359503849%7CMCIDTS%7C18982%7CMCMID%7C03321163467010785057796010248005307618%7CMCAID%7CNONE%7CMCOPTOUT-1640026902s%7CNONE%7CvVersion%7C5.0.1"
+      },
+      {
+        "host": ".bmc.com",
+        "name": "mbox",
+        "value": "session#01d03292d9c44c7f8461aa04e7f522db#1640021563|PC#01d03292d9c44c7f8461aa04e7f522db.37_0#1703264503"
+      },
+      {
+        "host": "www.bmc.com",
+        "name": "fsctamongodb",
+        "value": "true"
+      },
+      {
+        "host": ".bmc.com",
+        "name": "notice_preferences",
+        "value": "2:"
+      },
+      {
+        "host": ".bmc.com",
+        "name": "notice_gdpr_prefs",
+        "value": "0,1,2:"
+      },
+      {
+        "host": ".bmc.com",
+        "name": "cmapi_gtm_bl",
+        "value": ""
+      },
+      {
+        "host": ".bmc.com",
+        "name": "cmapi_cookie_privacy",
+        "value": "permit 1,2,3"
+      },
+      {
+        "host": ".cprime.com",
+        "name": "_biz_uid",
+        "value": "d5cfe56c959c48c3bf58e9cff6f87e92"
+      },
+      {
+        "host": ".cprime.com",
+        "name": "_biz_sid",
+        "value": "64821c"
+      },
+      {
+        "host": ".cprime.com",
+        "name": "_biz_nA",
+        "value": "1"
+      },
+      {
+        "host": ".cprime.com",
+        "name": "_biz_pendingA",
+        "value": "%5B%22m%2Fipv%3F_biz_r%3Dhttps%253A%252F%252Fwww.google.com%252F%26_biz_h%3D802059049%26_biz_u%3Dd5cfe56c959c48c3bf58e9cff6f87e92%26_biz_s%3D64821c%26_biz_l%3Dhttps%253A%252F%252Fwww.cprime.com%252Fresources%252Fblog%252Fdocker-on-mac-with-homebrew-a-step-by-step-tutorial%252F%26_biz_t%3D1640019911640%26_biz_i%3D%250A%2509%2509Docker%2520for%2520Mac%253A%2520Homebrew%2520Step-by-Step%2520Tutorial%2520%257C%2520Cprime%2520%2520%2520%2520%26_biz_n%3D0%26rnd%3D86137%22%5D"
+      },
+      {
+        "host": ".bizibly.com",
+        "name": "_BUID",
+        "value": "1bcee454d12b9ec6b00b4b4029de3c67"
+      },
+      {
+        "host": ".cprime.com",
+        "name": "_biz_flagsA",
+        "value": "%7B%22Version%22%3A1%2C%22ViewThrough%22%3A%221%22%7D"
+      },
+      {
+        "host": "www.cprime.com",
+        "name": "CookieConsent",
+        "value": "{stamp:%27-1%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1640019912370%2Cregion:%27IL%27}"
+      },
+      {
+        "host": ".visualstudio.com",
+        "name": "mbox",
+        "value": "session#71586b1915304bf990ededf1d2100750#1640022349"
+      },
+      {
+        "host": ".digitalocean.com",
+        "name": "first_landing_page",
+        "value": "/community/tutorials/how-to-use-live-share-with-visual-studio-code"
+      },
+      {
+        "host": ".digitalocean.com",
+        "name": "referrer",
+        "value": "https://www.google.com/"
+      },
+      {
+        "host": ".digitalocean.com",
+        "name": "cookieconsent_status",
+        "value": "dismiss"
+      },
+      {
+        "host": "prod.liveshare.vsengsaas.visualstudio.com",
+        "name": "connect.sid",
+        "value": "s%3AQV7CL_ZWzPLuBVcwHJubZxCcY-8qSr6e.kvHkpZnIG7I%2FTUAg5wLMSTP0i%2BPd%2Bk2MWtOEMyjuNus"
+      },
+      {
+        "host": ".vscode-auth.github.com",
+        "name": "heroku-session-affinity",
+        "value": "ACyDaANoA24IAV04n+7///8HYgAAUORiAAvQ3WEBbAAAAAFtAAAABXdlYi4xaqrtyR7106uD72ImO0txktG/R0y8"
+      },
+      {
+        "host": "issueexplorer.com",
+        "name": "cf_ob_info",
+        "value": "504:6c0a9dfb099d5be1:FRA"
+      },
+      {
+        "host": "issueexplorer.com",
+        "name": "cf_use_ob",
+        "value": "0"
+      },
+      {
+        "host": "git.aps.anl.gov",
+        "name": "sidebar_collapsed",
+        "value": "false"
+      },
+      {
+        "host": "git.aps.anl.gov",
+        "name": "_gitlab_session",
+        "value": "3b49bbbab6e5dd5ee1f5817ec87fd957"
+      },
+      {
+        "host": ".runkit.com",
+        "name": "_ga",
+        "value": "GA1.2.364673025.1640023825"
+      },
+      {
+        "host": ".runkit.com",
+        "name": "_gid",
+        "value": "GA1.2.738018854.1640023825"
+      },
+      {
+        "host": ".runkit.com",
+        "name": "_gat_UA_65519033_3",
+        "value": "1"
+      },
+      {
+        "host": ".runkit.com",
+        "name": "session",
+        "value": "s%3A61c0c70f108b8c0007699227.kp7XcZuHFIR1%2B2Iv2pR2usJAsITTexYPqOrT4kmuzd8"
+      },
+      {
+        "host": ".digitalocean.com",
+        "name": "__cf_bm",
+        "value": "Yex1rXvZYtuHSF2En4tlNdV26Hqs95Sn9QTqgWVR79M-1640024105-0-AdzaRYoC8ikpybdOW5p3+OVdyXcBcjVL11tsU0wSeJXIULRkAyUSW5jo03kdKJEwC8XnOuUB+mRhWcXJtbUm/BntuTfwGhfjyFhmDVKAIxtw"
+      },
+      {
+        "host": "www.digitalocean.com",
+        "name": "_community_session",
+        "value": "TmVqQU4rMjNDcG0rZGZCV1dRZFFnb2VjWkNyNFpzckdWRGhxeERVN1BiUmVEbDFpT0xSN0tWdDlpYmZ0ZG9lU1RyRVJlTGIxaXZMdzQvSXo3REFtR0VQWVBSQWVadmRVanRacStjOGtIdDRDVmZOWlExQkVldFFLQ1Qxb0o0NFZPcmplUzNGZnFzY1BhUENTWTVzUldBRXk1eEJJTDlBaWNKVHZabXh6clJHZDJIVXEyQ2ZKYTdWYnlmWTloYnphL1ZLbDRFZEJPN0VWZ0RNRCtqY2NPbHRPdXc3cG5wQmlCSE54c2lWOHVhWmNJNmFjcXlHa0I2WFUxQVlUYWF4bS0tcmdPSjk4MkI3ck92UzdzMHBVdUxTQT09--c62a9c4619142bc5564f7bd489831686e835baa9"
+      },
+      {
+        "host": ".anchor.digitalocean.com",
+        "name": "__cf_bm",
+        "value": "JA_xQdrt92KKlz419XRQAhSKihetiAUyfaKgkruOzEk-1640024107-0-ARAxnjOOJ/CjPmCA/PkP+oFmuawFnXXNcrZ5nJjfkD7HnH/O0/xdiZEsm4HEbQdudZkjTZ5DdepjttatM8XZncQ="
+      },
+      {
+        "host": ".go.snyk.io",
+        "name": "__cf_bm",
+        "value": "rkyaGrw3E8OVN5atN0T_zFPEsp0NbTpuzeJKplYfaCk-1640026407-0-AeBH6jkDZqx1DrNtoPgEUWKs/BLAOl0OOP+ml8nSQhdgMTxfr2OzyuS3990hF4Jz6gfqt+6cPy3KzOYPRvFEAEg="
+      },
+      {
+        "host": "codefresh.io",
+        "name": "ppwp_wp_session",
+        "value": "2f22b055005682cf5c2fd7acdc87aa65%7C%7C1640028227%7C%7C1640027867"
+      },
+      {
+        "host": "codefresh.io",
+        "name": "CookieConsent",
+        "value": "{stamp:%27-1%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1640026428452%2Cregion:%27IL%27}"
+      },
+      {
+        "host": ".codefresh.io",
+        "name": "intercom-id-vbtbkm4c",
+        "value": "058b3956-fe23-487d-ad13-a616cb70ab14"
+      },
+      {
+        "host": ".codefresh.io",
+        "name": "intercom-session-vbtbkm4c",
+        "value": ""
+      },
+      {
+        "host": "docs.tibco.com",
+        "name": "connect.sid",
+        "value": "s%3A5ypV5Ppezq-URTcxJkz2jh1YYIWQWJ1v.ZOSAxx23TUwc4GPqUHpiTAL4%2BkArQ0aAlb%2BnkN8tqK4"
+      },
+      {
+        "host": "coderwall.com",
+        "name": "ahoy_visitor",
+        "value": "4e3491b9-0066-4e4c-b4e0-f52f647e6706"
+      },
+      {
+        "host": "coderwall.com",
+        "name": "ahoy_visit",
+        "value": "0ad085a4-9192-4ce9-8263-d402dbe3980c"
+      },
+      {
+        "host": "coderwall.com",
+        "name": "viewd_protips",
+        "value": "ewk0mq"
+      },
+      {
+        "host": "coderwall.com",
+        "name": "_coderwall-next_session",
+        "value": "RUNWOVZpcVJYMXZLdHJYd1U5aEEzVnhNc3Y2V1lpMkVjSTdOdU4rNUlwcjhxOFFJeUowNVk1ekk2NVV0U0FnckZCa1JLL05Hcnc4eUFTT1ArVjRGUTJncnFqSGRIdTdsUFZvV0xOZTZsMThpdVl3aUpsRmdUVzJjSHVMZEZnVVEwL2JsK05ucnA2WDEyc3JMRXRheVVFcE5aMklvNXNLdDB0S1hHOE5UWm9ydVZxUVF4U0tlRVhtdTJGUWFXMEhoVnQ2dlZDUVRMQUpuVGNiOHY3Q0d1K2VyVXIrWWtJWHRVWFBRNGRnbmljRT0tLWtjaHJjQXVqTVQwZzc4V3JVd3dsVUE9PQ%3D%3D--786c1fbb864642eb3551276f56d48d9455b1d41c"
+      },
+      {
+        "host": "account.jetbrains.com",
+        "name": "timeZoneOffset",
+        "value": "-480"
+      },
+      {
+        "host": "pollserver.lastpass.com",
+        "name": "PHPSESSID",
+        "value": "lovu99svjfm58lr27afgruirt9e"
+      },
+      {
+        "host": ".packetstormsecurity.com",
+        "name": "TZ",
+        "value": "UTC"
+      },
+      {
+        "host": ".packetstormsecurity.com",
+        "name": "M",
+        "value": "dl.packetstormsecurity.net"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_2e0a5d59-182d-454e-8cef-588967428742",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_fe3c6689-6c0e-487e-ba4f-e1611d1947b2",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_e51ab543-51cc-42c6-a4dc-8049d7ebbfe6",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_14afed99-eb1e-4177-a05a-de714905b25c",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_0283ae7d-3248-48fd-b572-1d8433b34df2",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_fc80b8a7-8c75-4ecd-aea5-6579f33bce28",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_72cbb689-9f59-4329-b1db-15a386a42489",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_4f3f8cb6-4a3a-4e91-b6ee-4e0c276fc804",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_9dcca1b6-3497-414b-9376-dc32018becdc",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_9364a1f9-59c2-42f5-a44b-246e29e387bd",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_63909ce5-9770-44ad-982a-7fc78f070e09",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_54fd7bf8-5f44-4033-8732-c0c353285ffb",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_4a54eeef-a254-46fd-acdf-975c85e7c890",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_10315aac-7977-4b59-9093-c6466fd542fb",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_e70ecc7e-817c-4a23-af37-6234017f5a36",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_93e7718b-b463-448d-a0dd-efa33fd8f8b6",
+        "value": "test"
+      },
+      {
+        "host": "forums.codeguru.com",
+        "name": "vb_lastvisit",
+        "value": "1638464653"
+      },
+      {
+        "host": "forums.codeguru.com",
+        "name": "vb_lastactivity",
+        "value": "0"
+      },
+      {
+        "host": "i1.social.s-msft.com",
+        "name": ".ASPXANONYMOUS",
+        "value": "Og4Mi6UX2QEkAAAAMGE0ZTVmMmYtZTM0Mi00MDFiLTkzNDYtMmMzZGQzNjhiNGNhYAwelipJ1Hu7tJAQlus6x2Wev_wWCgL4S7t0e5H6Qlc1"
+      },
+      {
+        "host": "answers.microsoft.com",
+        "name": "tzo",
+        "value": "480"
+      },
+      {
+        "host": "visualstudio.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "5fd28488-89e3-49a8-8cca-f1517579cb60"
+      },
+      {
+        "host": "visualstudio.microsoft.com",
+        "name": "ai_session",
+        "value": "Lap8Kx1OTJgFF+6+edrngE|1640358798131|1640358798131"
+      },
+      {
+        "host": ".visualstudio.com",
+        "name": "VstsSession",
+        "value": "%7B%22PersistentSessionId%22%3A%227130a805-f5c4-4981-9c2b-d5325bf1d974%22%2C%22PendingAuthenticationSessionId%22%3A%2215284475-b344-4e47-adce-c873e403e095%22%2C%22CurrentAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22SignInState%22%3A%7B%22app.vssps.visualstudio.com%22%3A%7B%22LastSignInTick%22%3A637759555993409821%2C%22SignInCount%22%3A1%7D%7D%7D"
+      },
+      {
+        "host": "hak5.org",
+        "name": "_shopify_country",
+        "value": "Israel"
+      },
+      {
+        "host": ".hak5.org",
+        "name": "_orig_referrer",
+        "value": "https%3A%2F%2Fwww.google.com%2F"
+      },
+      {
+        "host": ".hak5.org",
+        "name": "_landing_page",
+        "value": "%2Fpages%2Fducky-encoder"
+      },
+      {
+        "host": "shop.hak5.org",
+        "name": "secure_customer_sig",
+        "value": ""
+      },
+      {
+        "host": "shop.hak5.org",
+        "name": "localization",
+        "value": ""
+      },
+      {
+        "host": "shop.hak5.org",
+        "name": "_shopify_country",
+        "value": "Israel"
+      },
+      {
+        "host": "hak5.org",
+        "name": "ba-pr-id",
+        "value": ""
+      },
+      {
+        "host": "hak5.org",
+        "name": "popup",
+        "value": "open"
+      },
+      {
+        "host": "hak5.org",
+        "name": "_picky.widget.discounts.isDiscountActive",
+        "value": "null"
+      },
+      {
+        "host": ".hak5.org",
+        "name": "_shopify_sa_t",
+        "value": "2021-12-24T16%3A02%3A10.851Z"
+      },
+      {
+        "host": ".hak5.org",
+        "name": "_shopify_sa_p",
+        "value": ""
+      },
+      {
+        "host": "hak5.org",
+        "name": "lsc_item_count",
+        "value": "0"
+      },
+      {
+        "host": "hak5.org",
+        "name": "_ps_session",
+        "value": "Atpr1GHT_avYIYmdRc4dm"
+      },
+      {
+        "host": "hak5.org",
+        "name": "secure_customer_sig",
+        "value": ""
+      },
+      {
+        "host": "hak5.org",
+        "name": "localization",
+        "value": ""
+      },
+      {
+        "host": "hak5.org",
+        "name": "cart_currency",
+        "value": "USD"
+      },
+      {
+        "host": ".hak5.org",
+        "name": "_y",
+        "value": "8807c971-2971-404f-bbb0-d5ce2b5f8e82"
+      },
+      {
+        "host": ".hak5.org",
+        "name": "_s",
+        "value": "fe85059d-7709-4efe-b82f-707b96f946e6"
+      },
+      {
+        "host": ".hak5.org",
+        "name": "_shopify_y",
+        "value": "8807c971-2971-404f-bbb0-d5ce2b5f8e82"
+      },
+      {
+        "host": ".hak5.org",
+        "name": "_shopify_s",
+        "value": "fe85059d-7709-4efe-b82f-707b96f946e6"
+      },
+      {
+        "host": "social-login.oxiapps.com",
+        "name": "oxi_referrer",
+        "value": "https://hak5.org/"
+      },
+      {
+        "host": "social-login.oxiapps.com",
+        "name": "parenturl",
+        "value": "https://hak5.org/pages/ducky-encoder"
+      },
+      {
+        "host": "answers.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "cfa92677-d835-4a1a-9480-bf083bbcd363"
+      },
+      {
+        "host": "answers.microsoft.com",
+        "name": "ai_session",
+        "value": "YI41IIPP6SuGsUYZ8JS+VE|1640362177151|1640362177836"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_49da8884-9ab6-409a-9722-f84985c1a439",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_56cb12fb-fb17-4aa2-86d5-ffec8e1aeda8",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_b969fe94-8921-49a7-99a1-e9f27b2e14da",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_06cfeb12-0551-42ad-95fb-41ff4a5594d9",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_f73baf21-1e53-4402-9756-4ddb095da5f2",
+        "value": "test"
+      },
+      {
+        "host": ".contextis.com",
+        "name": "exp_last_visit",
+        "value": "1325003337"
+      },
+      {
+        "host": ".contextis.com",
+        "name": "exp_last_activity",
+        "value": "1640363337"
+      },
+      {
+        "host": ".contextis.com",
+        "name": "exp_csrf_token",
+        "value": "1cbe5e557d6d830b8e99848c71fac25ab1f12713"
+      },
+      {
+        "host": "www.contextis.com",
+        "name": "exp_context_language",
+        "value": "us"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_5357edc1-d905-469b-9a8a-d63ca2a994c8",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_922b7e1c-3a46-487f-8738-37d61d9ad4f1",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_42fe3b9a-0c82-4f22-8a27-fd1d0b454705",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_68f6d122-b5e1-4705-8dcd-78740675e5f3",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_3e5832f1-c8ba-48c2-a83e-3d2168e8b8ce",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_923f219a-6cf7-40da-ae99-6536153fec14",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_fb0ee33a-169b-4e07-b027-c7f148373dd2",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_655f2785-3a37-4ab9-9e84-2a6913ae1eab",
+        "value": "test"
+      },
+      {
+        "host": ".contextis.com",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Fri+Dec+24+2021+08%3A29%3A02+GMT-0800+(Pacific+Standard+Time)&version=6.24.0&landingPath=https%3A%2F%2Fwww.contextis.com%2Fen%2Fblog%2Fa-beginners-guide-to-windows-shellcode-execution-techniques&groups=1%3A1%2C2%3A0%2C4%3A0%2C0_309499%3A0%2C0_309498%3A0%2C0_309501%3A0%2C0_309500%3A0%2C0_309735%3A0"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_5656e347-6681-4ef3-9a64-1d16a55ce627",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_c2f382b8-f832-455b-9071-fd8a03daa377",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_3526a7cc-5157-4e82-b938-7245b8dc04b7",
+        "value": "test"
+      },
+      {
+        "host": ".pixlr.com",
+        "name": "country",
+        "value": "IL"
+      },
+      {
+        "host": ".pixlr.com",
+        "name": "lang",
+        "value": "en-US"
+      },
+      {
+        "host": "pixlr.com",
+        "name": "has-history",
+        "value": "true"
+      },
+      {
+        "host": ".pixlr.com",
+        "name": "connect.sid",
+        "value": "s%3AbaTtJh16VDAEsXeC8v5XV4pg9r1Ih2xX.fEJYtL%2BGhn1ls9HSmQUI0LR6ZyGwcn52IhwdgCpdazU"
+      },
+      {
+        "host": "www.ired.team",
+        "name": "__gitbook_cookie_granted",
+        "value": "yes"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/breadcrumb/toc.json"
+      },
+      {
+        "host": ".dev.to",
+        "name": "_Devto_Forem_Session",
+        "value": "5d75b84d456836f8b60d782498181aaf"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "ct0",
+        "value": "0f4f161545eb57ae2323fca28998672a"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "gt",
+        "value": "1476508208575430657"
+      },
+      {
+        "host": ".twitter.com",
+        "name": "att",
+        "value": "1-cPexnB8kHGcEToLCIkaw5ZPLdhNVfLdozJHEVvIN"
+      },
+      {
+        "host": "github.com",
+        "name": "user_session",
+        "value": "yT_g75Uhlj7SRPJWirD79YWaZ7Sr1KLQobkeUftZlsTak5Zf"
+      },
+      {
+        "host": "github.com",
+        "name": "__Host-user_session_same_site",
+        "value": "yT_g75Uhlj7SRPJWirD79YWaZ7Sr1KLQobkeUftZlsTak5Zf"
+      },
+      {
+        "host": "accounts.google.com",
+        "name": "__Host-GAPS",
+        "value": "1:UjGGSUZM9nWkJ_IFyxRnWzuRg2-iLA:h7GiQxagA40u29fR"
+      },
+      {
+        "host": ".google.com",
+        "name": "NID",
+        "value": "511=V-hpn0MKOWa-eomYun-nSIKaKdwpH_UPXrvM3ZmILHPv_5E3VOgOZoYPgIuw7XTEksoj0f75Bsio9_f2k27cWGxFkUEUvkQDfCM1lyhPZWCUFmIfjIwW2Vt0fh6ixkKfbnpa7YXEOBAx9cngDl1NgDhmzWb6QzhJf1lObwkmFa6sUJDsjX9p0Eklb8Yh_VDt"
+      },
+      {
+        "host": ".elastic.co",
+        "name": "euid",
+        "value": "44866e8e-ca51-44bb-96ec-6be6ac09b840"
+      },
+      {
+        "host": ".linkedin.com",
+        "name": "bcookie",
+        "value": "'v=2&107b4f4e-1247-40f8-8eca-4e785db2ae11'"
+      },
+      {
+        "host": ".www.linkedin.com",
+        "name": "bscookie",
+        "value": "'v=1&20220101180758de21c8a7-dd4f-42df-8d36-a582859e44b9AQGdGF1pVHidliXXKjgnH516B5fjKr8x'"
+      },
+      {
+        "host": ".linkedin.com",
+        "name": "lidc",
+        "value": "'b=VGST07:s=V:r=V:a=V:p=V:g=2243:u=1:x=1:i=1641060478:t=1641146878:v=2:sig=AQEA5Wxst3OqV74V3m1DGIzgQyV9TMxv'"
+      },
+      {
+        "host": "reconshell.com",
+        "name": "pvc_visits[0]",
+        "value": "1641146882b6313"
+      },
+      {
+        "host": ".reconshell.com",
+        "name": "ezoadgid_302486",
+        "value": "-1"
+      },
+      {
+        "host": ".reconshell.com",
+        "name": "ezoref_302486",
+        "value": ""
+      },
+      {
+        "host": ".reconshell.com",
+        "name": "ezosuibasgeneris-0",
+        "value": "340f72a6402dc8f980e3a8f65841bd1e"
+      },
+      {
+        "host": ".reconshell.com",
+        "name": "ezoab_302486",
+        "value": "mod96-c"
+      },
+      {
+        "host": ".reconshell.com",
+        "name": "active_template::302486",
+        "value": "orig_site.1641060482"
+      },
+      {
+        "host": ".reconshell.com",
+        "name": "lp_302486",
+        "value": "https://reconshell.com/shellcode-injection-techniques/"
+      },
+      {
+        "host": ".reconshell.com",
+        "name": "ezovuuidtime_302486",
+        "value": "1641060485"
+      },
+      {
+        "host": ".reconshell.com",
+        "name": "ezovuuid_302486",
+        "value": "8fdf9210-46af-4c88-454b-93ec891f23cf"
+      },
+      {
+        "host": ".reconshell.com",
+        "name": "ezopvc_302486",
+        "value": "1"
+      },
+      {
+        "host": "reconshell.com",
+        "name": "ezux_lpl_302486",
+        "value": "1641060487972|3a972d68-86d3-49c1-43eb-c7ae0f515b87|false"
+      },
+      {
+        "host": ".microsoft.com",
+        "name": "MSCC",
+        "value": "NR"
+      },
+      {
+        "host": "social.msdn.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "d245c59a-a911-4cbc-b76b-b0cf6ae8b7a9"
+      },
+      {
+        "host": "social.msdn.microsoft.com",
+        "name": "ai_session",
+        "value": "Ock6YyW2YYs7hC1cQCH4EQ|1641061861615|1641062827830"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/processthreadsapi/nf-processthreadsapi-createremotethreadex"
+      },
+      {
+        "host": "gist.github.com",
+        "name": "gist_user_session",
+        "value": "0A0yHKwfkLfzjRcqSC379dG2NoughEhSr3tr7OYKsSBmIZ5L"
+      },
+      {
+        "host": "gist.github.com",
+        "name": "__Host-gist_user_session_same_site",
+        "value": "0A0yHKwfkLfzjRcqSC379dG2NoughEhSr3tr7OYKsSBmIZ5L"
+      },
+      {
+        "host": "gist.github.com",
+        "name": "has_recent_activity",
+        "value": "1"
+      },
+      {
+        "host": "guidedhacking.com",
+        "name": "cf_chl_rc_ni",
+        "value": "1"
+      },
+      {
+        "host": "guidedhacking.com",
+        "name": "cf_chl_2",
+        "value": "6b54ad400ce842e"
+      },
+      {
+        "host": "guidedhacking.com",
+        "name": "cf_chl_prog",
+        "value": "x11"
+      },
+      {
+        "host": ".guidedhacking.com",
+        "name": "cf_clearance",
+        "value": "S5R8WKcyGAP6t7AH3B9JK0U5KXWPS.set.A6eJuTSMw-1641063369-0-150"
+      },
+      {
+        "host": ".gitbook.com",
+        "name": "__session",
+        "value": "2ff1f860-f09a-4f1a-94ef-47be0c3de9d7R"
+      },
+      {
+        "host": ".redbluepurple.io",
+        "name": "amp_fef1e8",
+        "value": "2ff1f860-f09a-4f1a-94ef-47be0c3de9d7R...1fobgldhs.1fobgldht.0.1.1"
+      },
+      {
+        "host": "www.fortinet.com",
+        "name": "cookiesession1",
+        "value": "678A3E17C60773509000E23B9EA7F768"
+      },
+      {
+        "host": ".fortinet.com",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Sat+Jan+01+2022+11%3A10%3A37+GMT-0800+(Pacific+Standard+Time)&version=6.10.0&hosts=&consentId=5c613e3e-25d3-4a1c-90bb-93dd310382be&interactionCount=0&landingPath=https%3A%2F%2Fwww.fortinet.com%2Fblog%2Fthreat-research%2Fatombombing-brand-new-code-injection-technique-for-windows&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1"
+      },
+      {
+        "host": ".ds360.co",
+        "name": "__dsztc6460",
+        "value": "%7B%22w%22%3A63933318%2C%22c%22%3A0%7D"
+      },
+      {
+        "host": ".bing.com",
+        "name": "SUID",
+        "value": "M"
+      },
+      {
+        "host": ".ired.team",
+        "name": "amp_fef1e8",
+        "value": "2ff1f860-f09a-4f1a-94ef-47be0c3de9d7R...1fobg00oa.1fobhot5m.n.4.r"
+      },
+      {
+        "host": "developercommunity.visualstudio.com",
+        "name": "ai_user",
+        "value": "0c2Ww|2022-01-01T19:31:55.085Z"
+      },
+      {
+        "host": ".visualstudio.com",
+        "name": "MSCC",
+        "value": "NR"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/answers/questions/325355/console-window-not-opening-visual-studio-2019.html"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/answers/themes/minerva/pack/68b1b29ceac2ec3e0eeee425574b56b6.pack.css"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/answers/themes/thub/images/logo.png"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/answers/users/5163532/photo/view.html"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/answers/storage/attachments/80452-image.png"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/answers/users/26382/photo/view.html"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/answers/users/1334543/photo/view.html"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/answers/users/3247311/photo/view.html"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/answers/users/5056236/photo/view.html"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/answers/page-view/track.json"
+      },
+      {
+        "host": "developercommunity.visualstudio.com",
+        "name": "ai_session",
+        "value": "gEyPf|1641065515090|1641065575747"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "original_req_url",
+        "value": "https://docs.microsoft.com/en-us/windows/desktop/api/breadcrumb/toc.json"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "value": "8753c113-dea8-4f41-b1f9-a54bcea3a7ef"
+      },
+      {
+        "host": "dotesports.com",
+        "name": "_acd",
+        "value": "1"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezopvc_110793",
+        "value": "1"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezepvv",
+        "value": "576"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezovid_110793",
+        "value": "60965401"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "lp_110793",
+        "value": "https://cpp.hotexamples.com/examples/-/-/VirtualProtect/cpp-virtualprotect-function-examples.html"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezovuuidtime_110793",
+        "value": "1641066372"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezovuuid_110793",
+        "value": "1cb0ff06-3265-44cb-455d-12c2a03581eb"
+      },
+      {
+        "host": "cpp.hotexamples.com",
+        "name": "ezds",
+        "value": "ffid%3D1%2Cw%3D1920%2Ch%3D1080"
+      },
+      {
+        "host": "cpp.hotexamples.com",
+        "name": "ezohw",
+        "value": "w%3D1920%2Ch%3D927"
+      },
+      {
+        "host": "cpp.hotexamples.com",
+        "name": "ezux_lpl_110793",
+        "value": "1641066378524|cc58014a-e220-4757-49e0-13b4efec8bdf|true"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezoab_110793",
+        "value": "mod35-c"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezoadgid_110793",
+        "value": "-1"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezoref_110793",
+        "value": "google.com"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "ezosuibasgeneris-0",
+        "value": "96430b4f40e72c4e80c3c9c3c2467a2e"
+      },
+      {
+        "host": ".hotexamples.com",
+        "name": "active_template::110793",
+        "value": "pub_site.1641066378"
+      },
+      {
+        "host": "docs.microsoft.com",
+        "name": "ai_session",
+        "value": "y7r0myzKAqLrkx3a/5aQ3X|1641072756791|1641072756791"
+      },
+      {
+        "host": ".info.elastic.co",
+        "name": "__cf_bm",
+        "value": ".4n51.SB8qfdrzyRvXfZKuxIbMFsEZotAQg.iU0GK4s-1641074362-0-AcA1tiX34XLYdLLqHIfMZIZbEAWph9+YDnFzxyn7ZSRu7T3H86QIrDPTEhL/GBG5KYLhPZUfVP/ptGK2JJ/gq/c="
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_0b01127c-19c7-4cba-9f24-5754d65b7781",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_d3068bff-1410-4edc-880f-ec964dc327be",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_3d833156-344f-47c9-94b3-c32cb51ec7e8",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_685c0f61-8942-4eb3-9a00-53d0114d5229",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_7e972d57-43bc-4e4e-8914-90597011d7da",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_6f70a0ff-8275-4b1f-a8fc-455715e86687",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_775fdd99-e10c-4615-ab72-81db7a740f79",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_05c8ce02-4879-429b-bb6f-6c282d1da692",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_3a1ef5db-11c8-4e40-91d8-5f403812e7f1",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_2a068595-4522-4193-932a-1881404387b7",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_1814d78d-93bf-46c1-a20d-d40746f41da8",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_36511ae2-77a8-4a9e-9b66-a1772c1a02d7",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_acc50218-40fb-4a33-837a-138782e63d25",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_af4ffa2d-232a-4dd5-9a68-f83e73e3fbf9",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_5bae161b-99ff-4974-8f14-de4409817308",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "dd_cookie_test_f3d93030-476b-4d5c-99e4-6d49b9a9f740",
+        "value": "test"
+      },
+      {
+        "host": "medium.com",
+        "name": "_dd_s",
+        "value": "rum=0&expire=1641075350022"
+      },
+      {
+        "host": "www.google.com",
+        "name": "_GRECAPTCHA",
+        "value": "09ABBMTcNz6kiV5KQ9avUVXpcFwa1e0F3qyTP5iEU3qOewuXuaFg3dJWDy7RrBGGv1srCmY3ubWG2c0-JiF7upKGo"
+      },
+      {
         "host": "github.com",
         "name": "has_recent_activity",
         "value": "1"
       },
       {
-        "host": "www.google.com",
-        "name": "DV",
-        "value": "k0CuomO3HnMigJ14QZ6zteauzo5Y2xdonmSkrvHU1wAAAAA"
+        "host": ".lastpass.com",
+        "name": "lang",
+        "value": "en_US"
       },
       {
-        "host": ".google.com",
-        "name": "1P_JAR",
-        "value": "2021-12-13-21"
+        "host": "pollserver.lastpass.com",
+        "name": "ADRUM_BT",
+        "value": "R%3A0%7Cg%3Aaf771cec-ea31-4f5f-9e4c-3156b59a918a11267%7Cn%3Acitrix_c88ca7a6-705e-4cde-9391-83bb80917e45%7Ci%3A307364%7Ce%3A7"
       },
       {
         "host": ".lastpass.com",
         "name": "_abck",
-        "value": "5868AE2D9A469D7DAF136EADF97BB2A1~-1~YAAQNBdlXw7idrR9AQAACYzFtQdmuiWBeudLmnlBh50ClMe1lT9HTHYPOJYxZ4LUGSFkWQwejPZehxO/z0Edy5F9ORsOSpbx7ayYcQP9Sq0VrzwSK+HiB0JYtA52Op9OLDCthf6d6vdPsasAliAWVxWpaN2+fi8FyOZvZKHACqWnK3bE0Qcz/zhwPId+Ofhu0i3DfYyw5aRHSE7m+vZVEvL2gsEhd/i1wOXOQvyfe2bXUUTH5hrXleXc967GT226EDCnn1zjrtEEpQ9lMdavL8MAqsusXyoizyPiI5lkA/tIvVCKKX0ETFG+9DtnwQuc5Ykk/J7tP2pBqRYrmfOo4Q9Znjn5AXTlpz0fiL3Txycgv/E=~-1~-1~1638027196"
+        "value": "5868AE2D9A469D7DAF136EADF97BB2A1~-1~YAAQNBdlXxJ5frZ9AQAA8rpRKwdYZKCFG6VKrKhL+u6CrI4fe751f5Y2Rt/t1RR7nq59f7LxqQbd5zpdmYhT0wPVo0/i1TLdaTVLgzfhvv0JzVdWot+drMF8+MFeGwwokBPLkw+5SaawFYb4h9iN53YcNCzXLmWlnCAv2sxTflIsDDJlt+Bh+b1aeAg0HS98KVz88qJXwVz0g+HAVIJsiJUv/pPuKX5OKYfP/NjIvW/pQzgSndCC9V5euuMruiv2z4GGDC2XObcxSUVd+iMF4t94Ds6XYvNLF1uQrEU4v/VfIjUDOaAFzrTFBaTYa6hcKuFIsyvg/r0B4KjucYgW7SJsNNndJqidxacBoZqAzUtXuF4aS0Cehl+CtiWLdhYdQ7bGtFPo+N14aziPEw==~-1~-1~1638027196"
+      },
+      {
+        "host": ".lastpass.com",
+        "name": "bm_sz",
+        "value": "86B07498B07F50E29FBD4874FE0A27B3~YAAQNBdlXxN5frZ9AQAA8rpRKw7kwHly1TnPaMkre629vrwXKz1WzaZs0BeqP/RlN/QqdGkujflCaaBfDZgglYv0iQCTnRHWDG/pFhD08KHRw+xw6haW8xkRsvG5QCgE7Pa8jn7bsTETHRNozFLXlp1VJ0Z+oAwlGko6vxBYQLYXg1ytOHwmi97/PJPEFPd/a/PGDB+YDGhYhxJWmL0R/9GV4ulpNBfe/9LvpQIENQdMfXsKoV6ZPJyQsBSyNt5qO6VfxX/iM4fxBKd/uHv3OnamUI5N/vwMqsL8FewtzFgpBvL9wA==~4599878~3294018"
+      },
+      {
+        "host": "lastpass.com",
+        "name": "PHPSESSID",
+        "value": "lovu99svjfm58lr27afgruirt9e"
+      },
+      {
+        "host": "lastpass.com",
+        "name": "ADRUM_BT",
+        "value": "R%3A0%7Cg%3Aecdad8ef-ee88-4243-9830-1ae7d277870839720%7Cn%3Acitrix_c88ca7a6-705e-4cde-9391-83bb80917e45%7Ci%3A307359%7Cd%3A130%7Ce%3A350"
+      },
+      {
+        "host": ".lastpass.com",
+        "name": "ak_bmsc",
+        "value": "348D1C46C8F116772F8387414BC9EF5F~000000000000000000000000000000~YAAQs1CMT6FZzrN9AQAAfHqwKw43ZDOinYpNIQc57dtD9o5Ix2+fqbgpMlmUD/AUyQSDljyTA1Ue6t8uWDs2ismj6Vb3Bw2EooehWw12LSwRwV4c4IZcl71gJmxfyPoup0+vCWk0JbrmuCWtZqqIu/P1ElCpOrgRDHmS/NHnejFnxb/MJ3etC/RdiuOSAqGWviL5YTCjDce2G8udzvyVLyxiN+Fwwtr/UiTLsUIwjnvve9RPcZO5op1oOV2vX+gGcXtZ+ab8Od7TztUWA0BR814Dmmv+2H8iDkcJGTWLczkYuy9OH8kFKpavi7uc+XUdXIiLoW8jg540mDZxwud4TyD5fzwRN8MtXYUh/sw5xAJdNwOlFo6FZTI9buKCCMMEMSGAgqE3+1Nq6RI="
+      },
+      {
+        "host": ".lastpass.com",
+        "name": "bm_sv",
+        "value": "F6694137FDED003C1893E11BAD34019B~OsAZNu9IKocPM5SuuD51abViSZ5QodoBzIqi7iyM3PYVxp1zGH6SK4zvEOkUF3QRsghAlz+8/qperYm4zZy2pLXR2KprH4xUQOKmO+sbQCDi9gZd9lzd7b+4AjG//lGgoPuH73Jd4cBug2kdKKEVwTYhuS4qlUzCP7v3Cqy6Rm4="
+      },
+      {
+        "host": ".google.com",
+        "name": "1P_JAR",
+        "value": "2022-01-05-19"
+      },
+      {
+        "host": ".success.qualys.com",
+        "name": "CookieConsentPolicy",
+        "value": "0:0"
+      },
+      {
+        "host": ".success.qualys.com",
+        "name": "LSKey-c$CookieConsentPolicy",
+        "value": "0:0"
+      },
+      {
+        "host": "success.qualys.com",
+        "name": "sfdc-stream",
+        "value": "!Hg7GpmTlO7Peaa5PzcFqyK5dEDnx4Aci5Y0g2SuB6ftCSzxjlhm6+YCvydo2j0TKI2b8UJMGCNYwFbg="
+      },
+      {
+        "host": "success.qualys.com",
+        "name": "pctrk",
+        "value": "2fc3f201-142e-4e97-8a41-3b6a0272cef7"
+      },
+      {
+        "host": "www.google.com",
+        "name": "DV",
+        "value": "k0CuomO3HnMiQIF0XFQkBVj9Pc284tccV1BAaGYkAQEAAAA"
       }
     ],
     "Passwords": {
@@ -1683,5 +2721,5 @@
       "version": 3
     }
   },
-  "Session-ID": "74af3fcb-af8f-4018-8442-0b0567381cee"
+  "Session-ID": "bd44d28d-01fb-4a38-8d52-8384f3ef489f"
 }
