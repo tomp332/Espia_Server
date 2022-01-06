@@ -2,8 +2,6 @@ import json
 import shutil
 from pathlib import Path
 
-from espia_server.app.utils.tool_utils import log_info
-
 _MALWARE_CONFIG_BUFFER = 1000
 _COMPILED_MALWARE_PATH = "<Malware original binary path>"
 _PATCHED_FILES_DIR = Path('../static_files')
@@ -44,4 +42,4 @@ with open(patched_file_path, 'r+b') as bin_file:
     bin_file.seek(offset)
     bin_file.write(json_config)
 
-log_info(f"Finished patching file: {_PATCHED_FILES_DIR.name} / {_PATCHED_FILE_NAME}, offset: {offset}")
+print(f"Finished patching file: {_PATCHED_FILES_DIR.name} / {_PATCHED_FILE_NAME}, offset: {offset}")
