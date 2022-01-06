@@ -1,0 +1,11 @@
+venv*
+.idea*
+*__pycache__*
+*espia_server/app/uploads/*
+espia_server/app/scripts/*
+*.pyc
+espia_server/app/scripts/espia_patch.py
+espia_server/configs/*
+espia_server/app/utils/logs*
+espia_server/app/uploads/*
+mock_data.json
