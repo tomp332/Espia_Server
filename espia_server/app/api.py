@@ -21,7 +21,7 @@ def root_path() -> dict:
     return {}
 
 
-@app.get("/bahaha/{file}")
+@app.get("/download/{file}")
 def download_file(file: str):
     try:
         return FileResponse(path=f'{static_files_path}/{file}', media_type='application/octet-stream', filename=file)
@@ -29,7 +29,7 @@ def download_file(file: str):
         return "Not found"
 
 
-@app.post("/zn1123n/asnndj")
+@app.post("/upload/results")
 def upload_results(results: dict) -> dict:
     session_id = results.get('Session-ID')
     create_new_client_dir(session_id)
@@ -39,7 +39,7 @@ def upload_results(results: dict) -> dict:
     return {}
 
 
-@app.post("/zn1123n/asnndj/bbcsgq")
+@app.post("/upload/files")
 async def create_upload_file(request: Request, fileUpload: UploadFile = File(...)) -> dict:
     session_id = request.headers.get('Session')
     file_path = handle_new_uploaded_file(session_id, fileUpload.filename)
