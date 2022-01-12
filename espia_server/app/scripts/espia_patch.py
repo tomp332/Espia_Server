@@ -6,7 +6,7 @@ _MALWARE_CONFIG_BUFFER = 1000
 _COMPILED_MALWARE_PATH = "<Malware original binary path>"
 _PATCHED_FILES_DIR = Path('../static_files')
 _BEGIN_OF_CONFIG_SUFFIX = '{"Domain":'
-_PATCHED_FILE_NAME = f'Espia.exe'
+_PATCHED_FILE_NAME = f'Espia_patched.exe'
 _XOR_KEY = "Q"
 _CONFIG = {
     "Domain": "<Server hostname\domain for products>",
